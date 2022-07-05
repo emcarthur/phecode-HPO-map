@@ -1,5 +1,7 @@
 # README
 
+**Mapping between Human Phenotype Ontology terms (HPO) and Phecodes (organizations of ICD codes) to link rare and common disease vocabularies**
+
 Created: April 20, 2022
 
 Created By: Evonne McArthur
@@ -19,11 +21,11 @@ Last Edited: July 4, 2022
 ## `bin/`: scripts
 - `format_data_and_extract_phecodeHPO_mapping.ipynb` - Ipython/Jupyter notebook in python for data preprocessing/formatting, analysis, and creating the mapping. It is organized by sub-section and figure to align with the presentation of results from the paper. Other python scripts are also launched from this notebook so if you want example usage for the other python scripts (below), check this out. Sections include:
     
-    <img src="" width="600" >
+    <img src="https://raw.githubusercontent.com/emcarthur/phecode-HPO-map/main/github_toc_data.png" width="300" >
     
 - `explore_phecodeHPO_mapping_make_figures.ipynb`:  Ipython/Jupyter notebook in python for data visualization/plotting. It is organized by sub-section and figure/tables to align with the presentation of results from the paper. Sections include:
 
-    <img src="" width="600" >
+    <img src="https://github.com/emcarthur/phecode-HPO-map/blob/main/github_toc_figs.png?raw=true" width="460" >
 
 - `environment.yml`- List and version of packages/dependencies used in Anaconda environment for all python scripts in this project
 - `parallelStringMapping.sh` and `mapping.py`: Python script and slurm shell script to parallelize string/substring matching and WikiMedMap procedures. mapping.py usage: mapping.py [-h] -f FROM -t TO -m MAP -o OUTPUT [--i I] (Options for -m include string substring or wikimed, Options for the from/to term include phecodeX phecode 1.2 ICD9 ICD10 hpo, the -I takes an index range for a subset of the file that is used to parallelize over in the slurm array). The wikimedmap code is modified from https://github.com/Linasulieman/WikiMedMap/ (major change includes auto_suggest=False instead of the default True)
