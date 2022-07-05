@@ -1,0 +1,1357 @@
+phecodeX_code	phecodeX_label	phecodeX_simpleLabel	phecodeX_category	hpo_code	hpo_label	SORTA_score
+008	Helicobacter [H. pylori]	helicobacter h. pylori	ID	HP_0005202	Helicobacter pylori infection	80.0
+015.2	Clostridium difficile	clostridium difficile	ID	HP_0032167	Clostridium difficile enteritis	87.5
+052.4	Infectious mononucleosis	infectious mononucleosis	ID	HP_0031693	Severe Epstein Barr virus infection	85.71
+054.1	Hepatitis A	hepatitis a	ID	HP_0012115	Hepatitis	100.0
+054.2	Hepatitis B	hepatitis b	ID	HP_0012115	Hepatitis	85.71
+054.3	Hepatitis C	hepatitis c	ID	HP_0012115	Hepatitis	85.71
+054.31	Chronic hepatitis C	chronic hepatitis c	ID	HP_0200123	Chronic hepatitis	93.33
+054.32	Acute hepatitis C	acute hepatitis c	ID	HP_0200119	Acute hepatitis	91.67
+054.5	Hepatitis E	hepatitis e	ID	HP_0012115	Hepatitis	85.71
+055.1	Molluscum contagiosum	molluscum contagiosum	ID	HP_0032163	Molluscum contagiosum	100.0
+056.1	Plantar wart	plantar wart	ID	HP_0033005	Plantar warts	100.0
+072	Histoplasmosis	histoplasmosis	ID	HP_0032256	Histoplasmosis	100.0
+079	Other fungal infections	other fungal infections	ID	HP_0020101	Invasive fungal infection	82.35
+084.5	Toxoplasmosis	toxoplasmosis	ID	HP_0020105	Severe toxoplasmosis	81.25
+089.1	Bacterial infections	bacterial infections	ID	HP_0100658	Cellulitis	85.71
+089.2	Viral infections	viral infections	ID	HP_0031691	Severe viral infection	81.25
+089.3	Fungal infections	fungal infections	ID	HP_0020101	Invasive fungal infection	82.35
+091	Gangrene	gangrene	ID	HP_0100758	Gangrene	100.0
+092.2	Sepsis	sepsis	ID	HP_0100806	Sepsis	100.0
+092.8	Bacteremia	bacteremia	ID	HP_0031864	Bacteremia	100.0
+097.1	Methicillin resistant Staphylococcus aureus	methicillin resistant staphylococcus aureus	ID	HP_0032326	Methicillin-resistant Staphylococcus aureus infection	91.76
+100	Malignant neoplasm of the head and neck	malignant neoplasm of the head and neck	Neoplasms	HP_0012288	Neoplasm of head and neck	84.44
+100.1	Malignant neoplasm of the oral cavity	malignant neoplasm of the oral cavity	Neoplasms	HP_0100649	Neoplasm of the oral cavity	85.71
+100.13	Malignant neoplasm of the gums	malignant neoplasm of the gums	Neoplasms	HP_0100836	Malignant neoplasm of the central nervous system	82.05
+100.3	Malignant neoplasm of the nasopharynx	malignant neoplasm of the nasopharynx	Neoplasms	HP_0100630	Neoplasia of the nasopharynx	85.71
+100.6	Malignant neoplasm of the larynx	malignant neoplasm of the larynx	Neoplasms	HP_0100605	Neoplasm of the larynx	82.05
+100.7	Malignant neoplasm of the pharynx	malignant neoplasm of the pharynx	Neoplasms	HP_0100638	Neoplasm of the pharynx	82.93
+100.8	Malignant neoplasm of the lip	malignant neoplasm of the lip	Neoplasms	HP_0100836	Malignant neoplasm of the central nervous system	82.05
+100.9	Malignant neoplasm of the salivary glands	malignant neoplasm of the salivary glands	Neoplasms	HP_0100684	Salivary gland neoplasm	87.27
+101.2	Malignant neoplasm of stomach	malignant neoplasm of stomach	Neoplasms	HP_0006753	Neoplasm of the stomach	82.93
+101.21	Malignant neoplasm of cardia	malignant neoplasm of cardia	Neoplasms	HP_0100836	Malignant neoplasm of the central nervous system	80.95
+101.3	Malignant neoplasm of the small intestine	malignant neoplasm of the small intestine	Neoplasms	HP_0100833	Neoplasm of the small intestine	87.27
+101.41	Malignant neoplasm of the colon	malignant neoplasm of the colon	Neoplasms	HP_0100836	Malignant neoplasm of the central nervous system	87.8
+101.42	Malignant neoplasm of the rectum	malignant neoplasm of the rectum	Neoplasms	HP_0100743	Neoplasm of the rectum	82.05
+101.71	Malignant neoplasm of the gallbladder	malignant neoplasm of the gallbladder	Neoplasms	HP_0100575	Neoplasm of the gallbladder	84.44
+101.8	Malignant neoplasm of the pancreas	malignant neoplasm of the pancreas	Neoplasms	HP_0002894	Neoplasm of the pancreas	82.93
+102.3	Malignant neoplasm of the trachea	malignant neoplasm of the trachea	Neoplasms	HP_0100551	Neoplasm of the trachea	82.93
+102.54	Malignant neoplasm of the thymus	malignant neoplasm of the thymus	Neoplasms	HP_0100521	Neoplasm of the thymus	81.08
+103	Malignant neoplasm of the skin	malignant neoplasm of the skin	Neoplasms	HP_0100836	Malignant neoplasm of the central nervous system	85.0
+103.21	Basal cell carcinoma	basal cell carcinoma	Neoplasms	HP_0002671	Basal cell carcinoma	100.0
+103.22	Squamous cell carcinoma of the skin	squamous cell carcinoma of the skin	Neoplasms	HP_0006739	Squamous cell carcinoma of the skin	100.0
+104.5	Gastrointestinal stromal tumor*	gastrointestinal stromal tumor	Neoplasms	HP_0100723	Gastrointestinal stroma tumor	100.0
+104.6	Kaposi's sarcoma	kaposis sarcoma	Neoplasms	HP_0100726	Kaposi's sarcoma	100.0
+105	Malignant neoplasm of the breast	malignant neoplasm of the breast	Neoplasms	HP_0100013	Neoplasm of the breast	82.05
+106.11	Malignant neoplasm of the vulva	malignant neoplasm of the vulva	Neoplasms	HP_0030416	Vulvar neoplasm	81.08
+106.13	Malignant neoplasm of the cervix	malignant neoplasm of the cervix	Neoplasms	HP_0100836	Malignant neoplasm of the central nervous system	80.95
+106.3	Malignant neoplasm of the ovary	malignant neoplasm of the ovary	Neoplasms	HP_0100615	Ovarian neoplasm	81.08
+107	Malignant neoplasm of male genitalia	malignant neoplasm of male genitalia	Neoplasms	HP_0100848	Neoplasm of the male external genitalia	80.65
+107.1	Malignant neoplasm of the penis	malignant neoplasm of the penis	Neoplasms	HP_0100836	Malignant neoplasm of the central nervous system	80.0
+107.2	Malignant neoplasm of the prostate	malignant neoplasm of the prostate	Neoplasms	HP_0100787	Prostate neoplasm	82.93
+107.32	Malignant neoplasm of the scrotum	malignant neoplasm of the scrotum	Neoplasms	HP_0100849	Neoplasm of the scrotum	82.93
+108	Malignant neoplasm of the urinary tract	malignant neoplasm of the urinary tract	Neoplasms	HP_0010786	Urinary tract neoplasm	86.79
+108.5	Malignant neoplasm of the bladder	malignant neoplasm of the bladder	Neoplasms	HP_0009725	Bladder neoplasm	82.93
+108.6	Malignant neoplasm of urethra	malignant neoplasm of urethra	Neoplasms	HP_0100517	Neoplasm of the urethra	82.93
+108.7	Malignant neoplasm of ureter	malignant neoplasm of ureter	Neoplasms	HP_0100516	Neoplasm of the ureter	80.0
+109	Malignant neoplasm of the eye, brain and other parts of central nervous system	malignant neoplasm of the eye brain and other parts of central nervous system	Neoplasms	HP_0100836	Malignant neoplasm of the central nervous system	84.44
+109.1	Malignant neoplasm of eye	malignant neoplasm of eye	Neoplasms	HP_0100836	Malignant neoplasm of the central nervous system	84.21
+109.14	Malignant neoplasm of cornea	malignant neoplasm of cornea	Neoplasms	HP_0100836	Malignant neoplasm of the central nervous system	80.95
+109.3	Malignant neoplasm of brain	malignant neoplasm of brain	Neoplasms	HP_0100836	Malignant neoplasm of the central nervous system	82.93
+110.3	Malignant neoplasm of the parathyroid gland	malignant neoplasm of the parathyroid gland	Neoplasms	HP_0100733	Neoplasm of the parathyroid gland	88.52
+114	Neuroendocrine tumors	neuroendocrine tumors	Neoplasms	HP_0030447	Merkel cell skin cancer	88.89
+114.1	Malignant neuroendocrine tumors	malignant neuroendocrine tumors	Neoplasms	HP_0030447	Merkel cell skin cancer	80.77
+114.2	Benign neuroendocrine tumors	benign neuroendocrine tumors	Neoplasms	HP_0030447	Merkel cell skin cancer	80.77
+114.4	Carcinoid tumors	carcinoid tumors	Neoplasms	HP_0100570	Carcinoid tumor	100.0
+114.41	Intestinal carcinoid	intestinal carcinoid	Neoplasms	HP_0006723	Intestinal carcinoid	100.0
+114.42	Carcinoid tumor of the bronchus and lung	carcinoid tumor of the bronchus and lung	Neoplasms	HP_0030445	Pulmonary carcinoid tumor	84.0
+114.43	Carcinoid tumor of the thymus	carcinoid tumor of the thymus	Neoplasms	HP_0100570	Carcinoid tumor	84.21
+114.44	Carcinoid tumor of the stomach	carcinoid tumor of the stomach	Neoplasms	HP_0100570	Carcinoid tumor	80.0
+114.45	Carcinoid tumor of the kidney	carcinoid tumor of the kidney	Neoplasms	HP_0100570	Carcinoid tumor	82.05
+114.5	Paraganglioma	paraganglioma	Neoplasms	HP_0002668	Paraganglioma	100.0
+121	Leukemia	leukemia	Neoplasms	HP_0001909	Leukemia	100.0
+121.1	Acute leukemia	acute leukemia	Neoplasms	HP_0002488	Acute leukemia	100.0
+121.11	Acute lymphoid leukemia	acute lymphoid leukemia	Neoplasms	HP_0006721	Acute lymphoblastic leukemia	100.0
+121.12	Acute myeloid leukemia	acute myeloid leukemia	Neoplasms	HP_0004808	Acute myeloid leukemia	100.0
+121.2	Chronic leukemia	chronic leukemia	Neoplasms	HP_0005558	Chronic leukemia	100.0
+121.21	Chronic lymphoid leukemia	chronic lymphoid leukemia	Neoplasms	HP_0005526	Lymphoid leukemia	81.82
+121.22	Chronic myloid leukemia	chronic myloid leukemia	Neoplasms	HP_0005506	Chronic myelogenous leukemia	93.88
+121.23	Chronic myelomonocytic (monocytic) leukemia	chronic myelomonocytic monocytic leukemia	Neoplasms	HP_0012325	Chronic myelomonocytic leukemia	88.24
+122	Lymphoma	lymphoma	Neoplasms	HP_0002665	Lymphoma	100.0
+122.1	Hodgkin lymphoma	hodgkin lymphoma	Neoplasms	HP_0012189	Hodgkin lymphoma	100.0
+122.2	Non-Hodgkin lymphoma	non-hodgkin lymphoma	Neoplasms	HP_0012539	Non-Hodgkin lymphoma	100.0
+122.21	Follicular lymphoma	follicular lymphoma	Neoplasms	HP_0033125	Follicular lymphoma	100.0
+122.23	Burkitt lymphoma	burkitt lymphoma	Neoplasms	HP_0030080	Burkitt lymphoma	100.0
+122.24	T-cell lymphoma	t-cell lymphoma	Neoplasms	HP_0012190	T-cell lymphoma	100.0
+122.25	Anaplastic large cell lymphoma	anaplastic large cell lymphoma	Neoplasms	HP_0012193	Anaplastic large-cell lymphoma	100.0
+123.1	Multiple myeloma	multiple myeloma	Neoplasms	HP_0006775	Multiple myeloma	100.0
+124	Myeloproliferative disorder	myeloproliferative disorder	Neoplasms	HP_0005547	Myeloproliferative disorder	100.0
+124.3	Polycythemia vera	polycythemia vera	Neoplasms	HP_0001901	Polycythemia	83.87
+124.6	Myelodysplastic syndrome	myelodysplastic syndrome	Neoplasms	HP_0002863	Myelodysplasia	100.0
+124.8	Myelofibrosis	myelofibrosis	Neoplasms	HP_0011974	Myelofibrosis	100.0
+125.1	Cutaneous mastocytosis*	cutaneous mastocytosis	Neoplasms	HP_0200151	Cutaneous mastocytosis	100.0
+135	Benign neoplasm of the head and neck	benign neoplasm of the head and neck	Neoplasms	HP_0012288	Neoplasm of head and neck	84.44
+135.1	Benign neoplasm of the oral cavity	benign neoplasm of the oral cavity	Neoplasms	HP_0100649	Neoplasm of the oral cavity	85.71
+135.11	Benign neoplasm of the lip	benign neoplasm of the lip	Neoplasms	HP_0100835	Benign neoplasm of the central nervous system	82.05
+135.12	Benign neoplasm of the tongue	benign neoplasm of the tongue	Neoplasms	HP_0006778	Benign genitourinary tract neoplasm	80.85
+135.16	Benign neoplasm of the salivary glands	benign neoplasm of the salivary glands	Neoplasms	HP_0100684	Salivary gland neoplasm	87.27
+135.3	Benign neoplasm of the nasopharynx	benign neoplasm of the nasopharynx	Neoplasms	HP_0100630	Neoplasia of the nasopharynx	85.71
+136.2	Benign neoplasm of stomach	benign neoplasm of stomach	Neoplasms	HP_0006753	Neoplasm of the stomach	82.93
+136.3	Benign neoplasm of the small intestine	benign neoplasm of the small intestine	Neoplasms	HP_0100833	Neoplasm of the small intestine	87.27
+136.41	Benign neoplasm of the colon	benign neoplasm of the colon	Neoplasms	HP_0100835	Benign neoplasm of the central nervous system	87.8
+136.8	Benign neoplasm of the pancreas	benign neoplasm of the pancreas	Neoplasms	HP_0002894	Neoplasm of the pancreas	82.93
+137.3	Benign neoplasm of the trachea	benign neoplasm of the trachea	Neoplasms	HP_0100551	Neoplasm of the trachea	82.93
+138	Benign neoplasm of the skin	benign neoplasm of the skin	Neoplasms	HP_0100835	Benign neoplasm of the central nervous system	85.0
+138.2	Melanocytic nevi*	melanocytic nevi	Neoplasms	HP_0000995	Melanocytic nevus	100.0
+139.5	Lipoma	lipoma	Neoplasms	HP_0012032	Lipoma	100.0
+139.61	Hemangioma	hemangioma	Neoplasms	HP_0001028	Hemangioma	100.0
+139.62	Lymphangioma	lymphangioma	Neoplasms	HP_0100764	Lymphangioma	100.0
+140	Benign neoplasm of the breast	benign neoplasm of the breast	Neoplasms	HP_0100013	Neoplasm of the breast	82.05
+142.1	Lump or mass in breast	lump or mass in breast	Neoplasms	HP_0032408	Breast mass	82.93
+144.11	Benign neoplasms of the vulva	benign neoplasms of the vulva	Neoplasms	HP_0030416	Vulvar neoplasm	81.08
+144.13	Benign neoplasms of the cervix	benign neoplasms of the cervix	Neoplasms	HP_0100835	Benign neoplasm of the central nervous system	80.95
+144.21	Leiomyoma of uterus	leiomyoma of uterus	Neoplasms	HP_0000131	Uterine leiomyoma	84.85
+144.3	Benign neoplasms of the ovary	benign neoplasms of the ovary	Neoplasms	HP_0100615	Ovarian neoplasm	81.08
+146	Benign neoplasm of the genitourinary system	benign neoplasm of the genitourinary system	Neoplasms	HP_0006778	Benign genitourinary tract neoplasm	82.19
+146.1	Benign neoplasm of the penis	benign neoplasm of the penis	Neoplasms	HP_0100835	Benign neoplasm of the central nervous system	80.0
+146.2	Benign neoplasm of the prostate	benign neoplasm of the prostate	Neoplasms	HP_0100787	Prostate neoplasm	82.93
+146.32	Benign neoplasm of the scrotum	benign neoplasm of the scrotum	Neoplasms	HP_0100849	Neoplasm of the scrotum	82.93
+146.5	Benign neoplasm of the bladder	benign neoplasm of the bladder	Neoplasms	HP_0009725	Bladder neoplasm	82.93
+146.51	Benign neoplasm of urethra	benign neoplasm of urethra	Neoplasms	HP_0100517	Neoplasm of the urethra	82.93
+146.52	Benign neoplasm of ureter	benign neoplasm of ureter	Neoplasms	HP_0100835	Benign neoplasm of the central nervous system	80.0
+148	Benign neoplasm of the eye, brain and other parts of central nervous system	benign neoplasm of the eye brain and other parts of central nervous system	Neoplasms	HP_0100835	Benign neoplasm of the central nervous system	84.44
+148.1	Benign neoplasm of eye	benign neoplasm of eye	Neoplasms	HP_0100835	Benign neoplasm of the central nervous system	84.21
+148.14	Benign neoplasm of cornea	benign neoplasm of cornea	Neoplasms	HP_0100835	Benign neoplasm of the central nervous system	80.95
+148.3	Benign neoplasm of brain	benign neoplasm of brain	Neoplasms	HP_0100835	Benign neoplasm of the central nervous system	82.93
+149.3	Benign neoplasm of the parathyroid gland	benign neoplasm of the parathyroid gland	Neoplasms	HP_0100733	Neoplasm of the parathyroid gland	88.52
+158	Neurofibromatosis	neurofibromatosis	Neoplasms	HP_0001067	Neurofibromas	100.0
+158.1	Neurofibromatosis, type 1	neurofibromatosis type 1	Neoplasms	HP_0001067	Neurofibromas	82.93
+158.2	Neurofibromatosis, type 2	neurofibromatosis type 2	Neoplasms	HP_0001067	Neurofibromas	82.93
+160.1	Iron deficiency anemia	iron deficiency anemia	Blood	HP_0001891	Iron deficiency anemia	100.0
+160.2	Megaloblastic anemia	megaloblastic anemia	Blood	HP_0001889	Megaloblastic anemia	100.0
+160.4	Other deficiency anemia	other deficiency anemia	Blood	HP_0001891	Iron deficiency anemia	84.85
+161	Hemolytic anemias	hemolytic anemias	Blood	HP_0001878	Hemolytic anemia	100.0
+161.21	Autoimmune hemolytic anemias [AIHA]	autoimmune hemolytic anemias aiha	Blood	HP_0001890	Autoimmune hemolytic anemia	90.91
+161.22	Hemolytic-uremic syndrome	hemolytic-uremic syndrome	Blood	HP_0005575	Hemolytic-uremic syndrome	100.0
+162	Aplastic anemia	aplastic anemia	Blood	HP_0001915	Aplastic anemia	100.0
+162.6	Sideroblastic anemia	sideroblastic anemia	Blood	HP_0001924	Sideroblastic anemia	100.0
+162.7	Congenital dyserythropoietic anemia*	congenital dyserythropoietic anemia	Blood	HP_0004810	Congenital hypoplastic anemia	100.0
+162.8	Pancytopenia	pancytopenia	Blood	HP_0001876	Pancytopenia	100.0
+164	Anemia	anemia	Blood	HP_0001903	Anemia	100.0
+164.1	Microcytic anemia	microcytic anemia	Blood	HP_0001935	Microcytic anemia	100.0
+164.2	Macrocytic anemia	macrocytic anemia	Blood	HP_0001972	Macrocytic anemia	100.0
+164.61	Anemia in chronic kidney disease	anemia in chronic kidney disease	Blood	HP_0012622	Chronic kidney disease	86.27
+165.4	Methemoglobinemia	methemoglobinemia	Blood	HP_0012119	Methemoglobinemia	100.0
+168.2	Hyper-coagulability	hyper-coagulability	Blood	HP_0100724	Hypercoagulability	88.0
+168.211	Activated protein C resistance*	activated protein c resistance	Blood	HP_0012175	Resistance to activated protein C	100.0
+168.213	Lupus anticoagulant syndrome*	lupus anticoagulant syndrome	Blood	HP_0025343	Lupus anticoagulant	80.0
+168.4	Abnormal coagulation profile	abnormal coagulation profile	Blood	HP_0001928	Abnormality of coagulation	80.0
+169	Platelet defects	platelet defects	Blood	HP_0003540	Impaired platelet aggregation	82.05
+169.1	Thrombocytopenia	thrombocytopenia	Blood	HP_0001873	Thrombocytopenia	100.0
+169.15	Heparin-induced thrombocytopenia [HIT]	heparin-induced thrombocytopenia hit	Blood	HP_0011874	Heparin-induced thrombocytopenia	93.94
+170	Decreased white blood cell count	decreased white blood cell count	Blood	HP_0020060	Decreased red blood cell count	83.33
+170.1	Neutropenia	neutropenia	Blood	HP_0001875	Neutropenia	100.0
+170.11	Congenital agranulocytosis	congenital agranulocytosis	Blood	HP_0005541	Congenital agranulocytosis	100.0
+170.14	Cyclic neutropenia	cyclic neutropenia	Blood	HP_0040289	Cyclic neutropenia	100.0
+170.19	Neutropenia NOS	neutropenia	Blood	HP_0001875	Neutropenia	100.0
+170.2	Lymphocytopenia	lymphocytopenia	Blood	HP_0001888	Lymphopenia	100.0
+171	Increased white blood cell count	increased white blood cell count	Blood	HP_0020059	Increased red blood cell count	83.33
+171.3	Plasmacytosis	plasmacytosis	Blood	HP_0030150	Plasmacytosis	100.0
+171.5	Basophilia	basophilia	Blood	HP_0031807	Increased basophil count	100.0
+171.7	Eosinophilia	eosinophilia	Blood	HP_0001880	Eosinophilia	100.0
+171.9	Elevated white blood cell count [Leukocytosis] NOS	elevated white blood cell count leukocytosis	Blood	HP_0001974	Leukocytosis	93.33
+174.2	Splenomegaly	splenomegaly	Blood	HP_0001744	Splenomegaly	100.0
+174.21	Hypersplenism	hypersplenism	Blood	HP_0001971	Hypersplenism	100.0
+174.5	Abscess of spleen*	abscess of spleen	Blood	HP_0025059	Splenic abscess	83.87
+174.6	Cyst of spleen*	cyst of spleen	Blood	HP_0030423	Splenic cyst	100.0
+175	Polycythemias	polycythemias	Blood	HP_0001901	Polycythemia	100.0
+177	Abnormality of the lymph nodes	abnormality of the lymph nodes	Blood	HP_0002733	Abnormality of the lymph nodes	100.0
+177.1	Lymphadenitis	lymphadenitis	Blood	HP_0002840	Lymphadenitis	100.0
+177.13	Acute lymphadenitis	acute lymphadenitis	Blood	HP_0002840	Lymphadenitis	80.0
+177.2	Enlargement of lymph nodes [Lymphadenopathy]	enlargement of lymph nodes lymphadenopathy	Blood	HP_0002716	Lymphadenopathy	81.16
+177.4	Lymphedema	lymphedema	Blood	HP_0001004	Lymphedema	100.0
+179	Immunodeficiencies	immunodeficiencies	Blood	HP_0002721	Immunodeficiency	100.0
+179.1	Hypogammaglobulinemia NOS	hypogammaglobulinemia	Blood	HP_0004313	Decreased circulating antibody level	100.0
+179.3	Combined immunity deficiency	combined immunity deficiency	Blood	HP_0005387	Combined immunodeficiency	90.0
+179.4	Selective deficiency of immunoglobulin A [IgA]	selective deficiency of immunoglobulin a iga	Blood	HP_0008348	Decreased circulating IgG2 level	80.0
+179.9	Immunodeficiency NOS	immunodeficiency	Blood	HP_0002721	Immunodeficiency	100.0
+180.2	Polyclonal hypergammaglobulinemia	polyclonal hypergammaglobulinemia	Blood	HP_0031047	Paraproteinemia	84.38
+180.3	Paraproteinemias	paraproteinemias	Blood	HP_0031047	Paraproteinemia	100.0
+180.4	Cryoglobulinemia*	cryoglobulinemia	Blood	HP_0100778	Cryoglobulinemia	100.0
+181	Autoimmune disease	autoimmune disease	Blood	HP_0002960	Autoimmunity	100.0
+200.1	Hypothyroidism	hypothyroidism	Endo	HP_0000821	Hypothyroidism	100.0
+200.11	Congenital hypohthyroidism	congenital hypohthyroidism	Endo	HP_0000851	Congenital hypothyroidism	93.02
+200.14	Hypothyroidism, not specified as secondary	hypothyroidism not specified as secondary	Endo	HP_0008245	Pituitary hypothyroidism	84.62
+200.2	Goiter	goiter	Endo	HP_0000853	Goiter	100.0
+200.23	Multinodular goiter	multinodular goiter	Endo	HP_0005987	Multinodular goiter	100.0
+200.24	Ectopic thyroid nodule	ectopic thyroid nodule	Endo	HP_0025388	Thyroid nodule	82.35
+200.4	Thyroiditis	thyroiditis	Endo	HP_0100646	Thyroiditis	100.0
+200.41	Hashimoto thyroiditis [Chronic lymphocytic thyroiditis]	hashimoto thyroiditis chronic lymphocytic thyroiditis	Endo	HP_0000872	Hashimoto thyroiditis	100.0
+200.9	Abnormal thyroid function studies	abnormal thyroid function studies	Endo	HP_0002926	Abnormality of thyroid physiology	88.89
+202	Diabetes mellitus	diabetes mellitus	Endo	HP_0000819	Diabetes mellitus	100.0
+202.1	Type 1 diabetes	type 1 diabetes	Endo	HP_0100651	Type I diabetes mellitus	100.0
+202.2	Type 2 diabetes	type 2 diabetes	Endo	HP_0005978	Type II diabetes mellitus	100.0
+204.2	Impaired glucose tolerance (oral)	impaired glucose tolerance oral	Endo	HP_0040270	Impaired glucose tolerance	88.89
+205	Hypoglycemia	hypoglycemia	Endo	HP_0001943	Hypoglycemia	100.0
+208.1	Hypoparathyroidism	hypoparathyroidism	Endo	HP_0000829	Hypoparathyroidism	100.0
+208.2	Hyperparathyroidism	hyperparathyroidism	Endo	HP_0000843	Hyperparathyroidism	100.0
+208.21	Primary hyperparathyroidism	primary hyperparathyroidism	Endo	HP_0008200	Primary hyperparathyroidism	100.0
+208.22	Secondary hyperparathyroidism	secondary hyperparathyroidism	Endo	HP_0000867	Secondary hyperparathyroidism	100.0
+209.12	Syndrome of inappropriate secretion of antidiuretic hormone	syndrome of inappropriate secretion of antidiuretic hormone	Endo	HP_0031218	Inappropriate antidiuretic hormone secretion	90.0
+209.13	Hyperprolactinemia*	hyperprolactinemia	Endo	HP_0000870	Increased circulating prolactin concentration	100.0
+209.2	Hypopituitarism	hypopituitarism	Endo	HP_0040075	Hypopituitarism	100.0
+209.21	Diabetes insipidus	diabetes insipidus	Endo	HP_0000873	Diabetes insipidus	100.0
+209.22	Hypopituitarism NOS	hypopituitarism	Endo	HP_0040075	Hypopituitarism	100.0
+210	Cushing's syndrome	cushings syndrome	Endo	HP_0003118	Increased circulating cortisol level	100.0
+211.11	Primary aldosteronism	primary aldosteronism	Endo	HP_0011736	Primary hyperaldosteronism	83.72
+211.12	Secondary hyperaldosteronism	secondary hyperaldosteronism	Endo	HP_0011741	Secondary hyperaldosteronism	100.0
+211.2	Adrenocortical insufficiency	adrenocortical insufficiency	Endo	HP_0008207	Primary adrenal insufficiency	100.0
+211.21	Primary adrenocortical insufficiency	primary adrenocortical insufficiency	Endo	HP_0008207	Primary adrenal insufficiency	86.79
+214.1	Primary ovarian failure	primary ovarian failure	Endo	HP_0001587	obsolete Primary ovarian failure	85.19
+214.11	Premature menopause	premature menopause	Endo	HP_0008209	Premature ovarian insufficiency	100.0
+215	Testicular dysfunction	testicular dysfunction	Endo	HP_0001751	Vestibular dysfunction	80.0
+215.1	Testicular hypofunction	testicular hypofunction	Endo	HP_0001756	Vestibular hypofunction	80.95
+217	Disorders of puberty	disorders of puberty	Endo	HP_0008373	Puberty and gonadal disorders	83.33
+217.1	Delayed puberty	delayed puberty	Endo	HP_0000823	Delayed puberty	100.0
+217.2	Precocious puberty	precocious puberty	Endo	HP_0000826	Precocious puberty	100.0
+220.1	Persistent hyperplasia of thymus	persistent hyperplasia of thymus	Endo	HP_0010516	Thymus hyperplasia	81.82
+230.3	Anorexia	anorexia	Metab	HP_0002039	Anorexia	100.0
+230.4	Cachexia	cachexia	Metab	HP_0004326	Cachexia	100.0
+230.7	Adult failure to thrive	adult failure to thrive	Metab	HP_0001508	Failure to thrive	82.35
+232	Vitamin deficiencies	vitamin deficiencies	Metab	HP_0004905	Low levels of vitamin A	100.0
+232.1	Vitamin A deficiency	vitamin a deficiency	Metab	HP_0004905	Low levels of vitamin A	100.0
+232.21	Thiamine deficiency [Vitamin B1]	thiamine deficiency vitamin b1	Metab	HP_0100503	Low levels of vitamin B1	81.82
+232.22	Riboflavin deficiency [Vitamin B2]	riboflavin deficiency vitamin b2	Metab	HP_0100504	Low levels of vitamin B2	89.23
+232.23	Niacin deficiency [Vitamin B3]	niacin deficiency vitamin b3	Metab	HP_0100497	Vitamin B3 deficiency	83.72
+232.27	Vitamin B12 deficiency	vitamin b12 deficiency	Metab	HP_0100502	Vitamin B12 deficiency	100.0
+232.29	Folate deficiency [Vitamin B9]	folate deficiency vitamin b9	Metab	HP_0100507	Reduced blood folate concentration	87.27
+232.4	Vitamin D deficiency	vitamin d deficiency	Metab	HP_0100512	Low levels of vitamin D	100.0
+232.5	Vitamin E deficiency*	vitamin e deficiency	Metab	HP_0100513	Low levels of vitamin E	100.0
+232.6	Vitamin K deficiency	vitamin k deficiency	Metab	HP_0004905	Low levels of vitamin A	93.75
+236	Overweight and obesity	overweight and obesity	Metab	HP_0025502	Overweight	81.48
+236.1	Obesity	obesity	Metab	HP_0001513	Obesity	100.0
+239	Hyperlipidemia	hyperlipidemia	Metab	HP_0003077	Hyperlipidemia	100.0
+239.1	Hypercholesterolemia	hypercholesterolemia	Metab	HP_0003124	Hypercholesterolemia	100.0
+239.11	Pure hypercholesterolemia	pure hypercholesterolemia	Metab	HP_0003124	Hypercholesterolemia	89.36
+239.12	Familial hypercholesterolemia*	familial hypercholesterolemia	Metab	HP_0003124	Hypercholesterolemia	85.71
+239.2	Hyperglyceridemia	hyperglyceridemia	Metab	HP_0003074	Hyperglycemia	87.5
+239.3	Mixed hyperlipidemia	mixed hyperlipidemia	Metab	HP_0003077	Hyperlipidemia	88.24
+239.4	Hyperchylomicronemia	hyperchylomicronemia	Metab	HP_0012238	Increased circulating chylomicron concentration	100.0
+240.11	Hyperphenylalaninemias	hyperphenylalaninemias	Metab	HP_0004923	Hyperphenylalaninemia	100.0
+240.121	Tyrosinemia*	tyrosinemia	Metab	HP_0003231	Hypertyrosinemia	100.0
+240.13	Albinism*	albinism	Metab	HP_0001022	Albinism	100.0
+240.131	Ocular albinism*	ocular albinism	Metab	HP_0001107	Ocular albinism	100.0
+240.141	Histidinemia*	histidinemia	Metab	HP_0010906	Hyperhistidinemia	100.0
+240.22	Isovaleric acidemia*	isovaleric acidemia	Metab	HP_0033148	Increased circulating isovaleric acid concentration	86.49
+240.23	3-methylglutaconic aciduria*	3-methylglutaconic aciduria	Metab	HP_0003535	3-Methylglutaconic aciduria	100.0
+240.24	Methylmalonic acidemia*	methylmalonic acidemia	Metab	HP_0002912	Methylmalonic acidemia	100.0
+240.25	Propionic acidemia*	propionic acidemia	Metab	HP_0003571	Propionic acidemia	100.0
+240.34	Glutaric aciduria type II*	glutaric aciduria type ii	Metab	HP_0003150	Glutaric aciduria	80.0
+240.41	Homocystinuria*	homocystinuria	Metab	HP_0002156	Homocystinuria	100.0
+240.42	Cystinuria*	cystinuria	Metab	HP_0003131	Cystinuria	100.0
+240.52	Arginosuccinic aciduria*	arginosuccinic aciduria	Metab	HP_0025630	Argininosuccinic aciduria	95.65
+240.71	Trimethylaminuria*	trimethylaminuria	Metab	HP_0003614	Trimethylaminuria	100.0
+241.33	Cori disease*	cori disease	Metab	HP_0001677	Coronary artery atherosclerosis	85.71
+242.25	Metachromatic leukodystrophy*	metachromatic leukodystrophy	Metab	HP_0006926	Metachromatic leukodystrophy variant	87.1
+247.12	Copper deficiency*	copper deficiency	Metab	HP_0011967	Decreased circulating copper concentration	100.0
+247.13	Kayser-Fleischer ring	kayser-fleischer ring	Metab	HP_0200032	Kayser-Fleischer ring	100.0
+247.31	Familial hypophosphatemia*	familial hypophosphatemia	Metab	HP_0002148	Hypophosphatemia	82.93
+247.41	Hypermagnesemia*	hypermagnesemia	Metab	HP_0002918	Hypermagnesemia	100.0
+247.42	Hypomagnesemia*	hypomagnesemia	Metab	HP_0002917	Hypomagnesemia	100.0
+247.51	Hypocalcemia	hypocalcemia	Metab	HP_0002901	Hypocalcemia	100.0
+247.52	Hypercalcemia	hypercalcemia	Metab	HP_0003072	Hypercalcemia	100.0
+247.53	Calcinosis cutis*	calcinosis cutis	Metab	HP_0025520	Calcinosis cutis	100.0
+247.84	Molybdenum deficiency*	molybdenum deficiency	Metab	HP_0003570	Molybdenum cofactor deficiency	80.0
+249	Amyloidosis	amyloidosis	Metab	HP_0011034	Amyloidosis	100.0
+249.1	Cerebral amyloid angiopathy*	cerebral amyloid angiopathy	Metab	HP_0011970	Cerebral amyloid angiopathy	100.0
+256.31	Acidosis	acidosis	Metab	HP_0001941	Acidosis	100.0
+256.32	Alkalosis	alkalosis	Metab	HP_0001948	Alkalosis	100.0
+256.6	Fluid overload	fluid overload	Metab	HP_0011105	Hypervolemia	83.33
+256.7	Volume depletion	volume depletion	Metab	HP_0011106	Hypovolemia	81.25
+256.71	Dehydration	dehydration	Metab	HP_0001944	Dehydration	100.0
+256.72	Hypovolemia	hypovolemia	Metab	HP_0011106	Hypovolemia	100.0
+257	Polydipsia	polydipsia	Metab	HP_0001959	Polydipsia	100.0
+280.22	Opioid dependence	opioid dependence	Mental	HP_0033515	Opioid addiction	100.0
+280.52	Cocaine dependence	cocaine dependence	Mental	HP_0033513	Cocaine addiction	100.0
+280.62	Other stimulant dependence	other stimulant dependence	Mental	HP_0033512	Stimulant addiction	100.0
+283	Other behavioral problems	other behavioral problems	Mental	HP_0000708	Behavioral abnormality	100.0
+284.1	Suicidal ideations	suicidal ideations	Mental	HP_0031589	Suicidal ideation	100.0
+284.26	Self-harm by burns	self-harm by burns	Mental	HP_0100716	Self-injurious behavior	80.0
+286.1	Bipolar disorder	bipolar disorder	Mental	HP_0007302	Bipolar affective disorder	100.0
+287.1	Schizophrenia	schizophrenia	Mental	HP_0100753	Schizophrenia	100.0
+288.41	Agoraphobia	agoraphobia	Mental	HP_0000756	Agoraphobia	100.0
+293.4	Polyphagia	polyphagia	Mental	HP_0002591	Polyphagia	100.0
+296	Specific personality disorders	specific personality disorders	Mental	HP_0012075	Personality disorder	80.0
+296.4	Borderline personality disorder	borderline personality disorder	Mental	HP_0012076	Borderline personality disorder	100.0
+296.5	Histrionic personality disorder	histrionic personality disorder	Mental	HP_0012077	Histrionic personality disorder	100.0
+296.6	Avoidant personality disorder	avoidant personality disorder	Mental	HP_0012075	Personality disorder	82.35
+296.7	Dependent personality disorder	dependent personality disorder	Mental	HP_0012075	Personality disorder	80.0
+298.3	Trichotillomania*	trichotillomania	Mental	HP_0012167	Hair-pulling	100.0
+308.1	Irritability	irritability	Mental	HP_0000737	Irritability	100.0
+308.2	Impulsiveness	impulsiveness	Mental	HP_0100710	Impulsivity	100.0
+308.3	Emotional lability	emotional lability	Mental	HP_0000712	Emotional lability	100.0
+308.9	Hostility and violent behavior*	hostility and violent behavior	Mental	HP_0008760	Violent behavior	82.93
+320	Meningitis	meningitis	Neuro	HP_0001287	Meningitis	100.0
+320.11	Bacterial meningitis	bacterial meningitis	Neuro	HP_0007274	Recurrent bacterial meningitis	81.08
+320.13	Fungal memingitis	fungal memingitis	Neuro	HP_0032159	Fungal meningitis	85.71
+320.2	Meningitis due to other non-infectious causes	meningitis due to other non-infectious causes	Neuro	HP_0033430	Non-infectious meningitis	80.85
+320.3	Meningitis NOS	meningitis	Neuro	HP_0001287	Meningitis	100.0
+321.1	Encephalitis	encephalitis	Neuro	HP_0002383	Infectious encephalitis	100.0
+321.2	Myelitis	myelitis	Neuro	HP_0012486	Myelitis	100.0
+322.2	Progressive multifocal leukoencephalopathy	progressive multifocal leukoencephalopathy	Neuro	HP_0006980	Progressive leukoencephalopathy	86.57
+323.2	Spinal muscular atrophy	spinal muscular atrophy	Neuro	HP_0007269	Spinal muscular atrophy	100.0
+323.3	Motor neuron disease	motor neuron disease	Neuro	HP_0002366	Abnormal lower motor neuron morphology	86.96
+323.31	Amyotrophic lateral sclerosis [ALS]	amyotrophic lateral sclerosis als	Neuro	HP_0007354	Amyotrophic lateral sclerosis	94.34
+324	Extrapyramidal and movement disorders	extrapyramidal and movement disorders	Neuro	HP_0007153	Progressive extrapyramidal movement disorder	86.57
+324.1	Parkinsonism	parkinsonism	Neuro	HP_0001300	Parkinsonism	100.0
+324.3	Dystonia	dystonia	Neuro	HP_0001332	Dystonia	100.0
+324.32	Genetic torsion dystonia	genetic torsion dystonia	Neuro	HP_0001304	Torsion dystonia	85.0
+324.34	Torticollis	torticollis	Neuro	HP_0000473	Torticollis	100.0
+324.36	Blepharospasm	blepharospasm	Neuro	HP_0000643	Blepharospasm	100.0
+324.4	Tremor	tremor	Neuro	HP_0001337	Tremor	100.0
+324.41	Essential tremor*	essential tremor	Neuro	HP_0030186	Kinetic tremor	100.0
+324.5	Myoclonus	myoclonus	Neuro	HP_0001336	Myoclonus	100.0
+324.6	Tics	tics	Neuro	HP_0100033	Tics	100.0
+324.9	Other chorea	other chorea	Neuro	HP_0002072	Chorea	100.0
+325.1	Abnormal involuntary movements	abnormal involuntary movements	Neuro	HP_0004305	Involuntary movements	85.71
+325.11	Abnormal head movements*	abnormal head movements	Neuro	HP_0002457	Abnormal head movements	100.0
+325.12	Fasciculation*	fasciculation	Neuro	HP_0002380	Fasciculations	100.0
+325.2	Abnormality of gait and mobility	abnormality of gait and mobility	Neuro	HP_0001288	Gait disturbance	80.0
+325.24	Difficulty walking	difficulty walking	Neuro	HP_0002355	Difficulty walking	100.0
+325.25	Abnormality of gait	abnormality of gait	Neuro	HP_0001288	Gait disturbance	100.0
+326	Demyelinating diseases of the central nervous system	demyelinating diseases of the central nervous system	Neuro	HP_0002188	Delayed CNS myelination	82.19
+328.1	Alzheimer's disease	alzheimers disease	Neuro	HP_0002511	Alzheimer disease	100.0
+328.3	Cerebral degeneration	cerebral degeneration	Neuro	HP_0007313	Cerebral degeneration	100.0
+328.32	Frontotemporal dementia	frontotemporal dementia	Neuro	HP_0002145	Frontotemporal dementia	100.0
+329.1	Memory loss	memory loss	Neuro	HP_0002354	Memory impairment	100.0
+329.42	Cognitive communication deficit	cognitive communication deficit	Neuro	HP_0100543	Cognitive impairment	81.08
+329.6	Transient global amnesia	transient global amnesia	Neuro	HP_0010534	Transient global amnesia	100.0
+329.9	Delirium	delirium	Neuro	HP_0031258	Delirium	100.0
+330.13	Epileptic spasms	epileptic spasms	Neuro	HP_0011097	Epileptic spasm	100.0
+330.31	Febrile convulsions	febrile convulsions	Neuro	HP_0002373	Febrile seizure (within the age range of 3 months to 6 years)	100.0
+331	Headache	headache	Neuro	HP_0002315	Headache	100.0
+331.1	Tension headache	tension headache	Neuro	HP_0012228	Tension-type headache	86.49
+331.32	Hypnic headache	hypnic headache	Neuro	HP_0012459	Hypnic headache	100.0
+331.33	Thunderclap headache	thunderclap headache	Neuro	HP_0030907	Thunderclap headache	100.0
+331.4	Cluster headaches	cluster headaches	Neuro	HP_0012199	Cluster headache	100.0
+331.6	Migraine	migraine	Neuro	HP_0002076	Migraine	100.0
+331.61	Migraine with aura	migraine with aura	Neuro	HP_0002077	Migraine with aura	100.0
+331.64	Chronic migraine without aura	chronic migraine without aura	Neuro	HP_0002083	Migraine without aura	84.0
+331.8	Headache NOS	headache	Neuro	HP_0002315	Headache	100.0
+333.1	Sleep apnea	sleep apnea	Neuro	HP_0010535	Sleep apnea	100.0
+333.11	Obstructive sleep apnea	obstructive sleep apnea	Neuro	HP_0002870	Obstructive sleep apnea	100.0
+333.12	Central sleep apnea	central sleep apnea	Neuro	HP_0010536	Central sleep apnea	100.0
+333.2	Insomnia	insomnia	Neuro	HP_0100785	Insomnia	100.0
+333.3	Hypersomnia	hypersomnia	Neuro	HP_0100786	Hypersomnia	100.0
+333.51	Confusional arousals	confusional arousals	Neuro	HP_0025237	Confusional arousal	100.0
+333.54	Sleepwalking [somnambulism]*	sleepwalking somnambulism	Neuro	HP_0025236	Somnambulism	92.68
+333.55	Sleep terrors [night terrors]*	sleep terrors night terrors	Neuro	HP_0030765	Sleep terror	100.0
+333.7	Narcolepsy	narcolepsy	Neuro	HP_0030050	Narcolepsy	100.0
+333.8	Sleep disturbances	sleep disturbances	Neuro	HP_0002360	Sleep disturbance	100.0
+334	Disorders of other cranial nerves	disorders of other cranial nerves	Neuro	HP_0001291	Abnormal cranial nerve morphology	80.0
+334.11	Trigeminal neuralgia	trigeminal neuralgia	Neuro	HP_0100661	Trigeminal neuralgia	100.0
+334.21	Bell's palsy	bells palsy	Neuro	HP_0010628	Facial palsy	100.0
+334.23	Facial weakness	facial weakness	Neuro	HP_0030319	Weakness of facial musculature	100.0
+334.24	Clonic hemifacial spasm*	clonic hemifacial spasm	Neuro	HP_0010828	Hemifacial spasm	81.08
+334.25	Facial myokymia*	facial myokymia	Neuro	HP_0000317	Facial myokymia	100.0
+334.41	Third [oculomotor] nerve palsy	third oculomotor nerve palsy	Neuro	HP_0012246	Oculomotor nerve palsy	88.0
+334.42	Fourth [trochlear] nerve palsy	fourth trochlear nerve palsy	Neuro	HP_0007011	Fourth cranial nerve palsy	85.71
+334.44	Sixth [abducent] nerve palsy	sixth abducent nerve palsy	Neuro	HP_0006897	Abducens palsy	85.0
+334.9	Multiple cranial nerve palsies	multiple cranial nerve palsies	Neuro	HP_0006824	Cranial nerve paralysis	82.61
+336	Mononeuropathies	mononeuropathies	Neuro	HP_0009831	Mononeuropathy	100.0
+337	Polyneuropathies	polyneuropathies	Neuro	HP_0001271	Polyneuropathy	100.0
+339.1	Muscular dystrophy	muscular dystrophy	Neuro	HP_0003560	Muscular dystrophy	100.0
+339.12	Facioscapulohumeral muscular dystrophy*	facioscapulohumeral muscular dystrophy	Neuro	HP_0008970	Scapulohumeral muscular dystrophy	89.86
+339.21	Myotonic muscular dystrophy	myotonic muscular dystrophy	Neuro	HP_0003560	Muscular dystrophy	84.44
+339.4	Periodic paralysis	periodic paralysis	Neuro	HP_0003768	Periodic paralysis	100.0
+340	Myopathies	myopathies	Neuro	HP_0003198	Myopathy	100.0
+340.3	Inflammatory and immune myopathies	inflammatory and immune myopathies	Neuro	HP_0009071	Inflammatory myopathy	88.0
+341.1	Cerebral palsy	cerebral palsy	Neuro	HP_0100021	Cerebral palsy	100.0
+341.12	Athetoid cerebral palsy	athetoid cerebral palsy	Neuro	HP_0011445	Athetoid cerebral palsy	100.0
+341.2	Hemiplegia and hemiparesis	hemiplegia and hemiparesis	Neuro	HP_0004374	Hemiplegia/hemiparesis	100.0
+341.22	Spastic hemiplegia	spastic hemiplegia	Neuro	HP_0011099	Spastic hemiparesis	100.0
+341.23	Brown-Séquard syndrome*	brown-squard syndrome	Neuro	HP_0031622	Brown anomaly	80.0
+342.2	Quadriplegia	quadriplegia	Neuro	HP_0002445	Tetraplegia	100.0
+342.5	Paralysis NOS	paralysis	Neuro	HP_0003470	Paralysis	100.0
+343.11	Carotid sinus syncope	carotid sinus syncope	Neuro	HP_0012669	Carotid sinus syncope	100.0
+343.5	Horner's syndrome*	horners syndrome	Neuro	HP_0002277	Horner syndrome	100.0
+344.1	Hydrocephalus	hydrocephalus	Neuro	HP_0000238	Hydrocephalus	100.0
+344.11	Communicating hydrocephalus	communicating hydrocephalus	Neuro	HP_0001334	Communicating hydrocephalus	100.0
+344.13	(Idiopathic) normal pressure hydrocephalus	idiopathic normal pressure hydrocephalus	Neuro	HP_0002343	Normal pressure hydrocephalus	86.15
+344.2	Benign intracranial hypertension	benign intracranial hypertension	Neuro	HP_0002516	Increased intracranial pressure	85.71
+344.3	Cerebrospinal fluid leak	cerebrospinal fluid leak	Neuro	HP_0032934	Spontaneous cerebrospinal fluid leak	85.19
+345	Encephalopathy	encephalopathy	Neuro	HP_0001298	Encephalopathy	100.0
+345.1	Toxic encephalopathy	toxic encephalopathy	Neuro	HP_0001298	Encephalopathy	83.33
+346.5	Compression of brain	compression of brain	Neuro	HP_0002512	Brain stem compression	85.71
+346.6	Cerebral edema	cerebral edema	Neuro	HP_0002181	Cerebral edema	100.0
+346.7	Temporal sclerosis	temporal sclerosis	Neuro	HP_0033715	Hippocampal sclerosis	82.05
+348.2	Myelopathies	myelopathies	Neuro	HP_0002196	Myelopathy	100.0
+348.4	Spinal cord compression*	spinal cord compression	Neuro	HP_0002176	Spinal cord compression	100.0
+349.11	Abnormal echoencephalogram	abnormal echoencephalogram	Neuro	HP_0002353	EEG abnormality	86.79
+349.12	Abnormal electroencephalogram [EEG]	abnormal electroencephalogram eeg	Neuro	HP_0002353	EEG abnormality	93.33
+350.1	Tetany	tetany	Neuro	HP_0001281	Tetany	100.0
+350.3	Abnormal reflex	abnormal reflex	Neuro	HP_0031826	Abnormal reflex	100.0
+350.4	Abnormal posture	abnormal posture	Neuro	HP_0002533	Abnormal posturing	100.0
+351.2	Hypoesthesia of skin*	hypoesthesia of skin	Neuro	HP_0003474	Somatic sensory dysfunction	83.87
+351.3	Paresthesia of skin*	paresthesia of skin	Neuro	HP_0003401	Paresthesia	82.76
+351.4	Hyperesthesia*	hyperesthesia	Neuro	HP_0100963	Hyperesthesia	100.0
+352.1	Anosmia*	anosmia	Neuro	HP_0000458	Anosmia	100.0
+352.3	Parageusia*	parageusia	Neuro	HP_0031249	Parageusia	100.0
+353.1	Hallucinations	hallucinations	Neuro	HP_0000738	Hallucinations	100.0
+353.11	Auditory hallucinations*	auditory hallucinations	Neuro	HP_0008765	Auditory hallucinations	100.0
+353.12	Visual hallucinations	visual hallucinations	Neuro	HP_0002367	Visual hallucinations	100.0
+355.1	Coma	coma	Neuro	HP_0001259	Coma	100.0
+356.1	Dysarthria	dysarthria	Neuro	HP_0001260	Dysarthria	100.0
+356.4	Slurred speech*	slurred speech	Neuro	HP_0001350	Slurred speech	100.0
+360	Inflammation of eyelids	inflammation of eyelids	Eye	HP_0000498	Blepharitis	100.0
+360.1	Hordeolum	hordeolum	Eye	HP_0010606	Hordeolum	100.0
+360.11	Hordeolum externum	hordeolum externum	Eye	HP_0010607	Hordeolum externum	100.0
+360.12	Hordeolum internum	hordeolum internum	Eye	HP_0010608	Hordeolum internum	100.0
+360.2	Chalazion	chalazion	Eye	HP_0010605	Chalazion	100.0
+360.4	Blepharitis	blepharitis	Eye	HP_0000498	Blepharitis	100.0
+360.51	Eczematous dermatitis of eyelid	eczematous dermatitis of eyelid	Eye	HP_0000976	Eczematoid dermatitis	80.0
+360.54	Discoid lupus erythematosus of eyelid	discoid lupus erythematosus of eyelid	Eye	HP_0007417	Discoid lupus rash	88.14
+361.12	Mechanical entropion	mechanical entropion	Eye	HP_0031738	Mechanical entropion	100.0
+361.14	Cicatricial entropion	cicatricial entropion	Eye	HP_0031737	Cicatricial entropion	100.0
+361.2	Lagophthalmos	lagophthalmos	Eye	HP_0030001	Lagopthalmos	88.0
+361.24	Cicatricial lagophthalmos	cicatricial lagophthalmos	Eye	HP_0030004	Cicatricial lagophthalmos	100.0
+361.25	Paralytic lagophthalmos	paralytic lagophthalmos	Eye	HP_0030003	Paralytic lagophthalmos	100.0
+361.3	Ptosis of eyelid	ptosis of eyelid	Eye	HP_0000508	Ptosis	100.0
+361.36	Brow ptosis*	brow ptosis	Eye	HP_0031623	Brow ptosis	100.0
+361.4	Blepharochalasis	blepharochalasis	Eye	HP_0010749	Blepharochalasis	100.0
+361.5	Eyelid retraction	eyelid retraction	Eye	HP_0500043	Eyelid retraction	100.0
+361.8	Blepharophimosis	blepharophimosis	Eye	HP_0000581	Blepharophimosis	100.0
+361.9	Ectropion of eyelid	ectropion of eyelid	Eye	HP_0000656	Ectropion	87.18
+361.92	Mechanical ectropion	mechanical ectropion	Eye	HP_0031738	Mechanical entropion	88.24
+361.94	Cicatricial ectropion	cicatricial ectropion	Eye	HP_0025608	Cicatricial ectropion	100.0
+362.2	Hyperpigmentation of eyelid [Chloasma]	hyperpigmentation of eyelid chloasma	Eye	HP_0007406	Hyperpigmentation of eyelids	81.63
+362.3	Hypertrichosis of eyelid	hypertrichosis of eyelid	Eye	HP_0000998	Hypertrichosis	80.0
+362.5	Cysts of eyelid	cysts of eyelid	Eye	HP_0010604	Cyst of the eyelid	100.0
+362.6	Dermatochalasis of eyelid	dermatochalasis of eyelid	Eye	HP_0010750	Dermatochalasis	93.33
+362.7	Edema of eyelid	edema of eyelid	Eye	HP_0100540	Palpebral edema	100.0
+362.8	Meibomian gland dysfunction of eyelid*	meibomian gland dysfunction of eyelid	Eye	HP_0025610	Posterior blepharitis	87.72
+363.5	Epiphora	epiphora	Eye	HP_0009926	Epiphora	100.0
+363.61	Dacryocystitis	dacryocystitis	Eye	HP_0000620	Dacryocystitis	100.0
+365.1	Enophthalmos	enophthalmos	Eye	HP_0000490	Deeply set eye	100.0
+365.3	Exophthalmos [Proptosis]	exophthalmos proptosis	Eye	HP_0000520	Proptosis	100.0
+365.4	Orbital cysts	orbital cysts	Eye	HP_0001144	Orbital cyst	100.0
+366.1	Pterygium of eye	pterygium of eye	Eye	HP_0001059	Pterygium	86.96
+366.21	Pinguecula	pinguecula	Eye	HP_0031830	Pinguecula	100.0
+366.4	Vascular abnormalities of conjunctiva	vascular abnormalities of conjunctiva	Eye	HP_0008054	Abnormal morphology of the conjunctival vasculature	93.1
+366.42	Conjunctival hyperemia	conjunctival hyperemia	Eye	HP_0030953	Conjunctival hyperemia	100.0
+367.1	Conjunctivitis	conjunctivitis	Eye	HP_0000509	Conjunctivitis	100.0
+367.12	Allergic [atopic] conjunctivitis	allergic atopic conjunctivitis	Eye	HP_0007879	Allergic conjunctivitis	86.49
+367.2	Keratitis	keratitis	Eye	HP_0000491	Keratitis	100.0
+367.21	Corneal ulcer	corneal ulcer	Eye	HP_0012804	Corneal ulceration	100.0
+367.22	Punctate keratitis	punctate keratitis	Eye	HP_0011859	Punctate keratitis	100.0
+367.3	Keratoconjunctivitis	keratoconjunctivitis	Eye	HP_0001096	Keratoconjunctivitis	100.0
+367.31	Keratoconjunctivitis sicca	keratoconjunctivitis sicca	Eye	HP_0001097	Keratoconjunctivitis sicca	100.0
+367.41	Cellulitis of orbit	cellulitis of orbit	Eye	HP_0100539	Periorbital edema	80.0
+367.5	Uveitis	uveitis	Eye	HP_0000554	Uveitis	100.0
+367.51	Panuveitis	panuveitis	Eye	HP_0012121	Panuveitis	100.0
+367.52	Iridocyclitis	iridocyclitis	Eye	HP_0001094	Iridocyclitis	100.0
+367.53	Chorioretinitis	chorioretinitis	Eye	HP_0012424	Chorioretinitis	100.0
+367.6	Episcleritis	episcleritis	Eye	HP_0100534	Episcleritis	100.0
+367.7	Scleritis	scleritis	Eye	HP_0100532	Scleritis	100.0
+367.8	Hypopyon	hypopyon	Eye	HP_0031615	Hypopyon	100.0
+368.1	Scleral staphyloma	scleral staphyloma	Eye	HP_0030854	Scleral staphyloma	100.0
+369.1	Corneal scars and opacities	corneal scars and opacities	Eye	HP_0007957	Corneal opacity	83.87
+369.11	Peripheral opacity of cornea	peripheral opacity of cornea	Eye	HP_0008011	Peripheral opacification of the cornea	93.02
+369.12	Central opacity of cornea	central opacity of cornea	Eye	HP_0011493	Central opacification of the cornea	90.48
+369.15	Corneal deposits	corneal deposits	Eye	HP_0000531	Corneal crystals	100.0
+369.3	Corneal neovascularization	corneal neovascularization	Eye	HP_0011496	Corneal neovascularization	100.0
+369.4	Corneal degenerations	corneal degenerations	Eye	HP_0007705	Corneal degeneration	100.0
+369.42	Recurrent erosion of cornea	recurrent erosion of cornea	Eye	HP_0000495	Recurrent corneal erosions	92.31
+369.43	Band keratopathy	band keratopathy	Eye	HP_0000585	Band keratopathy	100.0
+369.52	Lattice corneal dystrophy	lattice corneal dystrophy	Eye	HP_0001149	Lattice corneal dystrophy	100.0
+369.53	Granular corneal dystrophy	granular corneal dystrophy	Eye	HP_0007802	Granular corneal dystrophy	100.0
+369.62	Keratoconus	keratoconus	Eye	HP_0000563	Keratoconus	100.0
+370.41	Pupillary abnormalities	pupillary abnormalities	Eye	HP_0000615	Abnormal pupil morphology	100.0
+371	Cataract	cataract	Eye	HP_0000518	Cataract	100.0
+371.1	Cortical age-related cataract	cortical age-related cataract	Eye	HP_0011143	Age-related cortical cataract	100.0
+371.2	Subcapsular cataract	subcapsular cataract	Eye	HP_0000523	Subcapsular cataract	100.0
+371.21	Anterior subcapsular polar cataract	anterior subcapsular polar cataract	Eye	HP_0007787	Posterior subcapsular cataract	86.57
+371.22	Posterior subcapsular polar cataract	posterior subcapsular polar cataract	Eye	HP_0007787	Posterior subcapsular cataract	91.18
+371.3	Nuclear cataract	nuclear cataract	Eye	HP_0100018	Nuclear cataract	100.0
+371.31	Age-related nuclear cataract	age-related nuclear cataract	Eye	HP_0011142	Age-related nuclear cataract	100.0
+372.2	Dislocation of lens	dislocation of lens	Eye	HP_0001083	Ectopia lentis	100.0
+373.1	Chorioretinal scars	chorioretinal scars	Eye	HP_0007777	Chorioretinal scar	100.0
+373.11	Solar retinopathy	solar retinopathy	Eye	HP_0000488	Retinopathy	80.0
+373.2	Choroidal degenerations	choroidal degenerations	Eye	HP_0007945	obsolete Choroidal degeneration	80.0
+373.31	Choroideremia	choroideremia	Eye	HP_0001139	Choroideremia	100.0
+374.1	Retinal detachments and breaks	retinal detachments and breaks	Eye	HP_0000541	Retinal detachment	81.25
+374.11	Serous retinal detachment	serous retinal detachment	Eye	HP_0012231	Exudative retinal detachment	100.0
+374.12	Traction detachment of retina	traction detachment of retina	Eye	HP_0007917	Tractional retinal detachment	93.33
+374.21	Retinoschisis	retinoschisis	Eye	HP_0030502	Retinoschisis	100.0
+374.31	Exudative retinopathy	exudative retinopathy	Eye	HP_0007898	Exudative retinopathy	100.0
+374.32	Retinal microaneurysms	retinal microaneurysms	Eye	HP_0032416	Retinal microaneurysm	100.0
+374.33	Retinal neovascularization	retinal neovascularization	Eye	HP_0030666	Retinal neovascularization	100.0
+374.34	Retinal vasculitis	retinal vasculitis	Eye	HP_0025188	Retinal vasculitis	100.0
+374.35	Retinal telangiectasis	retinal telangiectasis	Eye	HP_0007763	Retinal telangiectasia	92.68
+374.37	Retinal arterial occlusions	retinal arterial occlusions	Eye	HP_0025326	Retinal arterial occlusion	100.0
+374.38	Retinal vein occlusions	retinal vein occlusions	Eye	HP_0012636	Retinal vein occlusion	100.0
+374.41	Hypertensive retinopathy	hypertensive retinopathy	Eye	HP_0001095	Hypertensive retinopathy	100.0
+374.5	Macular degeneration	macular degeneration	Eye	HP_0000608	Macular degeneration	100.0
+374.51	Age-related macular degeneration	age-related macular degeneration	Eye	HP_0007868	obsolete Age-related macular degeneration	86.21
+374.53	Cystoid macular degeneration	cystoid macular degeneration	Eye	HP_0008028	Cystoid macular degeneration	100.0
+374.55	Puckering of macula	puckering of macula	Eye	HP_0100014	Epiretinal membrane	89.66
+374.57	Angioid streaks of macula	angioid streaks of macula	Eye	HP_0001102	Angioid streaks of the fundus	81.08
+374.6	Peripheral retinal degeneration	peripheral retinal degeneration	Eye	HP_0007769	Peripheral retinal degeneration	100.0
+374.61	Lattice degeneration of retina	lattice degeneration of retina	Eye	HP_0007992	Lattice retinal degeneration	93.02
+374.7	Retinal dystrophy	retinal dystrophy	Eye	HP_0000556	Retinal dystrophy	100.0
+374.9	Central serous chorioretinopathy	central serous chorioretinopathy	Eye	HP_0025567	Central serous chorioretinopathy	100.0
+375	Abnormal intraocular pressure	abnormal intraocular pressure	Eye	HP_0012632	Abnormal intraocular pressure	100.0
+375.1	Glaucoma	glaucoma	Eye	HP_0000501	Glaucoma	100.0
+375.11	Open angle glaucoma	open angle glaucoma	Eye	HP_0012108	Open angle glaucoma	100.0
+375.113	Primary open angle glaucoma	primary open angle glaucoma	Eye	HP_0012108	Open angle glaucoma	82.61
+375.12	Angle-Closure Glaucoma	angle-closure glaucoma	Eye	HP_0012109	Angle closure glaucoma	100.0
+375.6	Ocular hypertension	ocular hypertension	Eye	HP_0007906	Ocular hypertension	100.0
+376.2	Vitreous opacities	vitreous opacities	Eye	HP_0100832	Vitreous floaters	100.0
+376.4	Vitreomacular adhesion	vitreomacular adhesion	Eye	HP_0031150	Vitreomacular adhesion	100.0
+377	Hemorrhage of the eye	hemorrhage of the eye	Eye	HP_0011885	Hemorrhage of the eye	100.0
+377.2	Conjunctival hemorrhage	conjunctival hemorrhage	Eye	HP_0011896	Subconjunctival hemorrhage	88.89
+377.3	Choroidal hemorrhage and rupture	choroidal hemorrhage and rupture	Eye	HP_0011887	Choroid hemorrhage	83.72
+377.4	Retinal hemorrhage	retinal hemorrhage	Eye	HP_0000573	Retinal hemorrhage	100.0
+377.5	Vitreous hemorrhage	vitreous hemorrhage	Eye	HP_0007902	Vitreous hemorrhage	100.0
+377.8	Hyphema	hyphema	Eye	HP_0011886	Hyphema	100.0
+380.1	Optic neuropathy	optic neuropathy	Eye	HP_0001138	Optic neuropathy	100.0
+380.11	Optic neuritis	optic neuritis	Eye	HP_0100653	Optic neuritis	100.0
+380.12	Ischemic optic neuropathy	ischemic optic neuropathy	Eye	HP_0001138	Optic neuropathy	82.93
+380.13	Optic nerve hypoplasia	optic nerve hypoplasia	Eye	HP_0000609	Optic nerve hypoplasia	100.0
+380.21	Papilledema	papilledema	Eye	HP_0001085	Papilledema	100.0
+380.22	Optic disc drusen	optic disk drusen	Eye	HP_0012426	Optic disc drusen	88.89
+380.3	Optic atrophy	optic atrophy	Eye	HP_0000648	Optic atrophy	100.0
+380.51	Cortical blindness	cortical blindness	Eye	HP_0100704	Cerebral visual impairment	100.0
+381	Strabismus	strabismus	Eye	HP_0000486	Strabismus	100.0
+381.1	Paralytic strabismus [Neurogenic strabismus]	paralytic strabismus neurogenic strabismus	Eye	HP_0031775	Neurogenic strabismus	100.0
+381.11	Ophthalmoplegia	ophthalmoplegia	Eye	HP_0000602	Ophthalmoplegia	100.0
+381.3	Esotropia	esotropia	Eye	HP_0000565	Esotropia	100.0
+381.31	Alternating esotropia	alternating esotropia	Eye	HP_0001137	Alternating esotropia	100.0
+381.32	Accommodative esotropia	accommodative esotropia	Eye	HP_0020046	Accommodative esotropia	100.0
+381.4	Exotropia	exotropia	Eye	HP_0000577	Exotropia	100.0
+381.41	Alternating exotropia	alternating exotropia	Eye	HP_0031717	Alternating exotropia	100.0
+381.5	Vertical strabismus	vertical strabismus	Eye	HP_0020043	Vertical incomitant strabismus	80.95
+381.7	Cyclotropia	cyclotropia	Eye	HP_0031776	Cyclotropia	100.0
+381.8	Heterophoria	heterophoria	Eye	HP_0032011	Heterophoria	100.0
+381.81	Esophoria	esophoria	Eye	HP_0025312	Esophoria	100.0
+381.82	Exophoria	exophoria	Eye	HP_0025313	Exophoria	100.0
+381.83	Cyclophoria	cyclophoria	Eye	HP_0031777	Cyclophoria	100.0
+382.1	Impaired convergence	impaired convergence	Eye	HP_0000619	Impaired convergence	100.0
+383.1	Nystagmus	nystagmus	Eye	HP_0000639	Nystagmus	100.0
+383.2	Saccadic eye movements	saccadic eye movements	Eye	HP_0000514	Slow saccadic eye movements	88.37
+384.1	Anisocoria	anisocoria	Eye	HP_0009916	Anisocoria	100.0
+384.2	Miosis	miosis	Eye	HP_0000616	Miosis	100.0
+384.3	Mydriasis	mydriasis	Eye	HP_0011499	Mydriasis	100.0
+384.4	Tonic pupil	tonic pupil	Eye	HP_0012074	Tonic pupil	100.0
+386.1	Amblyopia	amblyopia	Eye	HP_0000646	Amblyopia	100.0
+386.2	Diplopia	diplopia	Eye	HP_0000651	Diplopia	100.0
+386.4	Visual field defects	visual field defects	Eye	HP_0001123	Visual field defect	100.0
+386.41	Scotoma	scotoma	Eye	HP_0000575	Scotoma	100.0
+386.42	Hemianopia	hemianopia	Eye	HP_0012377	Hemianopia	100.0
+386.43	Constriction of visual field	constriction of visual field	Eye	HP_0001133	Constriction of peripheral visual field	100.0
+386.5	Color vision deficiencies	color vision deficiencies	Eye	HP_0000551	Color vision defect	80.0
+386.6	Night blindness	night blindness	Eye	HP_0000662	Nyctalopia	100.0
+387.1	Hypermetropia	hypermetropia	Eye	HP_0000540	Hypermetropia	100.0
+387.2	Myopia	myopia	Eye	HP_0000545	Myopia	100.0
+387.3	Astigmatism	astigmatism	Eye	HP_0000483	Astigmatism	100.0
+387.31	Irregular astigmatism	irregular astigmatism	Eye	HP_0031792	Irregular astigmatism	100.0
+387.5	Anisometropia	anisometropia	Eye	HP_0012803	Anisometropia	100.0
+388.1	Blindness of both eyes	blindness of both eyes	Eye	HP_0000618	Blindness	80.0
+389.1	Ocular pain	ocular pain	Eye	HP_0200026	Ocular pain	100.0
+389.2	Leucocoria	leucocoria	Eye	HP_0000555	Leukocoria	81.82
+390.1	Otitis externa	otitis externa	Hearing	HP_0410017	Otitis externa	100.0
+390.2	Exostosis of external auditory canal	exostosis of external auditory canal	Hearing	HP_0004459	Exostosis of the external auditory canal	100.0
+390.4	Impacted cerumen	impacted cerumen	Hearing	HP_0030788	Impacted cerumen	100.0
+391.1	Otitis media	otitis media	Hearing	HP_0000388	Otitis media	100.0
+391.11	Acute otitis media	acute otitis media	Hearing	HP_0000371	Acute otitis media	100.0
+391.12	Chronic otitis media	chronic otitis media	Hearing	HP_0000389	Chronic otitis media	100.0
+391.22	Obstruction of Eustachian tube	obstruction of eustachian tube	Hearing	HP_0040269	Blocked Eustachian tube	100.0
+391.4	Tympanosclerosis	tympanosclerosis	Hearing	HP_0020123	Tympanosclerosis	100.0
+391.5	Abnormalities of ear ossicles	abnormalities of ear ossicles	Hearing	HP_0004452	Abnormality of the middle ear ossicles	85.71
+391.8	Otosclerosis	otosclerosis	Hearing	HP_0000362	Otosclerosis	100.0
+392	Otalgia [ear pain]	otalgia ear pain	Hearing	HP_0030766	Ear pain	100.0
+394.2	Vertigo	vertigo	Hearing	HP_0002321	Vertigo	100.0
+394.21	Paroxysmal vertigo	paroxysmal vertigo	Hearing	HP_0010532	Paroxysmal vertigo	100.0
+396	Hearing impairment	hearing impairment	Hearing	HP_0000365	Hearing impairment	100.0
+396.1	Conductive hearing loss	conductive hearing loss	Hearing	HP_0000405	Conductive hearing impairment	100.0
+396.11	Conductive hearing loss, bilateral	conductive hearing loss bilateral	Hearing	HP_0008513	Bilateral conductive hearing impairment	100.0
+396.2	Sensorineural hearing loss	sensorineural hearing loss	Hearing	HP_0000407	Sensorineural hearing impairment	100.0
+396.21	Sensorineural hearing loss, bilateral	sensorineural hearing loss bilateral	Hearing	HP_0008619	Bilateral sensorineural hearing impairment	100.0
+396.22	Presbycusis	presbycusis	Hearing	HP_0040113	Old-aged sensorineural hearing impairment	100.0
+396.3	Mixed conductive and sensorineural hearing loss	mixed conductive and sensorineural hearing loss	Hearing	HP_0008527	Congenital sensorineural hearing impairment	80.0
+397	Other hearing abnormality	other hearing abnormality	Hearing	HP_0000364	Hearing abnormality	100.0
+397.1	Tinnitus	tinnitus	Hearing	HP_0000360	Tinnitus	100.0
+397.11	Pulsatile tinnitus*	pulsatile tinnitus	Hearing	HP_0008629	Pulsatile tinnitus	100.0
+397.3	Hyperacusis	hyperacusis	Hearing	HP_0010780	Hyperacusis	100.0
+401	Hypertension	hypertension	Cardio	HP_0000822	Hypertension	100.0
+401.3	Hypertensive chronic kidney disease	hypertensive chronic kidney disease	Cardio	HP_0012622	Chronic kidney disease	81.48
+401.61	Renovascular hypertension	renovascular hypertension	Cardio	HP_0100817	Renovascular hypertension	100.0
+401.7	Hypertensive crisis*	hypertensive crisis	Cardio	HP_0100735	Hypertensive crisis	100.0
+403	Angina pectoris	angina pectoris	Cardio	HP_0001681	Angina pectoris	100.0
+403.1	Coronary artery spasm [Coronary vasospasm]	coronary artery spasm coronary vasospasm	Cardio	HP_0025497	Coronary artery spasm	92.13
+404.1	Myocardial infarction [Heart attack]	myocardial infarction heart attack	Cardio	HP_0001658	Myocardial infarction	100.0
+404.11	Acute myocardial infarction	acute myocardial infarction	Cardio	HP_0001658	Myocardial infarction	87.18
+406	Chronic pulmonary heart disease	chronic pulmonary heart disease	Cardio	HP_0006510	Chronic pulmonary obstruction	80.0
+406.1	Pulmonary hypertension	pulmonary hypertension	Cardio	HP_0030950	Pulmonary venous hypertension	86.96
+406.11	Primary pulmonary hypertension	primary pulmonary hypertension	Cardio	HP_0002092	Pulmonary arterial hypertension	83.64
+406.13	Secondary pulmonary arterial hypertension*	secondary pulmonary arterial hypertension	Cardio	HP_0002092	Pulmonary arterial hypertension	84.38
+410.1	Pericarditis	pericarditis	Cardio	HP_0001701	Pericarditis	100.0
+410.2	Endocarditis	endocarditis	Cardio	HP_0100584	Endocarditis	100.0
+410.3	Myocarditis	myocarditis	Cardio	HP_0012819	Myocarditis	100.0
+411.1	Hemopericardium NEC	hemopericardium nec	Cardio	HP_0011851	Hemopericardium	88.89
+411.3	Cardiac tamponade	cardiac tamponade	Cardio	HP_0033415	Cardiac tamponade	100.0
+413.11	Mitral valve insufficiency	mitral valve insufficiency	Cardio	HP_0001653	Mitral regurgitation	100.0
+413.12	Mitral valve prolapse*	mitral valve prolapse	Cardio	HP_0001634	Mitral valve prolapse	100.0
+413.13	Mitral valve stenosis	mitral valve stenosis	Cardio	HP_0001718	Mitral stenosis	100.0
+413.21	Aortic stenosis	aortic stenosis	Cardio	HP_0001650	Aortic valve stenosis	100.0
+413.22	Aortic insufficiency	aortic insufficiency	Cardio	HP_0001659	Aortic regurgitation	100.0
+413.31	Tricuspid value stenosis*	tricuspid value stenosis	Cardio	HP_0010446	Tricuspid stenosis	87.8
+413.32	Tricuspid value insufficiency*	tricuspid value insufficiency	Cardio	HP_0005180	Tricuspid regurgitation	88.89
+413.41	Pulmonary valve stenosis*	pulmonary valve stenosis	Cardio	HP_0001642	Pulmonic stenosis	100.0
+413.42	Pulmonary valve insufficiency*	pulmonary valve insufficiency	Cardio	HP_0010444	Pulmonary insufficiency	94.12
+414	Cardiomyopathy	cardiomyopathy	Cardio	HP_0001638	Cardiomyopathy	100.0
+414.1	Hypertrophic cardiomyopathy	hypertrophic cardiomyopathy	Cardio	HP_0001639	Hypertrophic cardiomyopathy	100.0
+414.11	Obstructive hypertrophic cardiomyopathy	obstructive hypertrophic cardiomyopathy	Cardio	HP_0001639	Hypertrophic cardiomyopathy	85.25
+414.2	Dilated cardiomyopathy*	dilated cardiomyopathy	Cardio	HP_0001644	Dilated cardiomyopathy	100.0
+414.3	Alcoholic cardiomyopathy	alcoholic cardiomyopathy	Cardio	HP_0200127	Atrial cardiomyopathy	80.0
+414.5	Ischemic cardiomyopathy*	ischemic cardiomyopathy	Cardio	HP_0001638	Cardiomyopathy	81.08
+414.7	Endocardial fibroelastosis	endocardial fibroelastosis	Cardio	HP_0001706	Endocardial fibroelastosis	100.0
+414.8	Restrictive cardiomyopathy*	restrictive cardiomyopathy	Cardio	HP_0001723	Restrictive cardiomyopathy	100.0
+416.1	Paroxysmal tachycardia	paroxysmal tachycardia	Cardio	HP_0006688	Paroxysmal tachycardia	100.0
+416.11	Supraventricular tachycardia	supraventricular tachycardia	Cardio	HP_0004755	Supraventricular tachycardia	100.0
+416.12	Ventricular tachycardia	ventricular tachycardia	Cardio	HP_0004756	Ventricular tachycardia	100.0
+416.2	Atrial fibrillation and flutter	atrial fibrillation and flutter	Cardio	HP_0004749	Atrial flutter	81.08
+416.21	Atrial fibrillation	atrial fibrillation	Cardio	HP_0005110	Atrial fibrillation	100.0
+416.211	Paroxysmal atrial fibrillation*	paroxysmal atrial fibrillation	Cardio	HP_0004757	Paroxysmal atrial fibrillation	100.0
+416.214	Permanent atrial fibrillation*	permanent atrial fibrillation	Cardio	HP_0004754	Permanent atrial fibrillation	100.0
+416.22	Atrial flutter	atrial flutter	Cardio	HP_0004749	Atrial flutter	100.0
+416.221	Typical atrial flutter*	typical atrial flutter	Cardio	HP_0031671	Typical atrial flutter	100.0
+416.222	Atypical atrial flutter*	atypical atrial flutter	Cardio	HP_0004749	Atrial flutter	85.71
+416.3	Ventricular fibrillation and flutter	ventricular fibrillation and flutter	Cardio	HP_0011841	Ventricular flutter	85.11
+416.31	Ventricular fibrillation	ventricular fibrillation	Cardio	HP_0001663	Ventricular fibrillation	100.0
+416.32	Ventricular flutter	ventricular flutter	Cardio	HP_0011841	Ventricular flutter	100.0
+416.4	Heart block	heart block	Cardio	HP_0012722	Heart block	100.0
+416.41	Atrioventricular block	atrioventricular block	Cardio	HP_0001678	Atrioventricular block	100.0
+416.42	Left bundle branch block	left bundle branch block	Cardio	HP_0011713	Left bundle branch block	100.0
+416.43	Right bundle branch block	right bundle branch block	Cardio	HP_0011712	Right bundle branch block	100.0
+416.51	Atrial premature depolarization [Supraventricular premature beats]	atrial premature depolarization supraventricular premature beats	Cardio	HP_0006699	Premature atrial contractions	84.68
+416.6	Long QT syndrome	long qt syndrome	Cardio	HP_0001657	Prolonged QT interval	100.0
+416.71	Sick sinus syndrome*	sick sinus syndrome	Cardio	HP_0011704	Sick sinus syndrome	100.0
+417.1	Palpitations	palpitations	Cardio	HP_0001962	Palpitations	100.0
+417.2	Tachycardia	tachycardia	Cardio	HP_0001649	Tachycardia	100.0
+417.3	Bradycardia*	bradycardia	Cardio	HP_0001662	Bradycardia	100.0
+418.1	Abnormal electrocardiogram [ECG] [EKG]	abnormal electrocardiogram ecg ekg	Cardio	HP_0003115	Abnormal EKG	86.21
+420	Cardiac arrest	cardiac arrest	Cardio	HP_0001695	Cardiac arrest	100.0
+423	Abnormal cardiac sounds	abnormal cardiac sounds	Cardio	HP_0001627	Abnormal heart morphology	83.33
+423.1	Cardiac murmurs	cardiac murmurs	Cardio	HP_0030148	Heart murmur	100.0
+424	Heart failure	heart failure	Cardio	HP_0001635	Congestive heart failure	100.0
+424.1	Left heart failure	left heart failure	Cardio	HP_0005162	Abnormal left ventricular function	87.8
+424.5	Right heart failure*	right heart failure	Cardio	HP_0001708	Right ventricular failure	88.37
+425	Cardiomegaly	cardiomegaly	Cardio	HP_0001640	Cardiomegaly	100.0
+430.1	Nontraumatic subarachnoid hemorrhage	nontraumatic subarachnoid hemorrhage	Cardio	HP_0002138	Subarachnoid hemorrhage	80.7
+430.2	Nontraumatic intracerebral hemorrhage	nontraumatic intracerebral hemorrhage	Cardio	HP_0001342	Cerebral hemorrhage	80.0
+431	Stroke and transient cerebral ischemic attacks	stroke and transient cerebral ischemic attacks	Cardio	HP_0002326	Transient ischemic attack	83.78
+431.1	Stroke	stroke	Cardio	HP_0001297	Stroke	100.0
+431.12	Hemorrhagic stroke	hemorrhagic stroke	Cardio	HP_0004968	Recurrent cerebral hemorrhage	82.93
+431.2	Transient cerebral ischemic attacks	transient cerebral ischemic attacks	Cardio	HP_0002326	Transient ischemic attack	87.27
+433.1	Occlusion and stenosis of cerebral arteries	occlusion and stenosis of cerebral arteries	Cardio	HP_0012492	Cerebral artery stenosis	86.27
+433.21	Carotid artery stenosis	carotid artery stenosis	Cardio	HP_0100546	Carotid artery stenosis	100.0
+436	Atherosclerosis [ASCVD]	atherosclerosis ascvd	Cardio	HP_0002621	Atherosclerosis	83.33
+436.1	Atherosclerosis of renal artery	atherosclerosis of renal artery	Cardio	HP_0031684	Renal artery atherosclerosis	100.0
+436.2	Atherosclerosis of the extremities	atherosclerosis of the extremities	Cardio	HP_0002621	Atherosclerosis	81.08
+436.3	Atherosclerosis of aorta	atherosclerosis of aorta	Cardio	HP_0012397	Aortic atherosclerotic lesion	100.0
+436.5	Cerebral atherosclerosis	cerebral atherosclerosis	Cardio	HP_0007201	Cerebral artery atherosclerosis	86.27
+438.1	Aortic aneurysm and ectasia	aortic aneurysm and ectasia	Cardio	HP_0004942	Aortic aneurysm	80.0
+438.11	Abdominal aortic aneurysm	abdominal aortic aneurysm	Cardio	HP_0005112	Abdominal aortic aneurysm	100.0
+438.12	Thoracic aneurysm	thoracic aneurysm	Cardio	HP_0012727	Thoracic aortic aneurysm	82.05
+438.13	Thoracoabdominal aortic aneurysm	thoracoabdominal aortic aneurysm	Cardio	HP_0005112	Abdominal aortic aneurysm	83.64
+438.4	Arterial dissection	arterial dissection	Cardio	HP_0005294	Arterial dissection	100.0
+438.41	Aortic dissection	aortic dissection	Cardio	HP_0002647	Aortic dissection	100.0
+438.42	Carotid artery dissection	carotid artery dissection	Cardio	HP_0012158	Carotid artery dissection	100.0
+438.43	Coronary artery dissection	coronary artery dissection	Cardio	HP_0006702	Coronary artery dissection	100.0
+438.6	Cerebral aneurysm	cerebral aneurysm	Cardio	HP_0007029	Cerebral berry aneurysm	84.21
+438.8	Rupture of artery	rupture of artery	Cardio	HP_0025019	Arterial rupture	100.0
+438.9	Aneurysm of pulmonary artery	aneurysm of pulmonary artery	Cardio	HP_0004937	Pulmonary artery aneurysm	100.0
+439	Hemorrhoids	hemorrhoids	Cardio	HP_0032551	Hemorrhoids	100.0
+440	Embolism and thrombosis	embolism and thrombosis	Cardio	HP_0001907	Thromboembolism	82.76
+440.1	Venous thromboembolism	venous thromboembolism	Cardio	HP_0001907	Thromboembolism	81.25
+440.11	Deep vein thrombosis [DVT]	deep vein thrombosis dvt	Cardio	HP_0002625	Deep venous thrombosis	90.91
+440.12	Portal vein thrombosis	portal vein thrombosis	Cardio	HP_0030242	Portal vein thrombosis	100.0
+440.14	Budd-Chiari syndrome	budd-chiari syndrome	Cardio	HP_0002639	Budd-Chiari syndrome	100.0
+440.15	Cerebral venous sinus thrombosis	cerebral venous sinus thrombosis	Cardio	HP_0005305	Cerebral venous thrombosis	90.2
+440.2	Arterial embolism and thrombosis	arterial embolism and thrombosis	Cardio	HP_0004420	Arterial thrombosis	85.0
+440.3	Pulmonary embolism	pulmonary embolism	Cardio	HP_0002204	Pulmonary embolism	100.0
+440.4	Septic embolism	septic embolism	Cardio	HP_0033553	Septic embolism	100.0
+441	Arteriovenous malformation	arteriovenous malformation	Cardio	HP_0100026	Arteriovenous malformation	100.0
+441.1	Arteriovenous fistula	arteriovenous fistula	Cardio	HP_0004947	Arteriovenous fistula	100.0
+441.2	Pulmonary arteriovenous malformation	pulmonary arteriovenous malformation	Cardio	HP_0006548	Pulmonary arteriovenous malformation	100.0
+443.2	Celiac artery compression syndrome	celiac artery compression syndrome	Cardio	HP_0012327	Celiac artery compression	85.19
+443.3	Arterial fibromuscular dysplasia*	arterial fibromuscular dysplasia	Cardio	HP_0005313	Arterial fibromuscular dysplasia	100.0
+444	Venous insufficiency	venous insufficiency	Cardio	HP_0005293	Venous insufficiency	100.0
+444.1	Varicose veins	varicose veins	Cardio	HP_0002619	Varicose veins	100.0
+444.12	Gastric varices*	gastric varices	Cardio	HP_0030169	Gastric varix	85.71
+444.13	Esophageal varix	esophageal varix	Cardio	HP_0002040	Esophageal varix	100.0
+446	Hypotension	hypotension	Cardio	HP_0002615	Hypotension	100.0
+446.2	Orthostatic hypotension	orthostatic hypotension	Cardio	HP_0001278	Orthostatic hypotension	100.0
+448.2	Erythromelalgia	erythromelalgia	Cardio	HP_0032147	Erythromelalgia	100.0
+452	Hemorrhage, NOS	hemorrhage	Cardio	HP_0002239	Gastrointestinal hemorrhage	86.96
+460	Acute respiratory infection	acute respiratory infection	Resp	HP_0011948	Recurrent acute respiratory tract infection	88.89
+460.1	Acute upper respiratory infection	acute upper respiratory infection	Resp	HP_0002788	Recurrent upper respiratory tract infections	88.52
+460.2	Acute lower respiratory infection	acute lower respiratory infection	Resp	HP_0002783	Recurrent lower respiratory tract infections	88.52
+462	Sinusitis	sinusitis	Resp	HP_0000246	Sinusitis	100.0
+462.1	Acute sinusitis	acute sinusitis	Resp	HP_0000255	Acute sinusitis	100.0
+462.11	Acute recurrent sinusitis*	acute recurrent sinusitis	Resp	HP_0011108	Recurrent sinusitis	83.87
+462.2	Chronic sinusitis	chronic sinusitis	Resp	HP_0011109	Chronic sinusitis	100.0
+463.1	Chronic rhinitis	chronic rhinitis	Resp	HP_0002257	Chronic rhinitis	100.0
+463.2	Allergic rhinitis	allergic rhinitis	Resp	HP_0003193	Allergic rhinitis	100.0
+463.21	Seasonal allergic rhinitis	seasonal allergic rhinitis	Resp	HP_0003193	Allergic rhinitis	81.08
+465	Pharyngitis	pharyngitis	Resp	HP_0025439	Pharyngitis	100.0
+468	Pneumonia	pneumonia	Resp	HP_0002090	Pneumonia	100.0
+468.1	Viral pneumonia	viral pneumonia	Resp	HP_0033214	Recurrent viral pneumonia	82.05
+468.51	Pulmonary aspergillosis	pulmonary aspergillosis	Resp	HP_0020103	Invasive pulmonary aspergillosis	88.46
+469	Bronchitis	bronchitis	Resp	HP_0012387	Bronchitis	100.0
+469.1	Acute bronchitis	acute bronchitis	Resp	HP_0012388	Acute bronchitis	100.0
+469.2	Chronic bronchitis	chronic bronchitis	Resp	HP_0004469	Chronic bronchitis	100.0
+470	Acute bronchiolitis	acute bronchiolitis	Resp	HP_0011950	Bronchiolitis	80.0
+471.2	Deviated nasal septum	deviated nasal septum	Resp	HP_0004411	Deviated nasal septum	100.0
+471.5	Nasal polyps	nasal polyps	Resp	HP_0100582	Nasal polyposis	100.0
+472.1	Paralysis of vocal cords and larynx	paralysis of vocal cords and larynx	Resp	HP_0001605	Vocal cord paralysis	85.11
+472.2	Polyp of vocal cord and larynx	polyp of vocal cord and larynx	Resp	HP_0032041	Vocal cord polyp	82.93
+472.3	Edema of larynx	edema of larynx	Resp	HP_0012027	Laryngeal edema	84.62
+472.4	Laryngeal spasm	laryngeal spasm	Resp	HP_0025425	Laryngospasm	84.62
+472.5	Stenosis of larynx	stenosis of larynx	Resp	HP_0001602	Laryngeal stenosis	86.67
+474	Chronic obstructive pulmonary disease [COPD]	chronic obstructive pulmonary disease copd	Resp	HP_0006510	Chronic pulmonary obstruction	100.0
+474.1	Emphysema	emphysema	Resp	HP_0002097	Emphysema	100.0
+474.13	Centrilobular emphysema*	centrilobular emphysema	Resp	HP_0032966	Centrilobular emphysema	100.0
+475	Asthma	asthma	Resp	HP_0002099	Asthma	100.0
+476	Bronchiectasis	bronchiectasis	Resp	HP_0002110	Bronchiectasis	100.0
+477.2	Hypersensitivity pneumonitis	hypersensitivity pneumonitis	Resp	HP_0006516	Hypersensitivity pneumonitis	100.0
+478	Aspiration pneumonia	aspiration pneumonia	Resp	HP_0011951	Aspiration pneumonia	100.0
+479.1	Acute respiratory distress syndrome [ARDS]*	acute respiratory distress syndrome ards	Resp	HP_0033677	Acute respiratory distress syndrome	100.0
+479.3	Respiratory failure	respiratory failure	Resp	HP_0002878	Respiratory failure	100.0
+479.31	Acute respiratory failure	acute respiratory failure	Resp	HP_0002878	Respiratory failure	88.37
+479.6	Pulmonary collapse [Atelectasis]	pulmonary collapse atelectasis	Resp	HP_0100750	Atelectasis	84.0
+480	Pulmonary edema	pulmonary edema	Resp	HP_0100598	Pulmonary edema	100.0
+480.1	Acute pulmonary edema	acute pulmonary edema	Resp	HP_0100598	Pulmonary edema	86.49
+480.2	Chronic pulmonary edema	chronic pulmonary edema	Resp	HP_0100598	Pulmonary edema	80.0
+481	Interstitial pulmonary diseases	interstitial pulmonary diseases	Resp	HP_0006530	Abnormal pulmonary interstitial morphology	100.0
+481.2	Alveolar proteinosis	alveolar proteinosis	Resp	HP_0006517	Intraalveolar phospholipid accumulation	100.0
+481.4	Pulmonary fibrosis	pulmonary fibrosis	Resp	HP_0002206	Pulmonary fibrosis	100.0
+481.42	Idiopathic pulmonary fibrosis	idiopathic pulmonary fibrosis	Resp	HP_0002206	Pulmonary fibrosis	80.0
+481.43	Interstitial pneumonitis	interstitial pneumonitis	Resp	HP_0006515	Interstitial pneumonitis	100.0
+481.45	Cryptogenic organizing pneumonia	cryptogenic organizing pneumonia	Resp	HP_0011945	Bronchiolitis obliterans organizing pneumonia	100.0
+481.46	Desquamative interstitial pneumonia	desquamative interstitial pneumonia	Resp	HP_0005942	Desquamative interstitial pneumonitis	92.86
+481.6	Lymphoid interstitial pneumonia	lymphoid interstitial pneumonia	Resp	HP_0006527	Lymphocytic interstitial pneumonia	100.0
+482.11	Abscess of lung	abscess of lung	Resp	HP_0025044	Lung abscess	100.0
+482.2	Pyothorax (empyema)	pyothorax empyema	Resp	HP_0011919	Pleural empyema	81.82
+483	Pleural effusion	pleural effusion	Resp	HP_0002202	Pleural effusion	100.0
+484.1	Spontaneous pneumothorax	spontaneous pneumothorax	Resp	HP_0002108	Spontaneous pneumothorax	100.0
+485	Chronic respiratory failure	chronic respiratory failure	Resp	HP_0002878	Respiratory failure	82.61
+486.21	Bronchospasm	bronchospasm	Resp	HP_0025428	Bronchospasm	100.0
+486.5	Abnormal sputum	abnormal sputum	Resp	HP_0032016	Abnormal sputum	100.0
+487.1	Epistaxis	epistaxis	Resp	HP_0000421	Epistaxis	100.0
+487.3	Hemoptysis	hemoptysis	Resp	HP_0002105	Hemoptysis	100.0
+488	Abnormalities of breathing	abnormalities of breathing	Resp	HP_0002094	Dyspnea	100.0
+488.1	Dyspnea [Shortness of breath]	dyspnea shortness of breath	Resp	HP_0002094	Dyspnea	100.0
+488.11	Orthopnea	orthopnea	Resp	HP_0012764	Orthopnea	100.0
+488.2	Hyperventilation	hyperventilation	Resp	HP_0002883	Hyperventilation	100.0
+488.3	Periodic breathing [Cheyne-Stokes]	periodic breathing cheyne-stokes	Resp	HP_0012196	Cheyne-Stokes respiration	88.14
+488.4	Tachypnea	tachypnea	Resp	HP_0002789	Tachypnea	100.0
+488.5	Stridor	stridor	Resp	HP_0010307	Stridor	100.0
+488.6	Wheezing	wheezing	Resp	HP_0030828	Wheezing	100.0
+488.9	Snoring*	snoring	Resp	HP_0025267	Snoring	100.0
+491	Pleurisy	pleurisy	Resp	HP_0002102	Pleuritis	100.0
+492	Tracheoesophageal fistula	tracheoesophageal fistula	Resp	HP_0002575	Tracheoesophageal fistula	100.0
+494.1	Dysphonia	dysphonia	Resp	HP_0001618	Dysphonia	100.0
+494.2	Aphonia	aphonia	Resp	HP_0001686	Loss of voice	100.0
+495.1	Solitary pulmonary nodule	solitary pulmonary nodule	Resp	HP_0033609	Solid pulmonary nodule	85.11
+496	Abnormal results of pulmonary function studies	abnormal results of pulmonary function studies	Resp	HP_0030878	Abnormality on pulmonary function testing	82.86
+497	Respiratory arrest	respiratory arrest	Resp	HP_0005943	Respiratory arrest	100.0
+498.1	Hypoxemia	hypoxemia	Resp	HP_0012418	Hypoxemia	100.0
+498.2	Cyanosis	cyanosis	Resp	HP_0000961	Cyanosis	100.0
+500.1	Anodontia	anodontia	GI	HP_0000674	Anodontia	100.0
+500.3	Supernumerary teeth	supernumerary teeth	GI	HP_0011069	Supernumerary tooth	100.0
+500.41	Impacted teeth*	impacted teeth	GI	HP_0001571	Multiple impacted teeth	100.0
+501	Dental caries	dental caries	GI	HP_0000670	Carious teeth	100.0
+502.7	Atrophy of edentulous alveolar ridge	atrophy of edentulous alveolar ridge	GI	HP_0006308	Atrophy of alveolar ridges	84.62
+503.5	Periapical abscess	periapical abscess	GI	HP_0030758	Periapical tooth abscess	83.33
+504	Periodontal diseases	periodontal diseases	GI	HP_0000166	Severe periodontitis	85.0
+504.1	Gingivitis	gingivitis	GI	HP_0000230	Gingivitis	100.0
+504.2	Gingival recession	gingival recession	GI	HP_0030816	Gingival recession	100.0
+504.3	Periodontitis	periodontitis	GI	HP_0000704	Periodontitis	100.0
+504.4	Gingival enlargement*	gingival enlargement	GI	HP_0000212	Gingival overgrowth	100.0
+506.3	Sialoadenitis	sialoadenitis	GI	HP_0031281	Sialadenitis	84.21
+506.51	Dry mouth*	dry mouth	GI	HP_0000217	Xerostomia	100.0
+507	Lesions of mouth	lesions of mouth	GI	HP_0012290	Mouth neoplasm	100.0
+507.1	Stomatitis	stomatitis	GI	HP_0010280	Stomatitis	100.0
+507.11	Recurrent oral aphthae [Recurrent aphthous stomatitis]	recurrent oral aphthae recurrent aphthous stomatitis	GI	HP_0011107	Recurrent aphthous stomatitis	100.0
+507.3	Oral leukoplakia	oral leukoplakia	GI	HP_0002745	Oral leukoplakia	100.0
+507.31	Hairy leukoplakia*	hairy leukoplakia	GI	HP_0025126	Oral hairy leukoplakia	87.8
+509.1	Glossitis	glossitis	GI	HP_0000206	Glossitis	100.0
+509.2	Geographic tongue	geographic tongue	GI	HP_0025252	Geographic tongue	100.0
+509.3	Hypertrophy of tongue papillae	hypertrophy of tongue papillae	GI	HP_0000158	Macroglossia	81.82
+509.5	Plicated tongue	plicated tongue	GI	HP_0000221	Furrowed tongue	100.0
+510.2	Esophagitis	esophagitis	GI	HP_0100633	Esophagitis	100.0
+510.6	Diverticulum of esophagus	diverticulum of esophagus	GI	HP_0100628	Esophageal diverticulum	93.02
+510.8	Barrett's esophagus	barretts esophagus	GI	HP_0100580	Barrett esophagus	100.0
+511	Gastro-esophageal reflux disease	gastro-esophageal reflux disease	GI	HP_0002020	Gastroesophageal reflux	94.74
+512	Dysphagia	dysphagia	GI	HP_0002015	Dysphagia	100.0
+512.1	Dysphagia, oropharyngeal phase	dysphagia oropharyngeal phase	GI	HP_0200136	Oral-pharyngeal dysphagia	87.5
+513	Peptic ulcer	peptic ulcer	GI	HP_0004398	Peptic ulcer	100.0
+513.1	Esophageal ulcer	esophageal ulcer	GI	HP_0004791	Esophageal ulceration	100.0
+513.2	Gastric ulcer	gastric ulcer	GI	HP_0002592	Gastric ulcer	100.0
+513.3	Duodenal ulcer	duodenal ulcer	GI	HP_0002588	Duodenal ulcer	100.0
+514	Gastrointestinal obstruction	gastrointestinal obstruction	GI	HP_0004796	Gastrointestinal obstruction	100.0
+514.2	Intestinal obstruction	intestinal obstruction	GI	HP_0005214	Intestinal obstruction	100.0
+514.3	Ileus	ileus	GI	HP_0002595	Ileus	100.0
+514.31	Paralytic ileus	paralytic ileus	GI	HP_0002590	Paralytic ileus	100.0
+516.1	Pyloric stenosis	pyloric stenosis	GI	HP_0002021	Pyloric stenosis	100.0
+516.4	Gastroparesis	gastroparesis	GI	HP_0002578	Gastroparesis	100.0
+516.6	Achlorhydria	achlorhydria	GI	HP_0032448	Achlorhydria	100.0
+517	Gastrointestinal angiodysplasia	gastrointestinal angiodysplasia	GI	HP_0000471	Gastrointestinal angiodysplasia	100.0
+520	Hernia	hernia	GI	HP_0100790	Hernia	100.0
+520.1	Hernia of the abdominal wall	hernia of the abdominal wall	GI	HP_0004299	Hernia of the abdominal wall	100.0
+520.11	Inguinal hernia	inguinal hernia	GI	HP_0000023	Inguinal hernia	100.0
+520.12	Femoral hernia	femoral hernia	GI	HP_0100541	Femoral hernia	100.0
+520.13	Umbilical hernia	umbilical hernia	GI	HP_0001537	Umbilical hernia	100.0
+520.14	Ventral hernia	ventral hernia	GI	HP_0002933	Ventral hernia	100.0
+520.15	Incisional hernia	incisional hernia	GI	HP_0004872	Incisional hernia	100.0
+522	Gastrointestinal inflammation	gastrointestinal inflammation	GI	HP_0004386	Gastrointestinal inflammation	100.0
+522.11	Crohn's disease	crohns disease	GI	HP_0100280	Crohn's disease	100.0
+522.12	Ulcerative colitis	ulcerative colitis	GI	HP_0100279	Ulcerative colitis	100.0
+522.6	Eosinophilic gastroenteritis and colitis	eosinophilic gastroenteritis and colitis	GI	HP_0032064	Gastrointestinal eosinophilia	86.79
+522.61	Eosinophilic esophagitis	eosinophilic esophagitis	GI	HP_0410151	Eosinophilic infiltration of the esophagus	100.0
+522.62	Eosinophilic gastroenteritis	eosinophilic gastroenteritis	GI	HP_0032064	Gastrointestinal eosinophilia	100.0
+522.63	Eosinophilic colitis	eosinophilic colitis	GI	HP_0031813	Colonic eosinophilia	100.0
+522.8	Duodenitis	duodenitis	GI	HP_0033117	Duodenitis	100.0
+522.9	Gastritis	gastritis	GI	HP_0005263	Gastritis	100.0
+522.91	Atrophic gastritis	atrophic gastritis	GI	HP_0002582	Atrophic gastritis	80.0
+523.2	Diverticula of colon	diverticula of colon	GI	HP_0002253	Colonic diverticula	100.0
+523.3	Gastric diverticulum	gastric diverticulum	GI	HP_0100808	Gastric diverticulum	100.0
+524.3	Megacolon (other than Hirschsprung's)	megacolon other than hirschsprungs	GI	HP_0002251	Aganglionic megacolon	100.0
+525	Intestinal malabsorption	intestinal malabsorption	GI	HP_0002024	Malabsorption	100.0
+525.1	Celiac disease	celiac disease	GI	HP_0002608	Celiac disease	100.0
+525.31	Lactose intolerance*	lactose intolerance	GI	HP_0004789	Lactose intolerance	100.0
+527	Abdominal pain	abdominal pain	GI	HP_0002027	Abdominal pain	100.0
+528	Nausea and vomiting	nausea and vomiting	GI	HP_0002017	Nausea and vomiting	100.0
+528.1	Nausea	nausea	GI	HP_0002018	Nausea	100.0
+528.2	Vomiting	vomiting	GI	HP_0002013	Vomiting	100.0
+528.21	Vomiting of fecal matter	vomiting of fecal matter	GI	HP_0025089	Feculent vomiting	100.0
+529.1	Diarrhea	diarrhea	GI	HP_0002014	Diarrhea	100.0
+529.2	Abdominal distension and flatulence	abdominal distension and flatulence	GI	HP_0003270	Abdominal distention	82.05
+529.3	Fecal incontinence	fecal incontinence	GI	HP_0002607	Bowel incontinence	100.0
+529.5	Constipation	constipation	GI	HP_0002019	Constipation	100.0
+529.6	Halitosis*	halitosis	GI	HP_0100812	Halitosis	100.0
+530.1	Anal fissure	anal fissure	GI	HP_0012390	Anal fissure	100.0
+530.2	Anorectal abscess	anorectal abscess	GI	HP_0033150	Anorectal abscess	100.0
+530.3	Rectal prolapse	rectal prolapse	GI	HP_0002035	Rectal prolapse	100.0
+532.1	Intestinal fistula	intestinal fistula	GI	HP_0100819	Intestinal fistula	100.0
+532.2	Intestinal perforation	intestinal perforation	GI	HP_0031368	Intestinal perforation	100.0
+532.3	Intussusception	intussusception	GI	HP_0002576	Intussusception	100.0
+532.4	Volvulus	volvulus	GI	HP_0002580	Volvulus	100.0
+537	Abnormality of the peritoneum	abnormality of the peritoneum	GI	HP_0002585	Abnormality of the peritoneum	100.0
+537.1	Peritonitis	peritonitis	GI	HP_0002586	Peritonitis	100.0
+537.2	Hemoperitoneum	hemoperitoneum	GI	HP_0011854	Hemoperitoneum	100.0
+540	Hepatitis	hepatitis	GI	HP_0012115	Hepatitis	100.0
+540.1	Chronic hepatitis	chronic hepatitis	GI	HP_0200123	Chronic hepatitis	100.0
+540.2	Acute hepatitis	acute hepatitis	GI	HP_0200119	Acute hepatitis	100.0
+540.3	Viral hepatitits	viral hepatitits	GI	HP_0006562	Viral hepatitis	85.71
+542.3	Hepatic failure	hepatic failure	GI	HP_0001399	Hepatic failure	100.0
+542.4	Portal hypertension	portal hypertension	GI	HP_0001409	Portal hypertension	100.0
+544	Biliary cirrhosis	biliary cirrhosis	GI	HP_0002613	Biliary cirrhosis	100.0
+544.1	Primary biliary cirrhosis*	primary biliary cirrhosis	GI	HP_0002613	Biliary cirrhosis	80.95
+546.1	Hepatic necrosis	hepatic necrosis	GI	HP_0002605	Hepatic necrosis	100.0
+546.2	Abscess of liver	abscess of liver	GI	HP_0100523	Liver abscess	100.0
+546.3	Hepatomegaly	hepatomegaly	GI	HP_0002240	Hepatomegaly	100.0
+546.31	Hepatosplenomegaly*	hepatosplenomegaly	GI	HP_0001433	Hepatosplenomegaly	100.0
+550.1	Gallstones [Cholelithiasis]	gallstones cholelithiasis	GI	HP_0001081	Cholelithiasis	100.0
+550.2	Cholecystitis	cholecystitis	GI	HP_0001082	Cholecystitis	100.0
+550.3	Gallbladder perforation	gallbladder perforation	GI	HP_0030154	Gallbladder perforation	100.0
+552.1	Cholangitis	cholangitis	GI	HP_0030151	Cholangitis	100.0
+552.11	Primary sclerosing cholangitis*	primary sclerosing cholangitis	GI	HP_0030991	Sclerosing cholangitis	80.0
+554.1	Pancreatitis	pancreatitis	GI	HP_0001733	Pancreatitis	100.0
+554.11	Acute pancreatitis	acute pancreatitis	GI	HP_0001735	Acute pancreatitis	100.0
+554.12	Chronic pancreatitis	chronic pancreatitis	GI	HP_0006280	Chronic pancreatitis	100.0
+554.2	Cyst and pseudocyst of pancreas	cyst and pseudocyst of pancreas	GI	HP_0005206	Pancreatic pseudocyst	86.36
+554.3	Exocrine pancreatic insufficiency*	exocrine pancreatic insufficiency	GI	HP_0001738	Exocrine pancreatic insufficiency	100.0
+555	Ascites	ascites	GI	HP_0001541	Ascites	100.0
+556.4	Abdominal rigidity	abdominal rigidity	GI	HP_0032545	Abdominal rigidity	100.0
+557	Gastrointestinal hemorrhage	gastrointestinal hemorrhage	GI	HP_0002239	Gastrointestinal hemorrhage	100.0
+557.1	Hematemesis	hematemesis	GI	HP_0002248	Hematemesis	100.0
+580	Glomerular diseases	glomerular diseases	Genitourinary	HP_0100820	Glomerulopathy	85.71
+580.3	Nephrotic syndrome	nephrotic syndrome	Genitourinary	HP_0000100	Nephrotic syndrome	100.0
+581.1	Pyelonephritis	pyelonephritis	Genitourinary	HP_0012330	Pyelonephritis	100.0
+581.11	Acute pyelonephritis	acute pyelonephritis	Genitourinary	HP_0012330	Pyelonephritis	81.48
+581.13	Renal and perinephric abscess	renal and perinephric abscess	Genitourinary	HP_0032619	Perinephric abscess	85.71
+581.31	Hydronephrosis	hydronephrosis	Genitourinary	HP_0000126	Hydronephrosis	100.0
+581.32	Hydroureter	hydroureter	Genitourinary	HP_0000072	Hydroureter	100.0
+581.34	Vesicoureteral reflux	vesicoureteral reflux	Genitourinary	HP_0000076	Vesicoureteral reflux	100.0
+582	Acute kidney failure	acute kidney failure	Genitourinary	HP_0001919	Acute kidney injury	100.0
+583	Chronic kidney disease	chronic kidney disease	Genitourinary	HP_0012622	Chronic kidney disease	100.0
+584	Renal failure	renal failure	Genitourinary	HP_0000083	Renal insufficiency	100.0
+586.1	Small kidney	small kidney	Genitourinary	HP_0000089	Renal hypoplasia	100.0
+586.2	Cyst of kidney	cyst of kidney	Genitourinary	HP_0000107	Renal cyst	100.0
+586.6	Nephroptosis	nephroptosis	Genitourinary	HP_0011126	Nephroptosis	100.0
+588.12	Nephrogenic diabetes insipidus	nephrogenic diabetes insipidus	Genitourinary	HP_0009806	Nephrogenic diabetes insipidus	100.0
+589.1	Membranous glomerulonephritis	membranous glomerulonephritis	Genitourinary	HP_0012578	Membranous nephropathy	100.0
+591	Urinary tract infection	urinary tract infection	Genitourinary	HP_0000010	Recurrent urinary tract infections	100.0
+593	Hematuria	hematuria	Genitourinary	HP_0000790	Hematuria	100.0
+593.1	Gross hematuria	gross hematuria	Genitourinary	HP_0012587	Macroscopic hematuria	100.0
+593.2	Microscopic hematuria	microscopic hematuria	Genitourinary	HP_0002907	Microscopic hematuria	100.0
+594	Abnormality of urination	abnormality of urination	Genitourinary	HP_0032943	Abnormal urine pH	88.89
+594.1	Retention of urine	retention of urine	Genitourinary	HP_0000016	Urinary retention	81.48
+594.11	Urinary hesitancy	urinary hesitancy	Genitourinary	HP_0000019	Urinary hesitancy	100.0
+594.2	Dysuria	dysuria	Genitourinary	HP_0100518	Dysuria	100.0
+594.3	Urinary incontinence	urinary incontinence	Genitourinary	HP_0000020	Urinary incontinence	100.0
+594.32	Stress incontinence	stress incontinence	Genitourinary	HP_0010992	Stress urinary incontinence	80.0
+594.33	Nocturnal enuresis	nocturnal enuresis	Genitourinary	HP_0010677	Enuresis nocturna	100.0
+594.41	Nocturia	nocturia	Genitourinary	HP_0000017	Nocturia	100.0
+594.6	Urinary urgency	urinary urgency	Genitourinary	HP_0000012	Urinary urgency	100.0
+596.2	Overactive bladder	overactive bladder	Genitourinary	HP_0000012	Urinary urgency	100.0
+596.3	Diverticulum of bladder	diverticulum of bladder	Genitourinary	HP_0000015	Bladder diverticulum	100.0
+597.1	Urethral stricture	urethral stricture	Genitourinary	HP_0012227	Urethral stricture	100.0
+597.3	Urethral fistula	urethral fistula	Genitourinary	HP_0010480	Urethral fistula	100.0
+597.4	Urethral diverticulum	urethral diverticulum	Genitourinary	HP_0008722	Urethral diverticulum	100.0
+600	Benign prostatic hyperplasia	benign prostatic hyperplasia	Genitourinary	HP_0008711	Benign prostatic hyperplasia	100.0
+601.1	Prostatitis	prostatitis	Genitourinary	HP_0000024	Prostatitis	100.0
+602.4	Elevated prostate specific antigen [PSA]	elevated prostate specific antigen psa	Genitourinary	HP_0025020	Elevated prostate-specific antigen level	84.85
+603.6	Scrotal pain*	scrotal pain	Genitourinary	HP_0030155	Scrotal pain	100.0
+604.4	Priapism	priapism	Genitourinary	HP_0200023	Priapism	100.0
+605	Male sexual dysfuction	male sexual dysfuction	Genitourinary	HP_0040307	Male sexual dysfunction	92.68
+605.1	Male erectile dysfunction	male erectile dysfunction	Genitourinary	HP_0100639	Erectile dysfunction	87.18
+609	Male infertility	male infertility	Genitourinary	HP_0003251	Male infertility	100.0
+609.1	Azoospermia	azoospermia	Genitourinary	HP_0000027	Azoospermia	100.0
+609.2	Oligospermia	oligospermia	Genitourinary	HP_0000798	Oligospermia	100.0
+610.2	Fibroadenosis of breast	fibroadenosis of breast	Genitourinary	HP_0010619	Fibroadenoma of the breast	100.0
+612.1	Galactorrhea	galactorrhea	Genitourinary	HP_0100829	Galactorrhea	100.0
+612.2	Hypertrophy of breast (Gynecomastia)	hypertrophy of breast gynecomastia	Genitourinary	HP_0010313	Breast hypertrophy	82.54
+612.3	Breast hypoplasia	breast hypoplasia	Genitourinary	HP_0003187	Breast hypoplasia	100.0
+614.54	Abscess or ulceration of vulva	abscess or ulceration of vulva	Genitourinary	HP_0033587	Vulvar abscess	80.0
+615	Endometriosis	endometriosis	Genitourinary	HP_0030127	Endometriosis	100.0
+618.11	Cystocele	cystocele	Genitourinary	HP_0100645	Cystocele	100.0
+618.12	Rectocele	rectocele	Genitourinary	HP_0100822	Rectocele	100.0
+619.31	Incompetence of cervix uteri	incompetence of cervix uteri	Genitourinary	HP_0030009	Cervical insufficiency	84.21
+620.1	Dysplasia of cervix	dysplasia of cervix	Genitourinary	HP_0030008	Cervical agenesis	81.25
+621	Endometrial hyperplasia	endometrial hyperplasia	Genitourinary	HP_0040298	Hyperplasia of the endometrium	91.3
+625.1	Dyspareunia	dyspareunia	Genitourinary	HP_0030016	Dyspareunia	100.0
+625.3	Vulvodynia	vulvodynia	Genitourinary	HP_0030943	Vulvodynia	100.0
+626.13	Irregular menstrual cycle	irregular menstrual cycle	Genitourinary	HP_0000858	Irregular menstruation	88.89
+626.14	Irregular menstrual bleeding	irregular menstrual bleeding	Genitourinary	HP_0000858	Irregular menstruation	86.96
+626.2	Dysmenorrhea	dysmenorrhea	Genitourinary	HP_0100607	Dysmenorrhea	100.0
+628	Ovarian cyst	ovarian cyst	Genitourinary	HP_0000138	Ovarian cyst	100.0
+629	Female infertility	female infertility	Genitourinary	HP_0008222	Female infertility	100.0
+660	Infection of the skin	infection of the skin	Derm	HP_0100658	Cellulitis	100.0
+660.12	Dermatophytosis	dermatophytosis	Derm	HP_0032515	Deep dermatophytosis	85.71
+660.2	Bacterial infection of the skin	bacterial infection of the skin	Derm	HP_0100658	Cellulitis	100.0
+660.7	Pilonidal cyst	pilonidal cyst	Derm	HP_0010769	Pilonidal sinus	100.0
+664.3	Parapsoriasis	parapsoriasis	Derm	HP_0003765	Psoriasiform dermatitis	81.82
+665	Psoriasis	psoriasis	Derm	HP_0003765	Psoriasiform dermatitis	100.0
+665.3	Other psoriasis	other psoriasis	Derm	HP_0003765	Psoriasiform dermatitis	100.0
+666	Urticaria	urticaria	Derm	HP_0001025	Urticaria	100.0
+666.2	Idiopathic urticaria	idiopathic urticaria	Derm	HP_0410133	Chronic idiopathic urticaria	82.61
+666.4	Dermatographic urticaria	dermatographic urticaria	Derm	HP_0011971	Dermatographic urticaria	100.0
+666.5	Vibratory urticaria	vibratory urticaria	Derm	HP_0410138	Vibratory urticaria	100.0
+667.3	Erythema nodosum	erythema nodosum	Derm	HP_0012219	Erythema nodosum	100.0
+668	Dermatitis [eczema]	dermatitis eczema	Derm	HP_0000976	Eczematoid dermatitis	81.25
+668.1	Atopic dermatitis	atopic dermatitis	Derm	HP_0001047	Atopic dermatitis	100.0
+668.2	Seborrheic dermatitis	seborrheic dermatitis	Derm	HP_0001051	Seborrheic dermatitis	100.0
+668.3	Contact dermatitis	contact dermatitis	Derm	HP_0032282	Contact dermatitis	100.0
+669.1	Pyoderma gangrenosum	pyoderma gangrenosum	Derm	HP_0025452	Pyoderma gangrenosum	100.0
+670	Seborrheic keratosis	seborrheic keratosis	Derm	HP_0031287	Seborrheic keratosis	100.0
+673.1	Actinic keratosis	actinic keratosis	Derm	HP_0025127	Actinic keratosis	100.0
+674.1	Hypopigmentation	hypopigmentation	Derm	HP_0001010	Hypopigmentation of the skin	100.0
+674.11	Vitiligo	vitiligo	Derm	HP_0001045	Vitiligo	100.0
+674.2	Hypepigmentation	hypepigmentation	Derm	HP_0001010	Hypopigmentation of the skin	83.33
+674.21	Cafe au lait spots*	cafe au lait spots	Derm	HP_0000957	Cafe-au-lait spot	100.0
+674.22	Freckles*	freckles	Derm	HP_0001480	Freckling	100.0
+674.23	Acanthosis nigricans	acanthosis nigricans	Derm	HP_0000956	Acanthosis nigricans	100.0
+675.2	Striae atrophicae	striae atrophicae	Derm	HP_0001065	Striae distensae	100.0
+677	Chilblains	chilblains	Derm	HP_0009710	Chilblains	100.0
+679.21	Pallor	pallor	Derm	HP_0000980	Pallor	100.0
+679.22	Flushing	flushing	Derm	HP_0031284	Flushing	100.0
+679.4	Pruritus	pruritus	Derm	HP_0000989	Pruritus	100.0
+679.5	Pyoderma	pyoderma	Derm	HP_0000999	Pyoderma	100.0
+680	Epidermal thickening	epidermal thickening	Derm	HP_0011368	Epidermal thickening	100.0
+680.4	Ainhum	ainhum	Derm	HP_0031009	Ainhum	100.0
+682.1	Cutaneous cyst	cutaneous cyst	Derm	HP_0025245	Cutaneous cyst	100.0
+682.11	Sebaceous cyst [Epidermal cyst]	sebaceous cyst epidermal cyst	Derm	HP_0200040	Epidermoid cyst	80.85
+682.3	Hidradenitis suppurativa	hidradenitis suppurativa	Derm	HP_0040154	Acne inversa	100.0
+682.4	Acne	acne	Derm	HP_0001061	Acne	100.0
+683.1	Ingrowing nail	ingrowing nail	Derm	HP_0012710	Ingrown nail	88.0
+683.2	Nail dystrophy*	nail dystrophy	Derm	HP_0008404	Nail dystrophy	100.0
+683.4	Onycholysis*	onycholysis	Derm	HP_0001806	Onycholysis	100.0
+684.1	Alopecia	alopecia	Derm	HP_0001596	Alopecia	100.0
+684.11	Alopecia Areata	alopecia areata	Derm	HP_0002232	Patchy alopecia	100.0
+684.12	Telogen effluvium	telogen effluvium	Derm	HP_0025470	Telogen effluvium	100.0
+684.13	Scarring hair loss*	scarring hair loss	Derm	HP_0002293	Alopecia of scalp	83.87
+684.2	Hypertrichosis and hirsutism	hypertrichosis and hirsutism	Derm	HP_0000998	Hypertrichosis	80.0
+684.8	Abnormalities of the hair	abnormalities of the hair	Derm	HP_0001595	Abnormal hair morphology	100.0
+685.5	Anhidrosis	anhidrosis	Derm	HP_0000970	Anhidrosis	100.0
+685.8	Hyperhidrosis	hyperhidrosis	Derm	HP_0000975	Hyperhidrosis	100.0
+685.82	Generalized hyperhidrosis	generalized hyperhidrosis	Derm	HP_0000975	Hyperhidrosis	81.25
+686.1	Pressure ulcer	pressure ulcer	Derm	HP_0012399	Pressure ulcer	100.0
+688.5	Giant cell granuloma	giant cell granuloma	Derm	HP_0100955	Giant cell granuloma of mandible	84.0
+700.11	Systemic lupus erythematosus [SLE]	systemic lupus erythematosus sle	Musc/Skel	HP_0002725	Systemic lupus erythematosus	100.0
+700.13	Drug-induced systemic lupus erythematosus*	drug-induced systemic lupus erythematosus	Musc/Skel	HP_0002725	Systemic lupus erythematosus	81.97
+700.4	Inflammatory myopathy	inflammatory myopathy	Musc/Skel	HP_0009071	Inflammatory myopathy	100.0
+700.41	Myositis	myositis	Musc/Skel	HP_0100614	Myositis	100.0
+701.1	Osteomyelitis	osteomyelitis	Musc/Skel	HP_0002754	Osteomyelitis	100.0
+702.3	Enteropathic arthropathies	enteropathic arthropathies	Musc/Skel	HP_0002821	Neuropathic arthropathy	80.0
+703.1	Hyperuricemia	hyperuricemia	Musc/Skel	HP_0002149	Hyperuricemia	100.0
+703.11	Gout	gout	Musc/Skel	HP_0001997	Gout	100.0
+703.2	Chondrocalcinosis	chondrocalcinosis	Musc/Skel	HP_0000934	Chondrocalcinosis	100.0
+704.2	Wegener's granulomatosis	wegeners granulomatosis	Musc/Skel	HP_0002955	Granulomatosis	82.35
+705.1	Rheumatoid arthritis	rheumatoid arthritis	Musc/Skel	HP_0001370	Rheumatoid arthritis	100.0
+705.2	Juvenile rheumatoid arthritis [JRA/JIA]	juvenile rheumatoid arthritis jrajia	Musc/Skel	HP_0005681	Juvenile rheumatoid arthritis	88.89
+706.1	Sacroiliitis NEC	sacroiliitis nec	Musc/Skel	HP_0012317	Sacroiliac arthritis	81.82
+707	Other arthropathies	other arthropathies	Musc/Skel	HP_0003040	Arthropathy	100.0
+708	Osteoarthritis	osteoarthritis	Musc/Skel	HP_0002758	Osteoarthritis	100.0
+709.11	Mallet finger	mallet finger	Musc/Skel	HP_0030771	Mallet finger	100.0
+709.21	Hallux valgus (Bunion)	hallux valgus bunion	Musc/Skel	HP_0001822	Hallux valgus	100.0
+709.22	Hallux rigidus	hallux rigidus	Musc/Skel	HP_0025004	Hallux rigidus	100.0
+709.24	Hammer toe	hammer toe	Musc/Skel	HP_0001765	Hammertoe	100.0
+710.21	Coxa valga	coxa valga	Musc/Skel	HP_0002673	Coxa valga	100.0
+710.22	Coxa vara	coxa vara	Musc/Skel	HP_0002812	Coxa vara	100.0
+710.23	Protrusio acetabuli	protrusio acetabuli	Musc/Skel	HP_0003179	Protrusio acetabuli	100.0
+710.41	Flat foot [pes planus]	flat foot pes planus	Musc/Skel	HP_0001763	Pes planus	100.0
+710.42	Club foot	club foot	Musc/Skel	HP_0001762	Talipes equinovarus	100.0
+710.43	Cavus deformity of foot	cavus deformity of foot	Musc/Skel	HP_0001760	Abnormal foot morphology	82.76
+712.6	Instability of joint	instability of joint	Musc/Skel	HP_0001388	Joint laxity	100.0
+712.61	Recurrent dislocation of joint	recurrent dislocation of joint	Musc/Skel	HP_0031869	Recurrent joint dislocation	100.0
+712.63	Spinal instabilities*	spinal instabilities	Musc/Skel	HP_0005881	Spinal instability	100.0
+713.1	Hemarthrosis	hemarthrosis	Musc/Skel	HP_0005261	Joint hemorrhage	100.0
+713.2	Effusion of joint	effusion of joint	Musc/Skel	HP_0032063	Ankle joint effusion	82.76
+713.3	Pain in joint	pain in joint	Musc/Skel	HP_0002829	Arthralgia	100.0
+713.31	Pain in shoulder	pain in shoulder	Musc/Skel	HP_0030834	Shoulder pain	100.0
+713.32	Pain in elbow	pain in elbow	Musc/Skel	HP_0030835	Elbow pain	100.0
+713.34	Pain in wrist*	pain in wrist	Musc/Skel	HP_0030836	Wrist pain	100.0
+713.35	Pain in joints of hand	pain in joints of hand	Musc/Skel	HP_0002829	Arthralgia	81.48
+713.36	Pain in hip	pain in hip	Musc/Skel	HP_0030838	Hip pain	100.0
+713.37	Pain in knee	pain in knee	Musc/Skel	HP_0030839	Knee pain	100.0
+713.4	Stiffness of joint	stiffness of joint	Musc/Skel	HP_0001387	Joint stiffness	100.0
+714.1	Kyphosis	kyphosis	Musc/Skel	HP_0002808	Kyphosis	100.0
+714.2	Lordosis	lordosis	Musc/Skel	HP_0003307	Hyperlordosis	100.0
+714.3	Scoliosis	scoliosis	Musc/Skel	HP_0002650	Scoliosis	100.0
+714.32	Thoracogenic scoliosis	thoracogenic scoliosis	Musc/Skel	HP_0002943	Thoracic scoliosis	83.33
+714.4	Spinal osteochondrosis	spinal osteochondrosis	Musc/Skel	HP_0040188	Osteochondrosis	81.08
+715.1	Spondylosis	spondylosis	Musc/Skel	HP_0003304	Spondylolysis	83.33
+715.2	Spondylolysis	spondylolysis	Musc/Skel	HP_0003304	Spondylolysis	100.0
+715.3	Spondylolisthesis	spondylolisthesis	Musc/Skel	HP_0003302	Spondylolisthesis	100.0
+715.4	Spinal stenosis	spinal stenosis	Musc/Skel	HP_0003416	Spinal canal stenosis	100.0
+716.1	Schmorl's nodes	schmorls nodes	Musc/Skel	HP_0030041	Schmorl's node	100.0
+716.2	Degenerative disc disease	degenerative disk disease	Musc/Skel	HP_0008419	Intervertebral disc degeneration	88.89
+717.3	Occipital neuralgia*	occipital neuralgia	Musc/Skel	HP_0012318	Occipital neuralgia	100.0
+718	Back pain	back pain	Musc/Skel	HP_0003418	Back pain	100.0
+718.3	Mid back pain	mid back pain	Musc/Skel	HP_0003418	Back pain	83.33
+718.4	Low back pain	low back pain	Musc/Skel	HP_0003419	Low back pain	100.0
+718.5	Sciatica	sciatica	Musc/Skel	HP_0011868	Sciatica	100.0
+719.11	Spasm of muscle	spasm of muscle	Musc/Skel	HP_0002487	Hyperkinetic movements	100.0
+719.2	Muscle calcification and ossification	muscle calcification and ossification	Musc/Skel	HP_0100249	Calcification of muscles	81.25
+719.6	Muscle wasting and atrophy	muscle wasting and atrophy	Musc/Skel	HP_0003202	Skeletal muscle atrophy	86.36
+719.8	Rhabdomyolysis	rhabdomyolysis	Musc/Skel	HP_0003201	Rhabdomyolysis	100.0
+719.9	Contractures	contractures	Musc/Skel	HP_0001371	Flexion contracture	100.0
+719.91	Contracture of tendon	contracture of tendon	Musc/Skel	HP_0001771	Achilles tendon contracture	85.71
+719.92	Contracture of joint	contracture of joint	Musc/Skel	HP_0001371	Flexion contracture	100.0
+721.11	Trigger finger	trigger finger	Musc/Skel	HP_0012276	Digital flexor tenosynovitis	100.0
+721.2	Ganglion cyst	ganglion cyst	Musc/Skel	HP_0020076	Wrist ganglion	82.35
+721.5	Bursitis	bursitis	Musc/Skel	HP_0025232	Bursitis	100.0
+721.6	Baker's cyst [popliteal cyst]	bakers cyst popliteal cyst	Musc/Skel	HP_0032072	Popliteal synovial cyst	86.79
+721.7	Synovial hypertrophy*	synovial hypertrophy	Musc/Skel	HP_0005186	Synovial hypertrophy	100.0
+723.2	Rotator cuff tear or rupture	rotator cuff tear or rupture	Musc/Skel	HP_0032201	Rotator cuff tear	82.05
+723.51	Achilles tendinitis	achilles tendinitis	Musc/Skel	HP_0025273	Achilles tendonitis	84.62
+723.6	Impingement syndrome of shoulder*	impingement syndrome of shoulder	Musc/Skel	HP_0030881	Shoulder impingement	80.0
+724.1	Myalgia	myalgia	Musc/Skel	HP_0003326	Myalgia	100.0
+724.4	Panniculitis	panniculitis	Musc/Skel	HP_0012490	Panniculitis	100.0
+724.5	Exostosis	exostosis	Musc/Skel	HP_0100777	Exostoses	82.35
+725.2	Juvenile osteochondrosis	juvenile osteochondrosis	Musc/Skel	HP_0010891	Morbus Scheuermann	88.46
+725.21	Coxa magna*	coxa magna	Musc/Skel	HP_0003279	Coxa magna	100.0
+726.1	Osteoporosis	osteoporosis	Musc/Skel	HP_0000939	Osteoporosis	100.0
+726.2	Pathologic fracture	pathologic fracture	Musc/Skel	HP_0002756	Pathologic fracture	100.0
+726.5	Osteomalacia	osteomalacia	Musc/Skel	HP_0002749	Osteomalacia	100.0
+726.6	Osteolysis*	osteolysis	Musc/Skel	HP_0002797	Osteolysis	100.0
+727.1	Osteonecrosis	osteonecrosis	Musc/Skel	HP_0010885	Avascular necrosis	100.0
+727.4	Hyperostosis of skull	hyperostosis of skull	Musc/Skel	HP_0004330	Increased skull ossification	100.0
+727.5	Cyst of bone	cyst of bone	Musc/Skel	HP_0012062	Bone cyst	100.0
+727.6	Hypertrophy of bone*	hypertrophy of bone	Musc/Skel	HP_0100774	Hyperostosis	100.0
+728.1	Chondromalacia	chondromalacia	Musc/Skel	HP_0002780	Bronchomalacia	80.0
+728.2	Osteochondritis dissecans	osteochondritis dissecans	Musc/Skel	HP_0010886	Osteochondritis dissecans	100.0
+731.1	Loss of height	loss of height	Musc/Skel	HP_0001824	Weight loss	83.33
+733.11	Maxillary hyperplasia	maxillary hyperplasia	Musc/Skel	HP_0430028	Hyperplasia of the maxilla	100.0
+733.12	Maxillary hypoplasia	maxillary hypoplasia	Musc/Skel	HP_0000327	Hypoplasia of the maxilla	100.0
+733.13	Mandibular hyperplasia	mandibular hyperplasia	Musc/Skel	HP_0000303	Mandibular prognathia	100.0
+733.14	Mandibular hypoplasia	mandibular hypoplasia	Musc/Skel	HP_0000347	Micrognathia	100.0
+733.31	Crowding of teeth	crowding of teeth	Musc/Skel	HP_0000678	Dental crowding	100.0
+733.6	Temporomandibular joint disorders	temporomandibular joint disorders	Musc/Skel	HP_0012478	Temporomandibular joint ankylosis	81.97
+733.61	Adhesions and ankylosis of temporomandibular joint	adhesions and ankylosis of temporomandibular joint	Musc/Skel	HP_0012478	Temporomandibular joint ankylosis	91.67
+733.62	Arthralgia of temporomandibular joint	arthralgia of temporomandibular joint	Musc/Skel	HP_0040312	Temporomandibular arthritis	85.29
+734.9	Jaw pain	jaw pain	Musc/Skel	HP_0040264	Jaw pain	100.0
+750.1	Aplasia/Hypoplasia of the brain	aplasiahypoplasia of the brain	Cong	HP_0007362	Aplasia/Hypoplasia of the brainstem	83.02
+750.11	Microcephaly	microcephaly	Cong	HP_0000252	Microcephaly	100.0
+750.12	Anencephaly	anencephaly	Cong	HP_0002323	Anencephaly	100.0
+750.14	Septo-optic dysplasia of brain*	septo-optic dysplasia of brain	Cong	HP_0100842	Septo-optic dysplasia	88.0
+750.15	Holoprosencephaly*	holoprosencephaly	Cong	HP_0001360	Holoprosencephaly	100.0
+750.3	Megalencephaly*	megalencephaly	Cong	HP_0001355	Megalencephaly	100.0
+751.1	Spina bifida	spina bifida	Cong	HP_0002414	Spina bifida	100.0
+751.11	Spina bifida occulta	spina bifida occulta	Cong	HP_0003298	Spina bifida occulta	100.0
+751.2	Craniorachischisis	craniorachischisis	Cong	HP_0030770	Craniorachischisis	100.0
+751.3	Encephalocele	encephalocele	Cong	HP_0002084	Encephalocele	100.0
+751.5	Hydromyelia	hydromyelia	Cong	HP_0100565	Hydromyelia	100.0
+751.6	Diastematomyelia	diastematomyelia	Cong	HP_0100563	Diastomatomyelia	88.24
+753	Congenital anomalies of eye	congenital anomalies of eye	Cong	HP_0001374	Congenital hip dislocation	82.93
+753.1	Aplasia/Hypoplasia affecting the eye	aplasiahypoplasia affecting the eye	Cong	HP_0008056	Aplasia/Hypoplasia affecting the eye	94.74
+753.12	Microphthalmos	microphthalmos	Cong	HP_0000568	Microphthalmia	100.0
+753.2	Congenital lens anomalies	congenital lens anomalies	Cong	HP_0001374	Congenital hip dislocation	80.95
+753.21	Congenital aphakia	congenital aphakia	Cong	HP_0007707	Congenital aphakia	100.0
+753.23	Congenital cataract	congenital cataract	Cong	HP_0000519	Developmental cataract	100.0
+753.4	Coloboma	coloboma	Cong	HP_0000589	Coloboma	100.0
+753.51	Absence of iris [Aniridia]	absence of iris aniridia	Cong	HP_0000526	Aniridia	90.0
+753.52	Rieger's anomaly*	riegers anomaly	Cong	HP_0000558	Rieger anomaly	100.0
+753.71	Blue sclera*	blue sclera	Cong	HP_0000592	Blue sclerae	100.0
+753.9	Congenital or developmental glaucoma	congenital or developmental glaucoma	Cong	HP_0001087	Developmental glaucoma	82.35
+754.11	Congenital ptosis	congenital ptosis	Cong	HP_0007970	Congenital ptosis	100.0
+755.1	Aplasia/Hypoplasia of the external ear	aplasiahypoplasia of the external ear	Cong	HP_0008772	Aplasia/Hypoplasia of the external ear	94.92
+755.11	Microtia	microtia	Cong	HP_0008551	Microtia	100.0
+755.2	Macrotia	macrotia	Cong	HP_0000400	Macrotia	100.0
+755.5	Prominent ear [Protruding ear]*	prominent ear protruding ear	Cong	HP_0000411	Protruding ear	100.0
+756.1	Branchial anomaly	branchial anomaly	Cong	HP_0009794	Branchial anomaly	100.0
+756.2	Preauricular sinus and cyst	preauricular sinus and cyst	Cong	HP_0004467	Preauricular pit	87.8
+756.3	Webbing of neck	webbing of neck	Cong	HP_0000465	Webbed neck	100.0
+756.41	Macrostomia	macrostomia	Cong	HP_0000154	Wide mouth	100.0
+756.42	Microstomia	microstomia	Cong	HP_0000160	Narrow mouth	100.0
+757	Oral cleft	oral cleft	Cong	HP_0000202	Oral cleft	100.0
+757.1	Cleft palate	cleft palate	Cong	HP_0000175	Cleft palate	100.0
+757.11	Cleft uvula [Bifid uvula]*	cleft uvula bifid uvula	Cong	HP_0000193	Bifid uvula	100.0
+757.2	Cleft lip	cleft lip	Cong	HP_0410030	Cleft lip	100.0
+758.2	Abnormal skull shape*	abnormal skull shape	Cong	HP_0002648	Abnormality of calvarial morphology	100.0
+758.21	Dolichocephaly*	dolichocephaly	Cong	HP_0000268	Dolichocephaly	100.0
+758.22	Plagiocephaly*	plagiocephaly	Cong	HP_0001357	Plagiocephaly	100.0
+758.23	Craniosynostosis*	craniosynostosis	Cong	HP_0001363	Craniosynostosis	100.0
+758.3	Craniofacial dysostosis*	craniofacial dysostosis	Cong	HP_0004439	Craniofacial dysostosis	100.0
+758.31	Mandibulofacial dysostosis*	mandibulofacial dysostosis	Cong	HP_0005321	Mandibulofacial dysostosis	100.0
+758.4	Macrocephaly*	macrocephaly	Cong	HP_0000256	Macrocephaly	100.0
+758.5	Hypertelorism	hypertelorism	Cong	HP_0000316	Hypertelorism	100.0
+758.61	Choanal atresia	choanal atresia	Cong	HP_0000453	Choanal atresia	100.0
+758.63	Agenesis and underdevelopment of nose*	agenesis and underdevelopment of nose	Cong	HP_0009927	Aplasia of the nose	81.82
+758.7	Wide cranial sutures of newborn	wide cranial sutures of newborn	Cong	HP_0010537	Wide cranial sutures	82.61
+759.1	Ankyloglossia	ankyloglossia	Cong	HP_0010296	Ankyloglossia	100.0
+759.2	Macroglossia	macroglossia	Cong	HP_0000158	Macroglossia	100.0
+762.11	Esophageal web*	esophageal web	Cong	HP_0100594	Esophageal web	100.0
+765.1	Meckel diverticulum	meckel diverticulum	Cong	HP_0002245	Meckel diverticulum	100.0
+765.3	Intestinal atresia	intestinal atresia	Cong	HP_0011100	Intestinal atresia	100.0
+765.5	Intestinal duplication*	intestinal duplication	Cong	HP_0100668	Intestinal duplication	100.0
+765.6	Ectopic anus*	ectopic anus	Cong	HP_0004397	Ectopic anus	100.0
+765.7	Persistent cloaca*	persistent cloaca	Cong	HP_0012621	Persistent cloaca	100.0
+766.1	Biliary atresia	biliary atresia	Cong	HP_0005912	Biliary atresia	100.0
+766.2	Cystic liver disease	cystic liver disease	Cong	HP_0006706	Cystic liver disease	100.0
+767.1	Annular pancreas	annular pancreas	Cong	HP_0001734	Annular pancreas	100.0
+770.31	Aplasia and hypoplasia of uterus	aplasia and hypoplasia of uterus	Cong	HP_0008684	Aplasia/hypoplasia of the uterus	100.0
+770.33	Bicornate uterus	bicornate uterus	Cong	HP_0000813	Bicornuate uterus	88.89
+770.34	Unicornate uterus	unicornate uterus	Cong	HP_0031909	Unicornuate uterus	89.66
+770.53	Imperforate hymen	imperforate hymen	Cong	HP_0030011	Imperforate hymen	100.0
+771.11	Undescended testis [Cryptorchidism]	undescended testis cryptorchidism	Cong	HP_0000028	Cryptorchidism	100.0
+771.12	Retractile testis	retractile testis	Cong	HP_0012646	Retractile testis	100.0
+771.21	Hypospadias	hypospadias	Cong	HP_0000047	Hypospadias	100.0
+771.23	Hypoplasia of penis	hypoplasia of penis	Cong	HP_0008736	Hypoplasia of penis	100.0
+771.27	Epispadias	epispadias	Cong	HP_0000039	Epispadias	100.0
+771.5	Atresia of vas deferens*	atresia of vas deferens	Cong	HP_0030997	Atretic vas deferens	100.0
+772.1	Hermaphroditism	hermaphroditism	Cong	HP_0010459	True hermaphroditism	83.87
+772.2	Pseudohermaphroditism*	pseudohermaphroditism	Cong	HP_0000037	Male pseudohermaphroditism	88.37
+773.1	Renal hypoplasia/aplasia	renal hypoplasiaaplasia	Cong	HP_0008678	Renal hypoplasia/aplasia	93.88
+773.11	Renal agenesis*	renal agenesis	Cong	HP_0000104	Renal agenesis	100.0
+773.12	Renal hypoplasia*	renal hypoplasia	Cong	HP_0000089	Renal hypoplasia	100.0
+773.2	Renal dysplasia	renal dysplasia	Cong	HP_0000110	Renal dysplasia	100.0
+773.32	Polycystic kidney	polycystic kidney	Cong	HP_0000113	Polycystic kidney dysplasia	100.0
+773.8	Ectopic kidney*	ectopic kidney	Cong	HP_0000086	Ectopic kidney	100.0
+774.3	Congenital megaureter*	congenital megaureter	Cong	HP_0008676	Congenital megaureter	100.0
+774.4	Agenesis of ureter*	agenesis of ureter	Cong	HP_0012300	Ureteral agenesis	85.71
+775.1	Exstrophy	exstrophy	Cong	HP_0100548	Exstrophy	100.0
+775.2	Congenital posterior urethral valves*	congenital posterior urethral valves	Cong	HP_0010957	Congenital posterior urethral valve	100.0
+775.4	Abnormality of the urachus	abnormality of the urachus	Cong	HP_0010478	Abnormality of the urachus	100.0
+777.11	Laryngeal web	laryngeal web	Cong	HP_0005950	Laryngeal web	100.0
+777.13	Laryngeal hypoplasia*	laryngeal hypoplasia	Cong	HP_0008749	Laryngeal hypoplasia	100.0
+777.31	Congenital cystic lung	congenital cystic lung	Cong	HP_0010959	Congenital pulmonary airway malformation	85.71
+778	Congenital malformations of great arteries	congenital malformations of great arteries	Cong	HP_0011603	Congenital malformation of the great arteries	100.0
+778.1	Common arterial trunk [Truncus arteriosus]	common arterial trunk truncus arteriosus	Cong	HP_0001660	Truncus arteriosus	100.0
+778.2	Transposition of great vessels	transposition of great vessels	Cong	HP_0001669	Transposition of the great arteries	100.0
+778.3	Patent ductus arteriosus	patent ductus arteriosus	Cong	HP_0001643	Patent ductus arteriosus	100.0
+778.41	Coarctation of aorta	coarctation of aorta	Cong	HP_0001680	Coarctation of aorta	100.0
+778.42	Interruption of aortic arch	interruption of aortic arch	Cong	HP_0011611	Interrupted aortic arch	100.0
+778.46	Vascular ring of aorta*	vascular ring of aorta	Cong	HP_0010775	Vascular ring	100.0
+778.47	Right aortic arch*	right aortic arch	Cong	HP_0012020	Right aortic arch	100.0
+778.51	Pulmonary artery coarctation and atresia	pulmonary artery coarctation and atresia	Cong	HP_0004935	Pulmonary artery atresia	84.75
+778.52	Stenosis of pulmonary artery*	stenosis of pulmonary artery	Cong	HP_0004415	Pulmonary artery stenosis	100.0
+778.6	Double outlet right ventricle	double outlet right ventricle	Cong	HP_0001719	Double outlet right ventricle	100.0
+778.7	Double outlet left ventricle	double outlet left ventricle	Cong	HP_0011581	Double outlet left ventricle	100.0
+779	Congenital malformations of heart valves	congenital malformations of heart valves	Cong	HP_0045017	Congenital malformation of the left heart	82.14
+779.1	Anomalies of pulmonary valve, congenital	anomalies of pulmonary valve congenital	Cong	HP_0001641	Abnormal pulmonary valve morphology	83.64
+779.11	Pulmonary valve atresia	pulmonary valve atresia	Cong	HP_0010882	Pulmonary valve atresia	100.0
+779.12	Congenital pulmonary valve stenosis	congenital pulmonary valve stenosis	Cong	HP_0001642	Pulmonic stenosis	83.64
+779.13	Congenital pulmonary valve insufficiency*	congenital pulmonary valve insufficiency	Cong	HP_0010444	Pulmonary insufficiency	80.0
+779.21	Congenital tricuspid stenosis*	congenital tricuspid stenosis	Cong	HP_0010446	Tricuspid stenosis	80.0
+779.22	Ebstein anomaly of the tricuspid valve	ebstein anomaly of the tricuspid valve	Cong	HP_0010316	Ebstein anomaly of the tricuspid valve	100.0
+779.31	Congenital stenosis of aortic valve	congenital stenosis of aortic valve	Cong	HP_0001650	Aortic valve stenosis	81.63
+779.33	Congenital mitral stenosis	congenital mitral stenosis	Cong	HP_0011570	Congenital mitral stenosis	100.0
+780	Other congenital anomalies of heart	other congenital anomalies of heart	Cong	HP_0001374	Congenital hip dislocation	81.82
+780.3	Double inlet ventricle	double inlet ventricle	Cong	HP_0011555	Double inlet left ventricle	89.36
+780.41	Ventricular septal defect	ventricular septal defect	Cong	HP_0001629	Ventricular septal defect	100.0
+780.42	Atrial septal defect	atrial septal defect	Cong	HP_0001631	Atrial septal defect	100.0
+780.43	Atrioventricular septal defect	atrioventricular septal defect	Cong	HP_0006695	Atrioventricular canal defect	100.0
+780.44	Tetralogy of Fallot	tetralogy of fallot	Cong	HP_0001636	Tetralogy of Fallot	100.0
+780.5	Hypoplastic heart	hypoplastic heart	Cong	HP_0001961	Hypoplastic heart	100.0
+780.51	Hypoplastic right heart syndrome	hypoplastic right heart syndrome	Cong	HP_0010954	Hypoplastic right heart	100.0
+780.52	Hypoplastic left heart syndrome	hypoplastic left heart syndrome	Cong	HP_0010954	Hypoplastic right heart	84.75
+780.6	Cor triatriatum	cor triatriatum	Cong	HP_0010774	Cor triatriatum	100.0
+781.1	Arteriovenous malformation, congenital	arteriovenous malformation congenital	Cong	HP_0031345	Colonic arteriovenous malformation	83.02
+781.3	Congenital malformations of renal artery	congenital malformations of renal artery	Cong	HP_0011603	Congenital malformation of the great arteries	83.33
+781.41	Anomalous pulmonary venous return	anomalous pulmonary venous return	Cong	HP_0010772	Anomalous pulmonary venous return	100.0
+781.42	Persistent left superior vena cava*	persistent left superior vena cava	Cong	HP_0005301	Persistent left superior vena cava	100.0
+783.1	Congenital dislocation of hip	congenital dislocation of hip	Cong	HP_0001374	Congenital hip dislocation	100.0
+783.11	Congenital dislocation of hip, bilateral	congenital dislocation of hip bilateral	Cong	HP_0008780	Congenital bilateral hip dislocation	100.0
+784.1	Talipes	talipes	Cong	HP_0001883	Talipes	100.0
+784.12	Congenital talipes calcaneovarus	congenital talipes calcaneovarus	Cong	HP_0008124	Talipes calcaneovarus	80.85
+784.13	Congenital talipes calcaneovalgus	congenital talipes calcaneovalgus	Cong	HP_0005850	Congenital talipes calcaneovalgus	100.0
+784.5	Congenital vertical talus deformity [Rocker bottom foot]	congenital vertical talus deformity rocker bottom foot	Cong	HP_0001838	Rocker bottom foot	91.95
+785.1	Abnormal digit morphology	abnormal digit morphology	Cong	HP_0011297	Abnormal digit morphology	100.0
+785.11	Polydactyly	polydactyly	Cong	HP_0010442	Polydactyly	100.0
+785.12	Syndactyly	syndactyly	Cong	HP_0001159	Syndactyly	100.0
+785.6	Bowing of the long bones	bowing of the long bones	Cong	HP_0006487	Bowing of the long bones	100.0
+786	Pectus deformity	pectus deformity	Cong	HP_0000766	Abnormal sternum morphology	100.0
+786.1	Pectus excavatum	pectus excavatum	Cong	HP_0000767	Pectus excavatum	100.0
+786.2	Pectus carinatum	pectus carinatum	Cong	HP_0000768	Pectus carinatum	100.0
+787.1	Klippel-Feil syndrome	klippel-feil syndrome	Cong	HP_0004602	Cervical C2/C3 vertebral fusion	100.0
+787.2	Congenital scoliosis*	congenital scoliosis	Cong	HP_0008458	Progressive congenital scoliosis	80.0
+787.3	Congenital kyphosis	congenital kyphosis	Cong	HP_0008453	Congenital kyphoscoliosis	85.0
+787.51	Cervical rib	cervical rib	Cong	HP_0000891	Cervical ribs	100.0
+788	Congenital osteodystrophies	congenital osteodystrophies	Cong	HP_0008394	Congenital onychodystrophy	81.63
+788.16	Spondyloepiphyseal dysplasia*	spondyloepiphyseal dysplasia	Cong	HP_0002655	Spondyloepiphyseal dysplasia	100.0
+788.2	Chondroectodermal dysplasia	chondroectodermal dysplasia	Cong	HP_0000968	Ectodermal dysplasia	80.0
+788.4	Osteopetrosis	osteopetrosis	Cong	HP_0011002	Osteopetrosis	100.0
+788.5	Polyostotic fibrous dysplasia	polyostotic fibrous dysplasia	Cong	HP_0010735	Polyostotic fibrous dysplasia	100.0
+789.11	Congenital diaphragmatic hernia*	congenital diaphragmatic hernia	Cong	HP_0000776	Congenital diaphragmatic hernia	100.0
+789.22	Gastroschisis	gastroschisis	Cong	HP_0001543	Gastroschisis	100.0
+789.4	Arthrogryposis multiplex congenita*	arthrogryposis multiplex congenita	Cong	HP_0002804	Arthrogryposis multiplex congenita	100.0
+790.1	Congenital ichthyosis	congenital ichthyosis	Cong	HP_0007431	Congenital ichthyosiform erythroderma	100.0
+790.13	Lamellar ichthyosis*	lamellar ichthyosis	Cong	HP_0007479	Congenital nonbullous ichthyosiform erythroderma	90.0
+790.14	Congenital bullous ichthyosiform erythroderma*	congenital bullous ichthyosiform erythroderma	Cong	HP_0007475	Congenital bullous ichthyosiform erythroderma	100.0
+790.2	Congenital ectodermal dysplasia	congenital ectodermal dysplasia	Cong	HP_0011336	Bitemporal forceps marks	91.8
+790.3	Epidermolysis bullosa*	epidermolysis bullosa	Cong	HP_0012221	Pretibial blistering	84.0
+790.5	Sacral dimple*	sacral dimple	Cong	HP_0000960	Sacral dimple	100.0
+792	Congenital anomalies of hair	congenital anomalies of hair	Cong	HP_0001374	Congenital hip dislocation	83.72
+795.1	Asplenia*	asplenia	Cong	HP_0001746	Asplenia	100.0
+797.7	Turner's syndrome	turners syndrome	Cong	HP_0002277	Horner syndrome	80.0
+800	Chest pain	chest pain	Signs/Symptoms	HP_0100749	Chest pain	100.0
+800.2	Precordial pain	precordial pain	Signs/Symptoms	HP_0032141	Precordial pain	100.0
+801	Cough	cough	Signs/Symptoms	HP_0012735	Cough	100.0
+802	Throat pain	throat pain	Signs/Symptoms	HP_0033050	Pharyngalgia	100.0
+807.21	Muscle weakness (generalized)	muscle weakness generalized	Signs/Symptoms	HP_0003324	Generalized muscle weakness	100.0
+809	Pain	pain	Signs/Symptoms	HP_0012531	Pain	100.0
+809.2	Chronic pain	chronic pain	Signs/Symptoms	HP_0012532	Chronic pain	100.0
+809.3	Pain in limb	pain in limb	Signs/Symptoms	HP_0009763	Limb pain	100.0
+809.32	Pain in leg*	pain in leg	Signs/Symptoms	HP_0012514	Lower limb pain	100.0
+809.33	Pain in hand and fingers*	pain in hand and fingers	Signs/Symptoms	HP_0030837	Finger pain	82.76
+809.34	Pain in foot and toes*	pain in foot and toes	Signs/Symptoms	HP_0025238	Foot pain	83.33
+810	Shock	shock	Signs/Symptoms	HP_0031273	Shock	100.0
+810.1	Cardiogenic shock	cardiogenic shock	Signs/Symptoms	HP_0030149	Cardiogenic shock	100.0
+812	Edema	edema	Signs/Symptoms	HP_0000969	Edema	100.0
+812.1	Generalized edema*	generalized edema	Signs/Symptoms	HP_0007430	Generalized edema	100.0
+812.2	Angioneurotic edema	angioneurotic edema	Signs/Symptoms	HP_0100665	Angioedema	91.89
+813	Clubbing of fingers	clubbing of fingers	Signs/Symptoms	HP_0100759	Clubbing of fingers	100.0
+821	Abnormality of red blood cells	abnormality of red blood cells	Signs/Symptoms	HP_0001877	Abnormal erythrocyte morphology	100.0
+822.81	Elevated carcinoembryonic antigen [CEA]	elevated carcinoembryonic antigen cea	Signs/Symptoms	HP_0031029	Elevated carcinoembryonic antigen level	84.85
+824.1	Abnormality of albumin*	abnormality of albumin	Signs/Symptoms	HP_0012116	Abnormal circulating albumin concentration	83.33
+824.3	Abnormality of alphafetoprotein*	abnormality of alphafetoprotein	Signs/Symptoms	HP_0045056	Abnormal levels of alpha-fetoprotein	83.64
+825	Elevated C-reactive protein (CRP)	elevated c-reactive protein crp	Signs/Symptoms	HP_0011227	Elevated circulating C-reactive protein concentration	82.14
+829.1	Abnormal blood-gas level	abnormal blood-gas level	Signs/Symptoms	HP_0012415	Abnormal blood gas level	100.0
+830	Proteinuria	proteinuria	Signs/Symptoms	HP_0000093	Proteinuria	100.0
+831	Glycosuria	glycosuria	Signs/Symptoms	HP_0003076	Glycosuria	100.0
+832.2	Myoglobinuria	myoglobinuria	Signs/Symptoms	HP_0002913	Myoglobinuria	100.0
+832.4	Hemoglobinuria	hemoglobinuria	Signs/Symptoms	HP_0003641	Hemoglobinuria	100.0
+832.6	Pyuria*	pyuria	Signs/Symptoms	HP_0012085	Pyuria	100.0
+832.7	Hypocitraturia*	hypocitraturia	Signs/Symptoms	HP_0012405	Hypocitraturia	100.0
+832.8	Hyperoxaluria*	hyperoxaluria	Signs/Symptoms	HP_0003159	Hyperoxaluria	100.0
+832.9	Hypercalciuria*	hypercalciuria	Signs/Symptoms	HP_0002150	Hypercalciuria	100.0
+840	Allergy	allergy	Signs/Symptoms	HP_0012393	Allergy	100.0
+840.1	Food allergy	food allergy	Signs/Symptoms	HP_0500093	Food allergy	100.0
+840.11	Peanut allergy	peanut allergy	Signs/Symptoms	HP_0410331	Nut food product allergy	81.48
+840.12	Seafood allergy	seafood allergy	Signs/Symptoms	HP_0410333	Seafood allergy	100.0
+840.14	Tree nut allergy	tree nut allergy	Signs/Symptoms	HP_0410331	Nut food product allergy	82.76
+840.16	Allergy to food additives	allergy to food additives	Signs/Symptoms	HP_0500093	Food allergy	81.25
+840.17	Milk allergy	milk allergy	Signs/Symptoms	HP_0100327	Cow milk allergy	100.0
+840.18	Egg allergy	egg allergy	Signs/Symptoms	HP_0410328	Egg allergy	100.0
+840.2	Allergy to insects	allergy to insects	Signs/Symptoms	HP_0410335	Insect allergy	100.0
+840.4	Latex allergy	latex allergy	Signs/Symptoms	HP_0500094	Latex allergy	100.0
+853.1	Neonatal cardiac failure	neonatal cardiac failure	Neonate	HP_0001635	Congestive heart failure	81.08
+853.6	Persistent fetal circulation	persistent fetal circulation	Neonate	HP_0011726	Persistent fetal circulation	100.0
+854.1	Respiratory distress of newborn	respiratory distress of newborn	Neonate	HP_0002643	Neonatal respiratory distress	100.0
+854.11	Respiratory distress syndrome of newborn	respiratory distress syndrome of newborn	Neonate	HP_0002643	Neonatal respiratory distress	87.88
+854.6	Respiratory failure of newborn	respiratory failure of newborn	Neonate	HP_0002878	Respiratory failure	82.61
+856.11	Congenital cytomegalovirus infection	congenital cytomegalovirus infection	Neonate	HP_0033624	History of congenital CMV infection	88.57
+856.5	Neonatal urinary tract infection	neonatal urinary tract infection	Neonate	HP_0000010	Recurrent urinary tract infections	85.71
+857.2	Neonatal gastrointestinal hemorrhage	neonatal gastrointestinal hemorrhage	Neonate	HP_0002239	Gastrointestinal hemorrhage	87.72
+860.11	Disseminated intravascular coagulation of newborn	disseminated intravascular coagulation of newborn	Neonate	HP_0005521	Disseminated intravascular coagulation	88.24
+860.4	Transient neonatal neutropenia	transient neonatal neutropenia	Neonate	HP_0410255	Transient neutropenia	86.27
+861.1	Neonatal diabetes mellitus	neonatal diabetes mellitus	Neonate	HP_0000819	Diabetes mellitus	81.08
+861.2	Neonatal hypoglycemia	neonatal hypoglycemia	Neonate	HP_0001998	Neonatal hypoglycemia	100.0
+865.1	Intestinal obstruction of newborn	intestinal obstruction of newborn	Neonate	HP_0005214	Intestinal obstruction	81.82
+865.2	Necrotizing enterocolitis in newborn	necrotizing enterocolitis in newborn	Neonate	HP_0033165	Necrotizing enterocolitis	80.95
+865.3	Perinatal intestinal perforation	perinatal intestinal perforation	Neonate	HP_0031368	Intestinal perforation	80.0
+870.2	Neonatal cerebral ischemia*	neonatal cerebral ischemia	Neonate	HP_0002637	Cerebral ischemia	82.05
+870.5	Neonatal encephalopathy	neonatal encephalopathy	Neonate	HP_0006976	Necrotizing encephalopathy	81.82
+872.4	Delayed separation of umbilical cord	delayed separation of umbilical cord	Neonate	HP_0032434	Delayed umbilical cord separation	100.0
+873	Retinopathy of prematurity	retinopathy of prematurity	Neonate	HP_0500049	Retinopathy of prematurity	100.0
+874	Neonatal obstruction of nasolacrimal duct	neonatal obstruction of nasolacrimal duct	Neonate	HP_0000579	Nasolacrimal duct obstruction	87.72
+890.3	Short stature	short stature	Dev	HP_0004322	Short stature	100.0
+891.4	Delayed milestones	delayed milestones	Dev	HP_0001263	Global developmental delay	100.0
+892	Pervasive developmental disorders	pervasive developmental disorders	Dev	HP_0000729	Autistic behavior	100.0
+892.6	Intellectual disabilities	intellectual disabilities	Dev	HP_0001249	Intellectual disability	100.0
+892.61	Mild intellectual disabilities	mild intellectual disabilities	Dev	HP_0001256	Intellectual disability, mild	100.0
+892.62	Moderate intellectual disabilities	moderate intellectual disabilities	Dev	HP_0002342	Intellectual disability, moderate	100.0
+892.63	Severe or profound intellectual disabilities	severe or profound intellectual disabilities	Dev	HP_0002187	Intellectual disability, profound	90.0
+893.1	Attention-deficit hyperactivity disorders	attention-deficit hyperactivity disorders	Dev	HP_0007018	Attention deficit hyperactivity disorder	100.0
+893.2	Conduct disorders	conduct disorders	Dev	HP_0031546	Cardiac conduction abnormality	83.33
+893.5	Tic disorder	tic disorder	Dev	HP_0100033	Tics	100.0
+894.2	Apraxia*	apraxia	Dev	HP_0002186	Apraxia	100.0
+901.1	Ectopic pregnancy	ectopic pregnancy	Preg	HP_0031456	Ectopic pregnancy	100.0
+901.2	Hydatidiform mole	hydatidiform mole	Preg	HP_0032192	Hydatidiform mole	100.0
+904.3	Antepartum hemorrhage	antepartum hemorrhage	Preg	HP_0025328	Antepartum hemorrhage	100.0
+905	Premature rupture of membranes	premature rupture of membranes	Preg	HP_0001788	Premature rupture of membranes	100.0
+907.7	Placental infarction*	placental infarction	Preg	HP_0011416	Placental infarction	100.0
+908.1	Preeclampsia and eclampsia	preeclampsia and eclampsia	Preg	HP_0100602	Preeclampsia	92.0
+908.12	Eclampsia	eclampsia	Preg	HP_0100601	Eclampsia	100.0
+909.1	Gestational diabetes mellitus*	gestational diabetes mellitus	Preg	HP_0000819	Diabetes mellitus	81.08
+911.1	Hyperemesis gravidarum	hyperemesis gravidarum	Preg	HP_0012188	Hyperemesis gravidarum	100.0
+920.1	Polyhydramnios	polyhydramnios	Preg	HP_0001561	Polyhydramnios	100.0
+920.2	Oligohydramnios	oligohydramnios	Preg	HP_0001562	Oligohydramnios	100.0
+945	Rupture of uterus	rupture of uterus	Preg	HP_0100718	Uterine rupture	81.48
+945.3	Postpartum hemorrhage	postpartum hemorrhage	Preg	HP_0011891	Post-partum hemorrhage	93.02
+947.6	Velamentous insertion of umbilical cord*	velamentous insertion of umbilical cord	Preg	HP_0030659	Velamentous cord insertion	87.5
+962.11	Heparin-induced thrombocytopenia (HIT)	heparin-induced thrombocytopenia hit	Rx	HP_0011874	Heparin-induced thrombocytopenia	93.94
+976.1	Malignant hyperthermia	malignant hyperthermia	Rx	HP_0002047	Malignant hyperthermia	100.0
+979	Transplated organ	transplated organ	Stat	HP_0032444	Status post organ transplantation	85.71
+979.7	Bone marrow transplant	bone marrow transplant	Stat	HP_0032557	History of bone marrow transplant	85.19
+987	Family history of hearing disorders	family history of hearing disorders	Stat	HP_0032318	Family history of heart disease	80.0
+997	Family history of other condition	family history of other condition	Stat	HP_0032316	Family history	81.08
+C928	Transplanted organ or tissue	transplanted organ or tissue	Complications of care	HP_0032444	Status post organ transplantation	80.95
+T817	Fracture of ribs	fracture of ribs	Trauma	HP_0041159	Fractured rib	100.0
+T818	Traumatic fracture of vertebrae	traumatic fracture of vertebrae	Trauma	HP_0041166	Fractured vertebra	80.95
+T819	Skull and face fracture	skull and face fracture	Trauma	HP_0041082	Fractured skull	84.85
+T820	Fracture of lower limb	fracture of lower limb	Trauma	HP_0041081	Fractured lower leg	100.0
+T820.1	Fracture of femur	fracture of femur	Trauma	HP_0031846	Femur fracture	100.0
+T820.3	Fracture of patella	fracture of patella	Trauma	HP_0041237	Fractured patella	100.0
+T820.4	Fracture of tibia and fibula	fracture of tibia and fibula	Trauma	HP_0041222	Fractured fibula	83.33
+T821	Fracture of pelvis	fracture of pelvis	Trauma	HP_0041162	Fractured foot bone	80.0
+T824	Fracture of ankle	fracture of ankle	Trauma	HP_0041153	Fractured ankle	100.0
+T825	Fracture of the foot	fracture of the foot	Trauma	HP_0041162	Fractured foot bone	83.87
+T825.1	Fracture of calcaneus	fracture of calcaneus	Trauma	HP_0041061	Fractured calcaneus	100.0
+T826	Fracture of clavicle or scapula	fracture of clavicle or scapula	Trauma	HP_0041244	Fractured scapula	80.0
+T827	Fracture of hand or wrist	fracture of hand or wrist	Trauma	HP_0041248	Fractured carpal bone	84.85
+T828	Multiple fractures	multiple fractures	Trauma	HP_0002757	Recurrent fractures	100.0
+T830.2	Dislocation of shoulder	dislocation of shoulder	Trauma	HP_0003834	Shoulder dislocation	100.0
+T830.3	Dislocation of elbow	dislocation of elbow	Trauma	HP_0003042	Elbow dislocation	100.0
+T830.4	Dislocation of wrist and hand	dislocation of wrist and hand	Trauma	HP_0003994	Dislocated wrist	83.87
+T830.6	Dislocation of hip	dislocation of hip	Trauma	HP_0002827	Hip dislocation	100.0
+T830.7	Dislocation of knee	dislocation of knee	Trauma	HP_0004976	Knee dislocation	100.0
+T866	Injury to kidney	injury to kidney	Trauma	HP_0001919	Acute kidney injury	84.85
+T881	Blister	blister	Trauma	HP_0008066	Abnormal blistering of the skin	100.0
+T910.2	Hypothermia	hypothermia	Trauma	HP_0002045	Hypothermia	100.0
+T915	Fall	fall	Trauma	HP_0002527	Falls	100.0
