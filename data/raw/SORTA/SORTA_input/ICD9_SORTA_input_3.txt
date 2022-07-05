@@ -1,0 +1,396 @@
+Name
+twinborn in hospital
+twin birthwhether mate liveborn or stillborn born in hospital delivered without mention of cesarean section
+twin birthwhether mate liveborn or stillborn born in hospital delivered by cesarean section
+twin birthwhether mate liveborn or stillborn born before admission to hospital
+twin birthwhether mate liveborn or stillborn born outside hospital and not hospitalized
+other multiple birth three or more mates all liveborn
+other multiple mates all liveborn born in hospital
+other multiple birth three or more mates all liveborn born in hospital delivered without mention of cesarean section
+other multiple birth three or more mates all liveborn born in hospital delivered by cesarean section
+other multiple birth three or more mates all liveborn born before admission to hospital
+other multiple birth three or more mates all liveborn born outside hospital and not hospitalized
+other multiple birth three or more mates all stillborn
+other multiple mates all stillborn born in hospital
+other multiple birth three or more mates all still born born in hospital delivered without mention of cesarean section
+other multiple birth three or more mates all still born born in hospital delivered by cesarean section
+other multiple birth three or more mates all stillborn born before admission to hospital
+other multiple birth three or more mates all stillborn born outside of hospital and not hospitalized
+other multiple birth three or more mates liveborn and stillborn
+other multiple mates liveborn and stillborn born in hospital
+other multiple birth three or more mates liveborn and stillborn born in hospital delivered without mention of cesarean section
+other multiple birth three or more mates liveborn and stillborn born before admission to hospital
+other multiple birth three or more mates liveborn and stillborn born outside hospital and not hospitalized
+other multiple birth three or morewhether mates liveborn or stillborn
+other multipleborn in hospital
+other multiple birth three or morewhether mates liveborn or stillborn born in hospital delivered without mention of cesarean section
+other multiple birth three or morewhether mates liveborn or stillborn born in hospital delivered by cesarean section
+other multiple birth three or morewhether mates liveborn or stillborn born before admission to hospital
+other multiple birth three or morewhether mates liveborn or stillborn born outside of hospital
+livebornwhether single twin or multiple
+other livebornborn in hospital
+livebornwhether single twin or multiple born in hospital delivered without mention of cesarean section
+livebornwhether single twin or multiple born in hospital delivered by cesarean section
+livebornwhether single twin or multiple born before admission to hospital
+livebornwhether single twin or multiple born outside hospital and not hospitalized
+mental and behavioral problems
+mental and behavioral problems with learning
+mental and behavioral problems with communication including speech
+other mental problems
+other behavioral problems
+wandering in diseases classified elsewhere
+other specified behavioral problem
+mental or behavioral problem
+problems with sight
+problems with hearing
+other ear problems
+problems with voice production
+problems with sexual function
+organ or tissue replaced by transplant
+kidney replaced by transplant
+heart replaced by transplant
+heart valve replaced by transplant
+skin replaced by transplant
+bone replaced by transplant
+cornea replaced by transplant
+lung replaced by transplant
+liver replaced by transplant
+other specified organ or tissue replaced by transplant
+bone marrow replaced by transplant
+peripheral stem cells replaced by transplant
+pancreas replaced by transplant
+organ or tissue replaced by transplant intestines
+organ or tissue replaced by other means
+eye globe replaced by other means
+lens replaced by other means
+heart replaced by other means
+organ or tissue replaced by other means heart assist device
+organ or tissue replaced by other means fully implantable artificial heart
+heart valve replaced by other means
+blood vessel replaced by other means
+bladder replaced by other means
+ileostomy status
+cystostomy status
+cystostomy
+cutaneous-vesicostomy
+appendico-vesicostomy
+other cystostomy
+other artificial opening of urinary tract status
+cardiac pacemaker in situ
+cardiac device in situ
+automatic implantable cardiac defibrillator in situ
+other specified cardiac device in situ
+postsurgical renal dialysis status
+renal dialysis status
+noncompliance with renal dialysis
+presence of subdermal contraceptive implant
+cataract extraction status
+acquired absence of breast and nipple
+aortocoronary bypass status
+percutaneous transluminal coronary angioplasty status
+insulin pump status
+bariatric surgery status
+dependence on respirator ventilator
+dependence on respirator status
+encounter for respirator dependence during power failure
+encounter for weaning from respirator ventilator
+mechanical complication of respirator ventilator
+other dependence on machines supplemental oxygen
+wheelchair dependence
+other digestive problems
+other urinary problems
+status post amputation of upper limb
+level upper limb amputation status
+thumb amputation status
+other fingers amputation status
+hand amputation status
+wrist amputation status
+below elbow amputation status
+above elbow amputation status
+shoulder amputation status
+lower limb amputation status
+level lower limb amputation status
+great toe amputation status
+other toes amputation status
+foot amputation status
+ankle amputation status
+below knee amputation status
+above knee amputation status
+hip amputation status
+dual sensory impairment
+prophylactic breast removal
+encounter for breast reconstruction following mastectomy
+fitting and adjustment of hearing aid
+fitting and adjustment of cardiac pacemaker
+fitting and adjustment of automatic implantable cardiac defibrillator
+fitting and adjustment of other cardiac device
+fitting and adjustment of gastric lap band
+fitting and adjustment of insulin pump
+aftercare involving internal fixation device
+encounter for removal of internal fixation device
+encounter for lengtheningadjustment of growth rod
+other aftercare involving internal fixation device
+aftercare for healing traumatic fracture of arm
+aftercare for healing traumatic fracture of upper arm
+aftercare for healing traumatic fracture of lower arm
+aftercare for healing traumatic fracture of hip
+aftercare for healing traumatic fracture of leg
+aftercare for healing traumatic fracture of upper leg
+aftercare for healing traumatic fracture of lower leg
+aftercare for healing traumatic fracture of vertebrae
+aftercare for healing traumatic fracture of other bone
+aftercare for healing pathologic fracture
+aftercare for healing pathologic fracture of arm
+aftercare for healing pathologic fracture of upper arm
+aftercare for healing pathologic fracture of lower arm
+aftercare for healing pathologic fracture of hip
+aftercare for healing pathologic fracture of leg
+aftercare for healing pathologic fracture of upper leg
+aftercare for healing pathologic fracture of lower leg
+aftercare for healing pathologic fracture of vertebrae
+aftercare for healing pathologic fracture of other bone
+attention to ileostomy
+attention to cystostomy
+attention to other artificial opening of urinary tract
+encounter for dialysis and dialysis catheter care
+encounter for extracorporeal dialysis
+fitting and adjustment of extracorporeal dialysis catheter
+fitting and adjustment of peritoneal dialysis catheter
+encounter for adequacy testing for dialysis
+encounter for adequacy testing for hemodialysis
+encounter for adequacy testing for peritoneal dialysis
+encounter for other dialysis
+encounter for radiotherapy
+encounter for antineoplastic chemotherapy and immunotherapy
+encounter for antineoplastic chemotherapy
+encounter for antineoplastic immunotherapy
+aftercare following organ transplant
+encounter for long-term current drug use
+long-term current use of anticoagulants
+long-term current use of antibiotics
+long-term current use of antiplateletantithrombotic
+long-term current use of non-steroidal anti-inflammatories nsaid
+long-term current use of steroids
+long-term current use of aspirin
+long-term current use of insulin
+long term current use of bisphosphonates
+long-term current use of other medications
+multiparity
+suicidal ideation
+homicidal ideation
+vaccination not carried out because of allergy to vaccine or component
+encounter for insulin pump training
+convalescence following radiotherapy
+convalescence following chemotherapy
+convalescence following psychotherapy and other treatment for mental disorder
+convalescence following treatment of fracture
+follow-up examination following radiotherapy
+follow-up examination following chemotherapy
+follow-up examination following psychotherapy and other treatment for mental disorder
+follow-up examination following treatment of healed fracture
+problems related to lifestyle
+lack of physical exercise
+inappropriate diet and eating habits
+high-risk sexual behavior
+gambling and betting
+lack of adequate sleep
+behavioral insomnia of childhood
+other problems related to lifestyle
+problem related to lifestyle
+general psychiatric examination requested by the authority
+general psychiatric examination other and
+observation for suspected mental condition
+observation for adult antisocial behavior
+observation for childhood or adolescent antisocial behavior
+observation for other suspected mental condition
+observation for suspected malignant neoplasm
+observation for suspected tuberculosis
+observation following accident at work
+observation following other accident
+observation following alleged rape or seduction
+observation following other inflicted injury
+observation and evaluation for suspected exposure to anthrax
+observation and evaluation for suspected exposure to other biological agent
+diagnostic skin and sensitization tests
+screening examination for poliomyelitis
+screening examination for smallpox
+screening examination for measles
+screening examination for rubella
+screening examination for yellow fever
+screening examination for other arthropod-borne viral diseases
+screening examination for trachoma
+screening examination for other specified viral and chlamydial diseases
+special screening examination for human papillomavirus hpv
+special screening examination for other specified chlamydial diseases
+special screening examination for other specified viral diseases
+screening examination forviral disease
+special screening examination forchlamydial disease
+special screening examination forviral disease
+screening examination for cholera
+screening examination for pulmonary tuberculosis
+screening examination for leprosy hansens disease
+screening examination for diphtheria
+screening examination for bacterial conjunctivitis
+screening examination for venereal disease
+screening examination for yaws
+screening examination for other specified bacterial and spirochetal diseases
+screening examination forbacterial and spirochetal diseases
+screening examination for rickettsial diseases
+screening examination for malaria
+screening examination for leishmaniasis
+screening examination for trypanosomiasis
+screening examination for mycotic infections
+screening examination for schistosomiasis
+screening examination for filariasis
+screening examination for intestinal helminthiasis
+screening examination for other specified parasitic infections
+screening examination forinfectious disease
+screening for malignant neoplasms of skin
+screening for skin conditions
+other genetic carrier status
+cystic fibrosis gene carrier
+genetic susceptibility to disease
+genetic susceptibility to malignant neoplasm
+genetic susceptibility to malignant neoplasm of breast
+genetic susceptibility to malignant neoplasm of ovary
+genetic susceptibility to malignant neoplasm of prostate
+genetic susceptibility to malignant neoplasm of endometrium
+genetic susceptibility to other malignant neoplasm
+genetic susceptibility to other disease
+genetic susceptibility to multiple endocrine neoplasia men
+body mass index bmi
+body mass index less than 19 adult
+body mass index between 19-24 adult
+body mass index between 25-29 adult
+body mass index 25.0-25.9 adult
+body mass index 26.0-26.9 adult
+body mass index 27.0-27.9 adult
+body mass index 28.0-28.9 adult
+body mass index 29.0-29.9 adult
+body mass index between 30-39 adult
+body mass index 30.0-30.9 adult
+body mass index 31.0-31.9 adult
+body mass index 32.0-32.9 adult
+body mass index 33.0-33.9 adult
+body mass index 34.0-34.9 adult
+body mass index 35.0-35.9 adult
+body mass index 36.0-36.9 adult
+body mass index 37.0-37.9 adult
+body mass index 38.0-38.9 adult
+body mass index 39.0-39.9 adult
+body mass index 40 and over adult
+body mass index 40.0-44.9 adult
+body mass index 45.0-49.9 adult
+body mass index 50.0-59.9 adult
+body mass index 60.0-69.9 adult
+body mass index 70 and over adult
+body mass index pediatric
+body mass index pediatric less than 5th percentile for age
+body mass index pediatric 5th percentile to less than 85th percentile for age
+body mass index pediatric 85th percentile to less than 95th percentile for age
+body mass index pediatric greater than or equal to 95th percentile for age
+estrogen receptor status
+estrogen receptor positive status er
+estrogen receptor negative status er-
+personal history of antineoplastic chemotherapy
+multiple gestation placenta status
+twin gestation placenta status
+twin gestationnumber of placentanumber of amniotic sacs
+twin gestation monochorionicmonoamniotic one placenta one amniotic sac
+twin gestation monochorionicdiamniotic one placenta two amniotic sacs
+twin gestation dichorionicdiamniotic two placentae two amniotic sacs
+twin gestation unable to determine number of placenta and number of amniotic sacs
+triplet gestation placenta status
+triplet gestationnumber of placenta andnumber of amniotic sacs
+triplet gestation with two or more monochorionic fetuses
+triplet gestation with two or more monoamniotic fetuses
+triplet gestation unable to determine number of placenta and number of amniotic sacs
+quadruplet gestation placenta status
+quadruplet gestationnumber of placenta andnumber of amniotic sacs
+quadruplet gestation with two or more monochorionic fetuses
+quadruplet gestation with two or more monoamniotic fetuses
+quadruplet gestation unable to determine number of placenta and number of amniotic sacs
+other specified multiple gestation placenta status
+other specified multiple gestationnumber of placenta andnumber of amniotic sacs
+other specified multiple gestation with two or more monochorionic fetuses
+other specified multiple gestation with two or more monoamniotic fetuses
+other specified multiple gestation unable to determine number of placenta and number of amniotic sacs
+hiv infection with certain specified infections
+hiv infection causing other specified infections
+hiv infection with specified malignant neoplasms
+acquired immunodeficiency syndrome with or without other conditions
+hiv causing other specified conditions
+hiv causing lymphandenopathy
+hiv causing specified diseases of the central nervous system
+hiv causing other disorders involving the immune mechanism
+acquired immunodeficiency syndrome-related complex with or without other conditions
+other human immunodeficiency virus hiv infection
+hiv infection causing specified acute infections
+hiv infection not otherwise specified with or without other conditions not classifiable to 042 043 044.0
+other enterovirus diseases of central nervous system 
+infectious mononucleosis 
+late effects of acute poliomyelitis 
+dementias 
+psychosis 
+tobacco use disorderuse
+tobacco use disorder contiuous
+tobacco use disorder episodic
+tobacco use disorder in remission
+alzheimers disease 
+paralysis agitans 
+rheumatic fever without mention of heart involvement 
+congestive heart failure chf
+subarachnoid hemorrhage 
+intracerebral hemorrhage 
+thromboangiitis obliterans buergers disease 
+peritonsillar abscess 
+pneumococcal pneumonia streptococcus pneumoniae pneumonia 
+coal workers pneumoconiosis 
+asbestosis 
+pulmonary congestion and hypostasis 
+postinflammatory pulmonary fibrosis 
+appendicitis unqualified 
+abscess of anal and rectal regions 
+acute and subacute necrosis of liver 
+chronic kidney disease ckd 
+hydronephrosis 
+hydatidiform mole 
+missed abortion 
+normal delivery 
+rupture of uterus delivered with postpartum complication
+rupture of uterus postpartum
+acute lymphadenitis 
+impetigo 
+other specified diseases of nail 
+osteoarthrosis and allied disorders osteoarthrosis generalized pelvic region and thigh
+osteoarthrosis and allied disorders osteoarthrosis generalized lower leg
+osteoarthrosis generalized other specified sites
+osteoarthrosis and allied disorders osteoarthrosiswhether generalized or localized multiple sites
+intrapelvic protrusion of acetabulum site
+derangement of joint lower leg
+difficulty in walking site
+difficulty in walking involving joint of pelvic region and thigh
+difficulty in walking involving lower leg joint
+difficulty in walking involving ankle and foot joint
+difficulty in walking involving join of other specified sites
+other anddisorders of joint difficulty in walking multiple sites
+cervical spondylosis without myelopathy 
+lumbago 
+pain in limb 
+flat foot 
+abnormality of gait 
+other symptoms involving nervous and musculoskeletal systems 
+edema 
+abnormal chest sounds 
+senility without mention of psychosis 
+other unknown andcause of morbidity or mortality 
+closed fracture of dorsal thoracic vertebra without mention of spinal cord injury 
+closed fracture of lumbar vertebra without mention of spinal cord injury 
+fracture ofpart of neck of femur closed 
+contusion of face scalp and neck except eyes 
+crushing injury of face scalp and neck 
+foreign body in ear 
+foreign body in nose 
+foreign body in intestine and colon 
+foreign body in anus and rectum 
+toxic effect of carbon monoxide 

@@ -1,0 +1,1867 @@
+phecode1.2_code	phecode1.2_label	phecode1.2_simpleLabel	phecode1.2_category
+008	Intestinal infection	intestinal infection	infectious diseases
+008.5	Bacterial enteritis	bacterial enteritis	infectious diseases
+008.51	Intestinal e.coli	intestinal e.coli	infectious diseases
+008.52	Intestinal infection due to C. difficile	intestinal infection due to c. difficile	infectious diseases
+008.6	Viral Enteritis	viral enteritis	infectious diseases
+008.7	Intestinal infection due to protozoa	intestinal infection due to protozoa	infectious diseases
+010	Tuberculosis	tuberculosis	infectious diseases
+031	Diseases due to other mycobacteria	diseases due to other mycobacteria	infectious diseases
+031.1	Leprosy	leprosy	infectious diseases
+038	Septicemia	septicemia	infectious diseases
+038.1	Gram negative septicemia	gram negative septicemia	infectious diseases
+038.2	Gram positive septicemia	gram positive septicemia	infectious diseases
+038.3	Bacteremia	bacteremia	infectious diseases
+041	Bacterial infection NOS	bacterial infection	infectious diseases
+041.1	Staphylococcus infections	staphylococcus infections	infectious diseases
+041.11	Methicillin sensitive Staphylococcus aureus	methicillin sensitive staphylococcus aureus	infectious diseases
+041.12	Methicillin resistant Staphylococcus aureus	methicillin resistant staphylococcus aureus	infectious diseases
+041.2	Streptococcus infection	streptococcus infection	infectious diseases
+041.21	Rheumatic fever / chorea	rheumatic fever  chorea	infectious diseases
+041.4	E. coli	e. coli	infectious diseases
+041.8	H. pylori	h. pylori	infectious diseases
+041.9	Infection with drug-resistant microorganisms	infection with drug-resistant microorganisms	infectious diseases
+053	Herpes zoster	herpes zoster	infectious diseases
+053.1	Herpes zoster with nervous system complications	herpes zoster with nervous system complications	infectious diseases
+054	Herpes simplex	herpes simplex	infectious diseases
+070	Viral hepatitis	viral hepatitis	infectious diseases
+070.1	Viral hepatitis A	viral hepatitis a	infectious diseases
+070.2	Viral hepatitis B	viral hepatitis b	infectious diseases
+070.3	Viral hepatitis C	viral hepatitis c	infectious diseases
+070.4	Chronic hepatitis	chronic hepatitis	infectious diseases
+070.9	Hepatitis NOS	hepatitis	infectious diseases
+071	Human immunodeficiency virus [HIV] disease	human immunodeficiency virus hiv disease	infectious diseases
+071.1	HIV infection, symptomatic	hiv infection symptomatic	infectious diseases
+078	Viral warts & HPV	viral warts  hpv	infectious diseases
+079	Viral infection	viral infection	infectious diseases
+079.1	Varicella infection	varicella infection	infectious diseases
+079.2	Infectious mononucleosis	infectious mononucleosis	infectious diseases
+079.9	Viremia, NOS	viremia	infectious diseases
+080	Postoperative infection	postoperative infection	infectious diseases
+081	Infection/inflammation of internal prosthetic device; implant; and graft	infectioninflammation of internal prosthetic device implant and graft	infectious diseases
+081.1	Graft-versus-host disease	graft-versus-host disease	infectious diseases
+081.11	Acute graft-versus-host disease	acute graft-versus-host disease	infectious diseases
+081.12	Chronic graft-versus-host disease	chronic graft-versus-host disease	infectious diseases
+090	Sexually transmitted infections (not HIV or hepatitis)	sexually transmitted infections not hiv or hepatitis	infectious diseases
+090.2	Gonococcal infections	gonococcal infections	infectious diseases
+090.3	Venereal diseases due to Chlamydia trachomatis	venereal diseases due to chlamydia trachomatis	infectious diseases
+1000	Burns	burns	
+1001	Foreign body injury	foreign body injury	
+1002	Symptoms concerning nutrition, metabolism, and development	symptoms concerning nutrition metabolism and development	
+1003	Sudden death	sudden death	
+1004	Other signs and symptoms involving emotional state	other signs and symptoms involving emotional state	
+1005	Other symptoms	other symptoms	
+1006	Crushing injury	crushing injury	
+1007	Injury to blood vessels	injury to blood vessels	
+1008	Crushing or internal injury to organs	crushing or internal injury to organs	
+1009	Injury, NOS	injury	
+1010	Other tests	other tests	
+1011	Complications of surgical and medical procedures	complications of surgical and medical procedures	
+1012	Late effect	late effect	
+1013	Asphyxia and hypoxemia	asphyxia and hypoxemia	
+1014	Effects of heat, cold and air pressure	effects of heat cold and air pressure	
+1015	Effects of other external causes	effects of other external causes	
+1019	Other ill-defined and unknown causes of morbidity and mortality	other ill-defined and unknown causes of morbidity and mortality	
+110	Dermatophytosis / Dermatomycosis	dermatophytosis  dermatomycosis	infectious diseases
+110.1	Dermatophytosis	dermatophytosis	infectious diseases
+110.11	Dermatophytosis of nail	dermatophytosis of nail	infectious diseases
+110.12	Althete's foot	althetes foot	infectious diseases
+110.13	Dermatophytosis of the body	dermatophytosis of the body	infectious diseases
+110.2	Dermatomycoses	dermatomycoses	infectious diseases
+1100	Family history	family history	
+112	Candidiasis	candidiasis	infectious diseases
+112.3	Candidiasis of skin and nails	candidiasis of skin and nails	infectious diseases
+117	Mycoses	mycoses	infectious diseases
+117.1	Histoplasmosis	histoplasmosis	infectious diseases
+117.2	Coccidioidomycosis	coccidioidomycosis	infectious diseases
+117.3	Blastomycotic infection	blastomycotic infection	infectious diseases
+117.4	Aspergillosis	aspergillosis	infectious diseases
+130	Spirochetal infection	spirochetal infection	infectious diseases
+130.1	Lyme disease	lyme disease	infectious diseases
+131	Protozoan infection	protozoan infection	infectious diseases
+132	Infestation (lice, mites)	infestation lice mites	infectious diseases
+132.1	Pediculosis and phthirus infestation	pediculosis and phthirus infestation	infectious diseases
+133	Arthropod-borne diseases	arthropod-borne diseases	infectious diseases
+134	Helminthiases	helminthiases	infectious diseases
+134.1	Intestinal helminthiases	intestinal helminthiases	infectious diseases
+136	Other infectious and parasitic diseases	other infectious and parasitic diseases	infectious diseases
+145	Cancer of mouth	cancer of mouth	neoplasms
+145.1	Cancer of lip	cancer of lip	neoplasms
+145.2	Cancer of tongue	cancer of tongue	neoplasms
+145.3	Cancer of major salivary glands	cancer of major salivary glands	neoplasms
+145.4	Cancer of the gums	cancer of the gums	neoplasms
+145.5	Cancer of the mouth floor	cancer of the mouth floor	neoplasms
+149	Cancer of larynx, pharynx, nasal cavities	cancer of larynx pharynx nasal cavities	neoplasms
+149.1	Cancer of oropharynx	cancer of oropharynx	neoplasms
+149.2	Cancer of nasopharynx	cancer of nasopharynx	neoplasms
+149.3	Cancer of hypopharynx	cancer of hypopharynx	neoplasms
+149.4	Cancer of larynx	cancer of larynx	neoplasms
+149.5	Hx of malignant neoplasm of oral cavity and pharynx	hx of malignant neoplasm of oral cavity and pharynx	neoplasms
+149.9	Cancer of of nasal cavities	cancer of of nasal cavities	neoplasms
+150	Cancer of esophagus	cancer of esophagus	neoplasms
+151	Cancer of stomach	cancer of stomach	neoplasms
+153	Colorectal cancer	colorectal cancer	neoplasms
+153.2	Colon cancer	colon cancer	neoplasms
+153.3	Malignant neoplasm of rectum, rectosigmoid junction, and anus	malignant neoplasm of rectum rectosigmoid junction and anus	neoplasms
+155	Cancer of liver and intrahepatic bile duct	cancer of liver and intrahepatic bile duct	neoplasms
+155.1	Malignant neoplasm of liver, primary	malignant neoplasm of liver primary	neoplasms
+157	Pancreatic cancer	pancreatic cancer	neoplasms
+158	Neoplasm of unspecified nature of digestive system	neoplasm ofnature of digestive system	neoplasms
+159	Malignant neoplasm of other and ill-defined sites within the digestive organs and peritoneum	malignant neoplasm of other and ill-defined sites within the digestive organs and peritoneum	neoplasms
+159.2	Malignant neoplasm of small intestine, including duodenum	malignant neoplasm of small intestine including duodenum	neoplasms
+159.3	Malignant neoplasm of gallbladder and extrahepatic bile ducts	malignant neoplasm of gallbladder and extrahepatic bile ducts	neoplasms
+159.4	Malignant neoplasm of retroperitoneum and peritoneum	malignant neoplasm of retroperitoneum and peritoneum	neoplasms
+164	Cancer of intrathoracic organs	cancer of intrathoracic organs	neoplasms
+165	Cancer within the respiratory system	cancer within the respiratory system	neoplasms
+165.1	Cancer of bronchus; lung	cancer of bronchus lung	neoplasms
+170	Cancer of bone and connective tissue	cancer of bone and connective tissue	neoplasms
+170.1	Bone cancer	bone cancer	neoplasms
+170.2	Cancer of connective tissue	cancer of connective tissue	neoplasms
+172	Skin cancer	skin cancer	neoplasms
+172.1	Melanomas of skin, dx or hx	melanomas of skin dx or hx	neoplasms
+172.11	Melanomas of skin	melanomas of skin	neoplasms
+172.2	Other non-epithelial cancer of skin	other non-epithelial cancer of skin	neoplasms
+172.21	Basal cell carcinoma	basal cell carcinoma	neoplasms
+172.22	Squamous cell carcinoma	squamous cell carcinoma	neoplasms
+172.3	Carcinoma in situ of skin	carcinoma in situ of skin	neoplasms
+173	Neoplasm of uncertain behavior of skin	neoplasm of uncertain behavior of skin	neoplasms
+174	Breast cancer	breast cancer	neoplasms
+174.1	Breast cancer [female]	breast cancer female	neoplasms
+174.11	Malignant neoplasm of female breast	malignant neoplasm of female breast	neoplasms
+174.2	Breast cancer [male]	breast cancer male	neoplasms
+174.3	Neoplasm of uncertain behavior of breast	neoplasm of uncertain behavior of breast	neoplasms
+175	Acquired absence of breast	acquired absence of breast	neoplasms
+180	Cervical cancer and dysplasia	cervical cancer and dysplasia	neoplasms
+180.1	Cervical cancer	cervical cancer	neoplasms
+180.3	Cervical intraepithelial neoplasia [CIN] [Cervical dysplasia]	cervical intraepithelial neoplasia cin cervical dysplasia	neoplasms
+182	Malignant neoplasm of uterus	malignant neoplasm of uterus	neoplasms
+184	Cancer of other female genital organs	cancer of other female genital organs	neoplasms
+184.1	Malignant neoplasm of ovary and other uterine adnexa	malignant neoplasm of ovary and other uterine adnexa	neoplasms
+184.11	Malignant neoplasm of ovary	malignant neoplasm of ovary	neoplasms
+184.2	Cancer of other female genital organs (excluding uterus and ovary)	cancer of other female genital organs excluding uterus and ovary	neoplasms
+185	Cancer of prostate	cancer of prostate	neoplasms
+187	Cancer of other male genital organs	cancer of other male genital organs	neoplasms
+187.1	Malignant neoplasm of unspecified male genital organ	malignant neoplasm ofmale genital organ	neoplasms
+187.2	Malignant neoplasm of testis	malignant neoplasm of testis	neoplasms
+187.8	Neoplasm of uncertain behavior of male genital organs	neoplasm of uncertain behavior of male genital organs	neoplasms
+189	Cancer of urinary organs (incl. kidney and bladder)	cancer of urinary organs incl. kidney and bladder	neoplasms
+189.1	Cancer of kidney and renal pelvis	cancer of kidney and renal pelvis	neoplasms
+189.11	Malignant neoplasm of kidney, except pelvis	malignant neoplasm of kidney except pelvis	neoplasms
+189.12	Malignant neoplasm of renal pelvis	malignant neoplasm of renal pelvis	neoplasms
+189.2	Cancer of bladder	cancer of bladder	neoplasms
+189.21	Malignant neoplasm of bladder	malignant neoplasm of bladder	neoplasms
+189.4	Malignant neoplasm of other urinary organs	malignant neoplasm of other urinary organs	neoplasms
+190	Cancer of eye	cancer of eye	neoplasms
+191	Manlignant and unknown neoplasms of brain and nervous system	manlignant and unknown neoplasms of brain and nervous system	neoplasms
+191.1	Cancer of brain and nervous system	cancer of brain and nervous system	neoplasms
+191.11	Cancer of brain	cancer of brain	neoplasms
+193	Thyroid cancer	thyroid cancer	neoplasms
+194	Cancer of other endocrine glands	cancer of other endocrine glands	neoplasms
+195	Cancer, suspected or other	cancer suspected or other	neoplasms
+195.1	Malignant neoplasm, other	malignant neoplasm other	neoplasms
+195.3	Malignant neoplasm of head, face, and neck	malignant neoplasm of head face and neck	neoplasms
+196	Radiotherapy	radiotherapy	neoplasms
+197	Chemotherapy	chemotherapy	neoplasms
+198	Secondary malignant neoplasm	secondary malignant neoplasm	neoplasms
+198.1	Secondary malignancy of lymph nodes	secondary malignancy of lymph nodes	neoplasms
+198.2	Secondary malignancy of respiratory organs	secondary malignancy of respiratory organs	neoplasms
+198.3	Secondary malignant neoplasm of digestive systems	secondary malignant neoplasm of digestive systems	neoplasms
+198.4	Secondary malignant neoplasm of liver	secondary malignant neoplasm of liver	neoplasms
+198.5	Secondary malignancy of brain/spine	secondary malignancy of brainspine	neoplasms
+198.6	Secondary malignancy of bone	secondary malignancy of bone	neoplasms
+198.7	Secondary malignant neoplasm of skin	secondary malignant neoplasm of skin	neoplasms
+199	Neoplasm of uncertain behavior	neoplasm of uncertain behavior	neoplasms
+199.4	Neurofibromatosis	neurofibromatosis	neoplasms
+200	Myeloproliferative disease	myeloproliferative disease	neoplasms
+200.1	Polycythemia vera	polycythemia vera	neoplasms
+201	Hodgkin's disease	hodgkins disease	neoplasms
+202	Cancer of other lymphoid, histiocytic tissue	cancer of other lymphoid histiocytic tissue	neoplasms
+202.2	Non-Hodgkins lymphoma	non-hodgkins lymphoma	neoplasms
+202.21	Nodular lymphoma	nodular lymphoma	neoplasms
+202.22	Reticulosarcoma	reticulosarcoma	neoplasms
+202.23	Lymphosarcoma	lymphosarcoma	neoplasms
+202.24	Large cell lymphoma	large cell lymphoma	neoplasms
+204	Leukemia	leukemia	neoplasms
+204.1	Lymphoid leukemia	lymphoid leukemia	neoplasms
+204.11	Lymphoid leukemia, acute	lymphoid leukemia acute	neoplasms
+204.12	Lymphoid leukemia, chronic	lymphoid leukemia chronic	neoplasms
+204.2	Myeloid leukemia	myeloid leukemia	neoplasms
+204.21	Myeloid leukemia, acute	myeloid leukemia acute	neoplasms
+204.22	Myeloid leukemia, chronic	myeloid leukemia chronic	neoplasms
+204.3	Monocytic leukemia	monocytic leukemia	neoplasms
+204.4	Multiple myeloma	multiple myeloma	neoplasms
+208	Benign neoplasm of colon	benign neoplasm of colon	neoplasms
+209	Neuroendocrine tumors	neuroendocrine tumors	neoplasms
+210	Benign neoplasm of lip, oral cavity, and pharynx	benign neoplasm of lip oral cavity and pharynx	neoplasms
+211	Benign neoplasm of other parts of digestive system	benign neoplasm of other parts of digestive system	neoplasms
+212	Benign neoplasm of respiratory and intrathoracic organs	benign neoplasm of respiratory and intrathoracic organs	neoplasms
+213	Benign neoplasm of bone and articular cartilage	benign neoplasm of bone and articular cartilage	neoplasms
+214	Lipoma	lipoma	neoplasms
+214.1	Lipoma of skin and subcutaneous tissue	lipoma of skin and subcutaneous tissue	neoplasms
+215	Other benign neoplasm of connective and other soft tissue	other benign neoplasm of connective and other soft tissue	neoplasms
+216	Benign neoplasm of skin	benign neoplasm of skin	neoplasms
+216.1	Screening for malignant neoplasms of the skin	screening for malignant neoplasms of the skin	neoplasms
+217	Vascular hamartomas and non-neoplastic nevi	vascular hamartomas and non-neoplastic nevi	neoplasms
+217.1	Nevus, non-neoplastic	nevus non-neoplastic	neoplasms
+218	Benign neoplasm of uterus	benign neoplasm of uterus	neoplasms
+218.1	Uterine leiomyoma	uterine leiomyoma	neoplasms
+218.2	Other benign neoplasm of uterus	other benign neoplasm of uterus	neoplasms
+220	Benign neoplasm of ovary	benign neoplasm of ovary	neoplasms
+221	Benign neoplasm of other female genital organs	benign neoplasm of other female genital organs	neoplasms
+222	Benign neoplasm of male genital organs	benign neoplasm of male genital organs	neoplasms
+223	Benign neoplasm of kidney and other urinary organs	benign neoplasm of kidney and other urinary organs	neoplasms
+224	Benign neoplasm of eye	benign neoplasm of eye	neoplasms
+224.1	Benign neoplasm of eye, uveal	benign neoplasm of eye uveal	neoplasms
+225	Benign neoplasm of brain and other parts of nervous system	benign neoplasm of brain and other parts of nervous system	neoplasms
+225.1	Benign neoplasm of brain, cranial nerves, meninges	benign neoplasm of brain cranial nerves meninges	neoplasms
+225.2	Benign neoplasm of spinal cord, meninges	benign neoplasm of spinal cord meninges	neoplasms
+226	Benign neoplasm of thyroid glands	benign neoplasm of thyroid glands	neoplasms
+227	Benign neoplasm of other endocrine glands and related structures	benign neoplasm of other endocrine glands and related structures	neoplasms
+227.1	Benign neoplasm of adrenal gland	benign neoplasm of adrenal gland	neoplasms
+227.2	Benign neoplasm of parathyroid gland	benign neoplasm of parathyroid gland	neoplasms
+227.3	Benign neoplasm of pituitary gland and craniopharyngeal duct (pouch)	benign neoplasm of pituitary gland and craniopharyngeal duct pouch	neoplasms
+228	Hemangioma and lymphangioma, any site	hemangioma and lymphangioma any site	neoplasms
+228.1	Hemangioma of skin and subcutaneous tissue	hemangioma of skin and subcutaneous tissue	neoplasms
+229	Benign neoplasm of unspecified sites	benign neoplasm ofsites	neoplasms
+229.1	Benign neoplasm of lymph nodes	benign neoplasm of lymph nodes	neoplasms
+230	Kaposi's sarcoma	kaposis sarcoma	neoplasms
+240	Simple and unspecified goiter	simple andgoiter	endocrine/metabolic
+241	Nontoxic nodular goiter	nontoxic nodular goiter	endocrine/metabolic
+241.1	Nontoxic uninodular goiter	nontoxic uninodular goiter	endocrine/metabolic
+241.2	Nontoxic multinodular goiter	nontoxic multinodular goiter	endocrine/metabolic
+242	Thyrotoxicosis with or without goiter	thyrotoxicosis with or without goiter	endocrine/metabolic
+242.1	Graves' disease	graves disease	endocrine/metabolic
+242.2	Toxic multinodular goiter	toxic multinodular goiter	endocrine/metabolic
+242.3	Exophthalmos	exophthalmos	endocrine/metabolic
+242.31	Thyrotoxic exophthalmos	thyrotoxic exophthalmos	endocrine/metabolic
+244	Hypothyroidism	hypothyroidism	endocrine/metabolic
+244.1	Secondary hypothyroidism	secondary hypothyroidism	endocrine/metabolic
+244.2	Acquired hypothyroidism	acquired hypothyroidism	endocrine/metabolic
+244.3	Iodine hypothyroidism	iodine hypothyroidism	endocrine/metabolic
+244.4	Hypothyroidism NOS	hypothyroidism	endocrine/metabolic
+244.5	Congenital hypothyroidism	congenital hypothyroidism	endocrine/metabolic
+245	Thyroiditis	thyroiditis	endocrine/metabolic
+245.1	Thyroiditis, acute and subacute	thyroiditis acute and subacute	endocrine/metabolic
+245.2	Chronic thyroiditis	chronic thyroiditis	endocrine/metabolic
+245.21	Chronic lymphocytic thyroiditis	chronic lymphocytic thyroiditis	endocrine/metabolic
+246	Other disorders of thyroid	other disorders of thyroid	endocrine/metabolic
+246.2	Thyroid cyst	thyroid cyst	endocrine/metabolic
+246.7	Abnormal results of function study of thyroid	abnormal results of function study of thyroid	endocrine/metabolic
+249	Secondary diabetes mellitus	secondary diabetes mellitus	endocrine/metabolic
+250	Diabetes mellitus	diabetes mellitus	endocrine/metabolic
+250.1	Type 1 diabetes	type 1 diabetes	endocrine/metabolic
+250.11	Type 1 diabetes with ketoacidosis	type 1 diabetes with ketoacidosis	endocrine/metabolic
+250.12	Type 1 diabetes with renal manifestations	type 1 diabetes with renal manifestations	endocrine/metabolic
+250.13	Type 1 diabetes with ophthalmic manifestations	type 1 diabetes with ophthalmic manifestations	endocrine/metabolic
+250.14	Type 1 diabetes with neurological manifestations	type 1 diabetes with neurological manifestations	endocrine/metabolic
+250.15	Diabetes type 1 with peripheral circulatory disorders	diabetes type 1 with peripheral circulatory disorders	endocrine/metabolic
+250.2	Type 2 diabetes	type 2 diabetes	endocrine/metabolic
+250.21	Type 2 diabetes with ketoacidosis	type 2 diabetes with ketoacidosis	endocrine/metabolic
+250.22	Type 2 diabetes with renal manifestations	type 2 diabetes with renal manifestations	endocrine/metabolic
+250.23	Type 2 diabetes with ophthalmic manifestations	type 2 diabetes with ophthalmic manifestations	endocrine/metabolic
+250.24	Type 2 diabetes with neurological manifestations	type 2 diabetes with neurological manifestations	endocrine/metabolic
+250.25	Diabetes type 2 with peripheral circulatory disorders	diabetes type 2 with peripheral circulatory disorders	endocrine/metabolic
+250.3	Insulin pump user	insulin pump user	endocrine/metabolic
+250.4	Abnormal glucose	abnormal glucose	endocrine/metabolic
+250.41	Impaired fasting glucose	impaired fasting glucose	endocrine/metabolic
+250.42	Other abnormal glucose	other abnormal glucose	endocrine/metabolic
+250.5	Glycosuria or Acetonuria	glycosuria or acetonuria	endocrine/metabolic
+250.6	Polyneuropathy in diabetes	polyneuropathy in diabetes	endocrine/metabolic
+250.7	Diabetic retinopathy	diabetic retinopathy	endocrine/metabolic
+251	Other disorders of pancreatic internal secretion	other disorders of pancreatic internal secretion	endocrine/metabolic
+251.1	Hypoglycemia	hypoglycemia	endocrine/metabolic
+251.8	Abnormality of secretion of glucagon or gastrin	abnormality of secretion of glucagon or gastrin	endocrine/metabolic
+252	Disorders of parathyroid gland	disorders of parathyroid gland	endocrine/metabolic
+252.1	Hyperparathyroidism	hyperparathyroidism	endocrine/metabolic
+252.2	Hypoparathyroidism	hypoparathyroidism	endocrine/metabolic
+253	Disorders of the pituitary gland and its hypothalamic control	disorders of the pituitary gland and its hypothalamic control	endocrine/metabolic
+253.1	Pituitary hyperfunction	pituitary hyperfunction	endocrine/metabolic
+253.11	Acromegaly and gigantism	acromegaly and gigantism	endocrine/metabolic
+253.2	Pituitary hypofunction	pituitary hypofunction	endocrine/metabolic
+253.3	Diabetes insipidus	diabetes insipidus	endocrine/metabolic
+253.4	Anterior pituitary disorders	anterior pituitary disorders	endocrine/metabolic
+253.5	Pituitary dwarfism	pituitary dwarfism	endocrine/metabolic
+253.7	Other disorders of neurohypophysis	other disorders of neurohypophysis	endocrine/metabolic
+254	Diseases of thymus gland	diseases of thymus gland	endocrine/metabolic
+255	Disorders of adrenal glands	disorders of adrenal glands	endocrine/metabolic
+255.1	Adrenal hyperfunction	adrenal hyperfunction	endocrine/metabolic
+255.11	Cushing's syndrome	cushings syndrome	endocrine/metabolic
+255.12	Hyperaldosteronism	hyperaldosteronism	endocrine/metabolic
+255.13	Medulloadrenal hyperfunction	medulloadrenal hyperfunction	endocrine/metabolic
+255.2	Adrenal hypofunction	adrenal hypofunction	endocrine/metabolic
+255.21	Glucocorticoid deficiency	glucocorticoid deficiency	endocrine/metabolic
+255.22	Mineralocorticoid deficiency	mineralocorticoid deficiency	endocrine/metabolic
+255.3	Adrenogenital disorders	adrenogenital disorders	endocrine/metabolic
+256	Ovarian dysfunction	ovarian dysfunction	endocrine/metabolic
+256.1	Hyperestrogenism	hyperestrogenism	endocrine/metabolic
+256.4	Polycystic ovaries	polycystic ovaries	endocrine/metabolic
+257	Testicular dysfunction	testicular dysfunction	endocrine/metabolic
+257.1	Testicular hypofunction	testicular hypofunction	endocrine/metabolic
+258	Iatrogenic endocrine disorders	iatrogenic endocrine disorders	endocrine/metabolic
+258.1	Postablative ovarian failure	postablative ovarian failure	endocrine/metabolic
+259	Other endocrine disorders	other endocrine disorders	endocrine/metabolic
+259.1	Nonspecific abnormal results of other endocrine function study	nonspecific abnormal results of other endocrine function study	endocrine/metabolic
+259.2	Carcinoid syndrome	carcinoid syndrome	endocrine/metabolic
+259.3	Delay in sexual development and puberty NEC	delay in sexual development and puberty nec	endocrine/metabolic
+259.4	Precocious sexual development and puberty NEC	precocious sexual development and puberty nec	endocrine/metabolic
+259.8	Polyglandular activity in multiple endocrine adenomatosis	polyglandular activity in multiple endocrine adenomatosis	endocrine/metabolic
+260	Protein-calorie malnutrition	protein-calorie malnutrition	endocrine/metabolic
+260.1	Cachexia	cachexia	endocrine/metabolic
+260.2	severe protein-calorie malnutrition	severe protein-calorie malnutrition	endocrine/metabolic
+260.21	Kwashiorkor	kwashiorkor	endocrine/metabolic
+260.22	Nutritional marasmus	nutritional marasmus	endocrine/metabolic
+260.3	Adult failure to thrive	adult failure to thrive	endocrine/metabolic
+260.6	Anorexia	anorexia	endocrine/metabolic
+260.7	Polyphagia	polyphagia	endocrine/metabolic
+261	Vitamin deficiency	vitamin deficiency	endocrine/metabolic
+261.1	Vitamin A deficiency	vitamin a deficiency	endocrine/metabolic
+261.2	Vitamin B-complex deficiencies	vitamin b-complex deficiencies	endocrine/metabolic
+261.3	Vitamin C deficiencies	vitamin c deficiencies	endocrine/metabolic
+261.4	Vitamin D deficiency	vitamin d deficiency	endocrine/metabolic
+261.41	Rickets or osteomalacia	rickets or osteomalacia	endocrine/metabolic
+262	Mineral deficiency NEC	mineral deficiency nec	endocrine/metabolic
+263	Other nutritional deficiency	other nutritional deficiency	endocrine/metabolic
+264	Lack of normal physiological development	lack of normal physiological development	endocrine/metabolic
+264.1	Short stature	short stature	endocrine/metabolic
+264.2	Failure to thrive (childhood)	failure to thrive childhood	endocrine/metabolic
+264.3	Delayed milestones	delayed milestones	endocrine/metabolic
+264.9	Lack of normal physiological development, unspecified	lack of normal physiological development	endocrine/metabolic
+269	Proteinuria	proteinuria	endocrine/metabolic
+270	Disorders of protein plasma/amino-acid transport and metabolism	disorders of protein plasmaamino-acid transport and metabolism	endocrine/metabolic
+270.1	Disturbances of amino-acid transport	disturbances of amino-acid transport	endocrine/metabolic
+270.11	Disturbances of sulphur-bearing amino-acid metabolism	disturbances of sulphur-bearing amino-acid metabolism	endocrine/metabolic
+270.12	Phenylketonuria [PKU]	phenylketonuria pku	endocrine/metabolic
+270.2	Disorders of amino-acid metabolism	disorders of amino-acid metabolism	endocrine/metabolic
+270.21	Disorders of urea cycle metabolism	disorders of urea cycle metabolism	endocrine/metabolic
+270.3	Disorders of plasma protein metabolism	disorders of plasma protein metabolism	endocrine/metabolic
+270.31	Polyclonal hypergammaglobulinemia	polyclonal hypergammaglobulinemia	endocrine/metabolic
+270.32	Paraproteinemia	paraproteinemia	endocrine/metabolic
+270.33	Amyloidosis	amyloidosis	endocrine/metabolic
+270.34	Alpha-1-antitrypsin deficiency	alpha-1-antitrypsin deficiency	endocrine/metabolic
+270.35	Macroglobulinemia	macroglobulinemia	endocrine/metabolic
+270.38	Other specified disorders of plasma protein metabolism	other specified disorders of plasma protein metabolism	endocrine/metabolic
+271	Disorders of carbohydrate transport and metabolism	disorders of carbohydrate transport and metabolism	endocrine/metabolic
+271.3	Intestinal disaccharidase deficiencies and disaccharide malabsorption	intestinal disaccharidase deficiencies and disaccharide malabsorption	endocrine/metabolic
+271.9	Other disorders of carbohydrate transport and metabolism	other disorders of carbohydrate transport and metabolism	endocrine/metabolic
+272	Disorders of lipoid metabolism	disorders of lipoid metabolism	endocrine/metabolic
+272.1	Hyperlipidemia	hyperlipidemia	endocrine/metabolic
+272.11	Hypercholesterolemia	hypercholesterolemia	endocrine/metabolic
+272.12	Hyperglyceridemia	hyperglyceridemia	endocrine/metabolic
+272.13	Mixed hyperlipidemia	mixed hyperlipidemia	endocrine/metabolic
+272.14	Hyperchylomicronemia	hyperchylomicronemia	endocrine/metabolic
+272.9	Unspecified disorder of lipoid metabolism	disorder of lipoid metabolism	endocrine/metabolic
+274	Gout and other crystal arthropathies	gout and other crystal arthropathies	endocrine/metabolic
+274.1	Gout	gout	endocrine/metabolic
+274.11	Gouty arthropathy	gouty arthropathy	endocrine/metabolic
+274.2	Crystal arthropathies	crystal arthropathies	endocrine/metabolic
+274.21	Chondrocalcinosis	chondrocalcinosis	endocrine/metabolic
+275	Disorders of mineral metabolism	disorders of mineral metabolism	endocrine/metabolic
+275.1	Disorders of iron metabolism	disorders of iron metabolism	hematopoietic
+275.11	Hereditary hemochromatosis	hereditary hemochromatosis	hematopoietic
+275.2	Disorders of copper metabolism	disorders of copper metabolism	endocrine/metabolic
+275.3	Disorders of magnesium metabolism	disorders of magnesium metabolism	endocrine/metabolic
+275.5	Disorders of calcium/phosphorus metabolism	disorders of calciumphosphorus metabolism	endocrine/metabolic
+275.51	Hypocalcemia	hypocalcemia	endocrine/metabolic
+275.53	Disorders of phosphorus metabolism	disorders of phosphorus metabolism	endocrine/metabolic
+275.6	Hypercalcemia	hypercalcemia	endocrine/metabolic
+276	Disorders of fluid, electrolyte, and acid-base balance	disorders of fluid electrolyte and acid-base balance	endocrine/metabolic
+276.1	Electrolyte imbalance	electrolyte imbalance	endocrine/metabolic
+276.11	Hyperosmolality and/or hypernatremia	hyperosmolality andor hypernatremia	endocrine/metabolic
+276.12	Hyposmolality and/or hyponatremia	hyposmolality andor hyponatremia	endocrine/metabolic
+276.13	Hyperpotassemia	hyperpotassemia	endocrine/metabolic
+276.14	Hypopotassemia	hypopotassemia	endocrine/metabolic
+276.4	Acid-base balance disorder	acid-base balance disorder	endocrine/metabolic
+276.41	Acidosis	acidosis	endocrine/metabolic
+276.42	Alkalosis	alkalosis	endocrine/metabolic
+276.5	Hypovolemia	hypovolemia	endocrine/metabolic
+276.6	Fluid overload	fluid overload	endocrine/metabolic
+276.8	Polydipsia	polydipsia	endocrine/metabolic
+277	Other disorders of metabolism	other disorders of metabolism	endocrine/metabolic
+277.1	Disorders of porphyrin metabolism	disorders of porphyrin metabolism	endocrine/metabolic
+277.2	Other disorders of purine and pyrimidine metabolism	other disorders of purine and pyrimidine metabolism	endocrine/metabolic
+277.4	Disorders of bilirubin excretion	disorders of bilirubin excretion	endocrine/metabolic
+277.5	Other disorders of lipoid metabolism	other disorders of lipoid metabolism	endocrine/metabolic
+277.51	Lipoprotein disorders	lipoprotein disorders	endocrine/metabolic
+277.6	Other deficiencies of circulating enzymes	other deficiencies of circulating enzymes	endocrine/metabolic
+277.7	Dysmetabolic syndrome X	dysmetabolic syndrome x	endocrine/metabolic
+277.8	Carnitine deficiencies	carnitine deficiencies	endocrine/metabolic
+278	Overweight, obesity and other hyperalimentation	overweight obesity and other hyperalimentation	endocrine/metabolic
+278.1	Obesity	obesity	endocrine/metabolic
+278.11	Morbid obesity	morbid obesity	endocrine/metabolic
+278.3	Localized adiposity	localized adiposity	endocrine/metabolic
+278.4	Abnormal weight gain	abnormal weight gain	endocrine/metabolic
+279	Disorders involving the immune mechanism	disorders involving the immune mechanism	endocrine/metabolic
+279.1	Immunity deficiency	immunity deficiency	endocrine/metabolic
+279.11	Deficiency of humoral immunity	deficiency of humoral immunity	endocrine/metabolic
+279.2	Autoimmune disease NEC	autoimmune disease nec	endocrine/metabolic
+279.7	Other immunological findings	other immunological findings	endocrine/metabolic
+279.8	Other specified disorders involving the immune mechanism	other specified disorders involving the immune mechanism	endocrine/metabolic
+280	Iron deficiency anemias	iron deficiency anemias	hematopoietic
+280.1	Iron deficiency anemias, unspecified or not due to blood loss	iron deficiency anemiasor not due to blood loss	hematopoietic
+280.2	Iron deficiency anemia secondary to blood loss (chronic)	iron deficiency anemia secondary to blood loss chronic	hematopoietic
+281	Other deficiency anemia	other deficiency anemia	hematopoietic
+281.1	Megaloblastic anemia	megaloblastic anemia	hematopoietic
+281.11	Pernicious anemia	pernicious anemia	hematopoietic
+281.12	Other vitamin B12 deficiency anemia	other vitamin b12 deficiency anemia	hematopoietic
+281.13	Folate-deficiency anemia	folate-deficiency anemia	hematopoietic
+281.9	Deficiency anemias	deficiency anemias	hematopoietic
+282	Hereditary hemolytic anemias	hereditary hemolytic anemias	hematopoietic
+282.5	Sickle cell anemia	sickle cell anemia	hematopoietic
+282.8	Other hemoglobinopathies	other hemoglobinopathies	hematopoietic
+282.9	Other hereditary hemolytic anemias	other hereditary hemolytic anemias	hematopoietic
+283	Acquired hemolytic anemias	acquired hemolytic anemias	hematopoietic
+283.1	Autoimmune hemolytic anemias	autoimmune hemolytic anemias	hematopoietic
+283.2	Non-autoimmune hemolytic anemias	non-autoimmune hemolytic anemias	hematopoietic
+283.21	Hemolytic-uremic syndrome	hemolytic-uremic syndrome	hematopoietic
+284	Aplastic anemia	aplastic anemia	hematopoietic
+284.1	Pancytopenia	pancytopenia	hematopoietic
+284.2	Constitutional aplastic anemia	constitutional aplastic anemia	hematopoietic
+285	Other anemias	other anemias	hematopoietic
+285.1	Acute posthemorrhagic anemia	acute posthemorrhagic anemia	hematopoietic
+285.2	Anemia of chronic disease	anemia of chronic disease	hematopoietic
+285.21	Anemia in chronic kidney disease	anemia in chronic kidney disease	hematopoietic
+285.22	Anemia in neoplastic disease	anemia in neoplastic disease	hematopoietic
+285.3	Sideroblastic anemia	sideroblastic anemia	hematopoietic
+285.8	Hemoglobinuria	hemoglobinuria	hematopoietic
+286	Coagulation defects	coagulation defects	hematopoietic
+286.1	Congenital coagulation defects	congenital coagulation defects	hematopoietic
+286.11	Von willebrand's disease	von willebrands disease	hematopoietic
+286.12	Congenital deficiency of other clotting factors (including factor VII)	congenital deficiency of other clotting factors including factor vii	hematopoietic
+286.13	Congenital factor VIII disorder	congenital factor viii disorder	hematopoietic
+286.2	Encounter for long-term (current) use of anticoagulants	encounter for long-term current use of anticoagulants	hematopoietic
+286.3	Coagulation defects complicating pregnancy or postpartum	coagulation defects complicating pregnancy or postpartum	hematopoietic
+286.4	Acquired coagulation factor deficiency	acquired coagulation factor deficiency	hematopoietic
+286.5	Hemorrhagic disorder due to intrinsic circulating anticoagulants	hemorrhagic disorder due to intrinsic circulating anticoagulants	hematopoietic
+286.6	Defibrination syndrome	defibrination syndrome	hematopoietic
+286.7	Other and unspecified coagulation defects	other andcoagulation defects	hematopoietic
+286.8	Hypercoagulable state	hypercoagulable state	hematopoietic
+286.81	Primary hypercoagulable state	primary hypercoagulable state	hematopoietic
+286.9	Abnormal coagulation profile	abnormal coagulation profile	hematopoietic
+287	Purpura and other hemorrhagic conditions	purpura and other hemorrhagic conditions	hematopoietic
+287.1	Spontaneous ecchymoses	spontaneous ecchymoses	hematopoietic
+287.2	Allergic purpura	allergic purpura	hematopoietic
+287.3	Thrombocytopenia	thrombocytopenia	hematopoietic
+287.31	Primary thrombocytopenia	primary thrombocytopenia	hematopoietic
+287.32	Secondary thrombocytopenia	secondary thrombocytopenia	hematopoietic
+287.4	Qualitative platelet defects	qualitative platelet defects	hematopoietic
+288	Diseases of white blood cells	diseases of white blood cells	hematopoietic
+288.1	Decreased white blood cell count	decreased white blood cell count	hematopoietic
+288.11	Neutropenia	neutropenia	hematopoietic
+288.2	Elevated white blood cell count	elevated white blood cell count	hematopoietic
+288.3	Eosinophilia	eosinophilia	hematopoietic
+289	Other diseases of blood and blood-forming organs	other diseases of blood and blood-forming organs	hematopoietic
+289.1	Myelofibrosis	myelofibrosis	hematopoietic
+289.3	Personal history of diseases of blood and blood-forming organs	personal history of diseases of blood and blood-forming organs	hematopoietic
+289.4	Lymphadenitis	lymphadenitis	hematopoietic
+289.5	Diseases of spleen	diseases of spleen	hematopoietic
+289.8	Polycythemia, secondary	polycythemia secondary	hematopoietic
+289.9	Abnormality of red blood cells	abnormality of red blood cells	hematopoietic
+290	Delirium dementia and amnestic and other cognitive disorders	delirium dementia and amnestic and other cognitive disorders	mental disorders
+290.1	Dementias	dementias	mental disorders
+290.11	Alzheimer's disease	alzheimers disease	mental disorders
+290.12	Dementia with cerebral degenerations	dementia with cerebral degenerations	mental disorders
+290.13	Senile dementia	senile dementia	mental disorders
+290.16	Vascular dementia	vascular dementia	mental disorders
+290.2	Delirium due to conditions classified elsewhere	delirium due to conditions classified elsewhere	mental disorders
+290.3	Other persistent mental disorders due to conditions classified elsewhere	other persistent mental disorders due to conditions classified elsewhere	mental disorders
+291	Other specified nonpsychotic and/or transient mental disorders	other specified nonpsychotic andor transient mental disorders	mental disorders
+291.1	Transient mental disorders due to conditions classified elsewhere	transient mental disorders due to conditions classified elsewhere	mental disorders
+291.4	Specific nonpsychotic mental disorders due to brain damage	specific nonpsychotic mental disorders due to brain damage	mental disorders
+291.8	Alteration of consciousness	alteration of consciousness	mental disorders
+292	Neurological disorders	neurological disorders	mental disorders
+292.1	Aphasia/speech disturbance	aphasiaspeech disturbance	mental disorders
+292.11	Aphasia	aphasia	mental disorders
+292.12	Symbolic dysfunction	symbolic dysfunction	mental disorders
+292.2	Mild cognitive impairment	mild cognitive impairment	mental disorders
+292.3	Memory loss	memory loss	mental disorders
+292.4	Altered mental status	altered mental status	mental disorders
+292.5	Transient alteration of awareness	transient alteration of awareness	mental disorders
+292.6	Hallucinations	hallucinations	mental disorders
+293	Symptoms involving head and neck	symptoms involving head and neck	mental disorders
+293.1	Swelling, mass, or lump in head and neck [Space-occupying lesion, intracranial NOS]	swelling mass or lump in head and neck space-occupying lesion intracranial	mental disorders
+295	Schizophrenia and other psychotic disorders	schizophrenia and other psychotic disorders	mental disorders
+295.1	Schizophrenia	schizophrenia	mental disorders
+295.2	Paranoid disorders	paranoid disorders	mental disorders
+295.3	Psychosis	psychosis	mental disorders
+296	Mood disorders	mood disorders	mental disorders
+296.1	Bipolar	bipolar	mental disorders
+296.2	Depression	depression	mental disorders
+296.22	Major depressive disorder	major depressive disorder	mental disorders
+297	Suicidal ideation or attempt	suicidal ideation or attempt	mental disorders
+297.1	Suicidal ideation	suicidal ideation	mental disorders
+297.2	Suicide or self-inflicted injury	suicide or self-inflicted injury	mental disorders
+300	Anxiety disorders	anxiety disorders	mental disorders
+300.1	Anxiety disorder	anxiety disorder	mental disorders
+300.11	Generalized anxiety disorder	generalized anxiety disorder	mental disorders
+300.12	Agorophobia, social phobia, and panic disorder	agorophobia social phobia and panic disorder	mental disorders
+300.13	Phobia	phobia	mental disorders
+300.2	Generalized anxiety & phobic disorders	generalized anxiety  phobic disorders	mental disorders
+300.3	Obsessive-compulsive disorders	obsessive-compulsive disorders	mental disorders
+300.4	Dysthymic disorder	dysthymic disorder	mental disorders
+300.8	Acute reaction to stress	acute reaction to stress	mental disorders
+300.9	Posttraumatic stress disorder	posttraumatic stress disorder	mental disorders
+301	Personality disorders	personality disorders	mental disorders
+301.1	Schizoid personality disorder	schizoid personality disorder	mental disorders
+301.2	Antisocial/borderline personality disorder	antisocialborderline personality disorder	mental disorders
+302	Sexual and gender identity disorders	sexual and gender identity disorders	mental disorders
+302.1	Decreased libido	decreased libido	mental disorders
+303	Psychogenic and somatoform disorders	psychogenic and somatoform disorders	mental disorders
+303.1	Dissociative disorder	dissociative disorder	mental disorders
+303.3	Psychogenic disorder	psychogenic disorder	mental disorders
+303.31	Gastrointestinal malfunction arising from mental factors	gastrointestinal malfunction arising from mental factors	mental disorders
+303.4	Somatoform disorder	somatoform disorder	mental disorders
+304	Adjustment reaction	adjustment reaction	mental disorders
+305.2	Eating disorder	eating disorder	mental disorders
+305.21	Anorexia nervosa	anorexia nervosa	mental disorders
+306	Other mental disorder	other mental disorder	mental disorders
+306.1	Mental disorders durring/after pregnancy	mental disorders durringafter pregnancy	mental disorders
+306.9	Tension headache	tension headache	mental disorders
+312	Conduct disorders	conduct disorders	mental disorders
+312.3	Impulse control disorder	impulse control disorder	mental disorders
+313	Pervasive developmental disorders	pervasive developmental disorders	mental disorders
+313.1	Attention deficit hyperactivity disorder	attention deficit hyperactivity disorder	mental disorders
+313.2	Tics and stuttering	tics and stuttering	mental disorders
+313.3	Autism	autism	mental disorders
+315	Develomental delays and disorders	develomental delays and disorders	mental disorders
+315.1	Learning disorder	learning disorder	mental disorders
+315.2	Speech and language disorder	speech and language disorder	mental disorders
+315.3	Mental retardation	mental retardation	mental disorders
+316	Substance addiction and disorders	substance addiction and disorders	mental disorders
+316.1	Polyneuropathy due to drugs	polyneuropathy due to drugs	mental disorders
+317	Alcohol-related disorders	alcohol-related disorders	mental disorders
+317.1	Alcoholism	alcoholism	mental disorders
+317.11	Alcoholic liver damage	alcoholic liver damage	mental disorders
+318	Tobacco use disorder	tobacco use disorder	mental disorders
+320	Meningitis	meningitis	neurological
+323	Encephalitis	encephalitis	neurological
+323.2	Acute (transverse) myelitis	acute transverse myelitis	neurological
+323.8	Encephalitis, non-infectious	encephalitis non-infectious	neurological
+324	Other CNS infection and poliomyelitis	other cns infection and poliomyelitis	neurological
+324.1	Jakob-Creutzfeldt disease	jakob-creutzfeldt disease	neurological
+325	Phlebitis and thrombophlebitis of intracranial venous sinuses	phlebitis and thrombophlebitis of intracranial venous sinuses	neurological
+327	Sleep disorders	sleep disorders	neurological
+327.1	Hypersomnia	hypersomnia	neurological
+327.3	Sleep apnea	sleep apnea	neurological
+327.31	Central/nonobstroctive sleep apnea	centralnonobstroctive sleep apnea	neurological
+327.32	Obstructive sleep apnea	obstructive sleep apnea	neurological
+327.4	Insomnia	insomnia	neurological
+327.41	Organic or persistent insomnia	organic or persistent insomnia	neurological
+327.5	Parasomnia	parasomnia	neurological
+327.6	Circadian rhythm sleep disorder	circadian rhythm sleep disorder	neurological
+327.7	Sleep related movement disorders	sleep related movement disorders	neurological
+327.71	Restless legs syndrome	restless legs syndrome	neurological
+327.72	Sleep related leg cramps	sleep related leg cramps	neurological
+331	Other cerebral degenerations	other cerebral degenerations	neurological
+331.1	Hydrocephalus	hydrocephalus	neurological
+331.9	Cerebral degeneration, unspecified	cerebral degeneration	neurological
+332	Parkinson's disease	parkinsons disease	neurological
+333	Extrapyramidal disease and abnormal movement disorders	extrapyramidal disease and abnormal movement disorders	neurological
+333.1	Essential tremor	essential tremor	neurological
+333.2	Myoclonus	myoclonus	neurological
+333.3	Tics and choreas	tics and choreas	neurological
+333.4	Torsion dystonia	torsion dystonia	neurological
+333.8	Other degenerative diseases of the basal ganglia	other degenerative diseases of the basal ganglia	neurological
+334	Degenerative disease of the spinal cord	degenerative disease of the spinal cord	neurological
+334.1	Spinocerebellar disease	spinocerebellar disease	neurological
+334.2	Anterior horn cell disease	anterior horn cell disease	neurological
+334.21	Amyotrophic Lateral Sclerosis	amyotrophic lateral sclerosis	neurological
+335	Multiple sclerosis	multiple sclerosis	neurological
+337	Disorders of the autonomic nervous system	disorders of the autonomic nervous system	neurological
+337.1	Peripheral autonomic neuropathy	peripheral autonomic neuropathy	neurological
+338	Pain	pain	neurological
+338.1	Acute pain	acute pain	neurological
+338.2	Chronic pain	chronic pain	neurological
+339	Other headache syndromes	other headache syndromes	neurological
+340	Migraine	migraine	neurological
+340.1	Migrain with aura	migrain with aura	neurological
+341	Other demyelinating diseases of central nervous system	other demyelinating diseases of central nervous system	neurological
+342	Hemiplegia	hemiplegia	neurological
+343	Infantile cerebral palsy	infantile cerebral palsy	neurological
+344	Other paralytic syndromes	other paralytic syndromes	neurological
+345	Epilepsy, recurrent seizures, convulsions	epilepsy recurrent seizures convulsions	neurological
+345.1	Epilepsy	epilepsy	neurological
+345.11	Generalized convulsive epilepsy	generalized convulsive epilepsy	neurological
+345.12	Partial epilepsy	partial epilepsy	neurological
+345.3	Convulsions	convulsions	neurological
+346	Abnormal findings on study of brain and/or nervous system	abnormal findings on study of brain andor nervous system	neurological
+346.1	Nonspecific abnormal findings on radiological and other examination of skull and head	nonspecific abnormal findings on radiological and other examination of skull and head	neurological
+346.2	Nonspecific abnormal results of function study of brain and central nervous system	nonspecific abnormal results of function study of brain and central nervous system	neurological
+346.3	Nonspecific abnormal findings in cerebrospinal fluid	nonspecific abnormal findings in cerebrospinal fluid	neurological
+347	Cataplexy and narcolepsy	cataplexy and narcolepsy	neurological
+348	Other conditions of brain	other conditions of brain	neurological
+348.2	Cerebral edema and compression of brain	cerebral edema and compression of brain	neurological
+348.4	Cerebral cysts	cerebral cysts	neurological
+348.7	Coma	coma	neurological
+348.8	Encephalopathy, not elsewhere classified	encephalopathy not elsewhere classified	neurological
+348.9	Other conditions of brain, NOS	other conditions of brain	neurological
+349	Other and unspecified disorders of the nervous system	other anddisorders of the nervous system	neurological
+350	Abnormal movement	abnormal movement	neurological
+350.1	Abnormal involuntary movements	abnormal involuntary movements	neurological
+350.2	Abnormality of gait	abnormality of gait	neurological
+350.3	Lack of coordination	lack of coordination	neurological
+350.5	Abnormal reflex	abnormal reflex	neurological
+350.6	Disturbances of sensation of smell and taste	disturbances of sensation of smell and taste	neurological
+351	Other peripheral nerve disorders	other peripheral nerve disorders	neurological
+352	Disorders of other cranial nerves	disorders of other cranial nerves	neurological
+352.1	Trigeminal nerve disorders [CN5]	trigeminal nerve disorders cn5	neurological
+352.2	Facial nerve disorders [CN7]	facial nerve disorders cn7	neurological
+353	Nerve root and plexus disorders	nerve root and plexus disorders	neurological
+353.1	Nerve plexus lesions	nerve plexus lesions	neurological
+353.2	Nerve root lesions	nerve root lesions	neurological
+355	Complex regional/central pain syndrome	complex regionalcentral pain syndrome	neurological
+355.1	Chronic pain syndrome	chronic pain syndrome	neurological
+356	Hereditary and idiopathic peripheral neuropathy	hereditary and idiopathic peripheral neuropathy	neurological
+357	Inflammatory and toxic neuropathy	inflammatory and toxic neuropathy	neurological
+358	Myoneural disorders	myoneural disorders	neurological
+358.1	Myasthenia gravis	myasthenia gravis	neurological
+359	Muscular dystrophies and other myopathies	muscular dystrophies and other myopathies	neurological
+359.1	Muscular dystrophies	muscular dystrophies	neurological
+359.2	Myopathy	myopathy	neurological
+360	Disorders of the globe	disorders of the globe	sense organs
+360.2	Progressive myopia	progressive myopia	sense organs
+360.3	Hypotony of eye	hypotony of eye	sense organs
+361	Retinal detachments and defects	retinal detachments and defects	sense organs
+361.1	Retinal detachment with retinal defect	retinal detachment with retinal defect	sense organs
+361.2	Retinoschisis and retinal cysts	retinoschisis and retinal cysts	sense organs
+362	Other retinal disorders	other retinal disorders	sense organs
+362.1	Retinopathy of prematurity	retinopathy of prematurity	sense organs
+362.2	Degeneration of macula and posterior pole of retina	degeneration of macula and posterior pole of retina	sense organs
+362.21	Macular degeneration, dry	macular degeneration dry	sense organs
+362.22	Macular degeneration, wet	macular degeneration wet	sense organs
+362.23	Cystoid macular degeneration of retina	cystoid macular degeneration of retina	sense organs
+362.26	Macular puckering of retina	macular puckering of retina	sense organs
+362.27	Drusen (degenerative) of retina	drusen degenerative of retina	sense organs
+362.29	Macular degeneration (senile) of retina NOS	macular degeneration senile of retina	sense organs
+362.3	Other nondiabetic retinopathy	other nondiabetic retinopathy	sense organs
+362.31	Separation of retinal layers	separation of retinal layers	sense organs
+362.4	Retinal vascular changes and abnomalities	retinal vascular changes and abnomalities	sense organs
+362.5	Toxic maculopathy of retina	toxic maculopathy of retina	sense organs
+362.6	Peripheral retinal degenerations	peripheral retinal degenerations	sense organs
+362.7	Hereditary retinal dystrophies	hereditary retinal dystrophies	sense organs
+362.8	Retinal hemorrhage/ischemia	retinal hemorrhageischemia	sense organs
+362.9	Retinal edema	retinal edema	sense organs
+363	Chorioretinal inflammations, scars, and other disorders of choroid	chorioretinal inflammations scars and other disorders of choroid	sense organs
+363.3	Chorioretinal scars	chorioretinal scars	sense organs
+363.4	Choroidal degenerations	choroidal degenerations	sense organs
+364	Corneal opacity and other disorders of cornea	corneal opacity and other disorders of cornea	sense organs
+364.1	Corneal opacity	corneal opacity	sense organs
+364.2	Corneal edema	corneal edema	sense organs
+364.4	Corneal degenerations	corneal degenerations	sense organs
+364.41	Keratoconus	keratoconus	sense organs
+364.5	Corneal dystrophy	corneal dystrophy	sense organs
+364.51	Fuchs' dystrophy	fuchs dystrophy	sense organs
+364.9	Cornea replaced by transplant	cornea replaced by transplant	sense organs
+365	Glaucoma	glaucoma	sense organs
+365.1	Open-angle glaucoma	open-angle glaucoma	sense organs
+365.11	Primary open angle glaucoma	primary open angle glaucoma	sense organs
+365.2	Primary angle-closure glaucoma	primary angle-closure glaucoma	sense organs
+365.5	Pseudoexfoliation glaucoma	pseudoexfoliation glaucoma	sense organs
+366	Cataract	cataract	sense organs
+366.1	Nonsenile Cataract	nonsenile cataract	sense organs
+366.2	Senile cataract	senile cataract	sense organs
+366.3	Traumatic cataract	traumatic cataract	sense organs
+367	Disorders of refraction and accommodation; blindness and low vision	disorders of refraction and accommodation blindness and low vision	sense organs
+367.1	Myopia	myopia	sense organs
+367.2	Astigmatism	astigmatism	sense organs
+367.4	Presbyopia	presbyopia	sense organs
+367.8	Hypermetropia	hypermetropia	sense organs
+367.9	Blindness and low vision	blindness and low vision	sense organs
+368	Visual disturbances	visual disturbances	sense organs
+368.1	Amblyopia	amblyopia	sense organs
+368.2	Diplopia and disorders of binocular vision	diplopia and disorders of binocular vision	sense organs
+368.3	Anisometropia	anisometropia	sense organs
+368.4	Visual field defects	visual field defects	sense organs
+368.5	Color vision deficiencies	color vision deficiencies	sense organs
+368.7	Disorders of accommodation	disorders of accommodation	sense organs
+368.9	Subjective visual disturbances	subjective visual disturbances	sense organs
+368.91	Psychophysical visual disturbances	psychophysical visual disturbances	sense organs
+369	Infection of the eye	infection of the eye	sense organs
+369.2	Eye infection, viral	eye infection viral	sense organs
+369.5	Conjunctivitis, infectious	conjunctivitis infectious	sense organs
+370	Keratitis	keratitis	sense organs
+370.1	Corneal ulcer	corneal ulcer	sense organs
+370.2	Superficial keratitis	superficial keratitis	sense organs
+370.3	Keratoconjunctivitis	keratoconjunctivitis	sense organs
+370.31	Keratoconjunctivitis sicca	keratoconjunctivitis sicca	sense organs
+371	Inflammation of the eye	inflammation of the eye	sense organs
+371.1	Uveitis, noninfectious or NOS	uveitis noninfectious or	sense organs
+371.2	Conjunctivitis, noninfectious	conjunctivitis noninfectious	sense organs
+371.21	Allergic conjunctivitis	allergic conjunctivitis	sense organs
+371.3	Inflammation of eyelids	inflammation of eyelids	sense organs
+371.33	Noninfectious dermatoses of eyelid	noninfectious dermatoses of eyelid	sense organs
+371.9	Chronic inflammatory disorders of orbit	chronic inflammatory disorders of orbit	sense organs
+372	Disorders of conjunctiva	disorders of conjunctiva	sense organs
+374	Other disorders of eyelids	other disorders of eyelids	sense organs
+374.1	Ectropion or entropion	ectropion or entropion	sense organs
+374.2	Lagophthalmos	lagophthalmos	sense organs
+374.3	Ptosis of eyelid	ptosis of eyelid	sense organs
+374.6	Dermatochalasis	dermatochalasis	sense organs
+375	Disorders of lacrimal system	disorders of lacrimal system	sense organs
+375.1	Dry eyes	dry eyes	sense organs
+375.2	Epiphora	epiphora	sense organs
+376	Disorders of the orbit	disorders of the orbit	sense organs
+377	Disorders of optic nerve and visual pathways	disorders of optic nerve and visual pathways	sense organs
+377.1	Optic atrophy	optic atrophy	sense organs
+377.3	Optic neuritis/neuropathy	optic neuritisneuropathy	sense organs
+378	Strabismus and other disorders of binocular eye movements	strabismus and other disorders of binocular eye movements	sense organs
+378.1	Strabismus (not specified as paralytic)	strabismus not specified as paralytic	sense organs
+378.2	Nystagmus and other irregular eye movements	nystagmus and other irregular eye movements	sense organs
+378.5	Paralytic strabismus	paralytic strabismus	sense organs
+379	Other disorders of eye	other disorders of eye	sense organs
+379.1	Scleritis and episcleritis	scleritis and episcleritis	sense organs
+379.2	Disorders of vitreous body	disorders of vitreous body	sense organs
+379.3	Aphakia and other disorders of lens	aphakia and other disorders of lens	sense organs
+379.4	Anomalies of pupillary function	anomalies of pupillary function	sense organs
+379.5	Disorders of iris and ciliary body	disorders of iris and ciliary body	sense organs
+379.51	Pigmentary iris degeneration	pigmentary iris degeneration	sense organs
+379.9	Pain, swelling or discharge of eye	pain swelling or discharge of eye	sense organs
+380	Disorders of external ear	disorders of external ear	sense organs
+380.1	Otitis externa	otitis externa	sense organs
+380.4	Impacted cerumen	impacted cerumen	sense organs
+381	Otitis media and Eustachian tube disorders	otitis media and eustachian tube disorders	sense organs
+381.1	Otitis media	otitis media	sense organs
+381.11	Suppurative and unspecified otitis media	suppurative andotitis media	sense organs
+381.2	Eustachian tube disorders	eustachian tube disorders	sense organs
+381.3	Mastoiditis & related conditions	mastoiditis  related conditions	sense organs
+381.9	Otorrhea	otorrhea	sense organs
+382	Otalgia	otalgia	sense organs
+383	Otosclerosis	otosclerosis	sense organs
+384	Other disorders of tympanic membrane	other disorders of tympanic membrane	sense organs
+384.1	Myringitis	myringitis	sense organs
+384.4	Perforation of tympanic membrane	perforation of tympanic membrane	sense organs
+385	Other disorders of middle ear and mastoid	other disorders of middle ear and mastoid	sense organs
+385.3	Cholesteatoma	cholesteatoma	sense organs
+385.5	Tympanosclerosis and middle ear disease related to otitis media	tympanosclerosis and middle ear disease related to otitis media	sense organs
+386	Vertiginous syndromes and other disorders of vestibular system	vertiginous syndromes and other disorders of vestibular system	sense organs
+386.1	Meniere's disease	menieres disease	sense organs
+386.2	Peripheral or central vertigo	peripheral or central vertigo	sense organs
+386.21	Central origin vertigo	central origin vertigo	sense organs
+386.3	Labyrinthitis	labyrinthitis	sense organs
+386.9	Dizziness and giddiness (Light-headedness and vertigo)	dizziness and giddiness light-headedness and vertigo	sense organs
+388	Other disorders of ear	other disorders of ear	sense organs
+389	Hearing loss	hearing loss	sense organs
+389.1	Sensorineural hearing loss	sensorineural hearing loss	sense organs
+389.2	Conductive hearing loss	conductive hearing loss	sense organs
+389.3	Degenerative and vascular disorders of ear	degenerative and vascular disorders of ear	sense organs
+389.4	Tinnitus	tinnitus	sense organs
+389.5	Disorders of acoustic nerve	disorders of acoustic nerve	sense organs
+394	Rheumatic disease of the heart valves	rheumatic disease of the heart valves	circulatory system
+394.1	Mitral valve stenosis and aortic valve stenosis	mitral valve stenosis and aortic valve stenosis	circulatory system
+394.2	Mitral valve disease	mitral valve disease	circulatory system
+394.3	Aortic valve disease	aortic valve disease	circulatory system
+394.4	Acute rheumatic heart disease	acute rheumatic heart disease	circulatory system
+394.7	Disease of tricuspid valve	disease of tricuspid valve	circulatory system
+395	Heart valve disorders	heart valve disorders	circulatory system
+395.1	Nonrheumatic mitral valve disorders	nonrheumatic mitral valve disorders	circulatory system
+395.2	Nonrheumatic aortic valve disorders	nonrheumatic aortic valve disorders	circulatory system
+395.3	Nonrheumatic tricuspid valve disorders	nonrheumatic tricuspid valve disorders	circulatory system
+395.4	Nonrheumatic pulmonary valve disorders	nonrheumatic pulmonary valve disorders	circulatory system
+395.6	Heart valve replaced	heart valve replaced	circulatory system
+396	Abnormal heart sounds	abnormal heart sounds	circulatory system
+401	Hypertension	hypertension	circulatory system
+401.1	Essential hypertension	essential hypertension	circulatory system
+401.2	Hypertensive heart and/or renal disease	hypertensive heart andor renal disease	circulatory system
+401.21	Hypertensive heart disease	hypertensive heart disease	circulatory system
+401.22	Hypertensive chronic kidney disease	hypertensive chronic kidney disease	circulatory system
+401.3	Other hypertensive complications	other hypertensive complications	circulatory system
+402	Elevated blood pressure reading without diagnosis of hypertension	elevated blood pressure reading without diagnosis of hypertension	circulatory system
+411	Ischemic Heart Disease	ischemic heart disease	circulatory system
+411.1	Unstable angina (intermediate coronary syndrome)	unstable angina intermediate coronary syndrome	circulatory system
+411.2	Myocardial infarction	myocardial infarction	circulatory system
+411.3	Angina pectoris	angina pectoris	circulatory system
+411.4	Coronary atherosclerosis	coronary atherosclerosis	circulatory system
+411.41	Aneurysm and dissection of heart	aneurysm and dissection of heart	circulatory system
+411.8	Other chronic ischemic heart disease, unspecified	other chronic ischemic heart disease	circulatory system
+411.9	Other acute and subacute forms of ischemic heart disease	other acute and subacute forms of ischemic heart disease	circulatory system
+414	Other forms of chronic heart disease	other forms of chronic heart disease	circulatory system
+414.2	ASCVD	ascvd	circulatory system
+415	Pulmonary heart disease	pulmonary heart disease	circulatory system
+415.1	Acute pulmonary heart disease	acute pulmonary heart disease	circulatory system
+415.11	Pulmonary embolism and infarction, acute	pulmonary embolism and infarction acute	circulatory system
+415.2	Chronic pulmonary heart disease	chronic pulmonary heart disease	circulatory system
+415.21	Primary pulmonary hypertension	primary pulmonary hypertension	circulatory system
+416	Cardiomegaly	cardiomegaly	circulatory system
+418	Nonspecific chest pain	nonspecific chest pain	circulatory system
+418.1	Precordial pain	precordial pain	circulatory system
+420	Carditis	carditis	circulatory system
+420.1	Myocarditis	myocarditis	circulatory system
+420.2	Pericarditis	pericarditis	circulatory system
+420.21	Acute pericarditis	acute pericarditis	circulatory system
+420.22	Chronic pericarditis	chronic pericarditis	circulatory system
+420.3	Endocarditis	endocarditis	circulatory system
+425	Cardiomyopathy	cardiomyopathy	circulatory system
+425.1	Primary/intrinsic cardiomyopathies	primaryintrinsic cardiomyopathies	circulatory system
+425.11	Hypertrophic obstructive cardiomyopathy	hypertrophic obstructive cardiomyopathy	circulatory system
+425.12	Other hypertrophic cardiomyopathy	other hypertrophic cardiomyopathy	circulatory system
+425.2	Secondary/extrinsic cardiomyopathies	secondaryextrinsic cardiomyopathies	circulatory system
+425.8	Other cardiomyopathy	other cardiomyopathy	circulatory system
+426	Cardiac conduction disorders	cardiac conduction disorders	circulatory system
+426.2	Atrioventricular [AV] block	atrioventricular av block	circulatory system
+426.21	First degree AV block	first degree av block	circulatory system
+426.22	Mobitz II AV block	mobitz ii av block	circulatory system
+426.23	Second degree AV block	second degree av block	circulatory system
+426.24	Atrioventricular block, complete	atrioventricular block complete	circulatory system
+426.25	Other heart block	other heart block	circulatory system
+426.3	Bundle branch block	bundle branch block	circulatory system
+426.31	Right bundle branch block	right bundle branch block	circulatory system
+426.32	Left bundle branch block	left bundle branch block	circulatory system
+426.4	Anomalous atrioventricular excitation	anomalous atrioventricular excitation	circulatory system
+426.7	Abnormal electrocardiogram [ECG] [EKG]	abnormal electrocardiogram ecg ekg	circulatory system
+426.8	Other cardiac conduction disorders	other cardiac conduction disorders	circulatory system
+426.9	Cardiac pacemaker/device in situ	cardiac pacemakerdevice in situ	circulatory system
+426.91	Cardiac pacemaker in situ	cardiac pacemaker in situ	circulatory system
+426.92	Cardiac defibrillator in situ	cardiac defibrillator in situ	circulatory system
+427	Cardiac dysrhythmias	cardiac dysrhythmias	circulatory system
+427.1	Paroxysmal tachycardia, unspecified	paroxysmal tachycardia	circulatory system
+427.11	Paroxysmal supraventricular tachycardia	paroxysmal supraventricular tachycardia	circulatory system
+427.12	Paroxysmal ventricular tachycardia	paroxysmal ventricular tachycardia	circulatory system
+427.2	Atrial fibrillation and flutter	atrial fibrillation and flutter	circulatory system
+427.21	Atrial fibrillation	atrial fibrillation	circulatory system
+427.22	Atrial flutter	atrial flutter	circulatory system
+427.3	Other specified cardiac dysrhythmias	other specified cardiac dysrhythmias	circulatory system
+427.4	Cardiac arrest and ventricular fibrillation	cardiac arrest and ventricular fibrillation	circulatory system
+427.41	Ventricular fibrillation and flutter	ventricular fibrillation and flutter	circulatory system
+427.42	Cardiac arrest	cardiac arrest	circulatory system
+427.5	Arrhythmia (cardiac) NOS	arrhythmia cardiac	circulatory system
+427.6	Premature beats	premature beats	circulatory system
+427.61	Supraventricular premature beats	supraventricular premature beats	circulatory system
+427.7	Tachycardia NOS	tachycardia	circulatory system
+427.8	Sinoatrial node dysfunction (Bradycardia)	sinoatrial node dysfunction bradycardia	circulatory system
+427.9	Palpitations	palpitations	circulatory system
+428	Congestive heart failure; nonhypertensive	congestive heart failure nonhypertensive	circulatory system
+428.1	Congestive heart failure (CHF) NOS	congestive heart failure chf	circulatory system
+428.2	Heart failure NOS	heart failure	circulatory system
+428.3	Heart failure with reduced EF [Systolic or combined heart failure]	heart failure with reduced ef systolic or combined heart failure	circulatory system
+428.4	Heart failure with preserved EF [Diastolic heart failure]	heart failure with preserved ef diastolic heart failure	circulatory system
+429	Ill-defined descriptions and complications of heart disease	ill-defined descriptions and complications of heart disease	circulatory system
+429.1	Heart transplant/surgery	heart transplantsurgery	circulatory system
+429.2	Abnormal function study of cardiovascular system	abnormal function study of cardiovascular system	circulatory system
+429.3	Symptoms involving cardiovascular system	symptoms involving cardiovascular system	circulatory system
+429.9	Cardiac complications, not elsewhere classified	cardiac complications not elsewhere classified	circulatory system
+430	Intracranial hemorrhage	intracranial hemorrhage	circulatory system
+430.1	Subarachnoid hemorrhage	subarachnoid hemorrhage	circulatory system
+430.2	Intracerebral hemorrhage	intracerebral hemorrhage	circulatory system
+430.3	Subdural hemorrhage	subdural hemorrhage	circulatory system
+433	Cerebrovascular disease	cerebrovascular disease	circulatory system
+433.1	Occlusion and stenosis of precerebral arteries	occlusion and stenosis of precerebral arteries	circulatory system
+433.11	Occlusion of cerebral arteries, with cerebral infarction	occlusion of cerebral arteries with cerebral infarction	circulatory system
+433.12	Cerebral atherosclerosis	cerebral atherosclerosis	circulatory system
+433.2	Occlusion of cerebral arteries	occlusion of cerebral arteries	circulatory system
+433.21	Cerebral artery occlusion, with cerebral infarction	cerebral artery occlusion with cerebral infarction	circulatory system
+433.3	Cerebral ischemia	cerebral ischemia	circulatory system
+433.31	Transient cerebral ischemia	transient cerebral ischemia	circulatory system
+433.32	Moyamoya disease	moyamoya disease	circulatory system
+433.5	Cerebral aneurysm	cerebral aneurysm	circulatory system
+433.6	Acute, but ill-defined cerebrovascular disease	acute but ill-defined cerebrovascular disease	circulatory system
+433.8	Late effects of cerebrovascular disease	late effects of cerebrovascular disease	circulatory system
+440	Atherosclerosis	atherosclerosis	circulatory system
+440.1	Atherosclerosis of renal artery	atherosclerosis of renal artery	circulatory system
+440.2	Atherosclerosis of the extremities	atherosclerosis of the extremities	circulatory system
+440.21	Atherosclerosis of native arteries of the extremities with ulceration or gangrene	atherosclerosis of native arteries of the extremities with ulceration or gangrene	circulatory system
+440.22	Atherosclerosis of native arteries of the extremities with intermittent claudication	atherosclerosis of native arteries of the extremities with intermittent claudication	circulatory system
+440.9	Atherosclerosis of aorta	atherosclerosis of aorta	circulatory system
+441	Vascular insufficiency of intestine	vascular insufficiency of intestine	circulatory system
+441.1	Acute vascular insufficiency of intestine	acute vascular insufficiency of intestine	circulatory system
+441.2	Chronic vascular insufficiency of intestine	chronic vascular insufficiency of intestine	circulatory system
+442	Other aneurysm	other aneurysm	circulatory system
+442.1	Aortic aneurysm	aortic aneurysm	circulatory system
+442.11	Abdominal aortic aneurysm	abdominal aortic aneurysm	circulatory system
+442.2	Aneurysm of iliac artery	aneurysm of iliac artery	circulatory system
+442.3	Aneurysm of artery of lower extremity	aneurysm of artery of lower extremity	circulatory system
+442.4	Arterial dissection	arterial dissection	circulatory system
+442.8	Aneurysm of other specified artery	aneurysm of other specified artery	circulatory system
+443	Peripheral vascular disease	peripheral vascular disease	circulatory system
+443.1	Raynaud's syndrome	raynauds syndrome	circulatory system
+443.7	Peripheral angiopathy in diseases classified elsewhere	peripheral angiopathy in diseases classified elsewhere	circulatory system
+443.8	Other specified peripheral vascular diseases	other specified peripheral vascular diseases	circulatory system
+443.9	Peripheral vascular disease, unspecified	peripheral vascular disease	circulatory system
+444	Arterial embolism and thrombosis	arterial embolism and thrombosis	circulatory system
+444.1	Arterial embolism and thrombosis of lower extremity artery	arterial embolism and thrombosis of lower extremity artery	circulatory system
+444.2	Embolism and thrombosis of abdominal aorta	embolism and thrombosis of abdominal aorta	circulatory system
+444.5	Atheroembolism	atheroembolism	circulatory system
+446	Polyarteritis nodosa and allied conditions	polyarteritis nodosa and allied conditions	circulatory system
+446.1	Thromboangiitis obliterans	thromboangiitis obliterans	circulatory system
+446.2	Acute febrile mucocutaneous lymph node syndrome (Kawasaki disease)	acute febrile mucocutaneous lymph node syndrome kawasaki disease	circulatory system
+446.3	Hypersensitivity angiitis	hypersensitivity angiitis	circulatory system
+446.4	Wegener's granulomatosis	wegeners granulomatosis	circulatory system
+446.5	Giant cell arteritis	giant cell arteritis	circulatory system
+446.6	Polyarteritis nodosa	polyarteritis nodosa	circulatory system
+446.7	Takayasu's disease	takayasus disease	circulatory system
+446.8	Thrombotic microangiopathy	thrombotic microangiopathy	circulatory system
+446.9	Arteritis NOS	arteritis	circulatory system
+447	Other disorders of arteries and arterioles	other disorders of arteries and arterioles	circulatory system
+447.1	Stricture of artery	stricture of artery	circulatory system
+447.7	Aortic ectasia	aortic ectasia	circulatory system
+448	Disease of capillaries	disease of capillaries	circulatory system
+450	Noninfectious disorders of lymphatic channels	noninfectious disorders of lymphatic channels	circulatory system
+451	Phlebitis and thrombophlebitis	phlebitis and thrombophlebitis	circulatory system
+451.2	Phlebitis and thrombophlebitis of lower extremities	phlebitis and thrombophlebitis of lower extremities	circulatory system
+452	Other venous embolism and thrombosis	other venous embolism and thrombosis	circulatory system
+452.1	Iatrogenic pulmonary embolism and infarction	iatrogenic pulmonary embolism and infarction	circulatory system
+452.2	Deep vein thrombosis [DVT]	deep vein thrombosis dvt	circulatory system
+452.8	Postphlebitic syndrome	postphlebitic syndrome	circulatory system
+453	Chronic venous hypertension	chronic venous hypertension	circulatory system
+454	Varicose veins	varicose veins	circulatory system
+454.1	Varicose veins of lower extremity	varicose veins of lower extremity	circulatory system
+454.11	Varicose veins of lower extremity, symptomtic	varicose veins of lower extremity symptomtic	circulatory system
+455	Hemorrhoids	hemorrhoids	circulatory system
+456	Chronic venous insufficiency [CVI]	chronic venous insufficiency cvi	circulatory system
+457	Encounter for long-term (current) use of anticoagulants, antithrombotics, aspirin	encounter for long-term current use of anticoagulants antithrombotics aspirin	circulatory system
+457.2	Encounter for long-term (current) use of antiplatelets/antithrombotics	encounter for long-term current use of antiplateletsantithrombotics	circulatory system
+457.3	Encounter for long-term (current) use of aspirin	encounter for long-term current use of aspirin	circulatory system
+458	Hypotension	hypotension	circulatory system
+458.1	Orthostatic hypotension	orthostatic hypotension	circulatory system
+458.2	Iatrogenic hypotension	iatrogenic hypotension	circulatory system
+458.9	Hypotension NOS	hypotension	circulatory system
+459	Other disorders of circulatory system	other disorders of circulatory system	circulatory system
+459.1	Hemorrhage NOS	hemorrhage	circulatory system
+459.7	Blood vessel replaced	blood vessel replaced	circulatory system
+459.9	Circulatory disease NEC	circulatory disease nec	circulatory system
+464	Acute sinusitis	acute sinusitis	respiratory
+465	Acute upper respiratory infections of multiple or unspecified sites	acute upper respiratory infections of multiple orsites	respiratory
+465.2	Acute pharyngitis	acute pharyngitis	respiratory
+465.4	Acute laryngitis and tracheitis	acute laryngitis and tracheitis	respiratory
+470	Septal Deviations/Turbinate Hypertrophy	septal deviationsturbinate hypertrophy	respiratory
+471	Nasal polyps	nasal polyps	respiratory
+472	Chronic pharyngitis and nasopharyngitis	chronic pharyngitis and nasopharyngitis	respiratory
+473	Diseases of the larynx and vocal cords	diseases of the larynx and vocal cords	respiratory
+473.1	Chronic laryngitis	chronic laryngitis	respiratory
+473.3	Paralysis/spasm of vocal cords or larynx	paralysisspasm of vocal cords or larynx	respiratory
+473.4	Voice disturbance	voice disturbance	respiratory
+474	Acute and chronic tonsillitis	acute and chronic tonsillitis	respiratory
+474.1	Acute tonsillitis	acute tonsillitis	respiratory
+474.2	Chronic tonsillitis and adenoiditis	chronic tonsillitis and adenoiditis	respiratory
+475	Chronic sinusitis	chronic sinusitis	respiratory
+475.9	Postnasal drip	postnasal drip	respiratory
+476	Allergic rhinitis	allergic rhinitis	respiratory
+477	Epistaxis or throat hemorrhage	epistaxis or throat hemorrhage	respiratory
+478	Throat pain	throat pain	respiratory
+479	Other upper respiratory disease	other upper respiratory disease	respiratory
+480	Pneumonia	pneumonia	respiratory
+480.1	Bacterial pneumonia	bacterial pneumonia	respiratory
+480.11	Pneumococcal pneumonia	pneumococcal pneumonia	respiratory
+480.12	Pseudomonal pneumonia	pseudomonal pneumonia	respiratory
+480.13	MRSA pneumonia	mrsa pneumonia	respiratory
+480.2	Viral pneumonia	viral pneumonia	respiratory
+480.3	Pneumonia due to fungus (mycoses)	pneumonia due to fungus mycoses	respiratory
+480.5	Bronchopneumonia and lung abscess	bronchopneumonia and lung abscess	respiratory
+481	Influenza	influenza	respiratory
+483	Acute bronchitis and bronchiolitis	acute bronchitis and bronchiolitis	respiratory
+495	Asthma	asthma	respiratory
+495.1	Chronic obstructive asthma	chronic obstructive asthma	respiratory
+495.11	Chronic obstructive asthma with exacerbation	chronic obstructive asthma with exacerbation	respiratory
+495.2	Asthma with exacerbation	asthma with exacerbation	respiratory
+496	Chronic airway obstruction	chronic airway obstruction	respiratory
+496.1	Emphysema	emphysema	respiratory
+496.2	Chronic bronchitis	chronic bronchitis	respiratory
+496.21	Obstructive chronic bronchitis	obstructive chronic bronchitis	respiratory
+496.3	Bronchiectasis	bronchiectasis	respiratory
+497	Bronchitis	bronchitis	respiratory
+498	Acute bronchospasm	acute bronchospasm	respiratory
+499	Cystic fibrosis	cystic fibrosis	respiratory
+500	Lung disease due to external agents	lung disease due to external agents	respiratory
+500.1	Extrinsic allergic alveolitis	extrinsic allergic alveolitis	respiratory
+500.2	Pneumoconiosis	pneumoconiosis	respiratory
+501	Pneumonitis due to inhalation of food or vomitus	pneumonitis due to inhalation of food or vomitus	respiratory
+502	Postinflammatory pulmonary fibrosis	postinflammatory pulmonary fibrosis	respiratory
+503	Pulmonary congestion and hypostasis	pulmonary congestion and hypostasis	respiratory
+504	Other alveolar and parietoalveolar pneumonopathy	other alveolar and parietoalveolar pneumonopathy	respiratory
+504.1	Idiopathic fibrosing alveolitis	idiopathic fibrosing alveolitis	respiratory
+505	Other pulmonary inflamation or edema	other pulmonary inflamation or edema	respiratory
+506	Empyema and pneumothorax	empyema and pneumothorax	respiratory
+507	Pleurisy; pleural effusion	pleurisy pleural effusion	respiratory
+508	Pulmonary collapse; interstitial and compensatory emphysema	pulmonary collapse interstitial and compensatory emphysema	respiratory
+509	Respiratory failure, insufficiency, arrest	respiratory failure insufficiency arrest	respiratory
+509.1	Respiratory failure	respiratory failure	respiratory
+509.2	Respiratory insufficiency	respiratory insufficiency	respiratory
+509.3	Pulmonary insufficiency or respiratory failure following trauma and surgery	pulmonary insufficiency or respiratory failure following trauma and surgery	respiratory
+509.5	Respiratory arrest	respiratory arrest	respiratory
+509.8	Dependence on respirator [Ventilator] or supplemental oxygen	dependence on respirator ventilator or supplemental oxygen	respiratory
+510	Other diseases of lung	other diseases of lung	respiratory
+510.2	Lung transplant	lung transplant	respiratory
+512	Other symptoms of respiratory system	other symptoms of respiratory system	respiratory
+512.1	Wheezing	wheezing	respiratory
+512.2	Painful respiration	painful respiration	respiratory
+512.3	Abnormal chest sounds	abnormal chest sounds	respiratory
+512.7	Shortness of breath	shortness of breath	respiratory
+512.8	Cough	cough	respiratory
+512.9	Other dyspnea	other dyspnea	respiratory
+513	Respiratory abnormalities	respiratory abnormalities	respiratory
+513.3	Hypoventilation	hypoventilation	respiratory
+513.31	Apnea	apnea	respiratory
+513.32	Orthopnea	orthopnea	respiratory
+513.4	Hyperventilation	hyperventilation	respiratory
+513.8	Disorders of diaphragm	disorders of diaphragm	respiratory
+514	Abnormal findings examination of lungs	abnormal findings examination of lungs	respiratory
+514.1	Abnormal results of function study of pulmonary system	abnormal results of function study of pulmonary system	respiratory
+514.2	Solitary pulmonary nodule	solitary pulmonary nodule	respiratory
+516	Abnormal sputum	abnormal sputum	respiratory
+516.1	Hemoptysis	hemoptysis	respiratory
+519	Other diseases of respiratory system, not elsewhere classified	other diseases of respiratory system not elsewhere classified	respiratory
+519.1	Tracheostomy complications	tracheostomy complications	respiratory
+519.2	Respiratory complications	respiratory complications	respiratory
+519.8	Other diseases of respiratory system, NEC	other diseases of respiratory system nec	respiratory
+519.9	Symptoms involving respiratory system and other chest symptoms	symptoms involving respiratory system and other chest symptoms	respiratory
+520	Disorders of tooth development	disorders of tooth development	digestive
+520.1	Hereditary disturbances in tooth structure	hereditary disturbances in tooth structure	digestive
+520.2	Disturbances in tooth eruption	disturbances in tooth eruption	digestive
+521	Diseases of hard tissues of teeth	diseases of hard tissues of teeth	digestive
+521.1	Dental caries	dental caries	digestive
+521.2	Dental abrasion, erosion and attrition	dental abrasion erosion and attrition	digestive
+521.4	Tooth complications likely association with other diseases	tooth complications likely association with other diseases	digestive
+522	Diseases of pulp and periapical tissues	diseases of pulp and periapical tissues	digestive
+522.1	Pulpitis and necrosis of tooth pulp	pulpitis and necrosis of tooth pulp	digestive
+522.5	Periapical abscess	periapical abscess	digestive
+523	Gingival and periodontal diseases	gingival and periodontal diseases	digestive
+523.1	Gingivitis	gingivitis	digestive
+523.3	Periodontitis (acute or chronic)	periodontitis acute or chronic	digestive
+523.31	Acute periodontitis	acute periodontitis	digestive
+523.32	Chronic periodontitis	chronic periodontitis	digestive
+524	Dentofacial anomalies, including malocclusion	dentofacial anomalies including malocclusion	digestive
+524.3	Anomalies of tooth position/malocclusion	anomalies of tooth positionmalocclusion	digestive
+525	Other diseases of the teeth and supporting structures	other diseases of the teeth and supporting structures	digestive
+525.1	Loss of teeth or edentulism	loss of teeth or edentulism	digestive
+525.2	Atrophy of edentulous alveolar ridge	atrophy of edentulous alveolar ridge	digestive
+526	Diseases of the jaws	diseases of the jaws	digestive
+526.1	Cysts of the jaws	cysts of the jaws	digestive
+526.3	Anomalies of jaw size/symmetry	anomalies of jaw sizesymmetry	digestive
+526.4	Temporomandibular joint disorders	temporomandibular joint disorders	digestive
+526.41	Temporomandibular joint disorder, unspecified	temporomandibular joint disorder	digestive
+526.42	Arthralgia/ankylosis of temporomandibular joint	arthralgiaankylosis of temporomandibular joint	digestive
+526.5	Inflammatory conditions of jaw	inflammatory conditions of jaw	digestive
+526.8	Exostosis of jaw	exostosis of jaw	digestive
+526.9	Jaw disease NOS	jaw disease	digestive
+527	Diseases of the salivary glands	diseases of the salivary glands	digestive
+527.1	Hypertrophy of salivary gland	hypertrophy of salivary gland	digestive
+527.2	Sialoadenitis	sialoadenitis	digestive
+527.7	Disturbance of salivary secretion	disturbance of salivary secretion	digestive
+527.8	Other specified diseases of the salivary glands	other specified diseases of the salivary glands	digestive
+528	Diseases of the oral soft tissues, excluding lesions specific for gingiva and tongue	diseases of the oral soft tissues excluding lesions specific for gingiva and tongue	digestive
+528.1	Stomatitis and mucositis	stomatitis and mucositis	digestive
+528.11	Stomatitis and mucositis (ulcerative)	stomatitis and mucositis ulcerative	digestive
+528.12	Oral aphthae	oral aphthae	digestive
+528.3	Cellulitis and abscess of oral soft tissues	cellulitis and abscess of oral soft tissues	digestive
+528.4	Cysts of oral soft tissues	cysts of oral soft tissues	digestive
+528.41	Cyst of the salivary gland	cyst of the salivary gland	digestive
+528.5	Diseases of lips	diseases of lips	digestive
+528.6	Leukoplakia of oral mucosa	leukoplakia of oral mucosa	digestive
+528.7	Sialolithiasis	sialolithiasis	digestive
+529	Diseases and other conditions of the tongue	diseases and other conditions of the tongue	digestive
+529.1	Glossitis	glossitis	digestive
+529.6	Glossodynia	glossodynia	digestive
+530	Diseases of esophagus	diseases of esophagus	digestive
+530.1	Esophagitis, GERD and related diseases	esophagitis gerd and related diseases	digestive
+530.11	GERD	gerd	digestive
+530.12	Ulcer of esophagus	ulcer of esophagus	digestive
+530.13	Barrett's esophagus	barretts esophagus	digestive
+530.14	Reflux esophagitis	reflux esophagitis	digestive
+530.15	Eosinophilic esophagitis	eosinophilic esophagitis	digestive
+530.2	Esophageal bleeding (varices/hemorrhage)	esophageal bleeding variceshemorrhage	digestive
+530.3	Stricture and stenosis of esophagus	stricture and stenosis of esophagus	digestive
+530.5	Disorders of esophageal motility	disorders of esophageal motility	digestive
+530.6	Diverticulum of esophagus, acquired	diverticulum of esophagus acquired	digestive
+530.7	Gastroesophageal laceration-hemorrhage syndrome	gastroesophageal laceration-hemorrhage syndrome	digestive
+530.9	Heartburn	heartburn	digestive
+531	Peptic ulcer (excl. esophageal)	peptic ulcer excl. esophageal	digestive
+531.1	Hemorrhage from gastrointestinal ulcer	hemorrhage from gastrointestinal ulcer	digestive
+531.2	Gastric ulcer	gastric ulcer	digestive
+531.3	Duodenal ulcer	duodenal ulcer	digestive
+531.4	Peptic ulcer, site unspecified	peptic ulcer site	digestive
+531.5	Gastrojejunal ulcer	gastrojejunal ulcer	digestive
+532	Dysphagia	dysphagia	digestive
+535	Gastritis and duodenitis	gastritis and duodenitis	digestive
+535.1	Acute gastritis	acute gastritis	digestive
+535.2	Atrophic gastritis	atrophic gastritis	digestive
+535.6	Duodenitis	duodenitis	digestive
+535.8	Other specified gastritis	other specified gastritis	digestive
+535.9	Gastritis and duodenitis, NOS	gastritis and duodenitis	digestive
+536	Disorders of function of stomach	disorders of function of stomach	digestive
+536.3	Gastroparesis	gastroparesis	digestive
+536.7	Complications of gastrostomy, colostomy and enterostomy	complications of gastrostomy colostomy and enterostomy	digestive
+536.8	Dyspepsia and other specified disorders of function of stomach	dyspepsia and other specified disorders of function of stomach	digestive
+537	Other disorders of stomach and duodenum	other disorders of stomach and duodenum	digestive
+537.1	Lesions of stomach and duodenum	lesions of stomach and duodenum	digestive
+539	Bariatric surgery	bariatric surgery	digestive
+540	Appendiceal conditions	appendiceal conditions	digestive
+540.1	Appendicitis	appendicitis	digestive
+540.11	Acute appendicitis	acute appendicitis	digestive
+550	Abdominal hernia	abdominal hernia	digestive
+550.1	Inguinal hernia	inguinal hernia	digestive
+550.2	Diaphragmatic hernia	diaphragmatic hernia	digestive
+550.3	Femoral hernia	femoral hernia	digestive
+550.4	Umbilical hernia	umbilical hernia	digestive
+550.5	Ventral hernia	ventral hernia	digestive
+550.6	Incisional hernia	incisional hernia	digestive
+555	Inflammatory bowel disease and other gastroenteritis and colitis	inflammatory bowel disease and other gastroenteritis and colitis	digestive
+555.1	Regional enteritis	regional enteritis	digestive
+555.2	Ulcerative colitis	ulcerative colitis	digestive
+555.21	Ulcerative colitis (chronic)	ulcerative colitis chronic	digestive
+556	Ulceration of the lower GI tract	ulceration of the lower gi tract	digestive
+556.1	Ulceration of intestine	ulceration of intestine	digestive
+556.11	Angiodysplasia of intestine (without mention of hemorrhage)	angiodysplasia of intestine without mention of hemorrhage	digestive
+557	Intestinal malabsorption (non-celiac)	intestinal malabsorption non-celiac	digestive
+557.1	Celiac disease	celiac disease	digestive
+558	Noninfectious gastroenteritis	noninfectious gastroenteritis	digestive
+559	Ileostomy status	ileostomy status	digestive
+560	Intestinal obstruction without mention of hernia	intestinal obstruction without mention of hernia	digestive
+560.1	Paralytic ileus	paralytic ileus	digestive
+560.2	Impaction of intestine	impaction of intestine	digestive
+560.3	Peritoneal or intestinal adhesions	peritoneal or intestinal adhesions	digestive
+560.4	Other intestinal obstruction	other intestinal obstruction	digestive
+561	Symptoms involving digestive system	symptoms involving digestive system	digestive
+561.1	Diarrhea	diarrhea	digestive
+561.2	Flatulence	flatulence	digestive
+562	Diverticulosis and diverticulitis	diverticulosis and diverticulitis	digestive
+562.1	Diverticulosis	diverticulosis	digestive
+562.2	Diverticulitis	diverticulitis	digestive
+563	Constipation	constipation	digestive
+564	Functional digestive disorders	functional digestive disorders	digestive
+564.1	Irritable Bowel Syndrome	irritable bowel syndrome	digestive
+564.8	Abnormal findings on exam of gastrointestinal tract/ abdominal area	abnormal findings on exam of gastrointestinal tract abdominal area	digestive
+564.9	Personal history of diseases of digestive system	personal history of diseases of digestive system	digestive
+565	Anal and rectal conditions	anal and rectal conditions	digestive
+565.1	Anal and rectal polyp	anal and rectal polyp	digestive
+567	Peritonitis and retroperitoneal infections	peritonitis and retroperitoneal infections	digestive
+568	Other disorders of peritoneum	other disorders of peritoneum	digestive
+568.1	Peritoneal adhesions (postoperative) (postinfection)	peritoneal adhesions postoperative postinfection	digestive
+569	Other disorders of intestine	other disorders of intestine	digestive
+569.1	Toxic gastroenteritis and colitis	toxic gastroenteritis and colitis	digestive
+569.2	Gastrointestinal complications	gastrointestinal complications	digestive
+571	Chronic liver disease and cirrhosis	chronic liver disease and cirrhosis	digestive
+571.5	Other chronic nonalcoholic liver disease	other chronic nonalcoholic liver disease	digestive
+571.51	Cirrhosis of liver without mention of alcohol	cirrhosis of liver without mention of alcohol	digestive
+571.6	Primary biliary cirrhosis	primary biliary cirrhosis	digestive
+571.8	Liver abscess and sequelae of chronic liver disease	liver abscess and sequelae of chronic liver disease	digestive
+571.81	Portal hypertension	portal hypertension	digestive
+572	Ascites (non malignant)	ascites non malignant	digestive
+573	Other disorders of liver	other disorders of liver	digestive
+573.1	Chronic passive congestion of liver	chronic passive congestion of liver	digestive
+573.2	Liver replaced by transplant	liver replaced by transplant	digestive
+573.3	Hepatomegaly	hepatomegaly	digestive
+573.4	Acute and subacute necrosis of liver	acute and subacute necrosis of liver	digestive
+573.5	Jaundice (not of newborn)	jaundice not of newborn	digestive
+573.6	Nonspecific elevation of levels of transaminase or lactic acid dehydrogenase [LDH]	nonspecific elevation of levels of transaminase or lactic acid dehydrogenase ldh	digestive
+573.7	Abnormal results of function study of liver	abnormal results of function study of liver	digestive
+573.9	Abnormal serum enzyme levels	abnormal serum enzyme levels	digestive
+574	Cholelithiasis and cholecystitis	cholelithiasis and cholecystitis	digestive
+574.1	Cholelithiasis	cholelithiasis	digestive
+574.11	Cholelithiasis with acute cholecystitis	cholelithiasis with acute cholecystitis	digestive
+574.12	Cholelithiasis with other cholecystitis	cholelithiasis with other cholecystitis	digestive
+574.2	Calculus of bile duct	calculus of bile duct	digestive
+574.3	Cholecystitis without cholelithiasis	cholecystitis without cholelithiasis	digestive
+575	Other biliary tract disease	other biliary tract disease	digestive
+575.1	Cholangitis	cholangitis	digestive
+575.2	Obstruction of bile duct	obstruction of bile duct	digestive
+575.6	Cholesterolosis of gallbladder	cholesterolosis of gallbladder	digestive
+575.7	Other disorders of gallbladder	other disorders of gallbladder	digestive
+575.8	Other disorders of biliary tract	other disorders of biliary tract	digestive
+575.9	Nonspecific abnormal findings on radiological and other examination of biliary tract	nonspecific abnormal findings on radiological and other examination of biliary tract	digestive
+577	Diseases of pancreas	diseases of pancreas	digestive
+577.1	Acute pancreatitis	acute pancreatitis	digestive
+577.2	Chronic pancreatitis	chronic pancreatitis	digestive
+577.3	Cyst and pseudocyst of pancreas	cyst and pseudocyst of pancreas	digestive
+578	Gastrointestinal hemorrhage	gastrointestinal hemorrhage	digestive
+578.1	Hematemesis	hematemesis	digestive
+578.2	Blood in stool	blood in stool	digestive
+578.8	Hemorrhage of rectum and anus	hemorrhage of rectum and anus	digestive
+578.9	Hemorrhage of gastrointestinal tract	hemorrhage of gastrointestinal tract	digestive
+579	Other symptoms involving abdomen and pelvis	other symptoms involving abdomen and pelvis	digestive
+579.2	Splenomegaly	splenomegaly	digestive
+579.8	Nonspecific abnormal findings in stool contents	nonspecific abnormal findings in stool contents	digestive
+580	Nephritis; nephrosis; renal sclerosis	nephritis nephrosis renal sclerosis	genitourinary
+580.1	Glomerulonephritis	glomerulonephritis	genitourinary
+580.11	Proliferative glomerulonephritis	proliferative glomerulonephritis	genitourinary
+580.12	Non-proliferative glomerulonephritis	non-proliferative glomerulonephritis	genitourinary
+580.13	Acute glomerulonephritis, NOS	acute glomerulonephritis	genitourinary
+580.14	Chronic glomerulonephritis, NOS	chronic glomerulonephritis	genitourinary
+580.2	Nephrotic syndrome without mention of glomerulonephritis	nephrotic syndrome without mention of glomerulonephritis	genitourinary
+580.3	Nephritis and nephropathy without mention of glomerulonephritis	nephritis and nephropathy without mention of glomerulonephritis	genitourinary
+580.31	Nephritis and nephropathy in diseases classified elsewhere	nephritis and nephropathy in diseases classified elsewhere	genitourinary
+580.32	Nephritis and nephropathy with pathological lesion	nephritis and nephropathy with pathological lesion	genitourinary
+580.4	Renal sclerosis, NOS	renal sclerosis	genitourinary
+585	Renal failure	renal failure	genitourinary
+585.1	Acute renal failure	acute renal failure	genitourinary
+585.2	Renal failure NOS	renal failure	genitourinary
+585.3	Chronic renal failure [CKD]	chronic renal failure ckd	genitourinary
+585.31	Renal dialysis	renal dialysis	genitourinary
+585.32	End stage renal disease	end stage renal disease	genitourinary
+585.33	Chronic Kidney Disease, Stage III	chronic kidney disease stage iii	genitourinary
+585.34	Chronic Kidney Disease, Stage IV	chronic kidney disease stage iv	genitourinary
+585.4	Chronic kidney disease, Stage I or II	chronic kidney disease stage i or ii	genitourinary
+586	Other disorders of the kidney and ureters	other disorders of the kidney and ureters	genitourinary
+586.1	Anatomical abnormatilies of kidney and ureters	anatomical abnormatilies of kidney and ureters	genitourinary
+586.11	Small kidney	small kidney	genitourinary
+586.12	Vesicoureteral reflux	vesicoureteral reflux	genitourinary
+586.2	Cyst of kidney, acquired	cyst of kidney acquired	genitourinary
+586.3	Vascular disorders of kidney/hypertrophy	vascular disorders of kidneyhypertrophy	genitourinary
+586.4	Stricture/obstruction of ureter	strictureobstruction of ureter	genitourinary
+587	Kidney replaced by transpant	kidney replaced by transpant	genitourinary
+588	Disorders resulting from impaired renal function	disorders resulting from impaired renal function	genitourinary
+588.1	Renal osteodystrophy	renal osteodystrophy	genitourinary
+588.2	Secondary hyperparathyroidism (of renal origin)	secondary hyperparathyroidism of renal origin	genitourinary
+589	Abnormal results of function study of kidney	abnormal results of function study of kidney	genitourinary
+590	Pyelonephritis	pyelonephritis	genitourinary
+591	Urinary tract infection	urinary tract infection	genitourinary
+592	Cystitis and urethritis	cystitis and urethritis	genitourinary
+592.1	Cystitis	cystitis	genitourinary
+592.11	Acute cystitis	acute cystitis	genitourinary
+592.12	Chronic cystitis	chronic cystitis	genitourinary
+592.13	Chronic interstitial cystitis	chronic interstitial cystitis	genitourinary
+592.2	Urethritis and urethral syndrome	urethritis and urethral syndrome	genitourinary
+592.21	Urethral syndrome	urethral syndrome	genitourinary
+592.3	Urethral stricture due to infecton	urethral stricture due to infecton	genitourinary
+593	Hematuria	hematuria	genitourinary
+593.1	Gross hematuria	gross hematuria	genitourinary
+593.2	Microscopic hematuria	microscopic hematuria	genitourinary
+594	Urinary calculus	urinary calculus	genitourinary
+594.1	Calculus of kidney	calculus of kidney	genitourinary
+594.2	Calculus of lower urinary tract	calculus of lower urinary tract	genitourinary
+594.3	Calculus of ureter	calculus of ureter	genitourinary
+594.8	Renal colic	renal colic	genitourinary
+595	Hydronephrosis	hydronephrosis	genitourinary
+596	Other disorders of bladder	other disorders of bladder	genitourinary
+596.1	Bladder neck obstruction	bladder neck obstruction	genitourinary
+596.5	Functional disorders of bladder	functional disorders of bladder	genitourinary
+597	Other disorders of urethra and urinary tract	other disorders of urethra and urinary tract	genitourinary
+597.1	Urethral stricture (not specified as infectious)	urethral stricture not specified as infectious	genitourinary
+597.2	Urinary complications NEC	urinary complications nec	genitourinary
+597.8	Urethral hypermobility/ISD	urethral hypermobilityisd	genitourinary
+598	Abnormal findings on examination of urine	abnormal findings on examination of urine	genitourinary
+598.4	Other cells and casts in urine	other cells and casts in urine	genitourinary
+598.9	Other nonspecific findings on examination of urine	other nonspecific findings on examination of urine	genitourinary
+599	Other symptoms/disorders or the urinary system	other symptomsdisorders or the urinary system	genitourinary
+599.1	Urinary obstruction	urinary obstruction	genitourinary
+599.2	Retention of urine	retention of urine	genitourinary
+599.3	Dysuria	dysuria	genitourinary
+599.4	Urinary incontinence	urinary incontinence	genitourinary
+599.5	Frequency of urination and polyuria	frequency of urination and polyuria	genitourinary
+599.6	Oliguria and anuria	oliguria and anuria	genitourinary
+599.7	Urethral discharge	urethral discharge	genitourinary
+599.8	Other symptoms involving urinary system	other symptoms involving urinary system	genitourinary
+599.9	Other abnormality of urination	other abnormality of urination	genitourinary
+600	Hyperplasia of prostate	hyperplasia of prostate	genitourinary
+601	Inflammatory diseases of prostate	inflammatory diseases of prostate	genitourinary
+601.1	Prostatitis	prostatitis	genitourinary
+601.11	Acute prostatitis	acute prostatitis	genitourinary
+601.12	Chronic prostatitis	chronic prostatitis	genitourinary
+601.3	Orchitis and epididymitis	orchitis and epididymitis	genitourinary
+601.4	Balanoposthitis	balanoposthitis	genitourinary
+601.8	Other inflammatory disorders of male genital organs	other inflammatory disorders of male genital organs	genitourinary
+602	Other disorders of prostate	other disorders of prostate	genitourinary
+602.3	Dysplasia of prostate	dysplasia of prostate	genitourinary
+603	Other disorders of testis	other disorders of testis	genitourinary
+603.1	Hydrocele	hydrocele	genitourinary
+603.2	Spermatocele	spermatocele	genitourinary
+604	Disorders of penis	disorders of penis	genitourinary
+604.1	Redundant prepuce and phimosis/BXO	redundant prepuce and phimosisbxo	genitourinary
+604.2	Vascular disorders of penis	vascular disorders of penis	genitourinary
+604.3	Peyronie's disease	peyronies disease	genitourinary
+605	Erectile dysfunction [ED]	erectile dysfunction ed	genitourinary
+608	Other disorders of male genital organs	other disorders of male genital organs	genitourinary
+609	Male infertility and abnormal spermatozoa	male infertility and abnormal spermatozoa	genitourinary
+609.1	Infertility, male	infertility male	genitourinary
+609.11	Azoospermia and oligospermia	azoospermia and oligospermia	genitourinary
+609.2	Abnormal spermatozoa	abnormal spermatozoa	genitourinary
+610	Benign mammary dysplasias	benign mammary dysplasias	genitourinary
+610.1	Cystic mastopathy	cystic mastopathy	genitourinary
+610.2	Fibroadenosis of breast	fibroadenosis of breast	genitourinary
+610.3	Fibrosclerosis of breast	fibrosclerosis of breast	genitourinary
+610.4	Benign neoplasm of breast	benign neoplasm of breast	genitourinary
+610.8	Other specified benign mammary dysplasias	other specified benign mammary dysplasias	genitourinary
+611	Abnormal findings on mammogram or breast exam	abnormal findings on mammogram or breast exam	genitourinary
+611.1	Abnormal mammogram	abnormal mammogram	genitourinary
+611.11	Mammographic microcalcification	mammographic microcalcification	genitourinary
+611.3	Lump or mass in breast	lump or mass in breast	genitourinary
+612	Breast conditions, congenital or relating to hormones	breast conditions congenital or relating to hormones	genitourinary
+612.1	Galactorrhea	galactorrhea	genitourinary
+612.2	Hypertrophy of breast (Gynecomastia)	hypertrophy of breast gynecomastia	genitourinary
+612.3	Congenital anomalies of breast	congenital anomalies of breast	genitourinary
+613	Other nonmalignant breast conditions	other nonmalignant breast conditions	genitourinary
+613.1	Inflammatory disease of breast	inflammatory disease of breast	genitourinary
+613.5	Mastodynia	mastodynia	genitourinary
+613.7	Other signs and symptoms in breast	other signs and symptoms in breast	genitourinary
+613.8	Other specified disorders of breast	other specified disorders of breast	genitourinary
+613.9	Breast disorder NOS	breast disorder	genitourinary
+614	Inflammatory diseases of female pelvic organs	inflammatory diseases of female pelvic organs	genitourinary
+614.1	Pelvic peritoneal adhesions, female (postoperative) (postinfection)	pelvic peritoneal adhesions female postoperative postinfection	genitourinary
+614.3	Pelvic inflammatory disease (PID)	pelvic inflammatory disease pid	genitourinary
+614.31	Acute inflammatory pelvic disease	acute inflammatory pelvic disease	genitourinary
+614.32	Chronic inflammatory pelvic disease	chronic inflammatory pelvic disease	genitourinary
+614.33	Pelvic inflammatory disease, NOS	pelvic inflammatory disease	genitourinary
+614.4	Inflammatory diseases of uterus, except cervix	inflammatory diseases of uterus except cervix	genitourinary
+614.5	Inflammatory disease of cervix, vagina, and vulva	inflammatory disease of cervix vagina and vulva	genitourinary
+614.51	Cervicitis and endocervicitis	cervicitis and endocervicitis	genitourinary
+614.52	Vaginitis and vulvovaginitis	vaginitis and vulvovaginitis	genitourinary
+614.53	Cyst or abscess of Bartholin's gland	cyst or abscess of bartholins gland	genitourinary
+614.54	Abscess or ulceration of vulva	abscess or ulceration of vulva	genitourinary
+615	Endometriosis	endometriosis	genitourinary
+617	Disorders secondary to childbirth, surgery, trauma	disorders secondary to childbirth surgery trauma	genitourinary
+618	Genital prolapse	genital prolapse	genitourinary
+618.1	Prolapse of vaginal walls	prolapse of vaginal walls	genitourinary
+618.2	Uterine/Uterovaginal prolapse	uterineuterovaginal prolapse	genitourinary
+618.5	Prolapse of vaginal vault after hysterectomy	prolapse of vaginal vault after hysterectomy	genitourinary
+618.6	Vaginal enterocele, congenital or acquired	vaginal enterocele congenital or acquired	genitourinary
+619	Noninflammatory female genital disorders	noninflammatory female genital disorders	genitourinary
+619.1	Noninflammatory disorders of ovary, fallopian tube, and broad ligament	noninflammatory disorders of ovary fallopian tube and broad ligament	genitourinary
+619.2	Disorders of uterus, NEC	disorders of uterus nec	genitourinary
+619.3	Noninflammatory disorders of cervix	noninflammatory disorders of cervix	genitourinary
+619.4	Noninflammatory disorders of vagina	noninflammatory disorders of vagina	genitourinary
+619.5	Noninflammatory disorders of vulva and perineum	noninflammatory disorders of vulva and perineum	genitourinary
+620	Dysplasia of female genital organs	dysplasia of female genital organs	genitourinary
+620.1	Dysplasia of cervix	dysplasia of cervix	genitourinary
+621	Endometrial hyperplasia	endometrial hyperplasia	genitourinary
+622	Polyp of female genital organs	polyp of female genital organs	genitourinary
+622.1	Polyp of corpus uteri	polyp of corpus uteri	genitourinary
+622.2	Mucous polyp of cervix	mucous polyp of cervix	genitourinary
+623	Hypertrophy of female genital organs	hypertrophy of female genital organs	genitourinary
+624	Symptoms involving female genital tract	symptoms involving female genital tract	genitourinary
+624.1	Dystrophy of female genital tract	dystrophy of female genital tract	genitourinary
+624.2	Atrophy of female genital tract	atrophy of female genital tract	genitourinary
+624.9	stress incontinence, female	stress incontinence female	genitourinary
+625	Pain and other symptoms associated with female genital organs	pain and other symptoms associated with female genital organs	genitourinary
+625.1	Dyspareunia	dyspareunia	genitourinary
+626	Disorders of menstruation and other abnormal bleeding from female genital tract	disorders of menstruation and other abnormal bleeding from female genital tract	genitourinary
+626.1	Irregular menstrual cycle/bleeding	irregular menstrual cyclebleeding	genitourinary
+626.11	Absent or infrequent menstruation	absent or infrequent menstruation	genitourinary
+626.12	Excessive or frequent menstruation	excessive or frequent menstruation	genitourinary
+626.13	Irregular menstrual cycle	irregular menstrual cycle	genitourinary
+626.14	Irregular menstrual bleeding	irregular menstrual bleeding	genitourinary
+626.15	Infertility, female, associated with anovulation	infertility female associated with anovulation	genitourinary
+626.2	Dysmenorrhea	dysmenorrhea	genitourinary
+626.21	Mittelschmerz	mittelschmerz	genitourinary
+626.4	Premenstrual tension syndromes	premenstrual tension syndromes	genitourinary
+626.8	Infertility, female	infertility female	genitourinary
+627	Menopausal and postmenopausal disorders	menopausal and postmenopausal disorders	genitourinary
+627.1	Postmenopausal bleeding	postmenopausal bleeding	genitourinary
+627.2	Symptomatic menopause	symptomatic menopause	genitourinary
+627.21	Symptomatic artificial menopause	symptomatic artificial menopause	genitourinary
+627.22	Need for Hormone replacement therapy (postmenopausal)	need for hormone replacement therapy postmenopausal	genitourinary
+627.3	Postmenopausal atrophic vaginitis	postmenopausal atrophic vaginitis	genitourinary
+627.4	Premenopausal menorrhagia	premenopausal menorrhagia	genitourinary
+627.5	Premature menopause and other ovarian failure	premature menopause and other ovarian failure	genitourinary
+628	Ovarian cyst	ovarian cyst	genitourinary
+634	Miscarriage; stillbirth	miscarriage stillbirth	pregnancy complications
+634.1	Missed abortion/Hydatidiform mole	missed abortionhydatidiform mole	pregnancy complications
+634.3	Ectopic pregnancy	ectopic pregnancy	pregnancy complications
+635	Hemorrhage during pregnancy; childbirth and postpartum	hemorrhage during pregnancy childbirth and postpartum	pregnancy complications
+635.2	Antepartum hemorrhage, abruptio placentae, and placenta previa	antepartum hemorrhage abruptio placentae and placenta previa	pregnancy complications
+635.3	Placenta previa and abruptio placenta	placenta previa and abruptio placenta	pregnancy complications
+636	Early or threatened labor; hemorrhage in early pregnancy	early or threatened labor hemorrhage in early pregnancy	pregnancy complications
+636.1	Threatened premature labor	threatened premature labor	pregnancy complications
+636.2	Early onset of delivery	early onset of delivery	pregnancy complications
+636.3	Hemorrhage in early pregnancy	hemorrhage in early pregnancy	pregnancy complications
+636.8	Cervical incompetence	cervical incompetence	pregnancy complications
+637	Short gestation; low birth weight; and fetal growth retardation	short gestation low birth weight and fetal growth retardation	pregnancy complications
+638	Other high-risk pregnancy	other high-risk pregnancy	pregnancy complications
+639	Complications following abortion or ectopic and molar pregnancies	complications following abortion or ectopic and molar pregnancies	pregnancy complications
+642	Hypertension complicating pregnancy, childbirth, and the puerperium	hypertension complicating pregnancy childbirth and the puerperium	pregnancy complications
+642.1	Preeclampsia and eclampsia	preeclampsia and eclampsia	pregnancy complications
+643	Excessive vomiting in pregnancy	excessive vomiting in pregnancy	pregnancy complications
+643.1	Hyperemesis gravidarum	hyperemesis gravidarum	pregnancy complications
+644	Anemia during pregnancy	anemia during pregnancy	pregnancy complications
+645	Late pregnancy and failed induction	late pregnancy and failed induction	pregnancy complications
+646	Other complications of pregnancy NEC	other complications of pregnancy nec	pregnancy complications
+647	Infectious and parasitic complications affecting pregnancy	infectious and parasitic complications affecting pregnancy	pregnancy complications
+647.1	Infections of genitourinary tract during pregnancy	infections of genitourinary tract during pregnancy	pregnancy complications
+647.3	Major puerperal infection	major puerperal infection	pregnancy complications
+649	Other conditions or status of the mother complicating pregnancy, childbirth, or the puerperium	other conditions or status of the mother complicating pregnancy childbirth or the puerperium	pregnancy complications
+649.1	Diabetes or abnormal glucose tolerance complicating pregnancy	diabetes or abnormal glucose tolerance complicating pregnancy	pregnancy complications
+650	Normal delivery	normal delivery	pregnancy complications
+651	Multiple gestation	multiple gestation	pregnancy complications
+652	Malposition and malpresentation of fetus or obstruction	malposition and malpresentation of fetus or obstruction	pregnancy complications
+653	Problems associated with amniotic cavity and membranes	problems associated with amniotic cavity and membranes	pregnancy complications
+654	Other and unspecified complications of birth; puerperium affecting management of mother	other andcomplications of birth puerperium affecting management of mother	pregnancy complications
+654.1	Abnormality of organs and soft tissues of pelvis complicating pregnancy, childbirth, or the puerperium	abnormality of organs and soft tissues of pelvis complicating pregnancy childbirth or the puerperium	pregnancy complications
+654.2	Rhesus isoimmunization in pregnancy	rhesus isoimmunization in pregnancy	pregnancy complications
+655	Known or suspected fetal abnormality affecting management of mother	known or suspected fetal abnormality affecting management of mother	pregnancy complications
+655.1	Abnormality in fetal heart rate or rhythm	abnormality in fetal heart rate or rhythm	pregnancy complications
+656	Other perinatal conditions of fetus or newborn	other perinatal conditions of fetus or newborn	pregnancy complications
+656.1	Isoimmunization of fetus or newborn	isoimmunization of fetus or newborn	pregnancy complications
+656.2	Respiratory conditions of fetus and newborn	respiratory conditions of fetus and newborn	pregnancy complications
+656.22	Interstitial emphysema and related conditions of newborn	interstitial emphysema and related conditions of newborn	pregnancy complications
+656.26	Transitory tachypnea or apnea of newborn	transitory tachypnea or apnea of newborn	pregnancy complications
+656.3	Endocrine and metabolic disturbances of fetus and newborn	endocrine and metabolic disturbances of fetus and newborn	pregnancy complications
+656.4	Hemorrhage of fetus or newborn	hemorrhage of fetus or newborn	pregnancy complications
+656.5	Hematological disorders of newborn	hematological disorders of newborn	pregnancy complications
+656.6	Perinatal disorders of digestive system	perinatal disorders of digestive system	pregnancy complications
+656.7	Conditions involving the integument and temperature regulation of fetus and newborn	conditions involving the integument and temperature regulation of fetus and newborn	pregnancy complications
+656.8	Perinatal jaundice	perinatal jaundice	pregnancy complications
+656.9	Neonatal bradycardia or tachycardia	neonatal bradycardia or tachycardia	pregnancy complications
+657	Infections specific to the perinatal period	infections specific to the perinatal period	pregnancy complications
+658	Maternal complication of pregnancy affecting fetus or newborn	maternal complication of pregnancy affecting fetus or newborn	pregnancy complications
+661	Fetal distress and abnormal forces of labor	fetal distress and abnormal forces of labor	pregnancy complications
+663	Umbilical cord complications during labor and delivery	umbilical cord complications during labor and delivery	pregnancy complications
+665	Obstetrical/birth trauma	obstetricalbirth trauma	pregnancy complications
+668	Complications of the administration of anesthetic or other sedation in labor and delivery	complications of the administration of anesthetic or other sedation in labor and delivery	pregnancy complications
+669	Complications of labor and delivery NEC	complications of labor and delivery nec	pregnancy complications
+671	Venous/cerebrovascular complications embolism in pregnancy and the puerperium	venouscerebrovascular complications embolism in pregnancy and the puerperium	pregnancy complications
+674	Other complications of the puerperium NEC	other complications of the puerperium nec	pregnancy complications
+676	Other disorders of the breast associated with childbirth and disorders of lactation	other disorders of the breast associated with childbirth and disorders of lactation	pregnancy complications
+679	Complications of in utero procedures	complications of in utero procedures	pregnancy complications
+681	Superficial cellulitis and abscess	superficial cellulitis and abscess	dermatologic
+681.1	Cellulitis and abscess of fingers/toes	cellulitis and abscess of fingerstoes	dermatologic
+681.2	Cellulitis and abscess of face/neck	cellulitis and abscess of faceneck	dermatologic
+681.3	Cellulitis and abscess of arm/hand	cellulitis and abscess of armhand	dermatologic
+681.5	Cellulitis and abscess of leg, except foot	cellulitis and abscess of leg except foot	dermatologic
+681.6	Cellulitis and abscess of foot, toe	cellulitis and abscess of foot toe	dermatologic
+681.7	Cellulitis and abscess of trunk	cellulitis and abscess of trunk	dermatologic
+686	Other local infections of skin and subcutaneous tissue	other local infections of skin and subcutaneous tissue	dermatologic
+686.1	Carbuncle and furuncle	carbuncle and furuncle	dermatologic
+686.2	Impetigo	impetigo	dermatologic
+686.3	Pilonidal cyst	pilonidal cyst	dermatologic
+686.4	Pyogenic granuloma	pyogenic granuloma	dermatologic
+686.5	Pyoderma	pyoderma	dermatologic
+687	Symptoms affecting skin	symptoms affecting skin	dermatologic
+687.1	Rash and other nonspecific skin eruption	rash and other nonspecific skin eruption	dermatologic
+687.2	Localized superficial swelling, mass, or lump	localized superficial swelling mass or lump	dermatologic
+687.3	Changes in skin texture	changes in skin texture	dermatologic
+687.4	Disturbance of skin sensation	disturbance of skin sensation	dermatologic
+689	Disorder of skin and subcutaneous tissue NOS	disorder of skin and subcutaneous tissue	dermatologic
+690	Erythematosquamous dermatosis	erythematosquamous dermatosis	dermatologic
+690.1	Seborrheic dermatitis	seborrheic dermatitis	dermatologic
+691	Congenital anomalies of skin	congenital anomalies of skin	dermatologic
+691.1	Ichthyosis congenita	ichthyosis congenita	dermatologic
+691.3	Congenital pigmentary anomalies of skin	congenital pigmentary anomalies of skin	dermatologic
+694	Dyschromia and Vitiligo	dyschromia and vitiligo	dermatologic
+694.1	Vitiligo	vitiligo	dermatologic
+694.2	Other dyschromia	other dyschromia	dermatologic
+694.3	Vascular disorders of skin	vascular disorders of skin	dermatologic
+695	Erythematous conditions	erythematous conditions	dermatologic
+695.1	Toxic erythema	toxic erythema	dermatologic
+695.2	Bullous dermatoses	bullous dermatoses	dermatologic
+695.21	Dermatitis herpetiformis	dermatitis herpetiformis	dermatologic
+695.22	Pemphigus and pemphigoid	pemphigus and pemphigoid	dermatologic
+695.3	Rosacea	rosacea	dermatologic
+695.4	Lupus (localized and systemic)	lupus localized and systemic	dermatologic
+695.41	Cutaneous lupus erythematosus	cutaneous lupus erythematosus	dermatologic
+695.42	Systemic lupus erythematosus	systemic lupus erythematosus	dermatologic
+695.7	Prurigo and Lichen	prurigo and lichen	dermatologic
+695.8	Other specified erythematous conditions	other specified erythematous conditions	dermatologic
+695.81	Erythema nodosum	erythema nodosum	dermatologic
+695.9	Unspecified erythematous condition	erythematous condition	dermatologic
+696	Psoriasis and related disorders	psoriasis and related disorders	dermatologic
+696.2	Parapsoriasis	parapsoriasis	dermatologic
+696.3	Pityriasis	pityriasis	dermatologic
+696.4	Psoriasis	psoriasis	dermatologic
+696.41	Psoriasis vulgaris	psoriasis vulgaris	dermatologic
+696.42	Psoriatic arthropathy	psoriatic arthropathy	dermatologic
+697	Sarcoidosis	sarcoidosis	dermatologic
+698	Pruritus and related conditions	pruritus and related conditions	dermatologic
+700	Corns and callosities	corns and callosities	dermatologic
+701	Other hypertrophic and atrophic conditions of skin	other hypertrophic and atrophic conditions of skin	dermatologic
+701.1	Keratoderma, acquired	keratoderma acquired	dermatologic
+701.2	Scar conditions and fibrosis of skin	scar conditions and fibrosis of skin	dermatologic
+701.3	Circumscribed scleroderma	circumscribed scleroderma	dermatologic
+701.4	Keloid scar	keloid scar	dermatologic
+701.5	Abnormal granulation tissue	abnormal granulation tissue	dermatologic
+701.6	Acquired acanthosis nigricans	acquired acanthosis nigricans	dermatologic
+702	Degenerative skin conditions and other dermatoses	degenerative skin conditions and other dermatoses	dermatologic
+702.1	Actinic keratosis	actinic keratosis	dermatologic
+702.2	Seborrheic keratosis	seborrheic keratosis	dermatologic
+702.4	Degenerative skin disorders	degenerative skin disorders	dermatologic
+703	Diseases of nail, NOS	diseases of nail	dermatologic
+703.1	Ingrowing nail	ingrowing nail	dermatologic
+704	Diseases of hair and hair follicles	diseases of hair and hair follicles	dermatologic
+704.1	Alopecia	alopecia	dermatologic
+704.11	Alopecia Areata	alopecia areata	dermatologic
+704.12	Telogen effluvium	telogen effluvium	dermatologic
+704.2	Hirsutism	hirsutism	dermatologic
+704.8	Other specified diseases of hair and hair follicles	other specified diseases of hair and hair follicles	dermatologic
+705	Disorders of sweat glands	disorders of sweat glands	dermatologic
+705.1	Dyshidrosis	dyshidrosis	dermatologic
+705.3	Hidradenitis	hidradenitis	dermatologic
+705.8	Hyperhidrosis	hyperhidrosis	dermatologic
+706	Diseases of sebaceous glands	diseases of sebaceous glands	dermatologic
+706.1	Acne	acne	dermatologic
+706.2	Sebaceous cyst	sebaceous cyst	dermatologic
+706.3	Seborrhea	seborrhea	dermatologic
+706.8	Other specified diseases of sebaceous glands	other specified diseases of sebaceous glands	dermatologic
+707	Chronic ulcer of skin	chronic ulcer of skin	dermatologic
+707.1	Decubitus ulcer	decubitus ulcer	dermatologic
+707.2	Chronic ulcer of leg or foot	chronic ulcer of leg or foot	dermatologic
+707.3	Chronic ulcer of unspecified site	chronic ulcer ofsite	dermatologic
+709	Diffuse diseases of connective tissue	diffuse diseases of connective tissue	dermatologic
+709.2	Sicca syndrome	sicca syndrome	dermatologic
+709.3	Systemic sclerosis	systemic sclerosis	dermatologic
+709.4	Polymyositis	polymyositis	dermatologic
+709.5	Dermatomyositis	dermatomyositis	dermatologic
+709.6	Other specified diffuse diseases of connective tissue	other specified diffuse diseases of connective tissue	dermatologic
+709.7	Unspecified diffuse connective tissue disease	diffuse connective tissue disease	dermatologic
+710	Osteomyelitis, periostitis, and other infections involving bone	osteomyelitis periostitis and other infections involving bone	musculoskeletal
+710.1	Osteomyelitis	osteomyelitis	musculoskeletal
+710.11	Acute osteomyelitis	acute osteomyelitis	musculoskeletal
+710.12	Chronic osteomyelitis	chronic osteomyelitis	musculoskeletal
+710.19	Unspecified osteomyelitis	osteomyelitis	musculoskeletal
+710.2	Periostitis	periostitis	musculoskeletal
+710.3	Osteopathy resulting from poliomyelitis	osteopathy resulting from poliomyelitis	musculoskeletal
+711	Arthropathy associated with infections	arthropathy associated with infections	musculoskeletal
+711.1	Pyogenic arthritis	pyogenic arthritis	musculoskeletal
+711.2	Reiter's disease	reiters disease	musculoskeletal
+711.3	Behcet's syndrome	behcets syndrome	musculoskeletal
+712	Infective connective tissue disorders	infective connective tissue disorders	musculoskeletal
+713	Arthropathy associated with other disorders classified elsewhere	arthropathy associated with other disorders classified elsewhere	musculoskeletal
+713.5	Arthropathy associated with neurological disorders	arthropathy associated with neurological disorders	musculoskeletal
+714	Rheumatoid arthritis and other inflammatory polyarthropathies	rheumatoid arthritis and other inflammatory polyarthropathies	musculoskeletal
+714.1	Rheumatoid arthritis	rheumatoid arthritis	musculoskeletal
+714.2	Juvenile rheumatoid arthritis	juvenile rheumatoid arthritis	musculoskeletal
+715	Other inflammatory spondylopathies	other inflammatory spondylopathies	musculoskeletal
+715.1	Sacroiliitis NEC	sacroiliitis nec	musculoskeletal
+715.2	Ankylosing spondylitis	ankylosing spondylitis	musculoskeletal
+715.3	Spinal enthesopathy	spinal enthesopathy	musculoskeletal
+716	Other arthropathies	other arthropathies	musculoskeletal
+716.1	Unspecified polyarthropathy or polyarthritis	polyarthropathy or polyarthritis	musculoskeletal
+716.2	Unspecified monoarthritis	monoarthritis	musculoskeletal
+716.3	Kaschin-Beck disease	kaschin-beck disease	musculoskeletal
+716.8	Palindromic rheumatism	palindromic rheumatism	musculoskeletal
+716.9	Arthropathy NOS	arthropathy	musculoskeletal
+717	Polymyalgia Rheumatica	polymyalgia rheumatica	musculoskeletal
+720	Spinal stenosis	spinal stenosis	musculoskeletal
+720.1	Spinal stenosis of lumbar region	spinal stenosis of lumbar region	musculoskeletal
+721	Spondylosis and allied disorders	spondylosis and allied disorders	musculoskeletal
+721.1	Spondylosis without myelopathy	spondylosis without myelopathy	musculoskeletal
+721.2	Spondylosis with myelopathy	spondylosis with myelopathy	musculoskeletal
+721.8	Other allied disorders of spine	other allied disorders of spine	musculoskeletal
+722	Intervertebral disc disorders	intervertebral disk disorders	musculoskeletal
+722.1	Displacement of intervertebral disc	displacement of intervertebral disk	musculoskeletal
+722.3	Schmorl's nodes	schmorls nodes	musculoskeletal
+722.6	Degeneration of intervertebral disc	degeneration of intervertebral disk	musculoskeletal
+722.7	Intervertebral disc disorder with myelopathy	intervertebral disk disorder with myelopathy	musculoskeletal
+722.8	Postlaminectomy syndrome	postlaminectomy syndrome	musculoskeletal
+722.9	Other and unspecified disc disorder	other anddisk disorder	musculoskeletal
+723	Other disorders of cervical region	other disorders of cervical region	musculoskeletal
+723.1	Torticollis	torticollis	musculoskeletal
+724	Other and unspecified disorders of back	other anddisorders of back	musculoskeletal
+724.1	Disorders of sacrum	disorders of sacrum	musculoskeletal
+724.2	Disorders of coccyx	disorders of coccyx	musculoskeletal
+724.8	Other symptoms referable to back	other symptoms referable to back	musculoskeletal
+724.9	Other unspecified back disorders	otherback disorders	musculoskeletal
+726	Peripheral enthesopathies and allied syndromes	peripheral enthesopathies and allied syndromes	musculoskeletal
+726.1	Enthesopathy	enthesopathy	musculoskeletal
+726.2	Synoviopathy	synoviopathy	musculoskeletal
+726.3	Bursitis	bursitis	musculoskeletal
+726.4	Calcaneal spur; Exostosis NOS	calcaneal spur exostosis	musculoskeletal
+727	Other disorders of synovium, tendon, and bursa	other disorders of synovium tendon and bursa	musculoskeletal
+727.1	Synovitis and tenosynovitis	synovitis and tenosynovitis	musculoskeletal
+727.2	Bursitis disorders	bursitis disorders	musculoskeletal
+727.4	Ganglion and cyst of synovium, tendon, and bursa	ganglion and cyst of synovium tendon and bursa	musculoskeletal
+727.5	Rupture of synovium	rupture of synovium	musculoskeletal
+727.6	Rupture of tendon, nontraumatic	rupture of tendon nontraumatic	musculoskeletal
+727.7	Contracture of tendon (sheath)	contracture of tendon sheath	musculoskeletal
+727.8	Plica syndrome	plica syndrome	musculoskeletal
+728	Disorders of muscle, ligament, and fascia	disorders of muscle ligament and fascia	musculoskeletal
+728.1	Muscular calcification and ossification	muscular calcification and ossification	musculoskeletal
+728.2	Laxity of ligament or hypermobility syndrome	laxity of ligament or hypermobility syndrome	musculoskeletal
+728.7	Fasciitis	fasciitis	musculoskeletal
+728.71	Contracture of palmar fascia [Dupuytren's disease]	contracture of palmar fascia dupuytrens disease	musculoskeletal
+729	Other disorders of soft tissues	other disorders of soft tissues	musculoskeletal
+729.1	Rheumatism, unspecified and fibrositis	rheumatismand fibrositis	musculoskeletal
+729.3	Panniculitis	panniculitis	musculoskeletal
+729.7	Nontraumatic compartment syndrome	nontraumatic compartment syndrome	musculoskeletal
+731	Osteitis deformans and osteopathies associated with other disorders classified elsewhere	osteitis deformans and osteopathies associated with other disorders classified elsewhere	musculoskeletal
+731.1	Osteitis deformans [Paget's disease of bone]	osteitis deformans pagets disease of bone	musculoskeletal
+732	Osteochondropathies	osteochondropathies	musculoskeletal
+732.1	Juvenile osteochondrosis	juvenile osteochondrosis	musculoskeletal
+732.7	Osteochondritis dissecans	osteochondritis dissecans	musculoskeletal
+733	Other disorders of bone and cartilage	other disorders of bone and cartilage	musculoskeletal
+733.2	Cyst of bone	cyst of bone	musculoskeletal
+733.4	Aseptic necrosis of bone	aseptic necrosis of bone	musculoskeletal
+733.6	Costochondritis	costochondritis	musculoskeletal
+733.8	Malunion and nonunion of fracture	malunion and nonunion of fracture	musculoskeletal
+733.9	Chondromalacia	chondromalacia	musculoskeletal
+735	Acquired foot deformities	acquired foot deformities	musculoskeletal
+735.1	Flat foot	flat foot	musculoskeletal
+735.2	Acquired toe deformities	acquired toe deformities	musculoskeletal
+735.21	Hammer toe (acquired)	hammer toe acquired	musculoskeletal
+735.22	Claw toe (acquired)	claw toe acquired	musculoskeletal
+735.23	Hallux rigidus	hallux rigidus	musculoskeletal
+735.3	Hallux valgus (Bunion)	hallux valgus bunion	musculoskeletal
+736	Other acquired deformities of limbs	other acquired deformities of limbs	musculoskeletal
+736.1	Acquired deformities of forearm	acquired deformities of forearm	musculoskeletal
+736.2	Acquired deformities of finger	acquired deformities of finger	musculoskeletal
+736.3	Acquired deformities of hip	acquired deformities of hip	musculoskeletal
+736.4	Genu valgum or varum (acquired)	genu valgum or varum acquired	musculoskeletal
+736.5	Acquired deformities of knee	acquired deformities of knee	musculoskeletal
+736.6	Unequal leg length (acquired)	unequal leg length acquired	musculoskeletal
+737	Curvature of spine	curvature of spine	musculoskeletal
+737.1	Kyphosis (acquired)	kyphosis acquired	musculoskeletal
+737.2	Lordosis (acquired)	lordosis acquired	musculoskeletal
+737.3	Kyphoscoliosis and scoliosis	kyphoscoliosis and scoliosis	musculoskeletal
+738	Other acquired musculoskeletal deformity	other acquired musculoskeletal deformity	musculoskeletal
+738.4	Acquired spondylolisthesis	acquired spondylolisthesis	musculoskeletal
+739	Contracture of joint	contracture of joint	musculoskeletal
+740	Osteoarthrosis	osteoarthrosis	musculoskeletal
+740.1	Osteoarthritis; localized	osteoarthritis localized	musculoskeletal
+740.11	Osteoarthrosis, localized, primary	osteoarthrosis localized primary	musculoskeletal
+740.12	Osteoarthrosis, localized, secondary	osteoarthrosis localized secondary	musculoskeletal
+740.2	Osteoarthrosis, generalized	osteoarthrosis generalized	musculoskeletal
+740.3	Osteoarthrosis involving more than one site, but not specified as generalized	osteoarthrosis involving more than one site but not specified as generalized	musculoskeletal
+740.9	Osteoarthrosis NOS	osteoarthrosis	musculoskeletal
+741	Symptoms and disorders of the joints	symptoms and disorders of the joints	musculoskeletal
+741.1	Ankylosis of joint	ankylosis of joint	musculoskeletal
+741.2	Stiffness of joint	stiffness of joint	musculoskeletal
+741.3	Difficulty in walking	difficulty in walking	musculoskeletal
+741.4	Joint effusions	joint effusions	musculoskeletal
+741.5	Hemarthrosis	hemarthrosis	musculoskeletal
+741.6	Villonodular synovitis	villonodular synovitis	musculoskeletal
+742	Derangement of joint, non-traumatic	derangement of joint non-traumatic	musculoskeletal
+742.1	Loose body in joint	loose body in joint	musculoskeletal
+742.2	Pathological, developmental or recurrent dislocation	pathological developmental or recurrent dislocation	musculoskeletal
+742.8	Articular cartilage disorder	articular cartilage disorder	musculoskeletal
+742.9	Other derangement of joint	other derangement of joint	musculoskeletal
+743	Osteoporosis, osteopenia and pathological fracture	osteoporosis osteopenia and pathological fracture	musculoskeletal
+743.1	Osteoporosis	osteoporosis	musculoskeletal
+743.11	Osteoporosis NOS	osteoporosis	musculoskeletal
+743.12	Senile osteoporosis	senile osteoporosis	musculoskeletal
+743.13	Other specified osteoporosis	other specified osteoporosis	musculoskeletal
+743.2	Pathologic fracture	pathologic fracture	musculoskeletal
+743.21	Pathologic fracture of vertebrae	pathologic fracture of vertebrae	musculoskeletal
+743.22	Pathologic fracture of femur	pathologic fracture of femur	musculoskeletal
+743.4	Stress fracture	stress fracture	musculoskeletal
+743.9	Osteopenia or other disorder of bone and cartilage	osteopenia or other disorder of bone and cartilage	musculoskeletal
+745	Pain in joint	pain in joint	musculoskeletal
+747	Cardiac and circulatory congenital anomalies	cardiac and circulatory congenital anomalies	congenital anomalies
+747.1	Cardiac congenital anomalies	cardiac congenital anomalies	congenital anomalies
+747.11	Cardiac shunt/ heart septal defect	cardiac shunt heart septal defect	congenital anomalies
+747.12	Valvular heart disease/ heart chambers	valvular heart disease heart chambers	congenital anomalies
+747.13	Congenital anomalies of great vessels	congenital anomalies of great vessels	congenital anomalies
+747.2	Congenital anomalies of peripheral vascular system	congenital anomalies of peripheral vascular system	congenital anomalies
+748	Anomalies of respiratory system, congenital	anomalies of respiratory system congenital	congenital anomalies
+749	Congenital anomalies of face and neck	congenital anomalies of face and neck	congenital anomalies
+749.1	Cleft palate	cleft palate	congenital anomalies
+749.2	Congenital anomalies of skull and face bones	congenital anomalies of skull and face bones	congenital anomalies
+750	Digestive congenital anomalies	digestive congenital anomalies	congenital anomalies
+750.1	Upper gastrointestinal congenital anomalies	upper gastrointestinal congenital anomalies	congenital anomalies
+750.11	Esophageal atresia/tracheoesophageal fistula	esophageal atresiatracheoesophageal fistula	congenital anomalies
+750.13	Congenital anomalies of mouth/tongue	congenital anomalies of mouthtongue	congenital anomalies
+750.14	Congenital anomalies of esophagus	congenital anomalies of esophagus	congenital anomalies
+750.15	Congenital anomalies of stomach	congenital anomalies of stomach	congenital anomalies
+750.2	Lower gastrointestinal congenital anomalies	lower gastrointestinal congenital anomalies	congenital anomalies
+750.21	Congenital anomalies of intestine	congenital anomalies of intestine	congenital anomalies
+750.22	Congenital anomaly of gallbladder, bile ducts, liver, pancreas	congenital anomaly of gallbladder bile ducts liver pancreas	congenital anomalies
+750.5	Congenital hypertrophic pyloric stenosis	congenital hypertrophic pyloric stenosis	congenital anomalies
+751	Genitourinary congenital anomalies	genitourinary congenital anomalies	congenital anomalies
+751.1	Congenital anomalies of genital organs	congenital anomalies of genital organs	congenital anomalies
+751.11	Congenital anomalies of female genital organs	congenital anomalies of female genital organs	congenital anomalies
+751.12	Congenital anomalies of male genital organs	congenital anomalies of male genital organs	congenital anomalies
+751.2	Congenital anomalies of urinary system	congenital anomalies of urinary system	congenital anomalies
+751.21	Cystic kidney disease	cystic kidney disease	congenital anomalies
+751.22	Other specified congenital anomalies of kidney	other specified congenital anomalies of kidney	congenital anomalies
+751.3	Obstructive genitourinary defect	obstructive genitourinary defect	congenital anomalies
+752	Nervous system congenital anomalies	nervous system congenital anomalies	congenital anomalies
+752.1	Neural tube defects	neural tube defects	congenital anomalies
+752.11	Spina bifida	spina bifida	congenital anomalies
+752.2	Other specified congenital anomalies of nervous system	other specified congenital anomalies of nervous system	congenital anomalies
+753	Congenital anomalies of the eye	congenital anomalies of the eye	congenital anomalies
+753.1	Congenital cataract and lens anomalies	congenital cataract and lens anomalies	congenital anomalies
+753.2	Congenital anomalies of posterior segment of eye	congenital anomalies of posterior segment of eye	congenital anomalies
+754	Congenital musculoskeletal deformities of spine	congenital musculoskeletal deformities of spine	congenital anomalies
+754.1	Lumbosacral spondylolysis, congenital	lumbosacral spondylolysis congenital	congenital anomalies
+754.2	Spondylolisthesis, congenital	spondylolisthesis congenital	congenital anomalies
+755	Congenital anomalies of limbs	congenital anomalies of limbs	congenital anomalies
+755.1	Congenital deformities of feet	congenital deformities of feet	congenital anomalies
+755.3	Congenital anomaly of fingers/toes	congenital anomaly of fingerstoes	congenital anomalies
+755.4	Congenital anomalies of upper limb, including shoulder girdle	congenital anomalies of upper limb including shoulder girdle	congenital anomalies
+755.6	Other congenital anomalies of lower limb, including pelvic girdle	other congenital anomalies of lower limb including pelvic girdle	congenital anomalies
+755.61	Congenital hip dysplasia and deformity	congenital hip dysplasia and deformity	congenital anomalies
+756	Other congenital musculoskeletal anomalies	other congenital musculoskeletal anomalies	congenital anomalies
+756.1	Congenital anomalies of abdominal wall; diaphram	congenital anomalies of abdominal wall diaphram	congenital anomalies
+756.2	Pectus and other congenital anomalies of ribs/sternum	pectus and other congenital anomalies of ribssternum	congenital anomalies
+756.21	Pectus excavatum	pectus excavatum	congenital anomalies
+756.22	Pectus carinatum	pectus carinatum	congenital anomalies
+756.3	Congenital anomalies of muscle, tendon, fascia, and connective tissue	congenital anomalies of muscle tendon fascia and connective tissue	congenital anomalies
+756.5	Congenital osteodystrophies	congenital osteodystrophies	congenital anomalies
+757	Congenital anomalies of the integument	congenital anomalies of the integument	congenital anomalies
+758	Chromosomal anomalies and genetic disorders	chromosomal anomalies and genetic disorders	congenital anomalies
+758.1	Chromosomal anomalies	chromosomal anomalies	congenital anomalies
+759	Other and unspecified congenital anomalies	other andcongenital anomalies	congenital anomalies
+759.1	Anomalies of endocrine glands, congenital	anomalies of endocrine glands congenital	congenital anomalies
+760	Back pain	back pain	symptoms
+761	Cervicalgia	cervicalgia	symptoms
+763	Thoracic or lumbosacral neuritis or radiculitis, unspecified	thoracic or lumbosacral neuritis or radiculitis	symptoms
+764	Sciatica	sciatica	symptoms
+765	Cervical radiculitis	cervical radiculitis	symptoms
+766	Neuralgia, neuritis, and radiculitis NOS	neuralgia neuritis and radiculitis	symptoms
+767	Cervicocranial/Cervicobrachial syndrome	cervicocranialcervicobrachial syndrome	symptoms
+769	Nonallopathic lesions NEC	nonallopathic lesions nec	symptoms
+770	Myalgia and myositis unspecified	myalgia and myositis	symptoms
+771	Musculoskeletal symptoms referable to limbs	musculoskeletal symptoms referable to limbs	symptoms
+771.1	Swelling of limb	swelling of limb	symptoms
+771.2	Cramp of limb	cramp of limb	symptoms
+772	Symptoms of the muscles	symptoms of the muscles	symptoms
+772.1	Muscular wasting and disuse atrophy	muscular wasting and disuse atrophy	symptoms
+772.2	Spasm of muscle	spasm of muscle	symptoms
+772.3	Muscle weakness	muscle weakness	symptoms
+772.4	Rhabdomyolysis	rhabdomyolysis	symptoms
+772.6	Facial weakness	facial weakness	symptoms
+773	Pain in limb	pain in limb	symptoms
+780	Hypothermia/Chills	hypothermiachills	symptoms
+781	Symptoms involving nervous and musculoskeletal systems	symptoms involving nervous and musculoskeletal systems	symptoms
+781.1	Loss of height	loss of height	symptoms
+781.2	Abnormal posture	abnormal posture	symptoms
+782	Symptoms involving skin and other integumentary tissue	symptoms involving skin and other integumentary tissue	symptoms
+782.3	Edema	edema	symptoms
+782.6	Pallor and flushing	pallor and flushing	symptoms
+783	Fever of unknown origin	fever of unknown origin	symptoms
+783.1	Postprocedural fever	postprocedural fever	symptoms
+785	Abdominal pain	abdominal pain	symptoms
+788	Syncope and collapse	syncope and collapse	symptoms
+789	Nausea and vomiting	nausea and vomiting	symptoms
+789.1	Persistent vomiting	persistent vomiting	symptoms
+790	Nonspecific findings on examination of blood	nonspecific findings on examination of blood	symptoms
+790.1	Elevated sedimentation rate	elevated sedimentation rate	symptoms
+790.6	Other abnormal blood chemistry	other abnormal blood chemistry	symptoms
+790.8	Elevated C-reactive protein (CRP)	elevated c-reactive protein crp	symptoms
+790.9	Abnormal arterial blood gases	abnormal arterial blood gasses	symptoms
+791	Gangrene	gangrene	symptoms
+792	Abnormal Papanicolaou smear of cervix and cervical HPV	abnormal papanicolaou smear of cervix and cervical hpv	genitourinary
+792.1	Papanicolaou smear of cervix or vagina with atypical squamous cells	papanicolaou smear of cervix or vagina with atypical squamous cells	genitourinary
+793	Nonspecific abnormal findings on radiological and other examination of musculoskeletal system	nonspecific abnormal findings on radiological and other examination of musculoskeletal system	symptoms
+793.2	Nonspecific abnormal findings on radiological and other examination of other intrathoracic organs (echocardiogram, etc)	nonspecific abnormal findings on radiological and other examination of other intrathoracic organs echocardiogram etc	symptoms
+794	Abnormal results of other function studies (bladder, pancreas, placenta, spleen, etc)	abnormal results of other function studies bladder pancreas placenta spleen etc	symptoms
+795	Other and nonspecific abnormal cytological, histological and immunological findings	other and nonspecific abnormal cytological histological and immunological findings	symptoms
+795.8	Abnormal tumor markers	abnormal tumor markers	symptoms
+795.81	Elevated carcinoembryonic antigen [CEA]	elevated carcinoembryonic antigen cea	symptoms
+795.82	Elevated cancer antigen 125 [CA 125]	elevated cancer antigen 125 ca 125	symptoms
+796	Elevated prostate specific antigen [PSA]	elevated prostate specific antigen psa	genitourinary
+797	Shock	shock	symptoms
+797.1	Cardiogenic shock	cardiogenic shock	symptoms
+798	Malaise and fatigue	malaise and fatigue	symptoms
+798.1	Chronic fatigue syndrome	chronic fatigue syndrome	symptoms
+799	Debility unspecified	debility	symptoms
+800	Fracture of lower limb	fracture of lower limb	injuries & poisonings
+800.1	Fracture of neck of femur	fracture of neck of femur	injuries & poisonings
+800.2	Fracture of unspecified part of femur	fracture ofpart of femur	injuries & poisonings
+800.3	Fracture of tibia and fibula	fracture of tibia and fibula	injuries & poisonings
+800.4	Fracture of patella	fracture of patella	injuries & poisonings
+801	Fracture of ankle and foot	fracture of ankle and foot	injuries & poisonings
+801.1	Fracture of foot	fracture of foot	injuries & poisonings
+802	Fracture of pelvis	fracture of pelvis	injuries & poisonings
+803	Fracture of upper limb	fracture of upper limb	injuries & poisonings
+803.1	Fracture of humerus	fracture of humerus	injuries & poisonings
+803.2	Fracture of radius and ulna	fracture of radius and ulna	injuries & poisonings
+803.21	Colles' fracture	colles fracture	injuries & poisonings
+803.3	Fracture of clavicle or scapula	fracture of clavicle or scapula	injuries & poisonings
+804	Fracture of hand or wrist	fracture of hand or wrist	injuries & poisonings
+805	Fracture of vertebral column without mention of spinal cord injury	fracture of vertebral column without mention of spinal cord injury	injuries & poisonings
+807	Fracture of ribs	fracture of ribs	injuries & poisonings
+809	Fracture of unspecified bones	fracture ofbones	injuries & poisonings
+816	Cerebral laceration and contusion	cerebral laceration and contusion	injuries & poisonings
+817	Concussion	concussion	injuries & poisonings
+818	Intracranial hemorrhage (injury)	intracranial hemorrhage injury	injuries & poisonings
+818.1	Subdural hemorrhage (injury)	subdural hemorrhage injury	injuries & poisonings
+818.2	Subarachnoid hemorrhage (injury)	subarachnoid hemorrhage injury	injuries & poisonings
+819	Skull and face fracture and other intercranial injury	skull and face fracture and other intercranial injury	injuries & poisonings
+823	Torus fracture	torus fracture	injuries & poisonings
+830	Dislocation	dislocation	injuries & poisonings
+835	Internal derangement of knee	internal derangement of knee	injuries & poisonings
+836	Traumatic arthropathy	traumatic arthropathy	injuries & poisonings
+840	Sprains and strains	sprains and strains	injuries & poisonings
+840.1	Muscle/tendon sprain	muscletendon sprain	injuries & poisonings
+840.2	Rotator cuff (capsule) sprain	rotator cuff capsule sprain	injuries & poisonings
+840.3	Joint/ligament sprain	jointligament sprain	injuries & poisonings
+841	Sprains and strains of back and neck	sprains and strains of back and neck	injuries & poisonings
+842	Other sprains and strains	other sprains and strains	injuries & poisonings
+850	Hemorrhage or hematoma complicating a procedure	hemorrhage or hematoma complicating a procedure	injuries & poisonings
+851	Complications of transplants and reattached limbs	complications of transplants and reattached limbs	injuries & poisonings
+853	Complication of colostomy or enterostomy	complication of colostomy or enterostomy	injuries & poisonings
+854	Complications of cardiac/vascular device, implant, and graft	complications of cardiacvascular device implant and graft	injuries & poisonings
+855	Complication of nervous system device, implant, and graft	complication of nervous system device implant and graft	injuries & poisonings
+856	Vascular complications of surgery and medical procedures	vascular complications of surgery and medical procedures	injuries & poisonings
+857	Mechanical complication of unspecified genitourinary device, implant, and graft	mechanical complication ofgenitourinary device implant and graft	injuries & poisonings
+858	Complication of internal orthopedic device	complication of internal orthopedic device	injuries & poisonings
+859	Complication due to other implant and internal device	complication due to other implant and internal device	injuries & poisonings
+860	Bone marrow or stem cell transplant	bone marrow or stem cell transplant	neoplasms
+870	Open wounds of head; neck; and trunk	open wounds of head neck and trunk	injuries & poisonings
+870.1	Open wound or laceration of eye or eyelid	open wound or laceration of eye or eyelid	injuries & poisonings
+870.2	Open wound of ear	open wound of ear	injuries & poisonings
+870.3	Other open wound of head and face	other open wound of head and face	injuries & poisonings
+870.4	Open wound of nose and sinus	open wound of nose and sinus	injuries & poisonings
+870.5	Open wound of lip and mouth	open wound of lip and mouth	injuries & poisonings
+870.6	Open wound of neck	open wound of neck	injuries & poisonings
+870.8	Open wound of genital organs	open wound of genital organs	injuries & poisonings
+871	Open wounds of extremities	open wounds of extremities	injuries & poisonings
+871.1	Open wound of hand except finger(s)	open wound of hand except fingers	injuries & poisonings
+871.2	Open wound of finger(s)	open wound of fingers	injuries & poisonings
+871.3	Open wound of foot except toe(s) alone	open wound of foot except toes alone	injuries & poisonings
+871.4	Open wound of toe(s)	open wound of toes	injuries & poisonings
+872	Traumatic amputation	traumatic amputation	injuries & poisonings
+873	Broken tooth	broken tooth	injuries & poisonings
+874	Complication of amputation stump	complication of amputation stump	injuries & poisonings
+875	Non-healing surgical wound	non-healing surgical wound	injuries & poisonings
+876	Posttraumatic wound infection not elsewhere classified	posttraumatic wound infection not elsewhere classified	injuries & poisonings
+905	Late effects of musculoskeletal and connective tissue injuries	late effects of musculoskeletal and connective tissue injuries	injuries & poisonings
+906	Late effects of injuries to skin and subcutaneous tissues	late effects of injuries to skin and subcutaneous tissues	injuries & poisonings
+907	Injuries to the nervous system	injuries to the nervous system	injuries & poisonings
+908	Late effects of other injuries	late effects of other injuries	injuries & poisonings
+909	Late effects of external causes	late effects of external causes	injuries & poisonings
+910	Superficial injury, infected	superficial injury infected	injuries & poisonings
+911	Blister	blister	injuries & poisonings
+912	Insect bite	insect bite	injuries & poisonings
+913	Toxic effect of venom	toxic effect of venom	injuries & poisonings
+915	Superficial injury without mention of infection	superficial injury without mention of infection	injuries & poisonings
+916	Contusion	contusion	injuries & poisonings
+930	Allergic reaction to food	allergic reaction to food	injuries & poisonings
+931	Contact dermatitis and other eczema due to plants [except food]	contact dermatitis and other eczema due to plants except food	dermatologic
+938	Dermatitis due to solar radiation	dermatitis due to solar radiation	dermatologic
+938.1	Acute dermatitis due to solar radiation	acute dermatitis due to solar radiation	dermatologic
+938.2	Chronic dermatitis due to solar radiation	chronic dermatitis due to solar radiation	dermatologic
+939	Atopic/contact dermatitis due to other or unspecified	atopiccontact dermatitis due to other or	dermatologic
+939.1	Contact and allergic dermatitis of eyelid	contact and allergic dermatitis of eyelid	dermatologic
+941	Adverse reaction to serum or vaccine	adverse reaction to serum or vaccine	injuries & poisonings
+942	Infusion and transfusion reaction	infusion and transfusion reaction	injuries & poisonings
+946	Anaphylactic shock NOS	anaphylactic shock	injuries & poisonings
+947	Urticaria	urticaria	dermatologic
+949	Allergies, other	allergies other	injuries & poisonings
+949.1	Diaper or napkin rash	diaper or napkin rash	injuries & poisonings
+952	Spinal cord injury without evidence of spinal bone injury	spinal cord injury without evidence of spinal bone injury	injuries & poisonings
+957	Injury to other and unspecified nerves	injury to other andnerves	injuries & poisonings
+958	Certain early complications of trauma or procedure	certain early complications of trauma or procedure	injuries & poisonings
+958.1	Postoperative shock	postoperative shock	injuries & poisonings
+958.2	Traumatic and surgical subcutaneous emphysema	traumatic and surgical subcutaneous emphysema	injuries & poisonings
+960	Poisoning by antibiotics	poisoning by antibiotics	injuries & poisonings
+960.1	Adverse effects of antibacterials (not penicillins)	adverse effects of antibacterials not penicillins	injuries & poisonings
+960.2	Allergy/adverse effect of penicillin	allergyadverse effect of penicillin	injuries & poisonings
+960.3	Poisoning by antifungal antibiotics	poisoning by antifungal antibiotics	injuries & poisonings
+961	Poisoning by other anti-infectives	poisoning by other anti-infectives	injuries & poisonings
+961.1	Poisoning/allergy of sulfonamides	poisoningallergy of sulfonamides	injuries & poisonings
+962	Poisoning by hormones and synthetic substitutes	poisoning by hormones and synthetic substitutes	injuries & poisonings
+962.1	Adrenal cortical steroids causing adverse effects in therapeutic use	adrenal cortical steroids causing adverse effects in therapeutic use	injuries & poisonings
+962.2	Insulins and antidiabetic agents causing adverse effects in therapeutic use	insulins and antidiabetic agents causing adverse effects in therapeutic use	injuries & poisonings
+962.3	Hormones and synthetic substitutes causing adverse effects in therapeutic use	hormones and synthetic substitutes causing adverse effects in therapeutic use	injuries & poisonings
+963	Poisoning by primarily systemic agents	poisoning by primarily systemic agents	injuries & poisonings
+963.1	Antineoplastic and immunosuppressive drugs causing adverse effects	antineoplastic and immunosuppressive drugs causing adverse effects	injuries & poisonings
+964	Poisoning by agents primarily affecting blood constituents	poisoning by agents primarily affecting blood constituents	injuries & poisonings
+964.1	Anticoagulants causing adverse effects	anticoagulants causing adverse effects	injuries & poisonings
+965	Poisoning by analgesics, antipyretics, and antirheumatics	poisoning by analgesics antipyretics and antirheumatics	injuries & poisonings
+965.1	Opiates and related narcotics causing adverse effects in therapeutic use	opiates and related narcotics causing adverse effects in therapeutic use	injuries & poisonings
+965.2	Antirheumatics causing adverse effects in therapeutic use	antirheumatics causing adverse effects in therapeutic use	injuries & poisonings
+965.3	Salicylates causing adverse effects in therapeutic use	salicylates causing adverse effects in therapeutic use	injuries & poisonings
+966	Poisoning by anticonvulsants and anti-Parkinsonism drugs	poisoning by anticonvulsants and anti-parkinsonism drugs	injuries & poisonings
+967	Adverse effects of sedatives or other central nervous system depressants and anesthetics	adverse effects of sedatives or other central nervous system depressants and anesthetics	injuries & poisonings
+969	Poisoning by psychotropic agents	poisoning by psychotropic agents	injuries & poisonings
+971	Poisoning by drugs primarily affecting the autonomic nervous system	poisoning by drugs primarily affecting the autonomic nervous system	injuries & poisonings
+972	Poisoning by agents primarily affecting the cardiovascular system	poisoning by agents primarily affecting the cardiovascular system	injuries & poisonings
+972.1	Cardiac rhythm regulators causing adverse effects in therapeutic use	cardiac rhythm regulators causing adverse effects in therapeutic use	injuries & poisonings
+972.2	Antilipemic and antiarteriosclerotic drugs causing adverse effects in therapeutic use	antilipemic and antiarteriosclerotic drugs causing adverse effects in therapeutic use	injuries & poisonings
+972.6	Antihypertensive agents causing adverse effects	antihypertensive agents causing adverse effects	injuries & poisonings
+973	Poisoning by agents primarily affecting the gastrointestinal system	poisoning by agents primarily affecting the gastrointestinal system	injuries & poisonings
+974	Poisoning by water, mineral, and uric acid metabolism drugs	poisoning by water mineral and uric acid metabolism drugs	injuries & poisonings
+975	Poisoning by agents primarily acting on the smooth and skeletal muscles and respiratory system	poisoning by agents primarily acting on the smooth and skeletal muscles and respiratory system	injuries & poisonings
+976	Poisoning by agents primarily affecting skin & mucous membrane, ophthalmological, otorhinolaryngological, & dental drugs	poisoning by agents primarily affecting skin  mucous membrane ophthalmological otorhinolaryngological  dental drugs	injuries & poisonings
+977	Personal history of allergy to medicinal agents	personal history of allergy to medicinal agents	injuries & poisonings
+979	Adverse drug events and drug allergies	adverse drug events and drug allergies	injuries & poisonings
+980	Encounter for long-term (current) use of antibiotics	encounter for long-term current use of antibiotics	infectious diseases
+981	Toxic effect of (non-ethyl) alcohol and petroleum and other solvents	toxic effect of non-ethyl alcohol and petroleum and other solvents	injuries & poisonings
+983	Toxic effect of corrosive aromatics, acids, and caustic alkalis	toxic effect of corrosive aromatics acids and caustic alkalis	injuries & poisonings
+984	Toxic effect of lead and its compounds (including fumes)	toxic effect of lead and its compounds including fumes	injuries & poisonings
+985	Toxic effect of other metals	toxic effect of other metals	injuries & poisonings
+986	Toxic effect of carbon monoxide	toxic effect of carbon monoxide	injuries & poisonings
+987	Toxic effect of other gases, fumes, or vapors	toxic effect of other gasses fumes or vapors	injuries & poisonings
+988	Toxic effect of noxious substances eaten as food	toxic effect of noxious substances eaten as food	injuries & poisonings
+989	Toxic effect of other substances, chiefly nonmedicinal as to source	toxic effect of other substances chiefly nonmedicinal as to source	injuries & poisonings
+990	Effects radiation NOS	effects radiation	injuries & poisonings
+994	Sepsis and SIRS	sepsis and sirs	injuries & poisonings
+994.1	Systemic inflammatory response syndrome (SIRS)	systemic inflammatory response syndrome sirs	injuries & poisonings
+994.2	Sepsis	sepsis	injuries & poisonings
+994.21	Septic shock	septic shock	injuries & poisonings
+996	Complications peculiar to certain specified procedures	complications peculiar to certain specified procedures	injuries & poisonings
