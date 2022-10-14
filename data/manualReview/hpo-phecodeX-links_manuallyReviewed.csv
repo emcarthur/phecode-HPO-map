@@ -215,7 +215,7 @@ H,Embolism and thrombosis,Renal vein thrombosis,440,HP_0034239
 M,Thyrotoxicosis [hyperthyroidism],Thyrotoxicosis with diffuse goiter,200.3,HP_0011784
 H,Disorders of lacrimal system,Lacrimal duct stenosis,363,HP_0007678
 H,Inflammation of the eye,Keratitis,367,HP_0000491
-M\,Aplastic anemia,Pure red cell aplasia,162,HP_0012410
+M,Aplastic anemia,Pure red cell aplasia,162,HP_0012410
 H,Benign neoplasm of the skin,Atypical nevus,138,HP_0001062
 H,Thrombocytopenia,Heparin-induced thrombocytopenia,169.1,HP_0011874
 M,Atrophy of testis,Testicular atrophy,603.4,HP_0000029
@@ -249,56 +249,56 @@ P,Absent or infrequent menstruation,Abnormality of the genitourinary system,626.
 P,Benign neoplasm of the genitourinary system,Neoplasm,146,HP_0002664
 P,Mucocutaneous lymph node syndrome [Kawasaki],Autoimmunity,704.12,HP_0002960
 H,Noninflammatory disorders of the cornea,Opacification of the corneal stroma,369,HP_0007759
-,Annular pancreas,Annular pancreas,767.1,HP_0001734
-,Osteoporosis and low bone density,Fractured shoulder,726,HP_0041217
-,"Congenital deformities of skull, face, and jaw",Cloverleaf skull,758,HP_0002676
-,Disorders of amino-acid transport and metabolism,Hypersarcosinemia,240,HP_0010896
-,Chorioretinal scars,Small yellow foveal lesion with surrounding gray zone,373.1,HP_0031420
-,Other congenital malformations of circulatory system,Congenital malformation of the great arteries,781,HP_0011603
-,"Cancer (solid tumor, excluding BCC)",Ewing sarcoma,130,HP_0012254
-,Cutaneous lupus erythematosus,Discoid lupus rash,700.12,HP_0007417
-,Club foot,Talipes equinovarus,710.42,HP_0001762
-,Hydrocele,Abnormality of the genitourinary system,603.1,HP_0000119
-,Anemia,Microangiopathic hemolytic anemia,164,HP_0001937
-,Respiratory failure of newborn,Respiratory failure,854.6,HP_0002878
-,Alcoholic polyneuropathy,Polyneuropathy,337.32,HP_0001271
-,Disturbances of skin sensation,Somatic sensory dysfunction,351,HP_0003474
-,Cytology and pathology findings,Abnormality of the cerebrospinal fluid,835,HP_0002921
-,Disorders of muscle,Proximal muscle weakness,719,HP_0003701
-,Diseases of salivary glands,Parotitis,506,HP_0011850
-,Abnormal cardiac sounds,Heart murmur,423,HP_0030148
-,Extrapyramidal and movement disorders,Postural tremor,324,HP_0002174
-,"Cancer (solid tumor, excluding BCC)",Anaplastic thyroid carcinoma,130,HP_0011779
-,Polyarteritis nodosa and related conditions,Vasculitis,704.1,HP_0002633
-,Noninflammatory disorders of the cornea,Corneal neovascularization,369,HP_0011496
-,Hypepigmentation,Hypopigmentation of the skin,674.2,HP_0001010
-,Behavioral and emotional disorders with onset usually occurring in childhood and adolescence,Hyperactivity,893,HP_0000752
-,Hypertrophic conditions of skin,Keloids,676,HP_0010562
-,Immobility syndrome (paraplegic)*,Myopathy,730.3,HP_0003198
-,Benign neoplasm of eye,Benign neoplasm of the central nervous system,148.1,HP_0100835
-,Specific developmental disorders,Receptive aphasia,891,HP_0033848
-,Malignant neoplasm of the gums,Carcinoma,100.13,HP_0030731
-,Specific developmental disorders,Dyscalculia,891,HP_0002442
-,Retinal detachments and breaks,Retinal detachment,374.1,HP_0000541
-,"Malignant neoplasm of the breast, female",Breast carcinoma,105.1,HP_0003002
-,Congenital malformations of great arteries,Ascending aorta hypoplasia,778,HP_0031935
-,Systemic atrophies primarily affecting the central nervous system,Amyotrophic lateral sclerosis,323,HP_0007354
-,Ankylosing hyperostosis [Forestier],Vertebral hyperostosis,715.5,HP_0008442
-,Allergies related to other diseases/symptoms,Gastrointestinal eosinophilia,840.8,HP_0032064
-,Congenital malformations of larynx,Laryngeal atresia,777.1,HP_0008750
-,Diseases of tongue,Tongue pain,509,HP_0030811
-,Carcinoid tumor of the stomach,Carcinoid tumor,114.44,HP_0100570
-,Disorders of adrenal glands,Primary hyperaldosteronism,211,HP_0011736
-,Benign neoplasm of cranial nerve,Carcinoma,148.5,HP_0030731
-,Decreased white blood cell count,Abnormality of blood and blood-forming tissues,170,HP_0001871
-,Benign neoplasm of the scrotum,Benign neoplasm of the central nervous system,146.32,HP_0100835
-,Congenital malformations of great arteries,Double outlet right ventricle with subpulmonary ventricular septal defect without pulmonary stenosis,778,HP_0011658
-,Hyperkalemia [Hyperpotassemia],Hyperkalemia,256.4,HP_0002153
-,Dermatitis [eczema],Seborrheic keratosis,668,HP_0031287
-,Complex regional pain syndrome,Neuritis,343.3,HP_0031002
-,"Malignant neoplasm of the breast, male",Neoplasm,105.2,HP_0002664
-,"Anomalies of great veins, congenital",Total anomalous pulmonary venous return,781.4,HP_0005160
-,Hypersplenism,Abnormality of blood and blood-forming tissues,174.21,HP_0001871
+M,Annular pancreas,Annular pancreas,767.1,HP_0001734
+0,Osteoporosis and low bone density,Fractured shoulder,726,HP_0041217
+H,"Congenital deformities of skull, face, and jaw",Cloverleaf skull,758,HP_0002676
+H,Disorders of amino-acid transport and metabolism,Hypersarcosinemia,240,HP_0010896
+0,Chorioretinal scars,Small yellow foveal lesion with surrounding gray zone,373.1,HP_0031420
+H,Other congenital malformations of circulatory system,Congenital malformation of the great arteries,781,HP_0011603
+H,"Cancer (solid tumor, excluding BCC)",Ewing sarcoma,130,HP_0012254
+H,Cutaneous lupus erythematosus,Discoid lupus rash,700.12,HP_0007417
+M,Club foot,Talipes equinovarus,710.42,HP_0001762
+P,Hydrocele,Abnormality of the genitourinary system,603.1,HP_0000119
+H,Anemia,Microangiopathic hemolytic anemia,164,HP_0001937
+P,Respiratory failure of newborn,Respiratory failure,854.6,HP_0002878
+P,Alcoholic polyneuropathy,Polyneuropathy,337.32,HP_0001271
+M,Disturbances of skin sensation,Somatic sensory dysfunction,351,HP_0003474
+0,Cytology and pathology findings,Abnormality of the cerebrospinal fluid,835,HP_0002921
+H,Disorders of muscle,Proximal muscle weakness,719,HP_0003701
+H,Diseases of salivary glands,Parotitis,506,HP_0011850
+M,Abnormal cardiac sounds,Heart murmur,423,HP_0030148
+H,Extrapyramidal and movement disorders,Postural tremor,324,HP_0002174
+H,"Cancer (solid tumor, excluding BCC)",Anaplastic thyroid carcinoma,130,HP_0011779
+P,Polyarteritis nodosa and related conditions,Vasculitis,704.1,HP_0002633
+H,Noninflammatory disorders of the cornea,Corneal neovascularization,369,HP_0011496
+0,Hypepigmentation,Hypopigmentation of the skin,674.2,HP_0001010
+H,Behavioral and emotional disorders with onset usually occurring in childhood and adolescence,Hyperactivity,893,HP_0000752
+H,Hypertrophic conditions of skin,Keloids,676,HP_0010562
+H,Immobility syndrome (paraplegic)*,Myopathy,730.3,HP_0003198
+P,Benign neoplasm of eye,Benign neoplasm of the central nervous system,148.1,HP_0100835
+0,Specific developmental disorders,Receptive aphasia,891,HP_0033848
+P,Malignant neoplasm of the gums,Carcinoma,100.13,HP_0030731
+H,Specific developmental disorders,Dyscalculia,891,HP_0002442
+M,Retinal detachments and breaks,Retinal detachment,374.1,HP_0000541
+M,"Malignant neoplasm of the breast, female",Breast carcinoma,105.1,HP_0003002
+H,Congenital malformations of great arteries,Ascending aorta hypoplasia,778,HP_0031935
+H,Systemic atrophies primarily affecting the central nervous system,Amyotrophic lateral sclerosis,323,HP_0007354
+M,Ankylosing hyperostosis [Forestier],Vertebral hyperostosis,715.5,HP_0008442
+H,Allergies related to other diseases/symptoms,Gastrointestinal eosinophilia,840.8,HP_0032064
+H,Congenital malformations of larynx,Laryngeal atresia,777.1,HP_0008750
+H,Diseases of tongue,Tongue pain,509,HP_0030811
+M,Carcinoid tumor of the stomach,Carcinoid tumor,114.44,HP_0100570
+H,Disorders of adrenal glands,Primary hyperaldosteronism,211,HP_0011736
+0,Benign neoplasm of cranial nerve,Carcinoma,148.5,HP_0030731
+P,Decreased white blood cell count,Abnormality of blood and blood-forming tissues,170,HP_0001871
+0,Benign neoplasm of the scrotum,Benign neoplasm of the central nervous system,146.32,HP_0100835
+H,Congenital malformations of great arteries,Double outlet right ventricle with subpulmonary ventricular septal defect without pulmonary stenosis,778,HP_0011658
+M,Hyperkalemia [Hyperpotassemia],Hyperkalemia,256.4,HP_0002153
+0,Dermatitis [eczema],Seborrheic keratosis,668,HP_0031287
+0,Complex regional pain syndrome,Neuritis,343.3,HP_0031002
+P,"Malignant neoplasm of the breast, male",Neoplasm,105.2,HP_0002664
+H,"Anomalies of great veins, congenital",Total anomalous pulmonary venous return,781.4,HP_0005160
+P,Hypersplenism,Abnormality of blood and blood-forming tissues,174.21,HP_0001871
 ,Osteoarthritis,Heberden's node,708,HP_0012313
 ,Malignant neoplasm of the liver,Hepatocellular carcinoma,101.61,HP_0001402
 ,Poxvirus,Molluscum contagiosum,055,HP_0032163

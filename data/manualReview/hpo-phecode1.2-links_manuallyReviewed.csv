@@ -249,56 +249,56 @@ H,Disorders of protein plasma/amino-acid transport and metabolism,Ochronosis,270
 H,Nonspecific abnormal findings in cerebrospinal fluid,Abnormal CSF homocarnosine concentration,346.3,HP_0500241
 M,Epiphora,Epiphora,375.2,HP_0009926
 H,Cardiac and circulatory congenital anomalies,P mitrale,747,HP_0031599
-,"Anomalies of respiratory system, congenital",Subglottic stenosis,748,HP_0001607
-,Neurological disorders,Echolalia,292,HP_0010529
-,Visual disturbances,Bitemporal hemianopia,368,HP_0030521
-,Cardiac shunt/ heart septal defect,Intermediate atrioventricular canal defect,747.11,HP_0011576
-,Other disorders of lipoid metabolism,Hypolipidemia,277.5,HP_0045014
-,Osteoarthrosis,Osteoarthritis of the first carpometacarpal joint,740,HP_0006226
-,Vascular dementia,Dementia,290.16,HP_0000726
-,Other local infections of skin and subcutaneous tissue,Carbuncle,686,HP_0020084
-,Postinflammatory pulmonary fibrosis,Pulmonary fibrosis,502,HP_0002206
-,Cancer of bronchus; lung,Carcinoma,165.1,HP_0030731
-,Cancer of of nasal cavities,Neoplasm,149.9,HP_0002664
-,Bacterial infection NOS,Vaginitis,041,HP_0030683
-,"Disorders of muscle, ligament, and fascia",Fetal akinesia sequence,728,HP_0001989
-,Cancer of other endocrine glands,Parathyroid carcinoma,194,HP_0006780
-,"Nevus, non-neoplastic",Nevus,217.1,HP_0003764
-,Color vision deficiencies,Deuteranopia,368.5,HP_0011521
-,Urticaria,Vibratory urticaria,947,HP_0410138
-,Visual disturbances,Hemianopia,368,HP_0012377
-,Vitamin deficiency,Low levels of vitamin B1,261,HP_0100503
-,Extrapyramidal disease and abnormal movement disorders,Dystonia,333,HP_0001332
-,Gram positive septicemia,Methicillin-resistant Staphylococcus aureus infection,038.2,HP_0032326
-,Nerve plexus lesions,Abnormal peripheral nervous system morphology,353.1,HP_0000759
-,Nervous system congenital anomalies,Myelodysplasia,752,HP_0002863
-,Nervous system congenital anomalies,Hydromyelia,752,HP_0100565
-,Late effects of cerebrovascular disease,Feeding difficulties,433.8,HP_0011968
-,Pituitary hypofunction,Male hypogonadism,253.2,HP_0000026
-,Nephritis and nephropathy in diseases classified elsewhere,Autoimmunity,580.31,HP_0002960
-,Alcoholism,Alcoholism,317.1,HP_0030955
-,Noninfectious dermatoses of eyelid,Eczematoid dermatitis,371.33,HP_0000976
-,Skin cancer,Neoplasm,172,HP_0002664
-,Aseptic necrosis of bone,Avascular necrosis of the capital femoral epiphysis,733.4,HP_0005743
-,Neural tube defects,Spondylolisthesis,752.1,HP_0003302
-,Erythema nodosum,Erythema nodosum,695.81,HP_0012219
-,Urinary tract infection,Urinary bladder inflammation,591,HP_0100577
-,Secondary malignancy of lymph nodes,Neuroendocrine neoplasm,198.1,HP_0100634
-,Disorders of parathyroid gland,Hypoparathyroidism,252,HP_0000829
-,Superficial cellulitis and abscess,Abscess,681,HP_0025615
-,Congenital anomalies of the eye,Primary congenital glaucoma,753,HP_0008007
-,Lymphoid leukemia,Follicular lymphoma,204.1,HP_0033125
-,Hepatitis NOS,Hepatic fibrosis,070.9,HP_0001395
-,Other disorders of metabolism,Leukemia,277,HP_0001909
-,Cardiomyopathy,Endocardial fibrosis,425,HP_0006685
-,Alcohol-related disorders,Abnormality of the liver,317,HP_0001392
-,Lupus (localized and systemic),Abnormality of the skin,695.4,HP_0000951
-,Lipoma of skin and subcutaneous tissue,Carcinoma,214.1,HP_0030731
-,Other perinatal conditions of fetus or newborn,Cerebral ischemia,656,HP_0002637
-,Other disorders of eyelids,Hypertrichosis,374,HP_0000998
-,Abnormal movement,Abnormal reflex,350,HP_0031826
-,Diabetes mellitus,Peripheral neuropathy,250,HP_0009830
-,Strabismus and other disorders of binocular eye movements,Alternating esotropia,378,HP_0001137
+H,"Anomalies of respiratory system, congenital",Subglottic stenosis,748,HP_0001607
+0,Neurological disorders,Echolalia,292,HP_0010529
+H,Visual disturbances,Bitemporal hemianopia,368,HP_0030521
+H,Cardiac shunt/ heart septal defect,Intermediate atrioventricular canal defect,747.11,HP_0011576
+H,Other disorders of lipoid metabolism,Hypolipidemia,277.5,HP_0045014
+H,Osteoarthrosis,Osteoarthritis of the first carpometacarpal joint,740,HP_0006226
+P,Vascular dementia,Dementia,290.16,HP_0000726
+H,Other local infections of skin and subcutaneous tissue,Carbuncle,686,HP_0020084
+M,Postinflammatory pulmonary fibrosis,Pulmonary fibrosis,502,HP_0002206
+P,Cancer of bronchus; lung,Carcinoma,165.1,HP_0030731
+P,Cancer of of nasal cavities,Neoplasm,149.9,HP_0002664
+H,Bacterial infection NOS,Vaginitis,041,HP_0030683
+H,"Disorders of muscle, ligament, and fascia",Fetal akinesia sequence,728,HP_0001989
+H,Cancer of other endocrine glands,Parathyroid carcinoma,194,HP_0006780
+M,"Nevus, non-neoplastic",Nevus,217.1,HP_0003764
+M,Color vision deficiencies,Deuteranopia,368.5,HP_0011521
+H,Urticaria,Vibratory urticaria,947,HP_0410138
+H,Visual disturbances,Hemianopia,368,HP_0012377
+H,Vitamin deficiency,Low levels of vitamin B1,261,HP_0100503
+M,Extrapyramidal disease and abnormal movement disorders,Dystonia,333,HP_0001332
+H,Gram positive septicemia,Methicillin-resistant Staphylococcus aureus infection,038.2,HP_0032326
+P,Nerve plexus lesions,Abnormal peripheral nervous system morphology,353.1,HP_0000759
+0,Nervous system congenital anomalies,Myelodysplasia,752,HP_0002863
+H,Nervous system congenital anomalies,Hydromyelia,752,HP_0100565
+0,Late effects of cerebrovascular disease,Feeding difficulties,433.8,HP_0011968
+0,Pituitary hypofunction,Male hypogonadism,253.2,HP_0000026
+P,Nephritis and nephropathy in diseases classified elsewhere,Autoimmunity,580.31,HP_0002960
+M,Alcoholism,Alcoholism,317.1,HP_0030955
+P,Noninfectious dermatoses of eyelid,Eczematoid dermatitis,371.33,HP_0000976
+P,Skin cancer,Neoplasm,172,HP_0002664
+H,Aseptic necrosis of bone,Avascular necrosis of the capital femoral epiphysis,733.4,HP_0005743
+0,Neural tube defects,Spondylolisthesis,752.1,HP_0003302
+M,Erythema nodosum,Erythema nodosum,695.81,HP_0012219
+P,Urinary tract infection,Urinary bladder inflammation,591,HP_0100577
+0,Secondary malignancy of lymph nodes,Neuroendocrine neoplasm,198.1,HP_0100634
+H,Disorders of parathyroid gland,Hypoparathyroidism,252,HP_0000829
+M,Superficial cellulitis and abscess,Abscess,681,HP_0025615
+H,Congenital anomalies of the eye,Primary congenital glaucoma,753,HP_0008007
+0,Lymphoid leukemia,Follicular lymphoma,204.1,HP_0033125
+0,Hepatitis NOS,Hepatic fibrosis,070.9,HP_0001395
+0,Other disorders of metabolism,Leukemia,277,HP_0001909
+0,Cardiomyopathy,Endocardial fibrosis,425,HP_0006685
+0,Alcohol-related disorders,Abnormality of the liver,317,HP_0001392
+0,Lupus (localized and systemic),Abnormality of the skin,695.4,HP_0000951
+0,Lipoma of skin and subcutaneous tissue,Carcinoma,214.1,HP_0030731
+H,Other perinatal conditions of fetus or newborn,Cerebral ischemia,656,HP_0002637
+0,Other disorders of eyelids,Hypertrichosis,374,HP_0000998
+H,Abnormal movement,Abnormal reflex,350,HP_0031826
+0,Diabetes mellitus,Peripheral neuropathy,250,HP_0009830
+H,Strabismus and other disorders of binocular eye movements,Alternating esotropia,378,HP_0001137
 ,Sexual and gender identity disorders,Anorgasmia,302,HP_0046502
 ,Hyperlipidemia,obsolete Combined hyperlipidemia,272.1,HP_0008356
 ,Eosinophilia,Leukemia,288.3,HP_0001909

@@ -6,26 +6,37 @@ Created: April 20, 2022
 
 Created By: Evonne McArthur
 
-Last Edited: July 4, 2022
+Last Edited: Oct 14, 2022
 
 
 # About
 
 - Code and data for McArthur, Bastarache & Capra. “Linking rare and common disease vocabularies by mapping between the Human Phenotype Ontology and phecodes”
 - Manuscript preprint: [TBD]
-- Final mappings are in `./data/finalHPO-phecodeLinks`
 - Most of the analysis was done in the was done in the `bin/format_data_and_extract_phecodeHPO_mapping.ipynb` and figure-generation was done in the `bin/explore_phecodeHPO_mapping_make_figures.ipynb` with python 3.6.3 (see dependencies in `bin/environment.yml`). It is not recommended to run this notebook from start-to-finish, but to run individual sections for the analysis you want to replicate. All resources are all linked and cited in the methods section of the paper (section “Data availability”)
+
+
+# Looking for the final phecode-hpo mappings?
+
+- Final mappings (including unfiltered links) are in `./data/finalHPO-phecodeLinks/`. See below in the manifest for more details about each file.
+- The mappings have been filtered for diverse needs. Please use this flowchart (Fig 2 in the paper) as reference:
+
+    <img src="https://raw.githubusercontent.com/emcarthur/phecode-HPO-map/main/flowchart.png" width="800" >
+
+- Each of these files are in `./data/finalHPO-phecodeLinks/mapsFromFlowchart/`
+- These have also been formatted for use in the PheRS R package here `./data/finalHPO-phecodeLinks/mapsFromFlowchart/pheRSpackage/`
+- If you are looking for the "strong specific" or "strong broad" filtered maps, they are here `data/finalHPO-phecodeLinks/mapsFilteredByEvidenceType/` (including those formatted for PheRS)
 
 # Manifest
 
 ## `bin/`: scripts
 - `format_data_and_extract_phecodeHPO_mapping.ipynb` - Ipython/Jupyter notebook in python for data preprocessing/formatting, analysis, and creating the mapping. It is organized by sub-section and figure to align with the presentation of results from the paper. Other python scripts are also launched from this notebook so if you want example usage for the other python scripts (below), check this out. Sections include:
     
-    <img src="https://raw.githubusercontent.com/emcarthur/phecode-HPO-map/main/github_toc_data.png" width="300" >
+    <img src="https://raw.githubusercontent.com/emcarthur/phecode-HPO-map/main/github_toc_data.png" width="250" >
     
 - `explore_phecodeHPO_mapping_make_figures.ipynb`:  Ipython/Jupyter notebook in python for data visualization/plotting. It is organized by sub-section and figure/tables to align with the presentation of results from the paper. Sections include:
 
-    <img src="https://github.com/emcarthur/phecode-HPO-map/blob/main/github_toc_figs.png?raw=true" width="460" >
+    <img src="https://raw.githubusercontent.com/emcarthur/phecode-HPO-map/main/github_toc_figs.png" width="400" >
 
 - `environment.yml`- List and version of packages/dependencies used in Anaconda environment for all python scripts in this project
 - `parallelStringMapping.sh` and `mapping.py`: Python script and slurm shell script to parallelize string/substring matching and WikiMedMap procedures. mapping.py usage: mapping.py [-h] -f FROM -t TO -m MAP -o OUTPUT [--i I] (Options for -m include string substring or wikimed, Options for the from/to term include phecodeX phecode 1.2 ICD9 ICD10 hpo, the -I takes an index range for a subset of the file that is used to parallelize over in the slurm array). The wikimedmap code is modified from https://github.com/Linasulieman/WikiMedMap/ (major change includes auto_suggest=False instead of the default True)
@@ -65,8 +76,10 @@ All files created were created `bin/format_data_and_extract_phecodeHPO_mapping.i
 - `hpo-phecode[1.2/X]_links.tsv`: Final HPO-Phecode mapping
 - `hpo-phecode[1.2/X]_links_withEvidenceRatings.tsv`: Same as above but with 3 extra columns describing if the link has "strong specific", "strong broad" or "any" evidence. These are tables in the manuscript (S1, S3)
 - `hpo-phecode[1.2/X]_links_withHPOchildrenExpansion.tsv`: Same as above but includes links between Phecodes and all the children of the identified HPO code. These are tables in the manuscript (S2, S4)
-- `filtered/`: Maps that are filtered by levels of evidence ("strong specific" or "strong broad")
-- `pheRSpackage`: Maps that are formatted for the PheRS R package
+- `mapsFilteredByEvidenceType/`: Maps that are filtered by levels of evidence ("strong specific" or "strong broad")
+- `mapsFromFlowchart/`: Maps that are filtered by evidence optimized based on exploring the precision-recall space of all combinations of evidence types
+- `mapsFromFlowchart/PRcalcsForEvidence/`: Exploration of the precision-recall space across all combinations of evidence types. The max F0.5 and F1 scores from these were used to select the combinations of evidence in the flowchart (Fig 2)
+- `[mapsFilteredByEvidenceType or mapsFromFlowchart]/pheRSpackage`: Maps that are formatted for the PheRS R package
 
 ## `data/manualReview`
 - `hpo-phecode[1.2/X]-links[_withHPOchildrenExpansion]_forManualReview.tsv`: The shuffled HPO-phecode links for manual review to assess precision. There are 4 different maps: (Phecode 1.2 and X) x (without children and with children)

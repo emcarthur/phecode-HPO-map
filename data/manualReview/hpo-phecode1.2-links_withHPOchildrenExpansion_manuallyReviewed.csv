@@ -249,65 +249,65 @@ H,Vascular disorders of skin,Angiokeratoma,694.3,HP_0001014
 H,Hypertensive heart and/or renal disease,Chronic kidney disease,401.2,HP_0012622
 0,Type 2 diabetes with neurological manifestations,Insulin-resistant diabetes mellitus at puberty,250.24,HP_0000877
 H,Alopecia,Telogen effluvium,704.1,HP_0025470
-,Hereditary disturbances in tooth structure,Dentinogenesis imperfecta,520.1,HP_0000703
-,Spina bifida,Communicating hydrocephalus,752.11,HP_0001334
-,Vascular hamartomas and non-neoplastic nevi,Facial hemangioma,217,HP_0000329
-,Abnormal movement,Progressive spastic quadriplegia,350,HP_0002478
-,Other chronic nonalcoholic liver disease,Microvesicular hepatic steatosis,571.5,HP_0001414
-,Coagulation defects,Sub-inner limiting membrane hemorrhage,286,HP_0031611
-,"Polycythemia, secondary",Polycythemia,289.8,HP_0001901
-,Noninfectious disorders of lymphatic channels,Thyroid lymphangiectasia,450,HP_0008229
-,Incisional hernia,Hernia,550.6,HP_0100790
-,Thyroiditis,Thyrotoxicosis with toxic multinodular goiter,245,HP_0011785
-,Otosclerosis,Postlingual sensorineural hearing impairment,383,HP_0008596
-,Visual field defects,Centrocecal scotoma,368.4,HP_0000576
-,Other perinatal conditions of fetus or newborn,Oligohydramnios,656,HP_0001562
-,Maternal complication of pregnancy affecting fetus or newborn,Varicose veins,658,HP_0002619
-,Inflammatory and toxic neuropathy,Unilateral vestibular Schwannoma,357,HP_0009590
-,Cellulitis and abscess of fingers/toes,Paronychia,681.1,HP_0001818
-,Corneal opacity and other disorders of cornea,Ribbonlike corneal degeneration,364,HP_0200066
-,Anomalous atrioventricular excitation,Permanent junctional reciprocating tachycardia,426.4,HP_0011690
-,Acid-base balance disorder,Distal renal tubular acidosis,276.4,HP_0008341
-,Nontoxic uninodular goiter,Primary hypothyroidism,241.1,HP_0000832
-,Cerebral cysts,Arachnoid cyst,348.4,HP_0100702
-,Muscular calcification and ossification,Minicore myopathy,728.1,HP_0003789
-,Precocious sexual development and puberty NEC,Absence of secondary sex characteristics,259.4,HP_0008187
-,Chronic lymphocytic thyroiditis,Hyperthyroidism,245.21,HP_0000836
-,Villonodular synovitis,Polyarticular arthropathy,741.6,HP_0005195
-,"Diseases of the oral soft tissues, excluding lesions specific for gingiva and tongue",Oral leukoplakia,528,HP_0002745
-,Hypothyroidism NOS,Thyrotoxicosis with toxic single thyroid nodule,244.4,HP_0011786
-,Abnormal findings on study of brain and/or nervous system,Abnormal amplitude of light-adapted single flash electroretinogram,346,HP_0030481
-,Altered mental status,"Intellectual disability, profound",292.4,HP_0002187
-,"Vaginal enterocele, congenital or acquired",Vaginal hernia,618.6,HP_0100672
-,Benign neoplasm of parathyroid gland,Multiple central nervous system lipomas,227.2,HP_0100251
-,Venous/cerebrovascular complications embolism in pregnancy and the puerperium,Septic embolism,671,HP_0033553
-,Iron deficiency anemias,Abnormality of blood and blood-forming tissues,280,HP_0001871
-,Retinal vascular changes and abnomalities,Retinal arterial occlusion,362.4,HP_0025326
-,"Osteoporosis, osteopenia and pathological fracture",Localized osteoporosis,743,HP_0040161
-,Visual disturbances,Homonymous hemianopia,368,HP_0030516
-,Dyschromia and Vitiligo,Cutis marmorata,694,HP_0000965
-,Dementias,Cerebral cortical hemiatrophy,290.1,HP_0100308
-,Stricture/obstruction of ureter,Primary obstructive megaureter,586.4,HP_4000035
-,"Disorders of fluid, electrolyte, and acid-base balance",Renal Fanconi syndrome,276,HP_0001994
-,Large cell lymphoma,B-cell lymphoma,202.24,HP_0012191
-,Abnormal coagulation profile,Abnormality of von Willebrand factor,286.9,HP_0012146
-,Benign neoplasm of colon,Vagal paraganglioma,208,HP_0002886
-,Cardiac and circulatory congenital anomalies,Double inlet to single ventricle with common atrioventricular orifice,747,HP_0011558
-,Lower gastrointestinal congenital anomalies,Aplasia/Hypoplasia of the gallbladder,750.2,HP_0011466
-,Diseases of pancreas,Recurrent pancreatitis,577,HP_0100027
-,Keratoconjunctivitis sicca,Keratoconjunctivitis,370.31,HP_0001096
-,Fracture of ribs,Avulsion fractured humerus,807,HP_0041088
-,"Keratoderma, acquired",Patchy palmoplantar hyperkeratosis,701.1,HP_0005588
-,Abnormality of red blood cells,Anisocytosis,289.9,HP_0011273
-,Simple and unspecified goiter,Thyroid atypical adenoma,240,HP_0011778
-,Other aneurysm,Fusiform ascending tubular aorta aneurysm,442,HP_0031643
-,Disorders of tooth development,Agenesis of mandibular central incisor,520,HP_0006355
-,Muscle weakness,Myofibrillar myopathy,772.3,HP_0003715
-,Aphasia/speech disturbance,Mutism,292.1,HP_0002300
-,Other retinal disorders,Retinopathy of prematurity stage 2,362,HP_0500051
-,Trigeminal nerve disorders [CN5],Demyelinating peripheral neuropathy,352.1,HP_0007108
-,Peripheral retinal degenerations,Degenerative vitreoretinopathy,362.6,HP_0007964
-,Proliferative glomerulonephritis,Membranoproliferative glomerulonephritis,580.11,HP_0000793
+H,Hereditary disturbances in tooth structure,Dentinogenesis imperfecta,520.1,HP_0000703
+0,Spina bifida,Communicating hydrocephalus,752.11,HP_0001334
+H,Vascular hamartomas and non-neoplastic nevi,Facial hemangioma,217,HP_0000329
+H,Abnormal movement,Progressive spastic quadriplegia,350,HP_0002478
+H,Other chronic nonalcoholic liver disease,Microvesicular hepatic steatosis,571.5,HP_0001414
+0,Coagulation defects,Sub-inner limiting membrane hemorrhage,286,HP_0031611
+M,"Polycythemia, secondary",Polycythemia,289.8,HP_0001901
+H,Noninfectious disorders of lymphatic channels,Thyroid lymphangiectasia,450,HP_0008229
+P,Incisional hernia,Hernia,550.6,HP_0100790
+H,Thyroiditis,Thyrotoxicosis with toxic multinodular goiter,245,HP_0011785
+0,Otosclerosis,Postlingual sensorineural hearing impairment,383,HP_0008596
+H,Visual field defects,Centrocecal scotoma,368.4,HP_0000576
+H,Other perinatal conditions of fetus or newborn,Oligohydramnios,656,HP_0001562
+0,Maternal complication of pregnancy affecting fetus or newborn,Varicose veins,658,HP_0002619
+0,Inflammatory and toxic neuropathy,Unilateral vestibular Schwannoma,357,HP_0009590
+H,Cellulitis and abscess of fingers/toes,Paronychia,681.1,HP_0001818
+H,Corneal opacity and other disorders of cornea,Ribbonlike corneal degeneration,364,HP_0200066
+H,Anomalous atrioventricular excitation,Permanent junctional reciprocating tachycardia,426.4,HP_0011690
+H,Acid-base balance disorder,Distal renal tubular acidosis,276.4,HP_0008341
+0,Nontoxic uninodular goiter,Primary hypothyroidism,241.1,HP_0000832
+M,Cerebral cysts,Arachnoid cyst,348.4,HP_0100702
+0,Muscular calcification and ossification,Minicore myopathy,728.1,HP_0003789
+0,Precocious sexual development and puberty NEC,Absence of secondary sex characteristics,259.4,HP_0008187
+0,Chronic lymphocytic thyroiditis,Hyperthyroidism,245.21,HP_0000836
+0,Villonodular synovitis,Polyarticular arthropathy,741.6,HP_0005195
+H,"Diseases of the oral soft tissues, excluding lesions specific for gingiva and tongue",Oral leukoplakia,528,HP_0002745
+0,Hypothyroidism NOS,Thyrotoxicosis with toxic single thyroid nodule,244.4,HP_0011786
+H,Abnormal findings on study of brain and/or nervous system,Abnormal amplitude of light-adapted single flash electroretinogram,346,HP_0030481
+0,Altered mental status,"Intellectual disability, profound",292.4,HP_0002187
+M,"Vaginal enterocele, congenital or acquired",Vaginal hernia,618.6,HP_0100672
+0,Benign neoplasm of parathyroid gland,Multiple central nervous system lipomas,227.2,HP_0100251
+0,Venous/cerebrovascular complications embolism in pregnancy and the puerperium,Septic embolism,671,HP_0033553
+H,Iron deficiency anemias,Abnormality of blood and blood-forming tissues,280,HP_0001871
+H,Retinal vascular changes and abnomalities,Retinal arterial occlusion,362.4,HP_0025326
+M,"Osteoporosis, osteopenia and pathological fracture",Localized osteoporosis,743,HP_0040161
+H,Visual disturbances,Homonymous hemianopia,368,HP_0030516
+H,Dyschromia and Vitiligo,Cutis marmorata,694,HP_0000965
+0,Dementias,Cerebral cortical hemiatrophy,290.1,HP_0100308
+H,Stricture/obstruction of ureter,Primary obstructive megaureter,586.4,HP_4000035
+H,"Disorders of fluid, electrolyte, and acid-base balance",Renal Fanconi syndrome,276,HP_0001994
+H,Large cell lymphoma,B-cell lymphoma,202.24,HP_0012191
+H,Abnormal coagulation profile,Abnormality of von Willebrand factor,286.9,HP_0012146
+0,Benign neoplasm of colon,Vagal paraganglioma,208,HP_0002886
+H,Cardiac and circulatory congenital anomalies,Double inlet to single ventricle with common atrioventricular orifice,747,HP_0011558
+H,Lower gastrointestinal congenital anomalies,Aplasia/Hypoplasia of the gallbladder,750.2,HP_0011466
+H,Diseases of pancreas,Recurrent pancreatitis,577,HP_0100027
+M,Keratoconjunctivitis sicca,Keratoconjunctivitis,370.31,HP_0001096
+0,Fracture of ribs,Avulsion fractured humerus,807,HP_0041088
+H,"Keratoderma, acquired",Patchy palmoplantar hyperkeratosis,701.1,HP_0005588
+H,Abnormality of red blood cells,Anisocytosis,289.9,HP_0011273
+H,Simple and unspecified goiter,Thyroid atypical adenoma,240,HP_0011778
+H,Other aneurysm,Fusiform ascending tubular aorta aneurysm,442,HP_0031643
+H,Disorders of tooth development,Agenesis of mandibular central incisor,520,HP_0006355
+H,Muscle weakness,Myofibrillar myopathy,772.3,HP_0003715
+H,Aphasia/speech disturbance,Mutism,292.1,HP_0002300
+H,Other retinal disorders,Retinopathy of prematurity stage 2,362,HP_0500051
+0,Trigeminal nerve disorders [CN5],Demyelinating peripheral neuropathy,352.1,HP_0007108
+M,Peripheral retinal degenerations,Degenerative vitreoretinopathy,362.6,HP_0007964
+M,Proliferative glomerulonephritis,Membranoproliferative glomerulonephritis,580.11,HP_0000793
 ,Protein-calorie malnutrition,Disproportionate short stature,260,HP_0003498
 ,Constipation,Abnormality of the gastrointestinal tract,563,HP_0011024
 ,Renal osteodystrophy,Global glomerulosclerosis,588.1,HP_0004737

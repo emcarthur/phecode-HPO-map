@@ -165,7 +165,7 @@ H,Symptoms and signs related to movement disorders,Progressive gait ataxia,325,H
 H,Spasm of muscle,Exercise-induced muscle cramps,719.11,HP_0003710
 H,Hemangioma,Glabellar hemangioma,139.61,HP_0001076
 0,Hypoesthesia of skin*,Positive Romberg sign,351.2,HP_0002403
-j0,Heavy chain disease*,Non-Hodgkin lymphoma,180.34,HP_0012539
+0,Heavy chain disease*,Non-Hodgkin lymphoma,180.34,HP_0012539
 H,Other specified cognitive deficit,Long term memory impairment,329.4,HP_0033688
 H,Sudden or transient visual loss,Arcuate scotoma,386.8,HP_0030530
 0,"Cancer (solid tumor, excluding BCC)",Pituitary prolactin cell adenoma,130,HP_0006767
@@ -249,56 +249,56 @@ H,Decreased white blood cell count,Drug-induced agranulocytosis,170,HP_0012235
 0,Benign neoplasm of orbit,Cerebral hamartoma,148.11,HP_0009731
 H,Abnormal echoencephalogram,EEG with frontal focal spikes,349.11,HP_0012015
 0,"Lesion of median, ulnar, radial nerve",Motor axonal neuropathy,336.2,HP_0007002
-,Spinal muscular atrophy,Proximal upper limb amyotrophy,323.2,HP_0008948
-,Congenital anomalies of limbs,1-2 toe syndactyly,785,HP_0010711
-,Retained placenta or membranes,Placenta increta,949.1,HP_0025655
-,Hepatovirus,Chronic hepatitis due to cryptosporidium infection,054,HP_0200124
-,Other disorders of bone,Osteochondritis dissecans,727,HP_0010886
-,Malaise and fatigue,Postexertional malaise,807,HP_0030973
-,Congenital malformation of the skin,Bilateral single transverse palmar creases,790,HP_0007598
-,Tremor,Vocal tremor,324.4,HP_0012477
-,Lymphocytopenia,Absent circulating B cells,170.2,HP_0030252
-,Abnormal digit morphology,2-3 finger syndactyly,785.1,HP_0001233
-,Benign neoplasm of the endocrine glands,Spinal meningioma,149,HP_0100010
-,Congenital malformation of the skin,Combined hamartoma of the retinal pigment epithelium and retina,790,HP_0030510
-,Memory loss,Psychosis,329.1,HP_0000709
-,Spinal stenosis,Spinal stenosis with reduced interpedicular distance,715.4,HP_0005733
-,Histocytoces,Cutaneous T-cell lymphoma,120.3,HP_0012192
-,Inflammatory myopathy,Acute episodes of neuropathic symptoms,700.4,HP_0003489
-,Sleep disorders,Terminal insomnia,333,HP_0031356
-,Primary ovarian failure,Hypogonadotropic hypogonadism,214.1,HP_0000044
-,Trigeminal neuralgia,Episodic peripheral neuropathy,334.11,HP_0006949
-,Essential hypertension,Elevated mean arterial pressure,401.1,HP_0004972
-,Malignant neoplasm of the colon and rectum,Olfactory esthesioneuroblastoma,101.4,HP_0030068
-,Basophilia,Increased basophil count,171.5,HP_0031807
-,Cardiomyopathy,Apical hypertrophic cardiomyopathy,414,HP_0031992
-,Disorders of the middle ear,Chronic otitis media,391,HP_0000389
-,Syndactyly,Osseous finger syndactyly,785.12,HP_0010492
-,Dyspnea [Shortness of breath],Intermittent hyperpnea at rest,488.1,HP_0005941
-,Convulsions,Focal aware tonic seizure,330.3,HP_0032722
-,Noninflammatory disorders of the cornea,Corneal degeneration,369,HP_0007705
-,Achondroplasia*,Rhizomelia,788.14,HP_0008905
-,Bacterial infections,Hyperparakeratosis,089.1,HP_0040009
-,Exostosis,Exostoses of the radius,724.5,HP_0003986
-,Keratoderma,Hyperkeratosis lenticularis perstans,680.2,HP_0007570
-,Hearing impairment,Bilateral sensorineural hearing impairment,396,HP_0008619
-,Monocyte,B Acute Lymphoblastic Leukemia,120.12,HP_0004812
-,Leiomyoma of uterus,Carcinoma,144.21,HP_0030731
-,Hypertrophic cardiomyopathy,Noncompaction cardiomyopathy,414.1,HP_0012817
-,Adverse effect of other drug,Abnormality of the thyroid gland,973,HP_0000820
-,Disorders of menstruation and other abnormal bleeding from female genital tract,Dysmenorrhea,626,HP_0100607
-,"Reaction to severe stress, and adjustment disorders",Paroxysmal lethargy,290,HP_0011973
-,Benign neoplasm of the fallopian tube and uterine adnexa,Intracranial meningioma,144.4,HP_0100009
-,Chondropathies,Abnormal joint morphology,728,HP_0001367
-,Disorders of vestibular function,Nystagmus,394,HP_0000639
-,Malignant neoplasm of retina,Carcinoma,109.15,HP_0030731
-,Spinal muscular atrophy,Quadriceps muscle atrophy,323.2,HP_0009050
-,Benign neoplasm of the colon,Adenocarcinoma of the colon,136.41,HP_0040276
-,Lymphedema,Orthokeratotic hyperkeratosis,177.4,HP_0025080
-,Combined immunity deficiency,Severe combined immunodeficiency,179.3,HP_0004430
-,Allergy to insects,Bacteria allergy,840.2,HP_0410322
-,Skin symptoms,Chilblains,679,HP_0009710
-,Paralysis of vocal cords and larynx,Bilateral vocal cord paralysis,472.1,HP_0012820
+0,Spinal muscular atrophy,Proximal upper limb amyotrophy,323.2,HP_0008948
+H,Congenital anomalies of limbs,1-2 toe syndactyly,785,HP_0010711
+H,Retained placenta or membranes,Placenta increta,949.1,HP_0025655
+0,Hepatovirus,Chronic hepatitis due to cryptosporidium infection,054,HP_0200124
+H,Other disorders of bone,Osteochondritis dissecans,727,HP_0010886
+H,Malaise and fatigue,Postexertional malaise,807,HP_0030973
+H,Congenital malformation of the skin,Bilateral single transverse palmar creases,790,HP_0007598
+M,Tremor,Vocal tremor,324.4,HP_0012477
+H,Lymphocytopenia,Absent circulating B cells,170.2,HP_0030252
+H,Abnormal digit morphology,2-3 finger syndactyly,785.1,HP_0001233
+0,Benign neoplasm of the endocrine glands,Spinal meningioma,149,HP_0100010
+0,Congenital malformation of the skin,Combined hamartoma of the retinal pigment epithelium and retina,790,HP_0030510
+0,Memory loss,Psychosis,329.1,HP_0000709
+P,Spinal stenosis,Spinal stenosis with reduced interpedicular distance,715.4,HP_0005733
+0,Histocytoces,Cutaneous T-cell lymphoma,120.3,HP_0012192
+0,Inflammatory myopathy,Acute episodes of neuropathic symptoms,700.4,HP_0003489
+H,Sleep disorders,Terminal insomnia,333,HP_0031356
+0,Primary ovarian failure,Hypogonadotropic hypogonadism,214.1,HP_0000044
+0,Trigeminal neuralgia,Episodic peripheral neuropathy,334.11,HP_0006949
+P,Essential hypertension,Elevated mean arterial pressure,401.1,HP_0004972
+0,Malignant neoplasm of the colon and rectum,Olfactory esthesioneuroblastoma,101.4,HP_0030068
+M,Basophilia,Increased basophil count,171.5,HP_0031807
+H,Cardiomyopathy,Apical hypertrophic cardiomyopathy,414,HP_0031992
+H,Disorders of the middle ear,Chronic otitis media,391,HP_0000389
+M,Syndactyly,Osseous finger syndactyly,785.12,HP_0010492
+0,Dyspnea [Shortness of breath],Intermittent hyperpnea at rest,488.1,HP_0005941
+H,Convulsions,Focal aware tonic seizure,330.3,HP_0032722
+H,Noninflammatory disorders of the cornea,Corneal degeneration,369,HP_0007705
+0,Achondroplasia*,Rhizomelia,788.14,HP_0008905
+0,Bacterial infections,Hyperparakeratosis,089.1,HP_0040009
+H,Exostosis,Exostoses of the radius,724.5,HP_0003986
+0,Keratoderma,Hyperkeratosis lenticularis perstans,680.2,HP_0007570
+H,Hearing impairment,Bilateral sensorineural hearing impairment,396,HP_0008619
+0,Monocyte,B Acute Lymphoblastic Leukemia,120.12,HP_0004812
+0,Leiomyoma of uterus,Carcinoma,144.21,HP_0030731
+0,Hypertrophic cardiomyopathy,Noncompaction cardiomyopathy,414.1,HP_0012817
+0,Adverse effect of other drug,Abnormality of the thyroid gland,973,HP_0000820
+M,Disorders of menstruation and other abnormal bleeding from female genital tract,Dysmenorrhea,626,HP_0100607
+0,"Reaction to severe stress, and adjustment disorders",Paroxysmal lethargy,290,HP_0011973
+0,Benign neoplasm of the fallopian tube and uterine adnexa,Intracranial meningioma,144.4,HP_0100009
+0,Chondropathies,Abnormal joint morphology,728,HP_0001367
+H,Disorders of vestibular function,Nystagmus,394,HP_0000639
+0,Malignant neoplasm of retina,Carcinoma,109.15,HP_0030731
+0,Spinal muscular atrophy,Quadriceps muscle atrophy,323.2,HP_0009050
+0,Benign neoplasm of the colon,Adenocarcinoma of the colon,136.41,HP_0040276
+0,Lymphedema,Orthokeratotic hyperkeratosis,177.4,HP_0025080
+M,Combined immunity deficiency,Severe combined immunodeficiency,179.3,HP_0004430
+0,Allergy to insects,Bacteria allergy,840.2,HP_0410322
+H,Skin symptoms,Chilblains,679,HP_0009710
+M,Paralysis of vocal cords and larynx,Bilateral vocal cord paralysis,472.1,HP_0012820
 ,"Vaginal enterocele, congenital or acquired",Vaginal hernia,618.6,HP_0100672
 ,"Malignant neoplasm of the heart, mediastinum, thymus, and pleura",Inferior mediastinal mass,102.5,HP_0033826
 ,Congenital malformations of eyelid,Cicatricial entropion,754.1,HP_0031737
