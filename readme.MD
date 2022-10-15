@@ -32,7 +32,7 @@ Last Edited: Oct 14, 2022
 ## `bin/`: scripts
 - `format_data_and_extract_phecodeHPO_mapping.ipynb` - Ipython/Jupyter notebook in python for data preprocessing/formatting, analysis, and creating the mapping. It is organized by sub-section and figure to align with the presentation of results from the paper. Other python scripts are also launched from this notebook so if you want example usage for the other python scripts (below), check this out. Sections include:
     
-    <img src="https://raw.githubusercontent.com/emcarthur/phecode-HPO-map/main/github_toc_data.png" width="250" >
+    <img src="https://raw.githubusercontent.com/emcarthur/phecode-HPO-map/main/github_toc_data.png" width="350" >
     
 - `explore_phecodeHPO_mapping_make_figures.ipynb`:  Ipython/Jupyter notebook in python for data visualization/plotting. It is organized by sub-section and figure/tables to align with the presentation of results from the paper. Sections include:
 
