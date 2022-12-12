@@ -1,5 +1,7 @@
 ICD10_code	ICD10_label	ICD10_simpleLabel	phecode1.2_codeList	phecodeX_codeList	hpo_code	hpo_label	hpo_simpleLabel	hpo_original
 A02.24	Salmonella osteomyelitis	salmonella osteomyelitis	['710', '710.1']	['001', '089', '089.1', '701', '701.1']	HP_0005661	Salmonella osteomyelitis	salmonella osteomyelitis	True
+A02.9	Salmonella infection, unspecified	salmonella infection	['008', '008.5']	['001', '089', '089.1']	HP_0005661	Salmonella bone infection	salmonella bone infection	False
+A31.0	Pulmonary mycobacterial infection	pulmonary mycobacterial infection	['480', '480.1']	['005', '005.2', '089', '089.1']	HP_0032261	Nontuberculous mycobacterial pulmonary infection	nontuberculous mycobacterial pulmonary infection	True
 A37	Whooping cough	whooping cough	['041']	['024', '089', '089.1']	HP_0031247	Whooping cough	whooping cough	True
 A46	Erysipelas	erysipelas	['686']	['004', '089', '089.1', '660', '660.2', '660.23']	HP_0001055	Erysipelas	erysipelas	True
 A49.9	Bacterial infection, unspecified	bacterial infection	['041']	['089', '089.1']	HP_0100658	Bacterial infection of skin	bacterial infection of skin	False
@@ -18,10 +20,12 @@ B39	Histoplasmosis	histoplasmosis	['117', '117.1']	['072', '089', '089.3']	HP_00
 B39.9	Histoplasmosis, unspecified	histoplasmosis	['117', '117.1']	['072', '089', '089.3']	HP_0032256	Histoplasmosis	histoplasmosis	True
 B44.0	Invasive pulmonary aspergillosis	invasive pulmonary aspergillosis	['117', '117.4', '480', '480.3']	['074', '089', '089.3', '468', '468.5', '468.51']	HP_0020103	Invasive pulmonary aspergillosis	invasive pulmonary aspergillosis	True
 C22.2	Hepatoblastoma	hepatoblastoma	['155', '155.1']	['101', '101.6', '101.61', '130']	HP_0002884	Hepatoblastoma	hepatoblastoma	True
+C44.92	Squamous cell carcinoma of skin, unspecified	squamous cell carcinoma of skin	['172', '172.2', '172.22']	['103', '103.2', '103.22']	HP_0006739	Squamous cell carcinoma of the skin	squamous cell carcinoma of the skin	True
 C46	Kaposi's sarcoma	kaposis sarcoma	['230']	['104', '104.6']	HP_0100726	Kaposi's sarcoma	kaposis sarcoma	True
 C46.9	Kaposi's sarcoma, unspecified	kaposis sarcoma	['230']	['104', '104.6']	HP_0100726	Kaposi's sarcoma	kaposis sarcoma	True
 C49.A	Gastrointestinal stromal tumor	gastrointestinal stromal tumor	['170', '170.2']	['104', '104.5', '130']	HP_0100723	Gastrointestinal stromal tumor	gastrointestinal stromal tumor	False
 C49.A	Gastrointestinal stromal tumor	gastrointestinal stromal tumor	['170', '170.2']	['104', '104.5', '130']	HP_0100723	Gastrointestinal stromal tumour	gastrointestinal stromal tumor	False
+C72.9	Malignant neoplasm of central nervous system, unspecified	malignant neoplasm of central nervous system	['191', '191.1']	['109', '130']	HP_0100836	Malignant neoplasm of the central nervous system	malignant neoplasm of the central nervous system	True
 C81	Hodgkin lymphoma	hodgkin lymphoma	['201']	['120', '120.2', '122', '122.1']	HP_0012189	Hodgkin lymphoma	hodgkin lymphoma	True
 C81.9	Hodgkin lymphoma, unspecified	hodgkin lymphoma	['201']	['120', '120.2', '122', '122.1']	HP_0012189	Hodgkin lymphoma	hodgkin lymphoma	True
 C82	Follicular lymphoma	follicular lymphoma	['202', '202.2', '202.21']	['120', '120.2', '120.21', '122', '122.2', '122.21']	HP_0033125	Follicular lymphoma	follicular lymphoma	True
@@ -68,6 +72,7 @@ D09.9	Carcinoma in situ, unspecified	carcinoma in situ	['195']	['112', '130']	HP
 D18.0	Hemangioma	hemangioma	['228']	['139', '139.6', '139.61']	HP_0001028	Hemangioma	hemangioma	True
 D22	Melanocytic nevi	melanocytic nevi	['216']	['138', '138.2']	HP_0000995	Melanocytic nevi	melanocytic nevi	False
 D22.9	Melanocytic nevi, unspecified	melanocytic nevi	['216']	['138', '138.2']	HP_0000995	Melanocytic nevi	melanocytic nevi	False
+D33.9	Benign neoplasm of central nervous system, unspecified	benign neoplasm of central nervous system	['225']	['148']	HP_0100835	Benign neoplasm of the central nervous system	benign neoplasm of the central nervous system	True
 D46.4	Refractory anemia, unspecified	refractory anemia	['200']	['120', '120.1', '124', '124.6']	HP_0005505	Refractory anemia	refractory anemia	True
 D46.4	Refractory anemia, unspecified	refractory anemia	['200']	['120', '120.1', '124', '124.6']	HP_0005505	Refractory anaemia	refractory anemia	False
 D46.9	Myelodysplastic syndrome, unspecified	myelodysplastic syndrome	['200']	['120', '120.1', '124', '124.6']	HP_0002863	Myelodysplastic syndrome	myelodysplastic syndrome	False
@@ -78,6 +83,7 @@ D50.9	Iron deficiency anemia, unspecified	iron deficiency anemia	['280', '280.1'
 D50.9	Iron deficiency anemia, unspecified	iron deficiency anemia	['280', '280.1']	['160', '160.1', '164', '164.1', '247', '247.7', '247.72']	HP_0001891	Iron deficiency anaemia	iron deficiency anemia	False
 D59.10	Autoimmune hemolytic anemia, unspecified	autoimmune hemolytic anemia		['161', '161.2', '161.21', '164', '181']	HP_0001890	Autoimmune hemolytic anemia	autoimmune hemolytic anemia	True
 D59.10	Autoimmune hemolytic anemia, unspecified	autoimmune hemolytic anemia		['161', '161.2', '161.21', '164', '181']	HP_0001890	Autoimmune hemolytic anaemia	autoimmune hemolytic anemia	False
+D59.10	Autoimmune hemolytic anemia, unspecified	autoimmune hemolytic anemia		['161', '161.2', '161.21', '164', '181']	HP_0001890	Hemolytic anemia, autoimmune	hemolytic anemia autoimmune	False
 D59.3	Hemolytic-uremic syndrome	hemolytic-uremic syndrome	['283', '283.2', '283.21']	['161', '161.2', '161.22']	HP_0005575	Hemolytic-uremic syndrome	hemolytic-uremic syndrome	True
 D61.81	Pancytopenia	pancytopenia	['284', '284.1']	['162', '162.8']	HP_0001876	Pancytopenia	pancytopenia	True
 D61.9	Aplastic anemia, unspecified	aplastic anemia	['284']	['162', '164']	HP_0001915	Aplastic anemia	aplastic anemia	True
@@ -86,6 +92,7 @@ D64.4	Congenital dyserythropoietic anemia	congenital dyserythropoietic anemia	['
 D64.4	Congenital dyserythropoietic anemia	congenital dyserythropoietic anemia	['285']	['162', '162.7', '164']	HP_0004810	Congenital dyserythropoietic anemia	congenital dyserythropoietic anemia	False
 D64.9	Anemia, unspecified	anemia	['285']	['164']	HP_0001903	Anemia	anemia	True
 D64.9	Anemia, unspecified	anemia	['285']	['164']	HP_0001903	Anaemia	anemia	False
+D68.51	Activated protein C resistance	activated protein c resistance	['286', '286.8', '286.81']	['168', '168.2', '168.21', '168.211']	HP_0012175	Resistance to activated protein C	resistance to activated protein c	True
 D68.51	Activated protein C resistance	activated protein c resistance	['286', '286.8', '286.81']	['168', '168.2', '168.21', '168.211']	HP_0012175	Activated protein C resistance	activated protein c resistance	False
 D69.6	Thrombocytopenia, unspecified	thrombocytopenia	['287', '287.3']	['169', '169.1']	HP_0001873	Thrombocytopenia	thrombocytopenia	True
 D69.6	Thrombocytopenia, unspecified	thrombocytopenia	['287', '287.3']	['169', '169.1']	HP_0001973	Immune thrombocytopenia	immune thrombocytopenia	False
@@ -108,6 +115,7 @@ D74.9	Methemoglobinemia, unspecified	methemoglobinemia	['289', '289.9']	['165', 
 D75.81	Myelofibrosis	myelofibrosis	['289', '289.1']	['120', '120.1', '124', '124.8']	HP_0011974	Myelofibrosis	myelofibrosis	True
 D80.7	Transient hypogammaglobulinemia of infancy	transient hypogammaglobulinemia of infancy	['279', '279.1', '279.11']	['860']	HP_0005432	Transient hypogammaglobulinemia of infancy	transient hypogammaglobulinemia of infancy	True
 D81.9	Combined immunodeficiency, unspecified	combined immunodeficiency	['279', '279.1']	['179', '179.3']	HP_0004430	Severe combined immunodeficiency	severe combined immunodeficiency	True
+D81.9	Combined immunodeficiency, unspecified	combined immunodeficiency	['279', '279.1']	['179', '179.3']	HP_0004430	Immunodeficiency, severe combined	immunodeficiency severe combined	False
 D81.9	Combined immunodeficiency, unspecified	combined immunodeficiency	['279', '279.1']	['179', '179.3']	HP_0005387	Combined immunodeficiency	combined immunodeficiency	True
 D84.9	Immunodeficiency, unspecified	immunodeficiency	['279', '279.1']	['179', '179.9']	HP_0002721	Immunodeficiency	immunodeficiency	True
 D89.1	Cryoglobulinemia	cryoglobulinemia	['270', '270.3', '270.32']	['180', '180.4']	HP_0100778	Cryoglobulinemia	cryoglobulinemia	True
@@ -154,16 +162,31 @@ E50.9	Vitamin A deficiency, unspecified	vitamin a deficiency	['261', '261.1']	['
 E53.0	Riboflavin deficiency	riboflavin deficiency	['261', '261.2']	['232', '232.2', '232.22']	HP_0100504	Riboflavin deficiency	riboflavin deficiency	False
 E55	Vitamin D deficiency	vitamin d deficiency	['261', '261.4']	['232', '232.4']	HP_0100512	Vitamin D deficiency	vitamin d deficiency	False
 E55.9	Vitamin D deficiency, unspecified	vitamin d deficiency	['261', '261.4']	['232', '232.4']	HP_0100512	Vitamin D deficiency	vitamin d deficiency	False
+E56.9	Vitamin deficiency, unspecified	vitamin deficiency	['261']	['232']	HP_0004905	Vitamin A deficiency	vitamin a deficiency	False
+E56.9	Vitamin deficiency, unspecified	vitamin deficiency	['261']	['232']	HP_0008326	Vitamin B6 deficiency	vitamin b6 deficiency	False
+E56.9	Vitamin deficiency, unspecified	vitamin deficiency	['261']	['232']	HP_0100497	Vitamin B3 deficiency	vitamin b3 deficiency	True
+E56.9	Vitamin deficiency, unspecified	vitamin deficiency	['261']	['232']	HP_0100502	Vitamin B12 deficiency	vitamin b12 deficiency	True
+E56.9	Vitamin deficiency, unspecified	vitamin deficiency	['261']	['232']	HP_0100503	Vitamin B1 deficiency	vitamin b1 deficiency	False
+E56.9	Vitamin deficiency, unspecified	vitamin deficiency	['261']	['232']	HP_0100504	Vitamin B2 deficiency	vitamin b2 deficiency	False
+E56.9	Vitamin deficiency, unspecified	vitamin deficiency	['261']	['232']	HP_0100505	Vitamin B5 deficiency	vitamin b5 deficiency	False
+E56.9	Vitamin deficiency, unspecified	vitamin deficiency	['261']	['232']	HP_0100506	Vitamin B8 deficiency	vitamin b8 deficiency	False
+E56.9	Vitamin deficiency, unspecified	vitamin deficiency	['261']	['232']	HP_0100507	Vitamin B9 deficiency	vitamin b9 deficiency	False
+E56.9	Vitamin deficiency, unspecified	vitamin deficiency	['261']	['232']	HP_0100510	Vitamin C deficiency	vitamin c deficiency	False
+E56.9	Vitamin deficiency, unspecified	vitamin deficiency	['261']	['232']	HP_0100512	Vitamin D deficiency	vitamin d deficiency	False
+E56.9	Vitamin deficiency, unspecified	vitamin deficiency	['261']	['232']	HP_0100513	Vitamin E deficiency	vitamin e deficiency	False
 E61.0	Copper deficiency	copper deficiency	['262']	['247', '247.1', '247.12']	HP_0011967	Copper deficiency	copper deficiency	False
 E61.1	Iron deficiency	iron deficiency	['262']	['247', '247.7', '247.72']	HP_0001891	Iron deficiency anemia	iron deficiency anemia	True
 E61.1	Iron deficiency	iron deficiency	['262']	['247', '247.7', '247.72']	HP_0001891	Iron deficiency anaemia	iron deficiency anemia	False
+E61.5	Molybdenum deficiency	molybdenum deficiency	['262']	['247', '247.8', '247.84']	HP_0003570	Molybdenum cofactor deficiency	molybdenum cofactor deficiency	True
 E66.3	Overweight	overweight	['278']	['236']	HP_0025502	Overweight	overweight	True
 E66.9	Obesity, unspecified	obesity	['278', '278.1']	['236', '236.1']	HP_0001513	Obesity	obesity	True
 E70.21	Tyrosinemia	tyrosinemia	['270', '270.1']	['240', '240.1', '240.12', '240.121']	HP_0003231	Tyrosinemia	tyrosinemia	False
 E70.3	Albinism	albinism	['270', '270.1']	['240', '240.1', '240.13']	HP_0001022	Albinism	albinism	True
 E70.30	Albinism, unspecified	albinism	['270', '270.1']	['240', '240.1', '240.13']	HP_0001022	Albinism	albinism	True
 E70.31	Ocular albinism	ocular albinism	['270', '270.1']	['240', '240.1', '240.13', '240.131']	HP_0001107	Ocular albinism	ocular albinism	True
+E70.31	Ocular albinism	ocular albinism	['270', '270.1']	['240', '240.1', '240.13', '240.131']	HP_0001107	Albinism, Ocular	albinism ocular	False
 E70.319	Ocular albinism, unspecified	ocular albinism	['270', '270.1']	['240', '240.1', '240.13', '240.131']	HP_0001107	Ocular albinism	ocular albinism	True
+E70.319	Ocular albinism, unspecified	ocular albinism	['270', '270.1']	['240', '240.1', '240.13', '240.131']	HP_0001107	Albinism, Ocular	albinism ocular	False
 E70.41	Histidinemia	histidinemia	['270', '270.2']	['240', '240.1', '240.14', '240.141']	HP_0010906	Histidinemia	histidinemia	False
 E71.111	3-methylglutaconic aciduria	3-methylglutaconic aciduria	['270', '270.1']	['240', '240.2', '240.23']	HP_0003535	3-Methylglutaconic aciduria	3-methylglutaconic aciduria	True
 E71.120	Methylmalonic acidemia	methylmalonic acidemia	['270', '270.2']	['240', '240.2', '240.24']	HP_0002912	Methylmalonic acidemia	methylmalonic acidemia	True
@@ -297,6 +320,7 @@ H02.53	Eyelid retraction	eyelid retraction	['374']	['361', '361.5']	HP_0500044	U
 H04.2	Epiphora	epiphora	['375', '375.2']	['363', '363.5']	HP_0009926	Epiphora	epiphora	True
 H04.20	Unspecified epiphora	epiphora	['375', '375.2']	['363', '363.5']	HP_0009926	Epiphora	epiphora	True
 H04.30	Unspecified dacryocystitis	dacryocystitis	['369']	['363', '363.6', '363.61']	HP_0000620	Dacryocystitis	dacryocystitis	True
+H04.56	Stenosis of lacrimal punctum	stenosis of lacrimal punctum	['375']	['363', '363.7']	HP_0025572	Stenosis of the lacrimal punctum	stenosis of the lacrimal punctum	False
 H05.20	Unspecified exophthalmos	exophthalmos	['242', '242.3']	['365', '365.3']	HP_0000520	Exophthalmos	exophthalmos	False
 H05.4	Enophthalmos	enophthalmos	['376']	['365', '365.1']	HP_0000490	Enophthalmos	enophthalmos	False
 H05.40	Unspecified enophthalmos	enophthalmos	['376']	['365', '365.1']	HP_0000490	Enophthalmos	enophthalmos	False
@@ -320,11 +344,13 @@ H16.20	Unspecified keratoconjunctivitis	keratoconjunctivitis	['370', '370.3']	['
 H16.4	Corneal neovascularization	corneal neovascularization	['370']	['369', '369.3']	HP_0011496	Corneal neovascularization	corneal neovascularization	True
 H16.40	Unspecified corneal neovascularization	corneal neovascularization	['370']	['369', '369.3']	HP_0011496	Corneal neovascularization	corneal neovascularization	True
 H16.9	Unspecified keratitis	keratitis	['370']	['367', '367.2']	HP_0000491	Keratitis	keratitis	True
+H17.1	Central corneal opacity	central corneal opacity	['364', '364.1']	['369', '369.1', '369.12']	HP_0008511	Central posterior corneal opacity	central posterior corneal opacity	True
 H18.04	Kayser-Fleischer ring	kayser-fleischer ring	['364']	['247', '247.1', '247.13']	HP_0200032	Kayser-Fleischer ring	kayser-fleischer ring	True
 H18.4	Corneal degeneration	corneal degeneration	['364', '364.4']	['369', '369.4']	HP_0007705	Corneal degeneration	corneal degeneration	True
 H18.40	Unspecified corneal degeneration	corneal degeneration	['364', '364.4']	['369', '369.4']	HP_0007705	Corneal degeneration	corneal degeneration	True
 H18.41	Arcus senilis	arcus senilis	['364', '364.4']	['369', '369.4', '369.44']	HP_0001084	Arcus senilis	arcus senilis	False
 H18.42	Band keratopathy	band keratopathy	['364', '364.4']	['369', '369.4', '369.43']	HP_0000585	Band keratopathy	band keratopathy	True
+H18.52	Epithelial (juvenile) corneal dystrophy	epithelial juvenile corneal dystrophy	['364', '364.5']	['369', '369.5', '369.54']	HP_0007755	Juvenile epithelial corneal dystrophy	juvenile epithelial corneal dystrophy	True
 H18.53	Granular corneal dystrophy	granular corneal dystrophy	['364', '364.5']	['369', '369.5', '369.53']	HP_0007802	Granular corneal dystrophy	granular corneal dystrophy	True
 H18.54	Lattice corneal dystrophy	lattice corneal dystrophy	['364', '364.5']	['369', '369.5', '369.52']	HP_0001149	Lattice corneal dystrophy	lattice corneal dystrophy	True
 H18.6	Keratoconus	keratoconus	['364', '364.4', '364.41']	['369', '369.6', '369.62']	HP_0000563	Keratoconus	keratoconus	True
@@ -335,8 +361,13 @@ H20.9	Unspecified iridocyclitis	iridocyclitis	['371', '371.1']	['367', '367.5', 
 H21.0	Hyphema	hyphema	['379', '379.5']	['377', '377.8']	HP_0011886	Hyphema	hyphema	True
 H21.56	Pupillary abnormalities	pupillary abnormalities	['379', '379.5']	['370', '370.4', '370.41']	HP_0000615	Pupillary abnormalities	pupillary abnormalities	False
 H25	Age-related cataract	age-related cataract	['366', '366.2']	['371']	HP_0011141	Age-related cataract	age-related cataract	True
+H25	Age-related cataract	age-related cataract	['366', '366.2']	['371']	HP_0011142	Age-related nuclear cataract	age-related nuclear cataract	True
+H25	Age-related cataract	age-related cataract	['366', '366.2']	['371']	HP_0011143	Age-related cortical cataract	age-related cortical cataract	True
+H25.01	Cortical age-related cataract	cortical age-related cataract	['366', '366.2']	['371', '371.1']	HP_0011143	Age-related cortical cataract	age-related cortical cataract	True
 H25.1	Age-related nuclear cataract	age-related nuclear cataract	['366', '366.2']	['371', '371.3', '371.31']	HP_0011142	Age-related nuclear cataract	age-related nuclear cataract	True
 H25.9	Unspecified age-related cataract	age-related cataract	['366', '366.2']	['371']	HP_0011141	Age-related cataract	age-related cataract	True
+H25.9	Unspecified age-related cataract	age-related cataract	['366', '366.2']	['371']	HP_0011142	Age-related nuclear cataract	age-related nuclear cataract	True
+H25.9	Unspecified age-related cataract	age-related cataract	['366', '366.2']	['371']	HP_0011143	Age-related cortical cataract	age-related cortical cataract	True
 H26.9	Unspecified cataract	cataract	['366']	['371']	HP_0000518	Cataract	cataract	True
 H31.1	Choroidal degeneration	choroidal degeneration	['363', '363.4']	['373', '373.2']	HP_0007945	obsolete Choroidal degeneration	obsolete choroidal degeneration	True
 H31.10	Unspecified choroidal degeneration	choroidal degeneration	['363', '363.4']	['373', '373.2']	HP_0007945	obsolete Choroidal degeneration	obsolete choroidal degeneration	True
@@ -346,6 +377,7 @@ H31.30	Unspecified choroidal hemorrhage	choroidal hemorrhage	['363']	['377', '37
 H33.10	Unspecified retinoschisis	retinoschisis	['361', '361.2']	['374', '374.2', '374.21']	HP_0030502	Retinoschisis	retinoschisis	True
 H33.2	Serous retinal detachment	serous retinal detachment	['361', '362', '362.3', '362.31']	['374', '374.1', '374.11']	HP_0012231	Serous retinal detachment	serous retinal detachment	False
 H34.1	Central retinal artery occlusion	central retinal artery occlusion	['362', '362.4']	['374', '374.3', '374.37']	HP_0025342	Central retinal artery occlusion	central retinal artery occlusion	True
+H34.23	Retinal artery branch occlusion	retinal artery branch occlusion	['362', '362.4']	['374', '374.3', '374.37']	HP_0020161	Branch retinal artery occlusion	branch retinal artery occlusion	True
 H34.81	Central retinal vein occlusion	central retinal vein occlusion	['362', '362.4']	['374', '374.3', '374.38']	HP_0020166	Central retinal vein occlusion	central retinal vein occlusion	True
 H35.02	Exudative retinopathy	exudative retinopathy	['362', '362.3']	['374', '374.3', '374.31']	HP_0007898	Exudative retinopathy	exudative retinopathy	True
 H35.03	Hypertensive retinopathy	hypertensive retinopathy	['362', '362.3']	['374', '374.4', '374.41']	HP_0001095	Hypertensive retinopathy	hypertensive retinopathy	True
@@ -394,8 +426,12 @@ H35.30	Unspecified macular degeneration	macular degeneration	['362', '362.2', '3
 H35.30	Unspecified macular degeneration	macular degeneration	['362', '362.2', '362.29']	['374', '374.5', '374.51']	HP_0008028	Cystoid macular degeneration	cystoid macular degeneration	True
 H35.30	Unspecified macular degeneration	macular degeneration	['362', '362.2', '362.29']	['374', '374.5', '374.51']	HP_0008028	Cystic macular degeneration	cystic macular degeneration	False
 H35.35	Cystoid macular degeneration	cystoid macular degeneration	['362', '362.2', '362.23']	['374', '374.5', '374.53']	HP_0008028	Cystoid macular degeneration	cystoid macular degeneration	True
+H35.4	Peripheral retinal degeneration	peripheral retinal degeneration	['362', '362.6']	['374', '374.6']	HP_0007667	Peripheral cystoid retinal degeneration	peripheral cystoid retinal degeneration	True
 H35.4	Peripheral retinal degeneration	peripheral retinal degeneration	['362', '362.6']	['374', '374.6']	HP_0007769	Peripheral retinal degeneration	peripheral retinal degeneration	True
+H35.4	Peripheral retinal degeneration	peripheral retinal degeneration	['362', '362.6']	['374', '374.6']	HP_0007782	obsolete Peripheral retinal cone degeneration	obsolete peripheral retinal cone degeneration	True
+H35.40	Unspecified peripheral retinal degeneration	peripheral retinal degeneration	['362', '362.6']	['374', '374.6']	HP_0007667	Peripheral cystoid retinal degeneration	peripheral cystoid retinal degeneration	True
 H35.40	Unspecified peripheral retinal degeneration	peripheral retinal degeneration	['362', '362.6']	['374', '374.6']	HP_0007769	Peripheral retinal degeneration	peripheral retinal degeneration	True
+H35.40	Unspecified peripheral retinal degeneration	peripheral retinal degeneration	['362', '362.6']	['374', '374.6']	HP_0007782	obsolete Peripheral retinal cone degeneration	obsolete peripheral retinal cone degeneration	True
 H35.6	Retinal hemorrhage	retinal hemorrhage	['362', '362.8']	['377', '377.4']	HP_0000573	Retinal hemorrhage	retinal hemorrhage	True
 H35.6	Retinal hemorrhage	retinal hemorrhage	['362', '362.8']	['377', '377.4']	HP_0000573	Retinal haemorrhage	retinal hemorrhage	False
 H35.71	Central serous chorioretinopathy	central serous chorioretinopathy	['362', '362.3', '362.31']	['374', '374.9']	HP_0025567	Central serous chorioretinopathy	central serous chorioretinopathy	True
@@ -407,19 +443,24 @@ H43.1	Vitreous hemorrhage	vitreous hemorrhage	['379', '379.2']	['377', '377.5']	
 H43.82	Vitreomacular adhesion	vitreomacular adhesion	['379', '379.2']	['376', '376.4']	HP_0031150	Vitreomacular adhesion	vitreomacular adhesion	True
 H44.11	Panuveitis	panuveitis	['371', '371.1']	['367', '367.5', '367.51']	HP_0012121	Panuveitis	panuveitis	True
 H46	Optic neuritis	optic neuritis	['377', '377.3']	['380', '380.1', '380.11']	HP_0100653	Optic neuritis	optic neuritis	True
+H46.1	Retrobulbar neuritis	retrobulbar neuritis	['377', '377.3']	['380', '380.1', '380.11']	HP_0100654	Retrobulbar optic neuritis	retrobulbar optic neuritis	True
 H46.1	Retrobulbar neuritis	retrobulbar neuritis	['377', '377.3']	['380', '380.1', '380.11']	HP_0100654	Retrobulbar neuritis	retrobulbar neuritis	False
 H46.9	Unspecified optic neuritis	optic neuritis	['377', '377.3']	['380', '380.1', '380.11']	HP_0100653	Optic neuritis	optic neuritis	True
 H47.03	Optic nerve hypoplasia	optic nerve hypoplasia	['377', '377.3']	['380', '380.1', '380.13']	HP_0000609	Optic nerve hypoplasia	optic nerve hypoplasia	True
 H47.1	Papilledema	papilledema	['377', '377.3']	['380', '380.2', '380.21']	HP_0001085	Papilledema	papilledema	True
 H47.10	Unspecified papilledema	papilledema	['377']	['380', '380.2', '380.21']	HP_0001085	Papilledema	papilledema	True
 H47.2	Optic atrophy	optic atrophy	['377', '377.1']	['380', '380.3']	HP_0000648	Optic atrophy	optic atrophy	True
+H47.2	Optic atrophy	optic atrophy	['377', '377.1']	['380', '380.3']	HP_0000648	Optic nerve atrophy	optic nerve atrophy	False
 H47.2	Optic atrophy	optic atrophy	['377', '377.1']	['380', '380.3']	HP_0001112	Leber optic atrophy	leber optic atrophy	True
 H47.20	Unspecified optic atrophy	optic atrophy	['377', '377.1']	['380', '380.3']	HP_0000648	Optic atrophy	optic atrophy	True
+H47.20	Unspecified optic atrophy	optic atrophy	['377', '377.1']	['380', '380.3']	HP_0000648	Optic nerve atrophy	optic nerve atrophy	False
 H47.20	Unspecified optic atrophy	optic atrophy	['377', '377.1']	['380', '380.3']	HP_0001112	Leber optic atrophy	leber optic atrophy	True
 H47.61	Cortical blindness	cortical blindness	['377']	['380', '380.5', '380.51']	HP_0100704	Cortical blindness	cortical blindness	False
 H49	Paralytic strabismus	paralytic strabismus	['378', '378.5']	['381', '381.1']	HP_0031775	Paralytic strabismus	paralytic strabismus	False
+H49.3	Total (external) ophthalmoplegia	total external ophthalmoplegia	['378', '378.5']	['381', '381.1', '381.11']	HP_0007824	Total internal and external ophthalmoplegia	total internal and external ophthalmoplegia	False
 H49.4	Progressive external ophthalmoplegia	progressive external ophthalmoplegia	['378']	['381', '381.1', '381.11']	HP_0000544	Chronic progressive external ophthalmoplegia	chronic progressive external ophthalmoplegia	False
 H49.4	Progressive external ophthalmoplegia	progressive external ophthalmoplegia	['378']	['381', '381.1', '381.11']	HP_0000590	Progressive external ophthalmoplegia	progressive external ophthalmoplegia	True
+H49.4	Progressive external ophthalmoplegia	progressive external ophthalmoplegia	['378']	['381', '381.1', '381.11']	HP_0000590	External ophthalmoplegia, progressive	external ophthalmoplegia progressive	False
 H49.9	Unspecified paralytic strabismus	paralytic strabismus	['378', '378.5']	['381', '381.1']	HP_0031775	Paralytic strabismus	paralytic strabismus	False
 H50.0	Esotropia	esotropia	['378', '378.1']	['381', '381.3']	HP_0000565	Esotropia	esotropia	True
 H50.00	Unspecified esotropia	esotropia	['378', '378.1']	['381', '381.3']	HP_0000565	Esotropia	esotropia	True
@@ -456,6 +497,7 @@ H53.54	Protanomaly	protanomaly	['368', '368.5']	['386', '386.5']	HP_0200018	Prot
 H53.55	Tritanomaly	tritanomaly	['368', '368.5']	['386', '386.5']	HP_0000552	Tritanomaly	tritanomaly	True
 H53.6	Night blindness	night blindness	['368']	['386', '386.6']	HP_0000662	Night blindness	night blindness	False
 H53.60	Unspecified night blindness	night blindness	['368']	['386', '386.6']	HP_0000662	Night blindness	night blindness	False
+H53.63	Congenital night blindness	congenital night blindness	['368']	['386', '386.6']	HP_0007642	Congenital stationary night blindness	congenital stationary night blindness	True
 H53.63	Congenital night blindness	congenital night blindness	['368']	['386', '386.6']	HP_0007642	Congenital night blindness	congenital night blindness	False
 H54.7	Unspecified visual loss	visual loss	['367', '367.9']	['388']	HP_0000572	Visual loss	visual loss	True
 H54.7	Unspecified visual loss	visual loss	['367', '367.9']	['388']	HP_0032037	Mild visual loss	mild visual loss	False
@@ -473,6 +515,7 @@ H60	Otitis externa	otitis externa	['380', '380.1']	['390', '390.1']	HP_0410017	O
 H60.33	Swimmer's ear	swimmers ear	['380', '380.1']	['390', '390.1']	HP_0410017	Swimmer's ear	swimmers ear	False
 H60.9	Unspecified otitis externa	otitis externa	['380', '380.1']	['390', '390.1']	HP_0410017	Otitis externa	otitis externa	True
 H61.2	Impacted cerumen	impacted cerumen	['380', '380.4']	['390', '390.4']	HP_0030788	Impacted cerumen	impacted cerumen	True
+H61.81	Exostosis of external canal	exostosis of external canal	['380']	['390', '390.2', '724', '724.5']	HP_0004459	Exostosis of the external auditory canal	exostosis of the external auditory canal	True
 H66.9	Otitis media, unspecified	otitis media	['381', '381.1', '381.11']	['391', '391.1']	HP_0000388	Otitis media	otitis media	True
 H68.1	Obstruction of Eustachian tube	obstruction of eustachian tube	['381', '381.2']	['391', '391.2', '391.22']	HP_0040269	Obstruction of Eustachian tube	obstruction of eustachian tube	False
 H68.10	Unspecified obstruction of Eustachian tube	obstruction of eustachian tube	['381', '381.2']	['391', '391.2', '391.22']	HP_0040269	Obstruction of Eustachian tube	obstruction of eustachian tube	False
@@ -482,18 +525,30 @@ H71.9	Unspecified cholesteatoma	cholesteatoma	['385', '385.3']	['391', '391.6']	
 H74.0	Tympanosclerosis	tympanosclerosis	['385', '385.5']	['391', '391.4']	HP_0020123	Tympanosclerosis	tympanosclerosis	True
 H80	Otosclerosis	otosclerosis	['383']	['391', '391.8']	HP_0000362	Otosclerosis	otosclerosis	True
 H80.9	Unspecified otosclerosis	otosclerosis	['383']	['391', '391.8']	HP_0000362	Otosclerosis	otosclerosis	True
+H90.0	Conductive hearing loss, bilateral	conductive hearing loss bilateral	['389', '389.2']	['396', '396.1', '396.11']	HP_0008513	Bilateral conductive hearing loss	bilateral conductive hearing loss	False
 H90.2	Conductive hearing loss, unspecified	conductive hearing loss	['389', '389.2']	['396', '396.1']	HP_0000405	Conductive hearing loss	conductive hearing loss	False
+H90.2	Conductive hearing loss, unspecified	conductive hearing loss	['389', '389.2']	['396', '396.1']	HP_0000405	Hearing loss, conductive	hearing loss conductive	False
 H90.2	Conductive hearing loss, unspecified	conductive hearing loss	['389', '389.2']	['396', '396.1']	HP_0008513	Bilateral conductive hearing loss	bilateral conductive hearing loss	False
 H90.2	Conductive hearing loss, unspecified	conductive hearing loss	['389', '389.2']	['396', '396.1']	HP_0008591	Congenital conductive hearing loss	congenital conductive hearing loss	False
 H90.2	Conductive hearing loss, unspecified	conductive hearing loss	['389', '389.2']	['396', '396.1']	HP_0008598	Conductive hearing loss, mild	conductive hearing loss mild	False
 H90.2	Conductive hearing loss, unspecified	conductive hearing loss	['389', '389.2']	['396', '396.1']	HP_0012716	Conductive hearing loss, moderate	conductive hearing loss moderate	False
 H90.2	Conductive hearing loss, unspecified	conductive hearing loss	['389', '389.2']	['396', '396.1']	HP_0012717	Conductive hearing loss, severe	conductive hearing loss severe	False
+H90.3	Sensorineural hearing loss, bilateral	sensorineural hearing loss bilateral	['389', '389.1']	['396', '396.2', '396.21']	HP_0000408	Bilateral progressive sensorineural hearing loss	bilateral progressive sensorineural hearing loss	False
+H90.3	Sensorineural hearing loss, bilateral	sensorineural hearing loss bilateral	['389', '389.1']	['396', '396.2', '396.21']	HP_0000408	Hearing loss, sensorineural, bilateral, progressive	hearing loss sensorineural bilateral progressive	False
+H90.3	Sensorineural hearing loss, bilateral	sensorineural hearing loss bilateral	['389', '389.1']	['396', '396.2', '396.21']	HP_0000408	Progressive bilateral sensorineural hearing loss	progressive bilateral sensorineural hearing loss	False
+H90.3	Sensorineural hearing loss, bilateral	sensorineural hearing loss bilateral	['389', '389.1']	['396', '396.2', '396.21']	HP_0008619	Bilateral sensorineural hearing loss	bilateral sensorineural hearing loss	False
+H90.3	Sensorineural hearing loss, bilateral	sensorineural hearing loss bilateral	['389', '389.1']	['396', '396.2', '396.21']	HP_0008619	Hearing loss, sensorineural, bilateral	hearing loss sensorineural bilateral	False
+H90.5	Unspecified sensorineural hearing loss	sensorineural hearing loss	['389', '389.1']	['396', '396.2']	HP_0000407	Hearing loss, sensorineural	hearing loss sensorineural	False
 H90.5	Unspecified sensorineural hearing loss	sensorineural hearing loss	['389', '389.1']	['396', '396.2']	HP_0000407	Sensorineural hearing loss	sensorineural hearing loss	False
+H90.5	Unspecified sensorineural hearing loss	sensorineural hearing loss	['389', '389.1']	['396', '396.2']	HP_0000408	Hearing loss, progressive sensorineural	hearing loss progressive sensorineural	False
+H90.5	Unspecified sensorineural hearing loss	sensorineural hearing loss	['389', '389.1']	['396', '396.2']	HP_0000408	Hearing loss, sensorineural, progressive	hearing loss sensorineural progressive	False
 H90.5	Unspecified sensorineural hearing loss	sensorineural hearing loss	['389', '389.1']	['396', '396.2']	HP_0000408	Sensorineural hearing loss, progressive	sensorineural hearing loss progressive	False
 H90.5	Unspecified sensorineural hearing loss	sensorineural hearing loss	['389', '389.1']	['396', '396.2']	HP_0008527	Congenital sensorineural hearing loss	congenital sensorineural hearing loss	False
+H90.5	Unspecified sensorineural hearing loss	sensorineural hearing loss	['389', '389.1']	['396', '396.2']	HP_0008527	Hearing loss, congenital sensorineural	hearing loss congenital sensorineural	False
 H90.5	Unspecified sensorineural hearing loss	sensorineural hearing loss	['389', '389.1']	['396', '396.2']	HP_0008610	Infantile sensorineural hearing loss	infantile sensorineural hearing loss	False
 H90.5	Unspecified sensorineural hearing loss	sensorineural hearing loss	['389', '389.1']	['396', '396.2']	HP_0008615	Late sensorineural hearing loss	late sensorineural hearing loss	False
 H90.5	Unspecified sensorineural hearing loss	sensorineural hearing loss	['389', '389.1']	['396', '396.2']	HP_0008619	Bilateral sensorineural hearing loss	bilateral sensorineural hearing loss	False
+H90.5	Unspecified sensorineural hearing loss	sensorineural hearing loss	['389', '389.1']	['396', '396.2']	HP_0008619	Hearing loss, sensorineural, bilateral	hearing loss sensorineural bilateral	False
 H90.5	Unspecified sensorineural hearing loss	sensorineural hearing loss	['389', '389.1']	['396', '396.2']	HP_0008625	Severe sensorineural hearing loss	severe sensorineural hearing loss	False
 H91.1	Presbycusis	presbycusis	['389', '389.3']	['396', '396.2', '396.22']	HP_0040113	Presbycusis	presbycusis	False
 H92.0	Otalgia	otalgia	['382']	['392']	HP_0030766	Otalgia	otalgia	False
@@ -508,12 +563,20 @@ I20.9	Angina pectoris, unspecified	angina pectoris	['411', '411.3']	['403']	HP_0
 I25.41	Coronary artery aneurysm	coronary artery aneurysm	['411', '411.4', '411.41']	['438', '438.7']	HP_0030882	Coronary artery aneurysm	coronary artery aneurysm	True
 I25.42	Coronary artery dissection	coronary artery dissection	['411', '411.4', '411.41']	['438', '438.4', '438.43']	HP_0006702	Coronary artery dissection	coronary artery dissection	True
 I26	Pulmonary embolism	pulmonary embolism	['415', '415.1', '415.11']	['440', '440.3']	HP_0002204	Pulmonary embolism	pulmonary embolism	True
+I26	Pulmonary embolism	pulmonary embolism	['415', '415.1', '415.11']	['440', '440.3']	HP_0032008	Pulmonary fat embolism	pulmonary fat embolism	True
+I26	Pulmonary embolism	pulmonary embolism	['415', '415.1', '415.11']	['440', '440.3']	HP_0033426	Pulmonary air embolism	pulmonary air embolism	True
 I26	Pulmonary embolism	pulmonary embolism	['415', '415.1', '415.11']	['440', '440.3']	HP_0033639	Septic pulmonary embolism	septic pulmonary embolism	True
+I27.20	Pulmonary hypertension, unspecified	pulmonary hypertension	['415', '415.2']	['406', '406.1']	HP_0002092	Pulmonary arterial hypertension	pulmonary arterial hypertension	True
+I27.20	Pulmonary hypertension, unspecified	pulmonary hypertension	['415', '415.2']	['406', '406.1']	HP_0002092	Pulmonary artery hypertension	pulmonary artery hypertension	False
+I27.20	Pulmonary hypertension, unspecified	pulmonary hypertension	['415', '415.2']	['406', '406.1']	HP_0030950	Pulmonary venous hypertension	pulmonary venous hypertension	True
 I31.4	Cardiac tamponade	cardiac tamponade	['420', '420.2']	['411', '411.3']	HP_0033415	Cardiac tamponade	cardiac tamponade	True
 I42	Cardiomyopathy	cardiomyopathy	['425']	['414']	HP_0001638	Cardiomyopathy	cardiomyopathy	True
 I42.0	Dilated cardiomyopathy	dilated cardiomyopathy	['425', '425.1']	['414', '414.2']	HP_0001644	Dilated cardiomyopathy	dilated cardiomyopathy	True
+I42.0	Dilated cardiomyopathy	dilated cardiomyopathy	['425', '425.1']	['414', '414.2']	HP_0001644	Cardiomyopathy, dilated	cardiomyopathy dilated	False
 I42.4	Endocardial fibroelastosis	endocardial fibroelastosis	['425', '425.1']	['414', '414.7']	HP_0001706	Endocardial fibroelastosis	endocardial fibroelastosis	True
 I42.9	Cardiomyopathy, unspecified	cardiomyopathy	['425', '425.1']	['414']	HP_0001638	Cardiomyopathy	cardiomyopathy	True
+I44.0	Atrioventricular block, first degree	atrioventricular block first degree	['426', '426.2', '426.21']	['416', '416.4', '416.41']	HP_0011705	First degree atrioventricular block	first degree atrioventricular block	True
+I44.1	Atrioventricular block, second degree	atrioventricular block second degree	['426', '426.2', '426.23']	['416', '416.4', '416.41']	HP_0011706	Second degree atrioventricular block	second degree atrioventricular block	True
 I44.30	Unspecified atrioventricular block	atrioventricular block	['426', '426.2']	['416', '416.4', '416.41']	HP_0001678	Atrioventricular block	atrioventricular block	True
 I44.30	Unspecified atrioventricular block	atrioventricular block	['426', '426.2']	['416', '416.4', '416.41']	HP_0011707	Mobitz I atrioventricular block	mobitz i atrioventricular block	True
 I44.30	Unspecified atrioventricular block	atrioventricular block	['426', '426.2']	['416', '416.4', '416.41']	HP_0011708	Mobitz II atrioventricular block	mobitz ii atrioventricular block	True
@@ -525,14 +588,17 @@ I45.6	Pre-excitation syndrome	pre-excitation syndrome	['426', '426.4']	['416', '
 I45.81	Long QT syndrome	long qt syndrome	['426', '426.8']	['416', '416.6']	HP_0001657	Long QT syndrome	long qt syndrome	False
 I45.9	Conduction disorder, unspecified	conduction disorder	['426']	['416']	HP_0031546	Heart conduction disorder	heart conduction disorder	False
 I46	Cardiac arrest	cardiac arrest	['427', '427.4', '427.42']	['420']	HP_0001695	Cardiac arrest	cardiac arrest	True
+I47	Paroxysmal tachycardia	paroxysmal tachycardia	['427', '427.1']	['416', '416.1']	HP_0006671	Paroxysmal atrial tachycardia	paroxysmal atrial tachycardia	True
 I47	Paroxysmal tachycardia	paroxysmal tachycardia	['427', '427.1']	['416', '416.1']	HP_0006688	Paroxysmal tachycardia	paroxysmal tachycardia	True
 I47.1	Supraventricular tachycardia	supraventricular tachycardia	['427', '427.1', '427.11']	['416', '416.1', '416.11']	HP_0004755	Supraventricular tachycardia	supraventricular tachycardia	True
 I47.1	Supraventricular tachycardia	supraventricular tachycardia	['427', '427.1', '427.11']	['416', '416.1', '416.11']	HP_0004763	Paroxysmal supraventricular tachycardia	paroxysmal supraventricular tachycardia	True
 I47.1	Supraventricular tachycardia	supraventricular tachycardia	['427', '427.1', '427.11']	['416', '416.1', '416.11']	HP_0004763	Episodic supraventricular tachycardia	episodic supraventricular tachycardia	False
 I47.2	Ventricular tachycardia	ventricular tachycardia	['427', '427.1', '427.12']	['416', '416.1', '416.12']	HP_0004751	Paroxysmal ventricular tachycardia	paroxysmal ventricular tachycardia	True
 I47.2	Ventricular tachycardia	ventricular tachycardia	['427', '427.1', '427.12']	['416', '416.1', '416.12']	HP_0004756	Ventricular tachycardia	ventricular tachycardia	True
+I47.9	Paroxysmal tachycardia, unspecified	paroxysmal tachycardia	['427', '427.1']	['416', '416.1']	HP_0006671	Paroxysmal atrial tachycardia	paroxysmal atrial tachycardia	True
 I47.9	Paroxysmal tachycardia, unspecified	paroxysmal tachycardia	['427', '427.1']	['416', '416.1']	HP_0006688	Paroxysmal tachycardia	paroxysmal tachycardia	True
 I48.0	Paroxysmal atrial fibrillation	paroxysmal atrial fibrillation	['427', '427.2', '427.21']	['416', '416.2', '416.21', '416.211']	HP_0004757	Paroxysmal atrial fibrillation	paroxysmal atrial fibrillation	True
+I48.0	Paroxysmal atrial fibrillation	paroxysmal atrial fibrillation	['427', '427.2', '427.21']	['416', '416.2', '416.21', '416.211']	HP_0004757	Atrial fibrillation, paroxysmal	atrial fibrillation paroxysmal	False
 I48.21	Permanent atrial fibrillation	permanent atrial fibrillation		['416', '416.2', '416.21', '416.214']	HP_0004754	Permanent atrial fibrillation	permanent atrial fibrillation	True
 I48.3	Typical atrial flutter	typical atrial flutter	['427', '427.2', '427.22']	['416', '416.2', '416.22', '416.221']	HP_0031671	Typical atrial flutter	typical atrial flutter	True
 I48.3	Typical atrial flutter	typical atrial flutter	['427', '427.2', '427.22']	['416', '416.2', '416.22', '416.221']	HP_0031672	Reverse typical atrial flutter	reverse typical atrial flutter	True
@@ -547,9 +613,11 @@ I50.1	Left ventricular failure, unspecified	left ventricular failure	['428', '42
 I50.9	Heart failure, unspecified	heart failure	['428', '428.1']	['424']	HP_0001635	Heart failure	heart failure	False
 I51.4	Myocarditis, unspecified	myocarditis	['420', '420.1']	['410', '410.3']	HP_0012819	Myocarditis	myocarditis	True
 I51.7	Cardiomegaly	cardiomegaly	['416']	['425']	HP_0001640	Cardiomegaly	cardiomegaly	True
+I67.2	Cerebral atherosclerosis	cerebral atherosclerosis	['433', '433.1', '433.12']	['436', '436.5']	HP_0007201	Cerebral artery atherosclerosis	cerebral artery atherosclerosis	True
 I67.82	Cerebral ischemia	cerebral ischemia	['433', '433.3']	['433', '433.3']	HP_0002637	Cerebral ischemia	cerebral ischemia	True
 I68.0	Cerebral amyloid angiopathy	cerebral amyloid angiopathy	['433']	['249', '249.1']	HP_0011970	Cerebral amyloid angiopathy	cerebral amyloid angiopathy	True
 I70	Atherosclerosis	atherosclerosis	['440']	['436']	HP_0002621	Atherosclerosis	atherosclerosis	True
+I70.0	Atherosclerosis of aorta	atherosclerosis of aorta	['440', '440.9']	['436', '436.3']	HP_0012397	Atherosclerosis of the aorta	atherosclerosis of the aorta	False
 I70.90	Unspecified atherosclerosis	atherosclerosis	['440']	['436']	HP_0002621	Atherosclerosis	atherosclerosis	True
 I73.81	Erythromelalgia	erythromelalgia	['443', '443.8']	['448', '448.2']	HP_0032147	Erythromelalgia	erythromelalgia	True
 I77.3	Arterial fibromuscular dysplasia	arterial fibromuscular dysplasia	['447']	['443', '443.3']	HP_0005313	Arterial fibromuscular dysplasia	arterial fibromuscular dysplasia	True
@@ -662,6 +730,7 @@ K66.1	Hemoperitoneum	hemoperitoneum	['568']	['537', '537.2']	HP_0011854	Hemoperi
 K72.1	Chronic hepatic failure	chronic hepatic failure	['571', '571.8']	['542', '542.3']	HP_0100626	Chronic hepatic failure	chronic hepatic failure	True
 K72.9	Hepatic failure, unspecified	hepatic failure	['571', '571.8']	['542', '542.3']	HP_0001399	Hepatic failure	hepatic failure	True
 K72.9	Hepatic failure, unspecified	hepatic failure	['571', '571.8']	['542', '542.3']	HP_0006554	Acute hepatic failure	acute hepatic failure	True
+K73.9	Chronic hepatitis, unspecified	chronic hepatitis	['070', '070.4']	['540', '540.1']	HP_0200120	Chronic active hepatitis	chronic active hepatitis	True
 K73.9	Chronic hepatitis, unspecified	chronic hepatitis	['070', '070.4']	['540', '540.1']	HP_0200123	Chronic hepatitis	chronic hepatitis	True
 K74.0	Hepatic fibrosis	hepatic fibrosis	['571', '571.5', '571.51']	['542', '542.1']	HP_0001395	Hepatic fibrosis	hepatic fibrosis	True
 K74.00	Hepatic fibrosis, unspecified	hepatic fibrosis		['542', '542.1']	HP_0001395	Hepatic fibrosis	hepatic fibrosis	True
@@ -672,7 +741,9 @@ K81	Cholecystitis	cholecystitis	['574', '574.3']	['550', '550.2']	HP_0001082	Cho
 K81.9	Cholecystitis, unspecified	cholecystitis	['574', '574.3']	['550', '550.2']	HP_0001082	Cholecystitis	cholecystitis	True
 K83.0	Cholangitis	cholangitis	['575', '575.1']	['552', '552.1']	HP_0030151	Cholangitis	cholangitis	True
 K85	Acute pancreatitis	acute pancreatitis	['577', '577.1']	['554', '554.1', '554.11']	HP_0001735	Acute pancreatitis	acute pancreatitis	True
+K85	Acute pancreatitis	acute pancreatitis	['577', '577.1']	['554', '554.1', '554.11']	HP_0001735	Pancreatitis, acute	pancreatitis acute	False
 K85.9	Acute pancreatitis, unspecified	acute pancreatitis	['577', '577.1']	['554', '554.1', '554.11']	HP_0001735	Acute pancreatitis	acute pancreatitis	True
+K85.9	Acute pancreatitis, unspecified	acute pancreatitis	['577', '577.1']	['554', '554.1', '554.11']	HP_0001735	Pancreatitis, acute	pancreatitis acute	False
 K86.81	Exocrine pancreatic insufficiency	exocrine pancreatic insufficiency	['577']	['554', '554.3']	HP_0001738	Exocrine pancreatic insufficiency	exocrine pancreatic insufficiency	True
 K90	Intestinal malabsorption	intestinal malabsorption	['557']	['525']	HP_0002024	Intestinal malabsorption	intestinal malabsorption	False
 K90.0	Celiac disease	celiac disease	['557', '557.1']	['181', '525', '525.1']	HP_0002608	Celiac disease	celiac disease	True
@@ -689,8 +760,10 @@ L03.90	Cellulitis, unspecified	cellulitis	['681']	['660', '660.6']	HP_0100658	Ce
 L08.0	Pyoderma	pyoderma	['686', '686.5']	['679', '679.5']	HP_0000999	Pyoderma	pyoderma	True
 L20	Atopic dermatitis	atopic dermatitis	['939']	['668', '668.1']	HP_0001047	Atopic dermatitis	atopic dermatitis	True
 L20	Atopic dermatitis	atopic dermatitis	['939']	['668', '668.1']	HP_0001047	Atopic dermatitis, chronic	atopic dermatitis chronic	False
+L20	Atopic dermatitis	atopic dermatitis	['939']	['668', '668.1']	HP_0001047	Dermatitis, Atopic	dermatitis atopic	False
 L20.9	Atopic dermatitis, unspecified	atopic dermatitis	['939']	['668', '668.1']	HP_0001047	Atopic dermatitis	atopic dermatitis	True
 L20.9	Atopic dermatitis, unspecified	atopic dermatitis	['939']	['668', '668.1']	HP_0001047	Atopic dermatitis, chronic	atopic dermatitis chronic	False
+L20.9	Atopic dermatitis, unspecified	atopic dermatitis	['939']	['668', '668.1']	HP_0001047	Dermatitis, Atopic	dermatitis atopic	False
 L21	Seborrheic dermatitis	seborrheic dermatitis	['690', '690.1']	['668', '668.2']	HP_0001051	Seborrheic dermatitis	seborrheic dermatitis	True
 L21.9	Seborrheic dermatitis, unspecified	seborrheic dermatitis	['690', '690.1']	['668', '668.2']	HP_0001051	Seborrheic dermatitis	seborrheic dermatitis	True
 L25	Unspecified contact dermatitis	contact dermatitis	['939']	['668', '668.3']	HP_0032282	Contact dermatitis	contact dermatitis	True
@@ -752,23 +825,42 @@ M06.9	Rheumatoid arthritis, unspecified	rheumatoid arthritis	['714', '714.1']	['
 M06.9	Rheumatoid arthritis, unspecified	rheumatoid arthritis	['714', '714.1']	['181', '705', '705.1']	HP_0005681	Juvenile rheumatoid arthritis	juvenile rheumatoid arthritis	True
 M06.9	Rheumatoid arthritis, unspecified	rheumatoid arthritis	['714', '714.1']	['181', '705', '705.1']	HP_0005681	Rheumatoid arthritis, juvenile	rheumatoid arthritis juvenile	False
 M08.0	Unspecified juvenile rheumatoid arthritis	juvenile rheumatoid arthritis	['714', '714.2']	['181', '705', '705.2']	HP_0005681	Juvenile rheumatoid arthritis	juvenile rheumatoid arthritis	True
+M08.0	Unspecified juvenile rheumatoid arthritis	juvenile rheumatoid arthritis	['714', '714.2']	['181', '705', '705.2']	HP_0005681	Rheumatoid arthritis, juvenile	rheumatoid arthritis juvenile	False
 M10	Gout	gout	['274', '274.1']	['703', '703.1', '703.11']	HP_0001997	Gout	gout	True
 M10.9	Gout, unspecified	gout	['274', '274.1']	['703', '703.1', '703.11']	HP_0001997	Gout	gout	True
 M12.9	Arthropathy, unspecified	arthropathy	['716', '716.9']	['707']	HP_0003040	Arthropathy	arthropathy	True
 M16	Osteoarthritis of hip	osteoarthritis of hip		['708', '708.1']	HP_0008843	Osteoarthritis of hip	osteoarthritis of hip	False
 M16.9	Osteoarthritis of hip, unspecified	osteoarthritis of hip	['740', '740.1']	['708']	HP_0008843	Osteoarthritis of hip	osteoarthritis of hip	False
+M18	Osteoarthritis of first carpometacarpal joint	osteoarthritis of first carpometacarpal joint		['708']	HP_0006226	Osteoarthritis of the first carpometacarpal joint	osteoarthritis of the first carpometacarpal joint	True
+M18.9	Osteoarthritis of first carpometacarpal joint, unspecified	osteoarthritis of first carpometacarpal joint	['740', '740.1']	['708']	HP_0006226	Osteoarthritis of the first carpometacarpal joint	osteoarthritis of the first carpometacarpal joint	True
 M20.01	Mallet finger	mallet finger	['736', '736.2']	['709', '709.1', '709.11']	HP_0030771	Mallet finger	mallet finger	True
 M20.2	Hallux rigidus	hallux rigidus	['735', '735.2', '735.23']	['709', '709.2', '709.22']	HP_0025004	Hallux rigidus	hallux rigidus	True
 M21.2	Flexion deformity	flexion deformity	['739']	['710']	HP_0001239	Wrist flexion deformity	wrist flexion deformity	False
 M21.2	Flexion deformity	flexion deformity	['739']	['710']	HP_0002987	Elbow flexion deformity	elbow flexion deformity	False
 M21.2	Flexion deformity	flexion deformity	['739']	['710']	HP_0006380	Knee flexion deformity	knee flexion deformity	False
+M21.22	Flexion deformity, elbow	flexion deformity elbow	['736', '739']	['710', '710.1']	HP_0002987	Elbow flexion deformity	elbow flexion deformity	False
+M21.23	Flexion deformity, wrist	flexion deformity wrist	['736']	['710', '710.1']	HP_0001239	Wrist flexion deformity	wrist flexion deformity	False
+M21.26	Flexion deformity, knee	flexion deformity knee	['736']	['710', '710.3']	HP_0006380	Flexion deformity of the knee	flexion deformity of the knee	False
+M21.26	Flexion deformity, knee	flexion deformity knee	['736']	['710', '710.3']	HP_0006380	Knee flexion deformity	knee flexion deformity	False
 M21.61	Bunion	bunion	['735', '735.3']	['709', '709.2', '709.21']	HP_0001822	Bunion	bunion	False
+M24.41	Recurrent dislocation, shoulder	recurrent dislocation shoulder	['742', '742.2']	['712', '712.6', '712.61', 'T830']	HP_0031610	Recurrent shoulder dislocation	recurrent shoulder dislocation	True
+M24.5	Contracture of joint	contracture of joint	['739']	['719', '719.9', '719.92']	HP_0002987	Contracture of elbow joint	contracture of elbow joint	False
+M24.5	Contracture of joint	contracture of joint	['739']	['719', '719.9', '719.92']	HP_0009473	Joint contracture of the hand	joint contracture of the hand	True
+M24.51	Contracture, shoulder	contracture shoulder	['739']	['719', '719.9', '719.92']	HP_0003044	Shoulder flexion contracture	shoulder flexion contracture	True
+M24.52	Contracture, elbow	contracture elbow	['739']	['719', '719.9', '719.92']	HP_0002987	Elbow flexion contracture	elbow flexion contracture	True
+M24.52	Contracture, elbow	contracture elbow	['739']	['719', '719.9', '719.92']	HP_0002987	Elbow contracture	elbow contracture	False
+M24.53	Contracture, wrist	contracture wrist	['739']	['719', '719.9', '719.92']	HP_0001239	Wrist flexion contracture	wrist flexion contracture	True
+M24.53	Contracture, wrist	contracture wrist	['739']	['719', '719.9', '719.92']	HP_0001239	Wrist contracture	wrist contracture	False
+M24.55	Contracture, hip	contracture hip	['739']	['719', '719.9', '719.92']	HP_0003273	Hip contracture	hip contracture	True
+M24.56	Contracture, knee	contracture knee	['739']	['719', '719.9', '719.92']	HP_0006380	Knee contracture	knee contracture	False
+M24.62	Ankylosis, elbow	ankylosis elbow	['741', '741.1']	['712', '712.4']	HP_0003070	Elbow ankylosis	elbow ankylosis	True
 M24.7	Protrusio acetabuli	protrusio acetabuli	['742']	['710', '710.2', '710.23']	HP_0003179	Protrusio acetabuli	protrusio acetabuli	True
 M25.0	Hemarthrosis	hemarthrosis	['741', '741.5']	['713', '713.1']	HP_0005261	Hemarthrosis	hemarthrosis	False
 M26.01	Maxillary hyperplasia	maxillary hyperplasia	['526', '526.3']	['733', '733.1', '733.11']	HP_0430028	Maxillary hyperplasia	maxillary hyperplasia	False
 M26.02	Maxillary hypoplasia	maxillary hypoplasia	['526', '526.3']	['733', '733.1', '733.12']	HP_0000327	Maxillary hypoplasia	maxillary hypoplasia	False
 M26.03	Mandibular hyperplasia	mandibular hyperplasia	['526', '526.3']	['733', '733.1', '733.13']	HP_0000303	Mandibular hyperplasia	mandibular hyperplasia	False
 M26.04	Mandibular hypoplasia	mandibular hypoplasia	['526', '526.3']	['733', '733.1', '733.14']	HP_0000347	Mandibular hypoplasia	mandibular hypoplasia	False
+M26.04	Mandibular hypoplasia	mandibular hypoplasia	['526', '526.3']	['733', '733.1', '733.14']	HP_0007628	Mandibular condyle hypoplasia	mandibular condyle hypoplasia	True
 M26.4	Malocclusion, unspecified	malocclusion	['524', '524.3']	['733', '733.2']	HP_0000689	Malocclusion	malocclusion	False
 M26.64	Arthritis of temporomandibular joint	arthritis of temporomandibular joint		['733', '733.6']	HP_0040312	Arthritis of temporomandibular joint	arthritis of temporomandibular joint	False
 M32.9	Systemic lupus erythematosus, unspecified	systemic lupus erythematosus	['695', '695.4', '695.42']	['181', '700', '700.1', '700.11']	HP_0002725	Systemic lupus erythematosus	systemic lupus erythematosus	True
@@ -776,10 +868,12 @@ M40.20	Unspecified kyphosis	kyphosis	['737', '737.1']	['714', '714.1']	HP_000280
 M40.5	Lordosis, unspecified	lordosis	['737', '737.2']	['714', '714.2']	HP_0003307	Lordosis	lordosis	False
 M41	Scoliosis	scoliosis	['737', '737.3']	['714', '714.3']	HP_0002650	Scoliosis	scoliosis	True
 M41.9	Scoliosis, unspecified	scoliosis	['737', '737.3']	['714', '714.3']	HP_0002650	Scoliosis	scoliosis	True
+M42.0	Juvenile osteochondrosis of spine	juvenile osteochondrosis of spine	['732', '732.1']	['714', '714.4']	HP_0010891	Juvenile Osteochondrosis of the spine	juvenile osteochondrosis of the spine	False
 M43.0	Spondylolysis	spondylolysis	['738', '738.4']	['715', '715.2']	HP_0003304	Spondylolysis	spondylolysis	True
 M43.1	Spondylolisthesis	spondylolisthesis	['752', '752.1', '754']	['715', '715.3']	HP_0003302	Spondylolisthesis	spondylolisthesis	True
 M43.6	Torticollis	torticollis	['723', '723.1']	['324', '324.3', '324.34']	HP_0000473	Torticollis	torticollis	True
 M46.4	Discitis, unspecified	discitis	['722', '722.9']	['706', '706.6']	HP_0025679	Discitis	discitis	False
+M48.0	Spinal stenosis	spinal stenosis	['720']	['715', '715.4']	HP_0003416	Spinal canal stenosis	spinal canal stenosis	True
 M48.0	Spinal stenosis	spinal stenosis	['720']	['715', '715.4']	HP_0003416	Spinal stenosis	spinal stenosis	False
 M48.0	Spinal stenosis	spinal stenosis	['720']	['715', '715.4']	HP_0004610	Lumbar spinal stenosis	lumbar spinal stenosis	False
 M51.4	Schmorl's nodes	schmorls nodes	['722', '722.3']	['716', '716.1']	HP_0030041	Schmorl's nodes	schmorls nodes	False
@@ -788,6 +882,8 @@ M54.5	Low back pain	low back pain	['760']	['718', '718.4']	HP_0003419	Low back p
 M54.81	Occipital neuralgia	occipital neuralgia	['723']	['717', '717.3']	HP_0012318	Occipital neuralgia	occipital neuralgia	True
 M60	Myositis	myositis	['359', '359.2', '770']	['700', '700.4', '700.41']	HP_0100614	Myositis	myositis	True
 M60.9	Myositis, unspecified	myositis	['770']	['700', '700.4', '700.41']	HP_0100614	Myositis	myositis	True
+M62.81	Muscle weakness (generalized)	muscle weakness generalized	['772', '772.3']	['807', '807.2']	HP_0003324	Generalized muscle weakness	generalized muscle weakness	True
+M62.81	Muscle weakness (generalized)	muscle weakness generalized	['772', '772.3']	['807', '807.2']	HP_0003324	Generalised muscle weakness	generalized muscle weakness	False
 M62.81	Muscle weakness (generalized)	muscle weakness generalized	['772', '772.3']	['807', '807.2']	HP_0003324	Muscle weakness, generalised	muscle weakness generalized	False
 M62.81	Muscle weakness (generalized)	muscle weakness generalized	['772', '772.3']	['807', '807.2']	HP_0003324	Muscle weakness, generalized	muscle weakness generalized	False
 M62.82	Rhabdomyolysis	rhabdomyolysis	['772', '772.4']	['719', '719.8']	HP_0003201	Rhabdomyolysis	rhabdomyolysis	True
@@ -795,8 +891,10 @@ M62.82	Rhabdomyolysis	rhabdomyolysis	['772', '772.4']	['719', '719.8']	HP_000894
 M62.82	Rhabdomyolysis	rhabdomyolysis	['772', '772.4']	['719', '719.8']	HP_0008942	Rhabdomyolysis, acute	rhabdomyolysis acute	False
 M62.83	Muscle spasm	muscle spasm	['772', '772.2']	['719', '719.1', '719.11']	HP_0003394	Muscle spasm	muscle spasm	True
 M65.3	Trigger finger	trigger finger	['727', '727.1']	['721', '721.1', '721.11']	HP_0012276	Trigger finger	trigger finger	False
+M67.43	Ganglion, wrist	ganglion wrist	['727', '727.4']	['721', '721.2']	HP_0020076	Wrist ganglion	wrist ganglion	True
 M79.1	Myalgia	myalgia	['770']	['724', '724.1']	HP_0003326	Myalgia	myalgia	True
 M79.3	Panniculitis, unspecified	panniculitis	['729', '729.3']	['724', '724.4']	HP_0012490	Panniculitis	panniculitis	True
+M85.0	Fibrous dysplasia (monostotic)	fibrous dysplasia monostotic	['733', '733.2']	['727', '727.5']	HP_0010736	Monostotic fibrous dysplasia	monostotic fibrous dysplasia	True
 M85.2	Hyperostosis of skull	hyperostosis of skull	['733']	['727', '727.4']	HP_0004330	Hyperostosis of skull	hyperostosis of skull	False
 M85.2	Hyperostosis of skull	hyperostosis of skull	['733']	['727', '727.4']	HP_0002694	Hyperostosis of skull base	hyperostosis of skull base	False
 M85.5	Aneurysmal bone cyst	aneurysmal bone cyst	['733', '733.2']	['727', '727.5']	HP_0012063	Aneurysmal bone cyst	aneurysmal bone cyst	True
@@ -815,6 +913,9 @@ N13.30	Unspecified hydronephrosis	hydronephrosis	['595']	['581', '581.3', '581.3
 N13.4	Hydroureter	hydroureter	['586', '586.4']	['581', '581.3', '581.32']	HP_0000072	Hydroureter	hydroureter	True
 N17	Acute kidney failure	acute kidney failure	['585', '585.1']	['582']	HP_0001919	Acute kidney failure	acute kidney failure	False
 N17.9	Acute kidney failure, unspecified	acute kidney failure	['585', '585.1']	['582']	HP_0001919	Acute kidney failure	acute kidney failure	False
+N18.1	Chronic kidney disease, stage 1	chronic kidney disease stage 1	['585', '585.4']	['583']	HP_0012623	Stage 1 chronic kidney disease	stage 1 chronic kidney disease	True
+N18.30	Chronic kidney disease, stage 3 unspecified	chronic kidney disease stage 3		['583']	HP_0012625	Stage 3 chronic kidney disease	stage 3 chronic kidney disease	True
+N18.5	Chronic kidney disease, stage 5	chronic kidney disease stage 5	['585', '585.3', '585.32']	['583', '583.1']	HP_0003774	Stage 5 chronic kidney disease	stage 5 chronic kidney disease	True
 N18.6	End stage renal disease	end stage renal disease	['585', '585.3', '585.32']	['583', '583.1']	HP_0003774	End stage renal disease	end stage renal disease	False
 N18.9	Chronic kidney disease, unspecified	chronic kidney disease	['585', '585.3']	['583']	HP_0003774	Stage 5 chronic kidney disease	stage 5 chronic kidney disease	True
 N18.9	Chronic kidney disease, unspecified	chronic kidney disease	['585', '585.3']	['583']	HP_0012622	Chronic kidney disease	chronic kidney disease	True
@@ -834,6 +935,7 @@ N36.0	Urethral fistula	urethral fistula	['597']	['597', '597.3']	HP_0010480	Uret
 N36.1	Urethral diverticulum	urethral diverticulum	['597']	['597', '597.4']	HP_0008722	Urethral diverticulum	urethral diverticulum	True
 N39.44	Nocturnal enuresis	nocturnal enuresis	['599', '599.4']	['594', '594.3', '594.33']	HP_0010677	Nocturnal enuresis	nocturnal enuresis	False
 N40	Benign prostatic hyperplasia	benign prostatic hyperplasia	['600']	['600']	HP_0008711	Benign prostatic hyperplasia	benign prostatic hyperplasia	True
+N44.03	Torsion of appendix testis	torsion of appendix testis	['603']	['603', '603.3']	HP_0033180	Torsion of appendix of testis	torsion of appendix of testis	True
 N45.1	Epididymitis	epididymitis	['601', '601.3']	['603', '603.5']	HP_0000031	Epididymitis	epididymitis	True
 N45.2	Orchitis	orchitis	['601', '601.3']	['603', '603.5']	HP_0100796	Orchitis	orchitis	True
 N46	Male infertility	male infertility	['609', '609.1']	['609']	HP_0003251	Male infertility	male infertility	True
@@ -858,6 +960,7 @@ N81.0	Urethrocele	urethrocele	['618', '618.1']	['618', '618.1']	HP_0100821	Ureth
 N81.1	Cystocele	cystocele	['618', '618.1']	['618', '618.1', '618.11']	HP_0100645	Cystocele	cystocele	True
 N81.10	Cystocele, unspecified	cystocele	['618', '618.1']	['618', '618.1', '618.11']	HP_0100645	Cystocele	cystocele	True
 N81.6	Rectocele	rectocele	['618', '618.1']	['618', '618.1', '618.12']	HP_0100822	Rectocele	rectocele	True
+N81.84	Pelvic muscle wasting	pelvic muscle wasting	['618']	['618']	HP_0008988	Pelvic girdle muscle wasting	pelvic girdle muscle wasting	False
 N82.0	Vesicovaginal fistula	vesicovaginal fistula	['617']	['617']	HP_0001586	Vesicovaginal fistula	vesicovaginal fistula	True
 N89.7	Hematocolpos	hematocolpos	['626', '626.1']	['626', '626.1']	HP_0031923	Hematocolpos	hematocolpos	True
 N91.0	Primary amenorrhea	primary amenorrhea	['626', '626.1', '626.11']	['626', '626.1', '626.11']	HP_0000786	Primary amenorrhea	primary amenorrhea	True
@@ -926,9 +1029,11 @@ Q06.0	Amyelia	amyelia	['752', '752.2']	['751', '751.4']	HP_0100566	Amyelia	amyel
 Q06.4	Hydromyelia	hydromyelia	['752', '752.2']	['751', '751.5']	HP_0100565	Hydromyelia	hydromyelia	True
 Q10.0	Congenital ptosis	congenital ptosis	['749']	['361', '361.3', '754', '754.1', '754.11']	HP_0007970	Congenital ptosis	congenital ptosis	True
 Q11.2	Microphthalmos	microphthalmos	['753']	['753', '753.1', '753.12']	HP_0000568	Microphthalmos	microphthalmos	False
+Q12.0	Congenital cataract	congenital cataract	['753', '753.1']	['371', '753', '753.2', '753.23']	HP_0000519	Cataract, congenital	cataract congenital	False
 Q12.0	Congenital cataract	congenital cataract	['753', '753.1']	['371', '753', '753.2', '753.23']	HP_0000519	Congenital cataract	congenital cataract	False
 Q12.3	Congenital aphakia	congenital aphakia	['753', '753.1']	['753', '753.2', '753.21']	HP_0007707	Congenital aphakia	congenital aphakia	True
 Q13.0	Coloboma of iris	coloboma of iris	['753']	['753', '753.4']	HP_0000612	Coloboma of iris	coloboma of iris	False
+Q13.0	Coloboma of iris	coloboma of iris	['753']	['753', '753.4']	HP_0000612	Coloboma of the iris	coloboma of the iris	False
 Q13.5	Blue sclera	blue sclera	['753']	['753', '753.7', '753.71']	HP_0000592	Blue sclera	blue sclera	False
 Q15.0	Congenital glaucoma	congenital glaucoma	['753']	['375', '753', '753.9']	HP_0008007	Primary congenital glaucoma	primary congenital glaucoma	True
 Q17.1	Macrotia	macrotia	['749']	['755', '755.2']	HP_0000400	Macrotia	macrotia	True
@@ -941,6 +1046,8 @@ Q18.5	Microstomia	microstomia	['749']	['756', '756.4', '756.42']	HP_0000160	Micr
 Q20.0	Common arterial trunk	common arterial trunk	['747', '747.1', '747.11']	['778', '778.1']	HP_0001660	Common arterial trunk	common arterial trunk	False
 Q20.1	Double outlet right ventricle	double outlet right ventricle	['747', '747.1', '747.11']	['778', '778.6']	HP_0001719	Double outlet right ventricle	double outlet right ventricle	True
 Q20.2	Double outlet left ventricle	double outlet left ventricle	['747', '747.1', '747.11']	['778', '778.7']	HP_0011581	Double outlet left ventricle	double outlet left ventricle	True
+Q20.4	Double inlet ventricle	double inlet ventricle	['747', '747.1', '747.11']	['780', '780.3']	HP_0011555	Double inlet left ventricle	double inlet left ventricle	True
+Q20.4	Double inlet ventricle	double inlet ventricle	['747', '747.1', '747.11']	['780', '780.3']	HP_0011556	Double inlet right ventricle	double inlet right ventricle	True
 Q20.5	Discordant atrioventricular connection	discordant atrioventricular connection	['747', '747.1', '747.11']	['778', '778.2']	HP_0011553	Discordant atrioventricular connection	discordant atrioventricular connection	True
 Q20.5	Discordant atrioventricular connection	discordant atrioventricular connection	['747', '747.1', '747.11']	['778', '778.2']	HP_0011553	Discordant atrioventricular connexion	discordant atrioventricular connection	False
 Q21.0	Ventricular septal defect	ventricular septal defect	['747', '747.1', '747.11']	['780', '780.4', '780.41']	HP_0001629	Ventricular septal defect	ventricular septal defect	True
@@ -970,11 +1077,16 @@ Q23.2	Congenital mitral stenosis	congenital mitral stenosis	['747', '747.1', '74
 Q24.0	Dextrocardia	dextrocardia	['747', '747.1']	['796', '796.1', '796.12']	HP_0001651	Dextrocardia	dextrocardia	True
 Q24.2	Cor triatriatum	cor triatriatum	['747', '747.1']	['780', '780.6']	HP_0010774	Cor triatriatum	cor triatriatum	True
 Q24.2	Cor triatriatum	cor triatriatum	['747', '747.1']	['780', '780.6']	HP_0011566	Cor triatriatum dexter	cor triatriatum dexter	True
+Q24.9	Congenital malformation of heart, unspecified	congenital malformation of heart	['747', '747.1']	['780']	HP_0011723	Congenital malformation of the right heart	congenital malformation of the right heart	True
+Q24.9	Congenital malformation of heart, unspecified	congenital malformation of heart	['747', '747.1']	['780']	HP_0045017	Congenital malformation of the left heart	congenital malformation of the left heart	True
 Q25.0	Patent ductus arteriosus	patent ductus arteriosus	['747', '747.1', '747.13']	['778', '778.3']	HP_0001643	Patent ductus arteriosus	patent ductus arteriosus	True
 Q25.1	Coarctation of aorta	coarctation of aorta	['747', '747.1', '747.13']	['778', '778.4', '778.41']	HP_0001680	Coarctation of aorta	coarctation of aorta	True
+Q25.1	Coarctation of aorta	coarctation of aorta	['747', '747.1', '747.13']	['778', '778.4', '778.41']	HP_0001680	Coarctation of the aorta	coarctation of the aorta	False
 Q25.3	Supravalvular aortic stenosis	supravalvular aortic stenosis	['747', '747.1', '747.13']	['413', '413.2', '413.21', '778', '778.4', '778.43']	HP_0004381	Supravalvular aortic stenosis	supravalvular aortic stenosis	True
 Q25.45	Double aortic arch	double aortic arch	['747', '747.1', '747.13']	['778', '778.4', '778.46']	HP_0011590	Double aortic arch	double aortic arch	True
 Q25.47	Right aortic arch	right aortic arch	['747', '747.1', '747.13']	['778', '778.4', '778.47']	HP_0012020	Right aortic arch	right aortic arch	True
+Q25.48	Anomalous origin of subclavian artery	anomalous origin of subclavian artery	['747', '747.1', '747.13']	['778', '778.4']	HP_0031253	Anomalous origin of left subclavian artery	anomalous origin of left subclavian artery	True
+Q25.9	Congenital malformation of great arteries, unspecified	congenital malformation of great arteries	['747', '747.1', '747.13']	['778', '778.5']	HP_0011603	Congenital malformation of the great arteries	congenital malformation of the great arteries	True
 Q26.1	Persistent left superior vena cava	persistent left superior vena cava	['747', '747.1', '747.13']	['781', '781.4', '781.42']	HP_0005301	Persistent left superior vena cava	persistent left superior vena cava	True
 Q26.2	Total anomalous pulmonary venous connection	total anomalous pulmonary venous connection	['747', '747.1', '747.13']	['781', '781.4', '781.41']	HP_0005160	Total anomalous pulmonary venous connection	total anomalous pulmonary venous connection	False
 Q26.2	Total anomalous pulmonary venous connection	total anomalous pulmonary venous connection	['747', '747.1', '747.13']	['781', '781.4', '781.41']	HP_0011719	Supracardiac total anomalous pulmonary venous connection	supracardiac total anomalous pulmonary venous connection	True
@@ -1007,11 +1119,26 @@ Q26.4	Anomalous pulmonary venous connection, unspecified	anomalous pulmonary ven
 Q30.0	Choanal atresia	choanal atresia	['749']	['758', '758.6', '758.61']	HP_0000453	Choanal atresia	choanal atresia	True
 Q31.2	Laryngeal hypoplasia	laryngeal hypoplasia	['748']	['777', '777.1', '777.13']	HP_0008749	Laryngeal hypoplasia	laryngeal hypoplasia	True
 Q35	Cleft palate	cleft palate	['749', '749.1']	['757', '757.1']	HP_0000175	Cleft palate	cleft palate	True
+Q35	Cleft palate	cleft palate	['749', '749.1']	['757', '757.1']	HP_0000175	Cleft of palate	cleft of palate	False
+Q35	Cleft palate	cleft palate	['749', '749.1']	['757', '757.1']	HP_0000185	Cleft soft palate	cleft soft palate	True
+Q35	Cleft palate	cleft palate	['749', '749.1']	['757', '757.1']	HP_0410005	Cleft hard palate	cleft hard palate	True
+Q35	Cleft palate	cleft palate	['749', '749.1']	['757', '757.1']	HP_0410005	Cleft bony palate	cleft bony palate	False
 Q35.1	Cleft hard palate	cleft hard palate	['749', '749.1']	['757', '757.1']	HP_0410005	Cleft hard palate	cleft hard palate	True
+Q35.1	Cleft hard palate	cleft hard palate	['749', '749.1']	['757', '757.1']	HP_0410005	Cleft of hard palate	cleft of hard palate	False
 Q35.3	Cleft soft palate	cleft soft palate	['749', '749.1']	['757', '757.1']	HP_0000185	Cleft soft palate	cleft soft palate	True
+Q35.3	Cleft soft palate	cleft soft palate	['749', '749.1']	['757', '757.1']	HP_0000185	Cleft of soft palate	cleft of soft palate	False
+Q35.7	Cleft uvula	cleft uvula	['749', '749.1']	['757', '757.1', '757.11']	HP_0000193	Cleft of uvula	cleft of uvula	False
 Q35.7	Cleft uvula	cleft uvula	['749', '749.1']	['757', '757.1', '757.11']	HP_0000193	Cleft uvula	cleft uvula	False
 Q35.9	Cleft palate, unspecified	cleft palate	['749', '749.1']	['757', '757.1']	HP_0000175	Cleft palate	cleft palate	True
+Q35.9	Cleft palate, unspecified	cleft palate	['749', '749.1']	['757', '757.1']	HP_0000175	Cleft of palate	cleft of palate	False
+Q35.9	Cleft palate, unspecified	cleft palate	['749', '749.1']	['757', '757.1']	HP_0000185	Cleft soft palate	cleft soft palate	True
+Q35.9	Cleft palate, unspecified	cleft palate	['749', '749.1']	['757', '757.1']	HP_0410005	Cleft hard palate	cleft hard palate	True
+Q35.9	Cleft palate, unspecified	cleft palate	['749', '749.1']	['757', '757.1']	HP_0410005	Cleft bony palate	cleft bony palate	False
 Q36	Cleft lip	cleft lip	['749', '749.1']	['757', '757.2']	HP_0410030	Cleft lip	cleft lip	True
+Q36.0	Cleft lip, bilateral	cleft lip bilateral	['749', '749.1']	['757', '757.2']	HP_0100336	Bilateral cleft lip	bilateral cleft lip	True
+Q36.1	Cleft lip, median	cleft lip median	['749', '749.1']	['757', '757.2']	HP_0000161	Median cleft lip	median cleft lip	True
+Q36.9	Cleft lip, unilateral	cleft lip unilateral	['749', '749.1']	['757', '757.2']	HP_0100333	Unilateral cleft lip	unilateral cleft lip	True
+Q36.9	Cleft lip, unilateral	cleft lip unilateral	['749', '749.1']	['757', '757.2']	HP_0100333	Unilateral cleft upper lip	unilateral cleft upper lip	False
 Q38.1	Ankyloglossia	ankyloglossia	['750', '750.1', '750.13']	['759', '759.1']	HP_0010296	Ankyloglossia	ankyloglossia	True
 Q38.2	Macroglossia	macroglossia	['750', '750.1', '750.13']	['759', '759.2']	HP_0000158	Macroglossia	macroglossia	True
 Q39.4	Esophageal web	esophageal web	['750', '750.1', '750.11']	['762', '762.1', '762.11']	HP_0100594	Esophageal web	esophageal web	True
@@ -1019,23 +1146,35 @@ Q43.5	Ectopic anus	ectopic anus	['750', '750.2', '750.21']	['765', '765.6']	HP_0
 Q43.7	Persistent cloaca	persistent cloaca	['750', '750.2', '750.21']	['765', '765.7']	HP_0012621	Persistent cloaca	persistent cloaca	True
 Q44.4	Choledochal cyst	choledochal cyst	['750', '750.2', '750.22']	['766']	HP_0100890	Choledochal cyst	choledochal cyst	False
 Q45.1	Annular pancreas	annular pancreas	['750', '750.2', '750.22']	['767', '767.1']	HP_0001734	Annular pancreas	annular pancreas	True
+Q51.811	Hypoplasia of uterus	hypoplasia of uterus	['751', '751.1', '751.11']	['770', '770.3', '770.31']	HP_0000013	Hypoplasia of the uterus	hypoplasia of the uterus	True
+Q52.0	Congenital absence of vagina	congenital absence of vagina	['751', '751.1', '751.11']	['770', '770.5', '770.51']	HP_0003250	Congenital absence of the vagina	congenital absence of the vagina	False
 Q52.11	Transverse vaginal septum	transverse vaginal septum	['751', '751.1', '751.11']	['770', '770.5', '770.52']	HP_0000145	Transverse vaginal septum	transverse vaginal septum	True
 Q52.12	Longitudinal vaginal septum	longitudinal vaginal septum	['751', '751.1', '751.11']	['770', '770.5', '770.52']	HP_0008740	Longitudinal vaginal septum	longitudinal vaginal septum	True
 Q52.3	Imperforate hymen	imperforate hymen	['751', '751.1', '751.11']	['770', '770.5', '770.53']	HP_0030011	Imperforate hymen	imperforate hymen	True
 Q54	Hypospadias	hypospadias	['751', '751.1', '751.12']	['771', '771.2', '771.21']	HP_0000047	Hypospadias	hypospadias	True
+Q54.1	Hypospadias, penile	hypospadias penile	['751', '751.1', '751.12']	['771', '771.2', '771.21']	HP_0003244	Penile hypospadias	penile hypospadias	True
+Q54.2	Hypospadias, penoscrotal	hypospadias penoscrotal	['751', '751.1', '751.12']	['771', '771.2', '771.21']	HP_0000808	Penoscrotal hypospadias	penoscrotal hypospadias	True
+Q54.3	Hypospadias, perineal	hypospadias perineal	['751', '751.1', '751.12']	['771', '771.2', '771.21']	HP_0000051	Perineal hypospadias	perineal hypospadias	True
 Q54.9	Hypospadias, unspecified	hypospadias	['751', '751.1', '751.12']	['771', '771.2', '771.21']	HP_0000047	Hypospadias	hypospadias	True
 Q55.22	Retractile testis	retractile testis	['751', '751.1', '751.12']	['771', '771.1', '771.12']	HP_0012646	Retractile testis	retractile testis	True
+Q55.3	Atresia of vas deferens	atresia of vas deferens	['751', '751.1']	['771', '771.5']	HP_0030997	Atresia of the vas deferens	atresia of the vas deferens	False
 Q55.62	Hypoplasia of penis	hypoplasia of penis	['751', '751.1', '751.12']	['771', '771.2', '771.23']	HP_0008736	Hypoplasia of penis	hypoplasia of penis	True
 Q56.3	Pseudohermaphroditism, unspecified	pseudohermaphroditism	['751', '751.1']	['772', '772.2']	HP_0000037	Male pseudohermaphroditism	male pseudohermaphroditism	True
 Q56.3	Pseudohermaphroditism, unspecified	pseudohermaphroditism	['751', '751.1']	['772', '772.2']	HP_0010458	Female pseudohermaphroditism	female pseudohermaphroditism	True
+Q60.0	Renal agenesis, unilateral	renal agenesis unilateral	['751', '751.2', '751.22']	['773', '773.1', '773.11']	HP_0000122	Unilateral renal agenesis	unilateral renal agenesis	True
+Q60.1	Renal agenesis, bilateral	renal agenesis bilateral	['751', '751.2', '751.22']	['773', '773.1', '773.11']	HP_0010958	Bilateral renal agenesis	bilateral renal agenesis	True
 Q60.2	Renal agenesis, unspecified	renal agenesis	['751', '751.2', '751.22']	['773', '773.1', '773.11']	HP_0000104	Renal agenesis	renal agenesis	True
+Q60.3	Renal hypoplasia, unilateral	renal hypoplasia unilateral	['751', '751.2', '751.22']	['773', '773.1', '773.12']	HP_0012583	Unilateral renal hypoplasia	unilateral renal hypoplasia	True
+Q60.4	Renal hypoplasia, bilateral	renal hypoplasia bilateral	['751', '751.2', '751.22']	['773', '773.1', '773.12']	HP_0012584	Bilateral renal hypoplasia	bilateral renal hypoplasia	True
 Q60.5	Renal hypoplasia, unspecified	renal hypoplasia	['751', '751.2', '751.22']	['773', '773.1', '773.12']	HP_0000089	Renal hypoplasia	renal hypoplasia	True
 Q61.4	Renal dysplasia	renal dysplasia	['751', '751.2', '751.21']	['773', '773.2']	HP_0000110	Renal dysplasia	renal dysplasia	True
 Q61.4	Renal dysplasia	renal dysplasia	['751', '751.2', '751.21']	['773', '773.2']	HP_0000800	Cystic renal dysplasia	cystic renal dysplasia	True
+Q61.4	Renal dysplasia	renal dysplasia	['751', '751.2', '751.21']	['773', '773.2']	HP_0000800	Renal cystic dysplasia	renal cystic dysplasia	False
 Q61.4	Renal dysplasia	renal dysplasia	['751', '751.2', '751.21']	['773', '773.2']	HP_0000800	Renal dysplasia, cystic	renal dysplasia cystic	False
 Q62.2	Congenital megaureter	congenital megaureter	['751', '751.3']	['774', '774.3']	HP_0008676	Congenital megaureter	congenital megaureter	True
 Q63.2	Ectopic kidney	ectopic kidney	['751', '751.2', '751.22']	['773', '773.8']	HP_0000086	Ectopic kidney	ectopic kidney	True
 Q64.0	Epispadias	epispadias	['751', '751.1', '751.12']	['771', '771.2', '771.27']	HP_0000039	Epispadias	epispadias	True
+Q65.2	Congenital dislocation of hip, unspecified	congenital dislocation of hip	['755', '755.6', '755.61']	['783', '783.1', 'T830']	HP_0001374	Congenital dislocation of the hip	congenital dislocation of the hip	False
 Q66.4	Congenital talipes calcaneovalgus	congenital talipes calcaneovalgus	['755', '755.1']	['784', '784.1', '784.13']	HP_0005850	Congenital talipes calcaneovalgus	congenital talipes calcaneovalgus	True
 Q67.2	Dolichocephaly	dolichocephaly	['749']	['758', '758.2', '758.21']	HP_0000268	Dolichocephaly	dolichocephaly	True
 Q67.3	Plagiocephaly	plagiocephaly	['749']	['758', '758.2', '758.22']	HP_0001357	Plagiocephaly	plagiocephaly	True
@@ -1050,6 +1189,7 @@ Q69.9	Polydactyly, unspecified	polydactyly	['755', '755.3']	['785', '785.1', '78
 Q70	Syndactyly	syndactyly	['755', '755.3']	['785', '785.1', '785.12']	HP_0001159	Syndactyly	syndactyly	True
 Q70	Syndactyly	syndactyly	['755', '755.3']	['785', '785.1', '785.12']	HP_0001770	Toe syndactyly	toe syndactyly	True
 Q70.1	Webbed fingers	webbed fingers	['755', '755.3']	['785', '785.1', '785.12']	HP_0010554	Webbed fingers	webbed fingers	False
+Q70.1	Webbed fingers	webbed fingers	['755', '755.3']	['785', '785.1', '785.12']	HP_0010708	Webbed 1-5 fingers	webbed 1-5 fingers	False
 Q70.2	Fused toes	fused toes	['755', '755.3']	['785', '785.1', '785.12']	HP_0001770	Fused toes	fused toes	False
 Q70.3	Webbed toes	webbed toes	['755', '755.3']	['785', '785.1', '785.12']	HP_0001770	Webbed toes	webbed toes	False
 Q70.9	Syndactyly, unspecified	syndactyly	['755', '755.3']	['785', '785.1', '785.12']	HP_0001159	Syndactyly	syndactyly	True
@@ -1075,10 +1215,16 @@ Q79.0	Congenital diaphragmatic hernia	congenital diaphragmatic hernia	['756', '7
 Q79.2	Exomphalos	exomphalos	['756', '756.1']	['789', '789.2', '789.21']	HP_0001539	Exomphalos	exomphalos	False
 Q79.3	Gastroschisis	gastroschisis	['756', '756.1']	['789', '789.2', '789.22']	HP_0001543	Gastroschisis	gastroschisis	True
 Q80	Congenital ichthyosis	congenital ichthyosis	['691', '691.1']	['790', '790.1']	HP_0007431	Congenital ichthyosis	congenital ichthyosis	False
+Q80	Congenital ichthyosis	congenital ichthyosis	['691', '691.1']	['790', '790.1']	HP_0007431	Ichthyosis, congenital	ichthyosis congenital	False
+Q80	Congenital ichthyosis	congenital ichthyosis	['691', '691.1']	['790', '790.1']	HP_0007479	Congenital lamellar ichthyosis	congenital lamellar ichthyosis	False
 Q80.3	Congenital bullous ichthyosiform erythroderma	congenital bullous ichthyosiform erythroderma	['691', '691.1']	['790', '790.1', '790.14']	HP_0007475	Congenital bullous ichthyosiform erythroderma	congenital bullous ichthyosiform erythroderma	True
+Q80.3	Congenital bullous ichthyosiform erythroderma	congenital bullous ichthyosiform erythroderma	['691', '691.1']	['790', '790.1', '790.14']	HP_0007475	Bullous congenital ichthyosiform erythroderma	bullous congenital ichthyosiform erythroderma	False
 Q80.9	Congenital ichthyosis, unspecified	congenital ichthyosis	['691', '691.1']	['790', '790.1']	HP_0007431	Congenital ichthyosis	congenital ichthyosis	False
+Q80.9	Congenital ichthyosis, unspecified	congenital ichthyosis	['691', '691.1']	['790', '790.1']	HP_0007431	Ichthyosis, congenital	ichthyosis congenital	False
+Q80.9	Congenital ichthyosis, unspecified	congenital ichthyosis	['691', '691.1']	['790', '790.1']	HP_0007479	Congenital lamellar ichthyosis	congenital lamellar ichthyosis	False
 Q81	Epidermolysis bullosa	epidermolysis bullosa	['691']	['790', '790.3']	HP_0012221	Pretibial epidermolysis bullosa	pretibial epidermolysis bullosa	False
 Q81.9	Epidermolysis bullosa, unspecified	epidermolysis bullosa	['691']	['790', '790.3']	HP_0012221	Pretibial epidermolysis bullosa	pretibial epidermolysis bullosa	False
+Q82.4	Ectodermal dysplasia (anhidrotic)	ectodermal dysplasia anhidrotic	['691']	['790', '790.2']	HP_0007476	Anhidrotic ectodermal dysplasia	anhidrotic ectodermal dysplasia	True
 Q83.2	Absent nipple	absent nipple	['612', '612.3']	['791']	HP_0002561	Absent nipple	absent nipple	True
 Q83.3	Accessory nipple	accessory nipple	['612', '612.3']	['791']	HP_0002558	Accessory nipple	accessory nipple	False
 Q84.0	Congenital alopecia	congenital alopecia	['757']	['684', '684.1', '792']	HP_0005597	Congenital alopecia totalis	congenital alopecia totalis	True
@@ -1137,14 +1283,17 @@ R20.3	Hyperesthesia	hyperesthesia	['687', '687.4']	['351', '351.4']	HP_0100963	H
 R23.0	Cyanosis	cyanosis	['513', '513.3']	['498', '498.2']	HP_0000961	Cyanosis	cyanosis	True
 R23.1	Pallor	pallor	['782', '782.6']	['679', '679.2', '679.21']	HP_0000980	Pallor	pallor	True
 R23.2	Flushing	flushing	['782', '782.6']	['679', '679.2', '679.22']	HP_0031284	Flushing	flushing	True
+R25	Abnormal involuntary movements	abnormal involuntary movements	['350', '350.1']	['325', '325.1']	HP_0012547	Abnormal involuntary eye movements	abnormal involuntary eye movements	True
 R25.0	Abnormal head movements	abnormal head movements	['350', '350.1']	['325', '325.1', '325.11']	HP_0002457	Abnormal head movements	abnormal head movements	True
 R25.1	Tremor, unspecified	tremor	['350', '350.1']	['324', '324.4']	HP_0001337	Tremor	tremor	True
 R25.3	Fasciculation	fasciculation	['350', '350.1']	['325', '325.1', '325.12']	HP_0002380	Fasciculation	fasciculation	False
 R25.3	Fasciculation	fasciculation	['350', '350.1']	['325', '325.1', '325.12']	HP_0007289	Limb fasciculation	limb fasciculation	False
+R25.9	Unspecified abnormal involuntary movements	abnormal involuntary movements	['350', '350.1']	['325', '325.1']	HP_0012547	Abnormal involuntary eye movements	abnormal involuntary eye movements	True
 R26.0	Ataxic gait	ataxic gait	['350', '350.2']	['325', '325.2', '325.25']	HP_0002066	Ataxic gait	ataxic gait	False
 R27.0	Ataxia, unspecified	ataxia	['350', '350.3']	['325', '325.3']	HP_0001251	Ataxia	ataxia	True
 R29.0	Tetany	tetany	['350', '350.1']	['350', '350.1']	HP_0001281	Tetany	tetany	True
 R29.2	Abnormal reflex	abnormal reflex	['350', '350.5']	['350', '350.3']	HP_0031826	Abnormal reflex	abnormal reflex	True
+R29.810	Facial weakness	facial weakness	['772', '772.6']	['334', '334.2', '334.23']	HP_0030319	Facial muscle weakness	facial muscle weakness	False
 R29.810	Facial weakness	facial weakness	['772', '772.6']	['334', '334.2', '334.23']	HP_0030319	Facial weakness	facial weakness	False
 R30.0	Dysuria	dysuria	['599', '599.3']	['594', '594.2']	HP_0100518	Dysuria	dysuria	True
 R31	Hematuria	hematuria	['593']	['593']	HP_0000790	Hematuria	hematuria	True
@@ -1194,6 +1343,7 @@ R57.0	Cardiogenic shock	cardiogenic shock	['797', '797.1']	['810', '810.1']	HP_0
 R57.1	Hypovolemic shock	hypovolemic shock	['797']	['810']	HP_0031274	Hypovolemic shock	hypovolemic shock	True
 R57.9	Shock, unspecified	shock	['797']	['810']	HP_0031273	Shock	shock	True
 R60.1	Generalized edema	generalized edema	['782', '782.3']	['812', '812.1']	HP_0007430	Generalized edema	generalized edema	True
+R60.1	Generalized edema	generalized edema	['782', '782.3']	['812', '812.1']	HP_0007430	Generalized tissue edema	generalized tissue edema	False
 R60.1	Generalized edema	generalized edema	['782', '782.3']	['812', '812.1']	HP_0012050	Extreme generalized edema	extreme generalized edema	False
 R60.9	Edema, unspecified	edema	['782', '782.3']	['812']	HP_0000969	Edema	edema	True
 R63.0	Anorexia	anorexia	['260', '260.6']	['230', '230.3']	HP_0002039	Anorexia	anorexia	True
@@ -1205,7 +1355,9 @@ R68.2	Dry mouth, unspecified	dry mouth	['527', '527.7']	['506', '506.5', '506.51
 R68.3	Clubbing of fingers	clubbing of fingers	['781']	['813']	HP_0001217	Clubbing of fingers and toes	clubbing of fingers and toes	False
 R68.3	Clubbing of fingers	clubbing of fingers	['781']	['813']	HP_0100759	Clubbing of fingers	clubbing of fingers	True
 R68.81	Early satiety	early satiety	['1005']	['230', '230.5']	HP_0033842	Early satiety	early satiety	True
+R68.82	Decreased libido	decreased libido	['302', '302.1']	['294']	HP_0030018	Decreased female libido	decreased female libido	True
 R68.82	Decreased libido	decreased libido	['302', '302.1']	['294']	HP_0046504	Decreased libido	decreased libido	True
+R68.82	Decreased libido	decreased libido	['302', '302.1']	['294']	HP_0040306	Decreased male libido	decreased male libido	True
 R68.84	Jaw pain	jaw pain	['526']	['734', '734.9']	HP_0040264	Jaw pain	jaw pain	True
 R70.0	Elevated erythrocyte sedimentation rate	elevated erythrocyte sedimentation rate	['790', '790.1']	['820']	HP_0003565	Elevated erythrocyte sedimentation rate	elevated erythrocyte sedimentation rate	True
 R71	Abnormality of red blood cells	abnormality of red blood cells	['289', '289.9']	['821']	HP_0001877	Abnormality of red blood cells	abnormality of red blood cells	False
@@ -1228,10 +1380,16 @@ R82.991	Hypocitraturia	hypocitraturia		['832', '832.7']	HP_0012405	Hypocitraturi
 R82.992	Hyperoxaluria	hyperoxaluria		['832', '832.8']	HP_0003159	Hyperoxaluria	hyperoxaluria	True
 R82.993	Hyperuricosuria	hyperuricosuria		['832']	HP_0003149	Hyperuricosuria	hyperuricosuria	True
 R82.994	Hypercalciuria	hypercalciuria		['832', '832.9']	HP_0002150	Hypercalciuria	hypercalciuria	True
+R94.02	Abnormal brain scan	abnormal brain scan	['346', '346.2']	['349', '349.1']	HP_0012657	Abnormal brain PET scan	abnormal brain pet scan	False
+R94.02	Abnormal brain scan	abnormal brain scan	['346', '346.2']	['349', '349.1']	HP_0012658	Abnormal brain FDG PET scan	abnormal brain fdg pet scan	False
 S06.4	Epidural hemorrhage	epidural hemorrhage	['818']	['T851']	HP_0100310	Epidural hemorrhage	epidural hemorrhage	True
 S06.4	Epidural hemorrhage	epidural hemorrhage	['818']	['T851']	HP_0100310	Epidural haemorrhage	epidural hemorrhage	False
 S06.4X	Epidural hemorrhage	epidural hemorrhage	['818']	['T851']	HP_0100310	Epidural hemorrhage	epidural hemorrhage	True
 S06.4X	Epidural hemorrhage	epidural hemorrhage	['818']	['T851']	HP_0100310	Epidural haemorrhage	epidural hemorrhage	False
+S52	Fracture of forearm	fracture of forearm	['803', '803.2']	['T822']	HP_0003961	Fracture of the forearm	fracture of the forearm	False
+S52.9	Unspecified fracture of forearm	fracture of forearm	['803']	['T822']	HP_0003961	Fracture of the forearm	fracture of the forearm	False
+S63.23	Subluxation of proximal interphalangeal joint of finger	subluxation of proximal interphalangeal joint of finger	['830']	['T830.5']	HP_0004230	Subluxation of the proximal interphalangeal joint of the little finger	subluxation of the proximal interphalangeal joint of the little finger	True
+S82.9	Unspecified fracture of lower leg	fracture of lower leg	['800']	['T820.4']	HP_0041081	Fracture of the lower leg	fracture of the lower leg	False
 T68	Hypothermia	hypothermia	['780']	['T910.2']	HP_0002045	Hypothermia	hypothermia	True
 T69.1	Chilblains	chilblains	['1014']	['677']	HP_0009710	Chilblains	chilblains	True
 T78.2	Anaphylactic shock, unspecified	anaphylactic shock	['946']	['840', '840.9']	HP_0100845	Anaphylactic shock	anaphylactic shock	True

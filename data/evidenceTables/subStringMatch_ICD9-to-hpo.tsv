@@ -1,5 +1,6 @@
 ICD9_code	ICD9_label	ICD9_simpleLabel	phecode1.2_codeList	phecodeX_codeList	hpo_code	hpo_label	hpo_simpleLabel	hpo_original
 003.24	Salmonella osteomyelitis	salmonella osteomyelitis	['710', '710.1']	['001', '089', '089.1', '701', '701.1']	HP_0005661	Salmonella osteomyelitis	salmonella osteomyelitis	True
+003.9	Salmonella infection, unspecified	salmonella infection	['008', '008.5']	['001', '089', '089.1']	HP_0005661	Salmonella bone infection	salmonella bone infection	False
 011	Pulmonary tuberculosis	pulmonary tuberculosis	['010']	['005', '005.1', '089', '089.1', '460']	HP_0032262	Pulmonary tuberculosis	pulmonary tuberculosis	True
 011.9	Unspecified pulmonary tuberculosis	pulmonary tuberculosis	['010']	['005', '005.1', '089', '089.1', '460']	HP_0032262	Pulmonary tuberculosis	pulmonary tuberculosis	True
 033	Whooping cough	whooping cough	['041']	['024', '089', '089.1']	HP_0031247	Whooping cough	whooping cough	True
@@ -22,6 +23,8 @@ ICD9_code	ICD9_label	ICD9_simpleLabel	phecode1.2_codeList	phecodeX_codeList	hpo_
 204	Lymphoid leukemia	lymphoid leukemia	['204', '204.1']	['120', '120.2', '121']	HP_0006721	Acute lymphoid leukemia	acute lymphoid leukemia	False
 204	Lymphoid leukemia	lymphoid leukemia	['204', '204.1']	['120', '120.2', '121']	HP_0005526	Lymphoid leukemia	lymphoid leukemia	True
 204	Lymphoid leukemia	lymphoid leukemia	['204', '204.1']	['120', '120.2', '121']	HP_0005526	Lymphoid leukaemia	lymphoid leukemia	False
+204.0	Lymphoid leukemia, acute	lymphoid leukemia acute	['204', '204.1', '204.11']	['120', '120.2', '121', '121.1', '121.11']	HP_0006721	Acute lymphoid leukaemia	acute lymphoid leukemia	False
+204.0	Lymphoid leukemia, acute	lymphoid leukemia acute	['204', '204.1', '204.11']	['120', '120.2', '121', '121.1', '121.11']	HP_0006721	Acute lymphoid leukemia	acute lymphoid leukemia	False
 204.9	Unspecified lymphoid leukemia	lymphoid leukemia	['204', '204.1']	['120', '120.2', '121']	HP_0006721	Acute lymphoid leukaemia	acute lymphoid leukemia	False
 204.9	Unspecified lymphoid leukemia	lymphoid leukemia	['204', '204.1']	['120', '120.2', '121']	HP_0006721	Acute lymphoid leukemia	acute lymphoid leukemia	False
 204.9	Unspecified lymphoid leukemia	lymphoid leukemia	['204', '204.1']	['120', '120.2', '121']	HP_0005526	Lymphoid leukemia	lymphoid leukemia	True
@@ -30,12 +33,18 @@ ICD9_code	ICD9_label	ICD9_simpleLabel	phecode1.2_codeList	phecodeX_codeList	hpo_
 205	Myeloid leukemia	myeloid leukemia	['204', '204.2']	['120', '120.1', '121']	HP_0004808	Acute myeloid leukaemia	acute myeloid leukemia	False
 205	Myeloid leukemia	myeloid leukemia	['204', '204.2']	['120', '120.1', '121']	HP_0012324	Myeloid leukemia	myeloid leukemia	True
 205	Myeloid leukemia	myeloid leukemia	['204', '204.2']	['120', '120.1', '121']	HP_0012324	Myeloid leukaemia	myeloid leukemia	False
+205.0	Myeloid leukemia, acute	myeloid leukemia acute	['204', '204.2', '204.21']	['120', '120.1', '121', '121.1', '121.12']	HP_0004808	Acute myeloid leukemia	acute myeloid leukemia	True
+205.0	Myeloid leukemia, acute	myeloid leukemia acute	['204', '204.2', '204.21']	['120', '120.1', '121', '121.1', '121.12']	HP_0004808	Acute myeloid leukaemia	acute myeloid leukemia	False
+205.1	Myeloid leukemia, chronic	myeloid leukemia chronic	['204', '204.2', '204.22']	['120', '120.1', '121', '121.2', '121.22', '124']	HP_0005506	Chronic myeloid leukaemia	chronic myeloid leukemia	False
+205.1	Myeloid leukemia, chronic	myeloid leukemia chronic	['204', '204.2', '204.22']	['120', '120.1', '121', '121.2', '121.22', '124']	HP_0005506	Chronic myeloid leukemia	chronic myeloid leukemia	False
 205.9	Unspecified myeloid leukemia	myeloid leukemia	['204', '204.2']	['120', '120.1', '121']	HP_0004808	Acute myeloid leukemia	acute myeloid leukemia	True
 205.9	Unspecified myeloid leukemia	myeloid leukemia	['204', '204.2']	['120', '120.1', '121']	HP_0004808	Acute myeloid leukaemia	acute myeloid leukemia	False
 205.9	Unspecified myeloid leukemia	myeloid leukemia	['204', '204.2']	['120', '120.1', '121']	HP_0012324	Myeloid leukemia	myeloid leukemia	True
 205.9	Unspecified myeloid leukemia	myeloid leukemia	['204', '204.2']	['120', '120.1', '121']	HP_0012324	Myeloid leukaemia	myeloid leukemia	False
 206	Monocytic leukemia	monocytic leukemia	['204', '204.3']	['120', '120.1', '120.12', '121']	HP_0004845	Acute monocytic leukemia	acute monocytic leukemia	True
 206	Monocytic leukemia	monocytic leukemia	['204', '204.3']	['120', '120.1', '120.12', '121']	HP_0004845	Acute monocytic leukaemia	acute monocytic leukemia	False
+206.0	Monocytic leukemia, acute	monocytic leukemia acute	['204', '204.3']	['120', '120.1', '120.12', '121', '121.1']	HP_0004845	Acute monocytic leukemia	acute monocytic leukemia	True
+206.0	Monocytic leukemia, acute	monocytic leukemia acute	['204', '204.3']	['120', '120.1', '120.12', '121', '121.1']	HP_0004845	Acute monocytic leukaemia	acute monocytic leukemia	False
 206.9	Unspecified monocytic leukemia	monocytic leukemia	['204', '204.3']	['120', '120.1', '120.12', '121']	HP_0004845	Acute monocytic leukemia	acute monocytic leukemia	True
 206.9	Unspecified monocytic leukemia	monocytic leukemia	['204', '204.3']	['120', '120.1', '120.12', '121']	HP_0004845	Acute monocytic leukaemia	acute monocytic leukemia	False
 207.2	Megakaryocytic leukemia	megakaryocytic leukemia	['204']	['120', '120.1', '120.14', '121', '121.1']	HP_0006733	Acute megakaryocytic leukemia	acute megakaryocytic leukemia	True
@@ -50,6 +59,7 @@ ICD9_code	ICD9_label	ICD9_simpleLabel	phecode1.2_codeList	phecodeX_codeList	hpo_
 240.9	Goiter, unspecified	goiter	['240']	['200', '200.2']	HP_0000853	Goiter	goiter	True
 240.9	Goiter, unspecified	goiter	['240']	['200', '200.2']	HP_0000853	Goitre	goiter	False
 243	Congenital hypothyroidism	congenital hypothyroidism	['244', '244.5']	['200', '200.1', '200.11']	HP_0000851	Congenital hypothyroidism	congenital hypothyroidism	True
+243	Congenital hypothyroidism	congenital hypothyroidism	['244', '244.5']	['200', '200.1', '200.11']	HP_0000851	Hypothyroidism, congenital	hypothyroidism congenital	False
 245	Thyroiditis	thyroiditis	['245']	['200', '200.4']	HP_0100646	Thyroiditis	thyroiditis	True
 245.2	Chronic lymphocytic thyroiditis	chronic lymphocytic thyroiditis	['245', '245.2', '245.21']	['200', '200.4', '200.41']	HP_0000872	Chronic lymphocytic thyroiditis	chronic lymphocytic thyroiditis	False
 245.9	Thyroiditis, unspecified	thyroiditis	['245']	['200', '200.4']	HP_0100646	Thyroiditis	thyroiditis	True
@@ -60,6 +70,7 @@ ICD9_code	ICD9_label	ICD9_simpleLabel	phecode1.2_codeList	phecodeX_codeList	hpo_
 250	Diabetes mellitus	diabetes mellitus	['250']	['202']	HP_0100651	Type I diabetes mellitus	type i diabetes mellitus	True
 250	Diabetes mellitus	diabetes mellitus	['250']	['202']	HP_0100651	Diabetes mellitus Type I	diabetes mellitus type i	False
 251.0	Hypoglycemic coma	hypoglycemic coma	['251.1']	['205', '205.1']	HP_0001325	Hypoglycemic coma	hypoglycemic coma	True
+251.0	Hypoglycemic coma	hypoglycemic coma	['251.1']	['205', '205.1']	HP_0001325	Coma, hypoglycemic	coma hypoglycemic	False
 251.2	Hypoglycemia, unspecified	hypoglycemia	['251.1']	['205']	HP_0001943	Hypoglycemia	hypoglycemia	True
 252.0	Hyperparathyroidism	hyperparathyroidism	['252', '252.1']	['208', '208.2']	HP_0000843	Hyperparathyroidism	hyperparathyroidism	True
 252.0	Hyperparathyroidism	hyperparathyroidism	['252', '252.1']	['208', '208.2']	HP_0008200	Primary hyperparathyroidism	primary hyperparathyroidism	True
@@ -85,6 +96,18 @@ ICD9_code	ICD9_label	ICD9_simpleLabel	phecode1.2_codeList	phecodeX_codeList	hpo_
 268	Vitamin D deficiency	vitamin d deficiency	['261', '261.4']	['232', '232.4']	HP_0100512	Vitamin D deficiency	vitamin d deficiency	False
 268.2	Osteomalacia, unspecified	osteomalacia	['261', '261.4', '261.41']	['726', '726.5']	HP_0002749	Osteomalacia	osteomalacia	True
 268.9	Unspecified vitamin D deficiency	vitamin d deficiency	['261', '261.4']	['232', '232.4']	HP_0100512	Vitamin D deficiency	vitamin d deficiency	False
+269.2	Unspecified vitamin deficiency	vitamin deficiency	['261']	['232']	HP_0004905	Vitamin A deficiency	vitamin a deficiency	False
+269.2	Unspecified vitamin deficiency	vitamin deficiency	['261']	['232']	HP_0008326	Vitamin B6 deficiency	vitamin b6 deficiency	False
+269.2	Unspecified vitamin deficiency	vitamin deficiency	['261']	['232']	HP_0100497	Vitamin B3 deficiency	vitamin b3 deficiency	True
+269.2	Unspecified vitamin deficiency	vitamin deficiency	['261']	['232']	HP_0100502	Vitamin B12 deficiency	vitamin b12 deficiency	True
+269.2	Unspecified vitamin deficiency	vitamin deficiency	['261']	['232']	HP_0100503	Vitamin B1 deficiency	vitamin b1 deficiency	False
+269.2	Unspecified vitamin deficiency	vitamin deficiency	['261']	['232']	HP_0100504	Vitamin B2 deficiency	vitamin b2 deficiency	False
+269.2	Unspecified vitamin deficiency	vitamin deficiency	['261']	['232']	HP_0100505	Vitamin B5 deficiency	vitamin b5 deficiency	False
+269.2	Unspecified vitamin deficiency	vitamin deficiency	['261']	['232']	HP_0100506	Vitamin B8 deficiency	vitamin b8 deficiency	False
+269.2	Unspecified vitamin deficiency	vitamin deficiency	['261']	['232']	HP_0100507	Vitamin B9 deficiency	vitamin b9 deficiency	False
+269.2	Unspecified vitamin deficiency	vitamin deficiency	['261']	['232']	HP_0100510	Vitamin C deficiency	vitamin c deficiency	False
+269.2	Unspecified vitamin deficiency	vitamin deficiency	['261']	['232']	HP_0100512	Vitamin D deficiency	vitamin d deficiency	False
+269.2	Unspecified vitamin deficiency	vitamin deficiency	['261']	['232']	HP_0100513	Vitamin E deficiency	vitamin e deficiency	False
 272.3	Hyperchylomicronemia	hyperchylomicronemia	['272', '272.1', '272.14']	['239', '239.4']	HP_0012238	Hyperchylomicronemia	hyperchylomicronemia	False
 272.6	Lipodystrophy	lipodystrophy	['277.5', '277.51']	['244', '244.4']	HP_0009125	Lipodystrophy	lipodystrophy	True
 274	Gout	gout	['274', '274.1']	['703', '703.1', '703.11']	HP_0001997	Gout	gout	True
@@ -152,6 +175,7 @@ ICD9_code	ICD9_label	ICD9_simpleLabel	phecode1.2_codeList	phecodeX_codeList	hpo_
 307.7	Encopresis	encopresis	['313']	['893', '893.7']	HP_0040183	Encopresis	encopresis	True
 313.81	Oppositional defiant disorder	oppositional defiant disorder	['312']	['893', '893.2', '893.21']	HP_0010865	Oppositional defiant disorder	oppositional defiant disorder	True
 315.01	Alexia	alexia	['315.1']	['891', '891.2']	HP_0010523	Alexia	alexia	True
+315.9	Unspecified delay in development	delay in development	['315']	['891', '891.4']	HP_0001270	Delay in motor development	delay in motor development	False
 321.0	Cryptococcal meningitis	cryptococcal meningitis	['320']	['075', '089', '089.3', '320', '320.1', '320.13']	HP_0032160	Cryptococcal meningitis	cryptococcal meningitis	True
 322.9	Meningitis, unspecified	meningitis	['320']	['320', '320.3']	HP_0001287	Meningitis	meningitis	True
 322.9	Meningitis, unspecified	meningitis	['320']	['320', '320.3']	HP_0033508	EBV meningitis	ebv meningitis	True
@@ -173,12 +197,15 @@ ICD9_code	ICD9_label	ICD9_simpleLabel	phecode1.2_codeList	phecodeX_codeList	hpo_
 335.10	Spinal muscular atrophy, unspecified	spinal muscular atrophy	['334', '334.2']	['323', '323.2']	HP_0009037	Segmental spinal muscular atrophy	segmental spinal muscular atrophy	True
 335.2	Motor neuron disease	motor neuron disease	['334', '334.2']	['323', '323.3']	HP_0002366	Lower motor neuron disease	lower motor neuron disease	False
 335.20	Amyotrophic lateral sclerosis	amyotrophic lateral sclerosis	['334', '334.2', '334.21']	['323', '323.3', '323.31']	HP_0007354	Amyotrophic lateral sclerosis	amyotrophic lateral sclerosis	True
+335.21	Progressive muscular atrophy	progressive muscular atrophy	['334', '334.2']	['323', '323.3']	HP_0008955	Progressive distal muscular atrophy	progressive distal muscular atrophy	True
+335.21	Progressive muscular atrophy	progressive muscular atrophy	['334', '334.2']	['323', '323.3']	HP_0009067	Progressive spinal muscular atrophy	progressive spinal muscular atrophy	True
 335.23	Pseudobulbar palsy	pseudobulbar palsy	['334', '334.2']	['323', '323.3']	HP_0007024	Pseudobulbar palsy	pseudobulbar palsy	False
 335.9	Anterior horn cell disease, unspecified	anterior horn cell disease	['334', '334.2']	['323', '323.3']	HP_0006802	Anterior horn cell disease	anterior horn cell disease	False
 338.2	Chronic pain	chronic pain	['338', '338.2']	['809', '809.2']	HP_0012532	Chronic pain	chronic pain	True
 339.81	Hypnic headache	hypnic headache	['339']	['331', '331.3', '331.32']	HP_0012459	Hypnic headache	hypnic headache	True
 342.1	Spastic hemiplegia	spastic hemiplegia	['342']	['341', '341.2', '341.22']	HP_0011099	Spastic hemiplegia	spastic hemiplegia	False
 342.9	Hemiplegia, unspecified	hemiplegia	['342']	['341', '341.2']	HP_0002301	Hemiplegia	hemiplegia	True
+343.0	Congenital diplegia	congenital diplegia	['343']	['341', '341.1', '341.14']	HP_0007188	Congenital facial diplegia	congenital facial diplegia	True
 344.00	Quadriplegia, unspecified	quadriplegia	['344']	['342', '342.2']	HP_0002445	Quadriplegia	quadriplegia	False
 344.1	Paraplegia	paraplegia	['344']	['342', '342.1']	HP_0010550	Paraplegia	paraplegia	True
 344.9	Paralysis, unspecified	paralysis	['344']	['342', '342.5']	HP_0010550	Leg paralysis	leg paralysis	False
@@ -235,7 +262,10 @@ ICD9_code	ICD9_label	ICD9_simpleLabel	phecode1.2_codeList	phecodeX_codeList	hpo_
 362.31	Central retinal artery occlusion	central retinal artery occlusion	['362', '362.4']	['374', '374.3', '374.37']	HP_0025342	Central retinal artery occlusion	central retinal artery occlusion	True
 362.35	Central retinal vein occlusion	central retinal vein occlusion	['362', '362.4']	['374', '374.3', '374.38']	HP_0020166	Central retinal vein occlusion	central retinal vein occlusion	True
 362.53	Cystoid macular degeneration	cystoid macular degeneration	['362', '362.2', '362.23']	['374', '374.5', '374.53']	HP_0008028	Cystoid macular degeneration	cystoid macular degeneration	True
+362.60	Peripheral retinal degeneration, unspecified	peripheral retinal degeneration	['362', '362.6']	['374', '374.6']	HP_0007667	Peripheral cystoid retinal degeneration	peripheral cystoid retinal degeneration	True
 362.60	Peripheral retinal degeneration, unspecified	peripheral retinal degeneration	['362', '362.6']	['374', '374.6']	HP_0007769	Peripheral retinal degeneration	peripheral retinal degeneration	True
+362.60	Peripheral retinal degeneration, unspecified	peripheral retinal degeneration	['362', '362.6']	['374', '374.6']	HP_0007782	obsolete Peripheral retinal cone degeneration	obsolete peripheral retinal cone degeneration	True
+362.63	Lattice degeneration	lattice degeneration	['362', '362.6']	['374', '374.6', '374.61']	HP_0007992	Lattice retinal degeneration	lattice retinal degeneration	True
 362.81	Retinal hemorrhage	retinal hemorrhage	['362', '362.8']	['377', '377.4']	HP_0000573	Retinal hemorrhage	retinal hemorrhage	True
 362.81	Retinal hemorrhage	retinal hemorrhage	['362', '362.8']	['377', '377.4']	HP_0000573	Retinal haemorrhage	retinal hemorrhage	False
 363.20	Chorioretinitis, unspecified	chorioretinitis	['371', '371.1']	['367', '367.5', '367.53']	HP_0012424	Chorioretinitis	chorioretinitis	True
@@ -269,6 +299,7 @@ ICD9_code	ICD9_label	ICD9_simpleLabel	phecode1.2_codeList	phecodeX_codeList	hpo_
 368.54	Achromatopsia	achromatopsia	['368.5']	['386', '386.5']	HP_0011516	Achromatopsia	achromatopsia	True
 368.6	Night blindness	night blindness	['368']	['386', '386.6']	HP_0000662	Night blindness	night blindness	False
 368.60	Night blindness, unspecified	night blindness	['368']	['386', '386.6']	HP_0000662	Night blindness	night blindness	False
+368.61	Congenital night blindness	congenital night blindness	['368']	['386', '386.6']	HP_0007642	Congenital stationary night blindness	congenital stationary night blindness	True
 368.61	Congenital night blindness	congenital night blindness	['368']	['386', '386.6']	HP_0007642	Congenital night blindness	congenital night blindness	False
 369.9	Unspecified visual loss	visual loss	['367', '367.9']	['388']	HP_0000572	Visual loss	visual loss	True
 369.9	Unspecified visual loss	visual loss	['367', '367.9']	['388']	HP_0032037	Mild visual loss	mild visual loss	False
@@ -313,14 +344,17 @@ ICD9_code	ICD9_label	ICD9_simpleLabel	phecode1.2_codeList	phecodeX_codeList	hpo_
 374.87	Dermatochalasis	dermatochalasis	['374', '374.6']	['362', '362.6']	HP_0010750	Dermatochalasis	dermatochalasis	True
 375.2	Epiphora	epiphora	['375', '375.2']	['363', '363.5']	HP_0009926	Epiphora	epiphora	True
 375.30	Dacryocystitis, unspecified	dacryocystitis	['369']	['363', '363.6', '363.61']	HP_0000620	Dacryocystitis	dacryocystitis	True
+375.52	Stenosis of lacrimal punctum	stenosis of lacrimal punctum	['375']	['363', '363.7']	HP_0025572	Stenosis of the lacrimal punctum	stenosis of the lacrimal punctum	False
 376.30	Exophthalmos, unspecified	exophthalmos	['242.3']	['365', '365.3']	HP_0000520	Exophthalmos	exophthalmos	False
 376.5	Enophthalmos	enophthalmos	['376']	['365', '365.1']	HP_0000490	Enophthalmos	enophthalmos	False
 376.81	Orbital cysts	orbital cysts	['376']	['365', '365.4']	HP_0001144	Orbital cysts	orbital cysts	False
 377.0	Papilledema	papilledema	['377']	['380', '380.2', '380.21']	HP_0001085	Papilledema	papilledema	True
 377.00	Papilledema, unspecified	papilledema	['377']	['380', '380.2', '380.21']	HP_0001085	Papilledema	papilledema	True
 377.1	Optic atrophy	optic atrophy	['377', '377.1']	['380', '380.3']	HP_0000648	Optic atrophy	optic atrophy	True
+377.1	Optic atrophy	optic atrophy	['377', '377.1']	['380', '380.3']	HP_0000648	Optic nerve atrophy	optic nerve atrophy	False
 377.1	Optic atrophy	optic atrophy	['377', '377.1']	['380', '380.3']	HP_0001112	Leber optic atrophy	leber optic atrophy	True
 377.10	Optic atrophy, unspecified	optic atrophy	['377', '377.1']	['380', '380.3']	HP_0000648	Optic atrophy	optic atrophy	True
+377.10	Optic atrophy, unspecified	optic atrophy	['377', '377.1']	['380', '380.3']	HP_0000648	Optic nerve atrophy	optic nerve atrophy	False
 377.10	Optic atrophy, unspecified	optic atrophy	['377', '377.1']	['380', '380.3']	HP_0001112	Leber optic atrophy	leber optic atrophy	True
 377.24	Pseudopapilledema	pseudopapilledema	['377']	['380', '380.2', '380.24']	HP_0000538	Pseudopapilledema	pseudopapilledema	True
 377.3	Optic neuritis	optic neuritis	['377', '377.3']	['380', '380.1', '380.11']	HP_0100653	Optic neuritis	optic neuritis	True
@@ -350,6 +384,7 @@ ICD9_code	ICD9_label	ICD9_simpleLabel	phecode1.2_codeList	phecodeX_codeList	hpo_
 378.56	Total ophthalmoplegia	total ophthalmoplegia	['378', '378.5']	['381', '381.1', '381.11']	HP_0007824	Total ophthalmoplegia	total ophthalmoplegia	True
 378.72	Progressive external ophthalmoplegia	progressive external ophthalmoplegia	['378']	['381', '381.1', '381.11']	HP_0000544	Chronic progressive external ophthalmoplegia	chronic progressive external ophthalmoplegia	False
 378.72	Progressive external ophthalmoplegia	progressive external ophthalmoplegia	['378']	['381', '381.1', '381.11']	HP_0000590	Progressive external ophthalmoplegia	progressive external ophthalmoplegia	True
+378.72	Progressive external ophthalmoplegia	progressive external ophthalmoplegia	['378']	['381', '381.1', '381.11']	HP_0000590	External ophthalmoplegia, progressive	external ophthalmoplegia progressive	False
 378.86	Internuclear ophthalmoplegia	internuclear ophthalmoplegia	['378']	['381', '381.1', '381.11']	HP_0030773	Internuclear ophthalmoplegia	internuclear ophthalmoplegia	True
 379.00	Scleritis, unspecified	scleritis	['379', '379.1']	['367', '367.7']	HP_0100532	Scleritis	scleritis	True
 379.23	Vitreous hemorrhage	vitreous hemorrhage	['379', '379.2']	['377', '377.5']	HP_0007902	Vitreous hemorrhage	vitreous hemorrhage	True
@@ -376,35 +411,56 @@ ICD9_code	ICD9_label	ICD9_simpleLabel	phecode1.2_codeList	phecodeX_codeList	hpo_
 388.7	Otalgia	otalgia	['382']	['392']	HP_0030766	Otalgia	otalgia	False
 388.70	Otalgia, unspecified	otalgia	['382']	['392']	HP_0030766	Otalgia	otalgia	False
 389.0	Conductive hearing loss	conductive hearing loss	['389', '389.2']	['396', '396.1']	HP_0000405	Conductive hearing loss	conductive hearing loss	False
+389.0	Conductive hearing loss	conductive hearing loss	['389', '389.2']	['396', '396.1']	HP_0000405	Hearing loss, conductive	hearing loss conductive	False
 389.0	Conductive hearing loss	conductive hearing loss	['389', '389.2']	['396', '396.1']	HP_0008513	Bilateral conductive hearing loss	bilateral conductive hearing loss	False
 389.0	Conductive hearing loss	conductive hearing loss	['389', '389.2']	['396', '396.1']	HP_0008591	Congenital conductive hearing loss	congenital conductive hearing loss	False
 389.0	Conductive hearing loss	conductive hearing loss	['389', '389.2']	['396', '396.1']	HP_0008598	Conductive hearing loss, mild	conductive hearing loss mild	False
 389.0	Conductive hearing loss	conductive hearing loss	['389', '389.2']	['396', '396.1']	HP_0012716	Conductive hearing loss, moderate	conductive hearing loss moderate	False
 389.0	Conductive hearing loss	conductive hearing loss	['389', '389.2']	['396', '396.1']	HP_0012717	Conductive hearing loss, severe	conductive hearing loss severe	False
 389.00	Conductive hearing loss, unspecified	conductive hearing loss	['389', '389.2']	['396', '396.1']	HP_0000405	Conductive hearing loss	conductive hearing loss	False
+389.00	Conductive hearing loss, unspecified	conductive hearing loss	['389', '389.2']	['396', '396.1']	HP_0000405	Hearing loss, conductive	hearing loss conductive	False
 389.00	Conductive hearing loss, unspecified	conductive hearing loss	['389', '389.2']	['396', '396.1']	HP_0008513	Bilateral conductive hearing loss	bilateral conductive hearing loss	False
 389.00	Conductive hearing loss, unspecified	conductive hearing loss	['389', '389.2']	['396', '396.1']	HP_0008591	Congenital conductive hearing loss	congenital conductive hearing loss	False
 389.00	Conductive hearing loss, unspecified	conductive hearing loss	['389', '389.2']	['396', '396.1']	HP_0008598	Conductive hearing loss, mild	conductive hearing loss mild	False
 389.00	Conductive hearing loss, unspecified	conductive hearing loss	['389', '389.2']	['396', '396.1']	HP_0012716	Conductive hearing loss, moderate	conductive hearing loss moderate	False
 389.00	Conductive hearing loss, unspecified	conductive hearing loss	['389', '389.2']	['396', '396.1']	HP_0012717	Conductive hearing loss, severe	conductive hearing loss severe	False
+389.06	Conductive hearing loss, bilateral	conductive hearing loss bilateral	['389', '389.2']	['396', '396.1', '396.11']	HP_0008513	Bilateral conductive hearing loss	bilateral conductive hearing loss	False
+389.1	Sensorineural hearing loss	sensorineural hearing loss	['389', '389.1']	['396', '396.2']	HP_0000407	Hearing loss, sensorineural	hearing loss sensorineural	False
 389.1	Sensorineural hearing loss	sensorineural hearing loss	['389', '389.1']	['396', '396.2']	HP_0000407	Sensorineural hearing loss	sensorineural hearing loss	False
+389.1	Sensorineural hearing loss	sensorineural hearing loss	['389', '389.1']	['396', '396.2']	HP_0000408	Hearing loss, progressive sensorineural	hearing loss progressive sensorineural	False
+389.1	Sensorineural hearing loss	sensorineural hearing loss	['389', '389.1']	['396', '396.2']	HP_0000408	Hearing loss, sensorineural, progressive	hearing loss sensorineural progressive	False
 389.1	Sensorineural hearing loss	sensorineural hearing loss	['389', '389.1']	['396', '396.2']	HP_0000408	Sensorineural hearing loss, progressive	sensorineural hearing loss progressive	False
 389.1	Sensorineural hearing loss	sensorineural hearing loss	['389', '389.1']	['396', '396.2']	HP_0008527	Congenital sensorineural hearing loss	congenital sensorineural hearing loss	False
+389.1	Sensorineural hearing loss	sensorineural hearing loss	['389', '389.1']	['396', '396.2']	HP_0008527	Hearing loss, congenital sensorineural	hearing loss congenital sensorineural	False
 389.1	Sensorineural hearing loss	sensorineural hearing loss	['389', '389.1']	['396', '396.2']	HP_0008610	Infantile sensorineural hearing loss	infantile sensorineural hearing loss	False
 389.1	Sensorineural hearing loss	sensorineural hearing loss	['389', '389.1']	['396', '396.2']	HP_0008615	Late sensorineural hearing loss	late sensorineural hearing loss	False
 389.1	Sensorineural hearing loss	sensorineural hearing loss	['389', '389.1']	['396', '396.2']	HP_0008619	Bilateral sensorineural hearing loss	bilateral sensorineural hearing loss	False
+389.1	Sensorineural hearing loss	sensorineural hearing loss	['389', '389.1']	['396', '396.2']	HP_0008619	Hearing loss, sensorineural, bilateral	hearing loss sensorineural bilateral	False
 389.1	Sensorineural hearing loss	sensorineural hearing loss	['389', '389.1']	['396', '396.2']	HP_0008625	Severe sensorineural hearing loss	severe sensorineural hearing loss	False
+389.10	Sensorineural hearing loss, unspecified	sensorineural hearing loss	['389', '389.1']	['396', '396.2']	HP_0000407	Hearing loss, sensorineural	hearing loss sensorineural	False
 389.10	Sensorineural hearing loss, unspecified	sensorineural hearing loss	['389', '389.1']	['396', '396.2']	HP_0000407	Sensorineural hearing loss	sensorineural hearing loss	False
+389.10	Sensorineural hearing loss, unspecified	sensorineural hearing loss	['389', '389.1']	['396', '396.2']	HP_0000408	Hearing loss, progressive sensorineural	hearing loss progressive sensorineural	False
+389.10	Sensorineural hearing loss, unspecified	sensorineural hearing loss	['389', '389.1']	['396', '396.2']	HP_0000408	Hearing loss, sensorineural, progressive	hearing loss sensorineural progressive	False
 389.10	Sensorineural hearing loss, unspecified	sensorineural hearing loss	['389', '389.1']	['396', '396.2']	HP_0000408	Sensorineural hearing loss, progressive	sensorineural hearing loss progressive	False
 389.10	Sensorineural hearing loss, unspecified	sensorineural hearing loss	['389', '389.1']	['396', '396.2']	HP_0008527	Congenital sensorineural hearing loss	congenital sensorineural hearing loss	False
+389.10	Sensorineural hearing loss, unspecified	sensorineural hearing loss	['389', '389.1']	['396', '396.2']	HP_0008527	Hearing loss, congenital sensorineural	hearing loss congenital sensorineural	False
 389.10	Sensorineural hearing loss, unspecified	sensorineural hearing loss	['389', '389.1']	['396', '396.2']	HP_0008610	Infantile sensorineural hearing loss	infantile sensorineural hearing loss	False
 389.10	Sensorineural hearing loss, unspecified	sensorineural hearing loss	['389', '389.1']	['396', '396.2']	HP_0008615	Late sensorineural hearing loss	late sensorineural hearing loss	False
 389.10	Sensorineural hearing loss, unspecified	sensorineural hearing loss	['389', '389.1']	['396', '396.2']	HP_0008619	Bilateral sensorineural hearing loss	bilateral sensorineural hearing loss	False
+389.10	Sensorineural hearing loss, unspecified	sensorineural hearing loss	['389', '389.1']	['396', '396.2']	HP_0008619	Hearing loss, sensorineural, bilateral	hearing loss sensorineural bilateral	False
 389.10	Sensorineural hearing loss, unspecified	sensorineural hearing loss	['389', '389.1']	['396', '396.2']	HP_0008625	Severe sensorineural hearing loss	severe sensorineural hearing loss	False
+389.18	Sensorineural hearing loss, bilateral	sensorineural hearing loss bilateral	['389', '389.1']	['396', '396.2', '396.21']	HP_0000408	Bilateral progressive sensorineural hearing loss	bilateral progressive sensorineural hearing loss	False
+389.18	Sensorineural hearing loss, bilateral	sensorineural hearing loss bilateral	['389', '389.1']	['396', '396.2', '396.21']	HP_0000408	Hearing loss, sensorineural, bilateral, progressive	hearing loss sensorineural bilateral progressive	False
+389.18	Sensorineural hearing loss, bilateral	sensorineural hearing loss bilateral	['389', '389.1']	['396', '396.2', '396.21']	HP_0000408	Progressive bilateral sensorineural hearing loss	progressive bilateral sensorineural hearing loss	False
+389.18	Sensorineural hearing loss, bilateral	sensorineural hearing loss bilateral	['389', '389.1']	['396', '396.2', '396.21']	HP_0008619	Bilateral sensorineural hearing loss	bilateral sensorineural hearing loss	False
+389.18	Sensorineural hearing loss, bilateral	sensorineural hearing loss bilateral	['389', '389.1']	['396', '396.2', '396.21']	HP_0008619	Hearing loss, sensorineural, bilateral	hearing loss sensorineural bilateral	False
+389.20	Mixed hearing loss, unspecified	mixed hearing loss	['389']	['396', '396.3']	HP_0000410	Hearing loss, mixed	hearing loss mixed	False
 389.20	Mixed hearing loss, unspecified	mixed hearing loss	['389']	['396', '396.3']	HP_0000410	Mixed hearing loss	mixed hearing loss	False
 394.0	Mitral stenosis	mitral stenosis	['394', '394.2']	['413', '413.1', '413.13']	HP_0001718	Mitral stenosis	mitral stenosis	True
+394.0	Mitral stenosis	mitral stenosis	['394', '394.2']	['413', '413.1', '413.13']	HP_0001718	Mitral valve stenosis	mitral valve stenosis	False
 405.91	Unspecified renovascular hypertension	renovascular hypertension	['401', '401.3']	['401', '401.6', '401.61']	HP_0100817	Renovascular hypertension	renovascular hypertension	True
 413	Angina pectoris	angina pectoris	['411', '411.3']	['403']	HP_0001681	Angina pectoris	angina pectoris	True
+414.0	Coronary atherosclerosis	coronary atherosclerosis	['411', '411.4']	['404', '404.2', '436']	HP_0001677	Coronary artery atherosclerosis	coronary artery atherosclerosis	True
 414.0	Coronary atherosclerosis	coronary atherosclerosis	['411', '411.4']	['404', '404.2', '436']	HP_0001677	Coronary atherosclerosis	coronary atherosclerosis	False
 414.0	Coronary atherosclerosis	coronary atherosclerosis	['411', '411.4']	['404', '404.2', '436']	HP_0004929	obsolete Coronary atherosclerosis	obsolete coronary atherosclerosis	True
 415.12	Septic pulmonary embolism	septic pulmonary embolism	['415', '415.1', '415.11']	['440', '440.3']	HP_0033639	Septic pulmonary embolism	septic pulmonary embolism	True
@@ -414,6 +470,7 @@ ICD9_code	ICD9_label	ICD9_simpleLabel	phecode1.2_codeList	phecodeX_codeList	hpo_
 425	Cardiomyopathy	cardiomyopathy	['425']	['414']	HP_0001638	Cardiomyopathy	cardiomyopathy	True
 425.0	Endomyocardial fibrosis	endomyocardial fibrosis	['425', '425.1']	['414', '414.6']	HP_0006685	Endomyocardial fibrosis	endomyocardial fibrosis	False
 425.1	Hypertrophic cardiomyopathy	hypertrophic cardiomyopathy	['425', '425.1', '425.11']	['414', '414.1']	HP_0001639	Hypertrophic cardiomyopathy	hypertrophic cardiomyopathy	True
+425.1	Hypertrophic cardiomyopathy	hypertrophic cardiomyopathy	['425', '425.1', '425.11']	['414', '414.1']	HP_0001639	Cardiomyopathy, hypertrophic	cardiomyopathy hypertrophic	False
 425.1	Hypertrophic cardiomyopathy	hypertrophic cardiomyopathy	['425', '425.1', '425.11']	['414', '414.1']	HP_0005157	Concentric hypertrophic cardiomyopathy	concentric hypertrophic cardiomyopathy	True
 425.1	Hypertrophic cardiomyopathy	hypertrophic cardiomyopathy	['425', '425.1', '425.11']	['414', '414.1']	HP_0031992	Apical hypertrophic cardiomyopathy	apical hypertrophic cardiomyopathy	True
 425.3	Endocardial fibroelastosis	endocardial fibroelastosis	['425', '425.1']	['414', '414.7']	HP_0001706	Endocardial fibroelastosis	endocardial fibroelastosis	True
@@ -430,12 +487,14 @@ ICD9_code	ICD9_label	ICD9_simpleLabel	phecode1.2_codeList	phecodeX_codeList	hpo_
 426.9	Conduction disorder, unspecified	conduction disorder	['426']	['416']	HP_0031546	Heart conduction disorder	heart conduction disorder	False
 427.0	Paroxysmal supraventricular tachycardia	paroxysmal supraventricular tachycardia	['427', '427.1', '427.11']	['416', '416.1', '416.11']	HP_0004763	Paroxysmal supraventricular tachycardia	paroxysmal supraventricular tachycardia	True
 427.1	Paroxysmal ventricular tachycardia	paroxysmal ventricular tachycardia	['427', '427.1', '427.12']	['416', '416.1', '416.12']	HP_0004751	Paroxysmal ventricular tachycardia	paroxysmal ventricular tachycardia	True
+427.2	Paroxysmal tachycardia, unspecified	paroxysmal tachycardia	['427', '427.1']	['416', '416.1']	HP_0006671	Paroxysmal atrial tachycardia	paroxysmal atrial tachycardia	True
 427.2	Paroxysmal tachycardia, unspecified	paroxysmal tachycardia	['427', '427.1']	['416', '416.1']	HP_0006688	Paroxysmal tachycardia	paroxysmal tachycardia	True
 427.31	Atrial fibrillation	atrial fibrillation	['427', '427.2', '427.21']	['416', '416.2', '416.21']	HP_0005110	Atrial fibrillation	atrial fibrillation	True
 427.32	Atrial flutter	atrial flutter	['427', '427.2', '427.22']	['416', '416.2', '416.22']	HP_0004749	Atrial flutter	atrial flutter	True
 427.41	Ventricular fibrillation	ventricular fibrillation	['427', '427.4', '427.41']	['416', '416.3', '416.31']	HP_0001663	Ventricular fibrillation	ventricular fibrillation	True
 427.42	Ventricular flutter	ventricular flutter	['427', '427.4', '427.41']	['416', '416.3', '416.32']	HP_0011841	Ventricular flutter	ventricular flutter	True
 427.5	Cardiac arrest	cardiac arrest	['427', '427.4', '427.42']	['420']	HP_0001695	Cardiac arrest	cardiac arrest	True
+427.61	Supraventricular premature beats	supraventricular premature beats	['427', '427.6', '427.61']	['416', '416.5', '416.51']	HP_0006699	Premature supraventricular beats	premature supraventricular beats	False
 428	Heart failure	heart failure	['428']	['424']	HP_0001635	Heart failure	heart failure	False
 428.0	Congestive heart failure, unspecified	congestive heart failure	['428', '428.1']	['424']	HP_0001635	Congestive heart failure	congestive heart failure	True
 428.0	Congestive heart failure, unspecified	congestive heart failure	['428', '428.1']	['424']	HP_0009805	Low-output congestive heart failure	low-output congestive heart failure	True
@@ -453,9 +512,13 @@ ICD9_code	ICD9_label	ICD9_simpleLabel	phecode1.2_codeList	phecodeX_codeList	hpo_
 432.9	Unspecified intracranial hemorrhage	intracranial hemorrhage	['430']	['430']	HP_0002170	Intracranial hemorrhage	intracranial hemorrhage	True
 432.9	Unspecified intracranial hemorrhage	intracranial hemorrhage	['430']	['430']	HP_0002170	Intracranial haemorrhage	intracranial hemorrhage	False
 432.9	Unspecified intracranial hemorrhage	intracranial hemorrhage	['430']	['430']	HP_0034208	Fetal intracranial hemorrhage	fetal intracranial hemorrhage	True
+434.0	Cerebral thrombosis	cerebral thrombosis	['433', '433.2']	['440', '440.2', '440.22']	HP_0005305	Cerebral venous thrombosis	cerebral venous thrombosis	True
 434.0	Cerebral thrombosis	cerebral thrombosis	['433', '433.2']	['440', '440.2', '440.22']	HP_0005305	Cerebral thrombosis	cerebral thrombosis	False
+434.0	Cerebral thrombosis	cerebral thrombosis	['433', '433.2']	['440', '440.2', '440.22']	HP_0005305	Cerebral vein thrombosis	cerebral vein thrombosis	False
+437.0	Cerebral atherosclerosis	cerebral atherosclerosis	['433', '433.1', '433.12']	['436', '436.5']	HP_0007201	Cerebral artery atherosclerosis	cerebral artery atherosclerosis	True
 437.7	Transient global amnesia	transient global amnesia	['433']	['329', '329.6']	HP_0010534	Transient global amnesia	transient global amnesia	True
 440	Atherosclerosis	atherosclerosis	['440']	['436']	HP_0002621	Atherosclerosis	atherosclerosis	True
+440.0	Atherosclerosis of aorta	atherosclerosis of aorta	['440', '440.9']	['436', '436.3']	HP_0012397	Atherosclerosis of the aorta	atherosclerosis of the aorta	False
 443.82	Erythromelalgia	erythromelalgia	['443', '443.8']	['448', '448.2']	HP_0032147	Erythromelalgia	erythromelalgia	True
 447.6	Arteritis, unspecified	arteritis	['446', '446.9']	['704']	HP_0012089	Arteritis	arteritis	True
 452	Portal vein thrombosis	portal vein thrombosis	['452']	['440', '440.1', '440.12']	HP_0030242	Portal vein thrombosis	portal vein thrombosis	True
@@ -475,6 +538,7 @@ ICD9_code	ICD9_label	ICD9_simpleLabel	phecode1.2_codeList	phecodeX_codeList	hpo_
 471	Nasal polyps	nasal polyps	['471']	['135', '135.5', '471', '471.5']	HP_0100582	Nasal polyps	nasal polyps	False
 472.0	Chronic rhinitis	chronic rhinitis	['472']	['463', '463.1']	HP_0002257	Chronic rhinitis	chronic rhinitis	True
 473	Chronic sinusitis	chronic sinusitis	['475']	['462', '462.2']	HP_0011109	Chronic sinusitis	chronic sinusitis	True
+473.9	Unspecified sinusitis (chronic)	sinusitis chronic	['475']	['462', '462.2']	HP_0011109	Chronic sinusitis	chronic sinusitis	True
 477	Allergic rhinitis	allergic rhinitis	['476']	['463', '463.2', '840', '840.8']	HP_0003193	Allergic rhinitis	allergic rhinitis	True
 491	Chronic bronchitis	chronic bronchitis	['496', '496.2']	['460', '469', '469.2', '474']	HP_0004469	Chronic bronchitis	chronic bronchitis	True
 491.9	Unspecified chronic bronchitis	chronic bronchitis	['496', '496.2']	['460', '469', '469.2', '474']	HP_0004469	Chronic bronchitis	chronic bronchitis	True
@@ -536,7 +600,9 @@ ICD9_code	ICD9_label	ICD9_simpleLabel	phecode1.2_codeList	phecodeX_codeList	hpo_
 567.22	Peritoneal abscess	peritoneal abscess	['567']	['537', '537.1']	HP_0100592	Peritoneal abscess	peritoneal abscess	True
 567.9	Unspecified peritonitis	peritonitis	['567']	['537', '537.1']	HP_0002586	Peritonitis	peritonitis	True
 569.1	Rectal prolapse	rectal prolapse	['565']	['530', '530.3']	HP_0002035	Rectal prolapse	rectal prolapse	True
+571.4	Chronic hepatitis	chronic hepatitis	['070.4']	['540', '540.1']	HP_0200120	Chronic active hepatitis	chronic active hepatitis	True
 571.4	Chronic hepatitis	chronic hepatitis	['070.4']	['540', '540.1']	HP_0200123	Chronic hepatitis	chronic hepatitis	True
+571.40	Chronic hepatitis, unspecified	chronic hepatitis	['070.4']	['540', '540.1']	HP_0200120	Chronic active hepatitis	chronic active hepatitis	True
 571.40	Chronic hepatitis, unspecified	chronic hepatitis	['070.4']	['540', '540.1']	HP_0200123	Chronic hepatitis	chronic hepatitis	True
 571.6	Biliary cirrhosis	biliary cirrhosis	['571', '571.6']	['544']	HP_0002613	Biliary cirrhosis	biliary cirrhosis	True
 572.2	Hepatic encephalopathy	hepatic encephalopathy	['571', '571.8']	['542', '542.3']	HP_0002480	Hepatic encephalopathy	hepatic encephalopathy	True
@@ -548,6 +614,7 @@ ICD9_code	ICD9_label	ICD9_simpleLabel	phecode1.2_codeList	phecodeX_codeList	hpo_
 575.10	Cholecystitis, unspecified	cholecystitis	['574', '574.3']	['550', '550.2']	HP_0001082	Cholecystitis	cholecystitis	True
 576.1	Cholangitis	cholangitis	['575', '575.1']	['552', '552.1']	HP_0030151	Cholangitis	cholangitis	True
 577.0	Acute pancreatitis	acute pancreatitis	['577', '577.1']	['554', '554.1', '554.11']	HP_0001735	Acute pancreatitis	acute pancreatitis	True
+577.0	Acute pancreatitis	acute pancreatitis	['577', '577.1']	['554', '554.1', '554.11']	HP_0001735	Pancreatitis, acute	pancreatitis acute	False
 577.1	Chronic pancreatitis	chronic pancreatitis	['577', '577.2']	['554', '554.1', '554.12']	HP_0006280	Chronic pancreatitis	chronic pancreatitis	True
 578	Gastrointestinal hemorrhage	gastrointestinal hemorrhage	['578']	['557']	HP_0002239	Gastrointestinal hemorrhage	gastrointestinal hemorrhage	True
 578	Gastrointestinal hemorrhage	gastrointestinal hemorrhage	['578']	['557']	HP_0002239	Gastrointestinal haemorrhage	gastrointestinal hemorrhage	False
@@ -595,16 +662,19 @@ ICD9_code	ICD9_label	ICD9_simpleLabel	phecode1.2_codeList	phecodeX_codeList	hpo_
 599.71	Gross hematuria	gross hematuria	['593', '593.1']	['593', '593.1']	HP_0012587	Gross hematuria	gross hematuria	False
 599.72	Microscopic hematuria	microscopic hematuria	['593.2']	['593', '593.2']	HP_0002907	Microscopic hematuria	microscopic hematuria	True
 601.9	Prostatitis, unspecified	prostatitis	['601', '601.1']	['601', '601.1']	HP_0000024	Prostatitis	prostatitis	True
+606	Infertility, male	infertility male	['609']	['609']	HP_0003251	Male infertility	male infertility	True
 606.0	Azoospermia	azoospermia	['609', '609.1', '609.11']	['609', '609.1']	HP_0000027	Azoospermia	azoospermia	True
 606.1	Oligospermia	oligospermia	['609', '609.1', '609.11']	['609', '609.2']	HP_0000798	Oligospermia	oligospermia	True
 606.9	Male infertility, unspecified	male infertility	['609', '609.1']	['609']	HP_0003251	Male infertility	male infertility	True
 607.3	Priapism	priapism	['604']	['604', '604.4']	HP_0200023	Priapism	priapism	True
 608.1	Spermatocele	spermatocele	['603', '603.2']	['603', '603.2']	HP_0033808	Spermatocele	spermatocele	True
+608.23	Torsion of appendix testis	torsion of appendix testis	['603']	['603', '603.3']	HP_0033180	Torsion of appendix of testis	torsion of appendix of testis	True
 608.87	Retrograde ejaculation	retrograde ejaculation	['608']	['605', '605.2']	HP_0012877	Retrograde ejaculation	retrograde ejaculation	True
 610.2	Fibroadenosis of breast	fibroadenosis of breast	['610', '610.2']	['610', '610.2']	HP_0010619	Fibroadenosis of breast	fibroadenosis of breast	False
 617	Endometriosis	endometriosis	['615']	['615']	HP_0030127	Endometriosis	endometriosis	True
 618.03	Urethrocele	urethrocele	['618', '618.1']	['618', '618.1']	HP_0100821	Urethrocele	urethrocele	True
 618.04	Rectocele	rectocele	['618', '618.1']	['618', '618.1', '618.12']	HP_0100822	Rectocele	rectocele	True
+618.83	Pelvic muscle wasting	pelvic muscle wasting	['618']	['618']	HP_0008988	Pelvic girdle muscle wasting	pelvic girdle muscle wasting	False
 625.0	Dyspareunia	dyspareunia	['625', '625.1']	['625', '625.1']	HP_0030016	Dyspareunia	dyspareunia	True
 625.1	Vaginismus	vaginismus	['625', '625.1']	['625', '625.1']	HP_0030017	Vaginismus	vaginismus	True
 625.3	Dysmenorrhea	dysmenorrhea	['626', '626.2']	['626', '626.2']	HP_0100607	Dysmenorrhea	dysmenorrhea	True
@@ -613,6 +683,7 @@ ICD9_code	ICD9_label	ICD9_simpleLabel	phecode1.2_codeList	phecodeX_codeList	hpo_
 626.0	Absence of menstruation	absence of menstruation	['626', '626.1', '626.11']	['626', '626.1', '626.11']	HP_0000141	Abnormal absence of menstruation	abnormal absence of menstruation	False
 626.6	Metrorrhagia	metrorrhagia	['626', '626.1', '626.14']	['626', '626.1', '626.14']	HP_0100608	Metrorrhagia	metrorrhagia	True
 627.1	Postmenopausal bleeding	postmenopausal bleeding	['627', '627.1']	['627', '627.1']	HP_0033840	Postmenopausal bleeding	postmenopausal bleeding	True
+628	Infertility, female	infertility female	['626', '626.8']	['629']	HP_0008222	Female infertility	female infertility	True
 630	Hydatidiform mole	hydatidiform mole	['634', '634.1']	['901', '901.2']	HP_0032192	Hydatidiform mole	hydatidiform mole	True
 633	Ectopic pregnancy	ectopic pregnancy	['634', '634.3']	['901', '901.1']	HP_0031456	Ectopic pregnancy	ectopic pregnancy	True
 633.9	Unspecified ectopic pregnancy	ectopic pregnancy	['634', '634.3']	['901', '901.1']	HP_0031456	Ectopic pregnancy	ectopic pregnancy	True
@@ -657,12 +728,17 @@ ICD9_code	ICD9_label	ICD9_simpleLabel	phecode1.2_codeList	phecodeX_codeList	hpo_
 714.0	Rheumatoid arthritis	rheumatoid arthritis	['714', '714.1']	['181', '705', '705.1']	HP_0005681	Juvenile rheumatoid arthritis	juvenile rheumatoid arthritis	True
 714.0	Rheumatoid arthritis	rheumatoid arthritis	['714', '714.1']	['181', '705', '705.1']	HP_0005681	Rheumatoid arthritis, juvenile	rheumatoid arthritis juvenile	False
 716.9	Arthropathy, unspecified	arthropathy	['716', '716.9']	['707']	HP_0003040	Arthropathy	arthropathy	True
+718.4	Contracture of joint	contracture of joint	['739']	['719', '719.9', '719.92']	HP_0002987	Contracture of elbow joint	contracture of elbow joint	False
+718.4	Contracture of joint	contracture of joint	['739']	['719', '719.9', '719.92']	HP_0009473	Joint contracture of the hand	joint contracture of the hand	True
+718.44	Contracture of joint, hand	contracture of joint hand	['739']	['719', '719.9', '719.92']	HP_0009473	Joint contracture of the hand	joint contracture of the hand	True
 719.1	Hemarthrosis	hemarthrosis	['741', '741.5']	['713', '713.1']	HP_0005261	Hemarthrosis	hemarthrosis	False
 719.7	Difficulty in walking	difficulty in walking	['741', '741.3']	['325', '325.2', '325.24']	HP_0002355	Difficulty in walking	difficulty in walking	False
 722.3	Schmorl's nodes	schmorls nodes	['722', '722.3']	['716', '716.1']	HP_0030041	Schmorl's nodes	schmorls nodes	False
 723.5	Torticollis, unspecified	torticollis	['723', '723.1']	['324', '324.3', '324.34']	HP_0000473	Torticollis	torticollis	True
 724.3	Sciatica	sciatica	['764']	['718', '718.5']	HP_0011868	Sciatica	sciatica	True
 727.1	Bunion	bunion	['735', '735.3']	['709', '709.2', '709.21']	HP_0001822	Bunion	bunion	False
+728.87	Muscle weakness (generalized)	muscle weakness generalized	['772.3']	['807', '807.2']	HP_0003324	Generalized muscle weakness	generalized muscle weakness	True
+728.87	Muscle weakness (generalized)	muscle weakness generalized	['772.3']	['807', '807.2']	HP_0003324	Generalised muscle weakness	generalized muscle weakness	False
 728.87	Muscle weakness (generalized)	muscle weakness generalized	['772.3']	['807', '807.2']	HP_0003324	Muscle weakness, generalised	muscle weakness generalized	False
 728.87	Muscle weakness (generalized)	muscle weakness generalized	['772.3']	['807', '807.2']	HP_0003324	Muscle weakness, generalized	muscle weakness generalized	False
 728.88	Rhabdomyolysis	rhabdomyolysis	['772.4']	['719', '719.8']	HP_0003201	Rhabdomyolysis	rhabdomyolysis	True
@@ -672,6 +748,7 @@ ICD9_code	ICD9_label	ICD9_simpleLabel	phecode1.2_codeList	phecodeX_codeList	hpo_
 729.4	Fasciitis, unspecified	fasciitis	['728.7']	['722']	HP_0100537	Fasciitis	fasciitis	True
 730.2	Unspecified osteomyelitis	osteomyelitis	['710', '710.1', '710.19']	['701', '701.1']	HP_0001886	Foot osteomyelitis	foot osteomyelitis	True
 730.2	Unspecified osteomyelitis	osteomyelitis	['710', '710.1', '710.19']	['701', '701.1']	HP_0002754	Osteomyelitis	osteomyelitis	True
+732.0	Juvenile osteochondrosis of spine	juvenile osteochondrosis of spine	['732', '732.1']	['714', '714.4']	HP_0010891	Juvenile Osteochondrosis of the spine	juvenile osteochondrosis of the spine	False
 732.7	Osteochondritis dissecans	osteochondritis dissecans	['732', '732.7']	['728', '728.2']	HP_0010886	Osteochondritis dissecans	osteochondritis dissecans	True
 733.0	Osteoporosis	osteoporosis	['743', '743.1']	['726', '726.1']	HP_0000939	Osteoporosis	osteoporosis	True
 733.00	Osteoporosis, unspecified	osteoporosis	['743', '743.1', '743.11']	['726', '726.1']	HP_0000939	Osteoporosis	osteoporosis	True
@@ -696,11 +773,13 @@ ICD9_code	ICD9_label	ICD9_simpleLabel	phecode1.2_codeList	phecodeX_codeList	hpo_
 743.10	Microphthalmos, unspecified	microphthalmos	['753']	['753', '753.1', '753.12']	HP_0000568	Microphthalmos	microphthalmos	False
 743.2	Buphthalmos	buphthalmos	['753']	['753', '753.3']	HP_0000557	Buphthalmos	buphthalmos	True
 743.20	Buphthalmos, unspecified	buphthalmos	['753']	['753', '753.3']	HP_0000557	Buphthalmos	buphthalmos	True
+743.30	Congenital cataract, unspecified	congenital cataract	['753', '753.1']	['371', '753', '753.2', '753.23']	HP_0000519	Cataract, congenital	cataract congenital	False
 743.30	Congenital cataract, unspecified	congenital cataract	['753', '753.1']	['371', '753', '753.2', '753.23']	HP_0000519	Congenital cataract	congenital cataract	False
 743.33	Congenital nuclear cataract	congenital nuclear cataract	['753', '753.1']	['753', '753.2', '753.23']	HP_0008024	obsolete Congenital nuclear cataract	obsolete congenital nuclear cataract	True
 743.35	Congenital aphakia	congenital aphakia	['753', '753.1']	['753', '753.2', '753.21']	HP_0007707	Congenital aphakia	congenital aphakia	True
 743.45	Aniridia	aniridia	['753']	['753', '753.5', '753.51']	HP_0000526	Aniridia	aniridia	True
 743.61	Congenital ptosis	congenital ptosis	['749']	['361', '361.3', '754', '754.1', '754.11']	HP_0007970	Congenital ptosis	congenital ptosis	True
+744.01	Absence of external ear	absence of external ear	['749']	['755', '755.1', '755.12']	HP_0400003	Focal absence of the external ear	focal absence of the external ear	True
 744.22	Macrotia	macrotia	['749']	['755', '755.2']	HP_0000400	Macrotia	macrotia	True
 744.23	Microtia	microtia	['749']	['755', '755.1', '755.11']	HP_0008551	Microtia	microtia	True
 744.47	Preauricular cyst	preauricular cyst	['749']	['756', '756.2']	HP_0040297	Preauricular cyst	preauricular cyst	True
@@ -722,13 +801,16 @@ ICD9_code	ICD9_label	ICD9_simpleLabel	phecode1.2_codeList	phecodeX_codeList	hpo_
 745.4	Ventricular septal defect	ventricular septal defect	['747', '747.1', '747.11']	['780', '780.4', '780.41']	HP_0011682	Membranous ventricular septal defect	membranous ventricular septal defect	False
 745.4	Ventricular septal defect	ventricular septal defect	['747', '747.1', '747.11']	['780', '780.4', '780.41']	HP_0011682	Type 2 ventricular septal defect	type 2 ventricular septal defect	False
 745.4	Ventricular septal defect	ventricular septal defect	['747', '747.1', '747.11']	['780', '780.4', '780.41']	HP_0011683	Restrictive ventricular septal defect	restrictive ventricular septal defect	True
+745.5	Ostium secundum type atrial septal defect	ostium secundum type atrial septal defect	['747', '747.1', '747.11']	['780', '780.4', '780.42']	HP_0001684	Atrial septal defect, ostium secundum type	atrial septal defect ostium secundum type	False
 746.2	Ebstein's anomaly	ebsteins anomaly	['747', '747.1', '747.12']	['779', '779.2', '779.22']	HP_0010316	Ebstein's anomaly	ebsteins anomaly	False
 746.5	Congenital mitral stenosis	congenital mitral stenosis	['747', '747.1', '747.12']	['413', '413.1', '413.13', '779', '779.3', '779.33']	HP_0011570	Congenital mitral stenosis	congenital mitral stenosis	True
 746.81	Subaortic stenosis	subaortic stenosis	['747', '747.1', '747.11']	['780', '780.7']	HP_0001682	Subaortic stenosis	subaortic stenosis	False
 746.82	Cor triatriatum	cor triatriatum	['747', '747.1']	['780', '780.6']	HP_0010774	Cor triatriatum	cor triatriatum	True
 746.82	Cor triatriatum	cor triatriatum	['747', '747.1']	['780', '780.6']	HP_0011566	Cor triatriatum dexter	cor triatriatum dexter	True
+746.85	Coronary artery anomaly	coronary artery anomaly	['747', '747.1']	['780', '780.1']	HP_0025506	Coronary artery sandwich anomaly	coronary artery sandwich anomaly	True
 747.0	Patent ductus arteriosus	patent ductus arteriosus	['747', '747.1', '747.13']	['778', '778.3']	HP_0001643	Patent ductus arteriosus	patent ductus arteriosus	True
 747.1	Coarctation of aorta	coarctation of aorta	['747', '747.1', '747.13']	['778', '778.4', '778.41']	HP_0001680	Coarctation of aorta	coarctation of aorta	True
+747.1	Coarctation of aorta	coarctation of aorta	['747', '747.1', '747.13']	['778', '778.4', '778.41']	HP_0001680	Coarctation of the aorta	coarctation of the aorta	False
 747.32	Pulmonary arteriovenous malformation	pulmonary arteriovenous malformation	['747', '747.1', '747.13']	['441', '441.2', '781', '781.1']	HP_0006548	Pulmonary arteriovenous malformation	pulmonary arteriovenous malformation	True
 747.41	Total anomalous pulmonary venous connection	total anomalous pulmonary venous connection	['747', '747.1', '747.13']	['781', '781.4', '781.41']	HP_0005160	Total anomalous pulmonary venous connection	total anomalous pulmonary venous connection	False
 747.41	Total anomalous pulmonary venous connection	total anomalous pulmonary venous connection	['747', '747.1', '747.13']	['781', '781.4', '781.41']	HP_0011719	Supracardiac total anomalous pulmonary venous connection	supracardiac total anomalous pulmonary venous connection	True
@@ -750,14 +832,30 @@ ICD9_code	ICD9_label	ICD9_simpleLabel	phecode1.2_codeList	phecodeX_codeList	hpo_
 747.83	Persistent fetal circulation	persistent fetal circulation	['747']	['853', '853.6']	HP_0011726	Persistent fetal circulation	persistent fetal circulation	True
 747.83	Persistent fetal circulation	persistent fetal circulation	['747']	['853', '853.6']	HP_0011726	Persistent foetal circulation	persistent fetal circulation	False
 748.0	Choanal atresia	choanal atresia	['749']	['758', '758.6', '758.61']	HP_0000453	Choanal atresia	choanal atresia	True
+749	Cleft palate and cleft lip	cleft palate and cleft lip	['749', '749.1']	['757']	HP_0002744	Bilateral cleft lip and palate	bilateral cleft lip and palate	True
+749	Cleft palate and cleft lip	cleft palate and cleft lip	['749', '749.1']	['757']	HP_0002744	Bilateral cleft lip and cleft palate	bilateral cleft lip and cleft palate	False
+749	Cleft palate and cleft lip	cleft palate and cleft lip	['749', '749.1']	['757']	HP_0002744	Right and left cleft lip and palate	right and left cleft lip and palate	False
+749	Cleft palate and cleft lip	cleft palate and cleft lip	['749', '749.1']	['757']	HP_0008501	Median cleft lip and palate	median cleft lip and palate	True
+749	Cleft palate and cleft lip	cleft palate and cleft lip	['749', '749.1']	['757']	HP_0008501	Central cleft lip and palate	central cleft lip and palate	False
+749	Cleft palate and cleft lip	cleft palate and cleft lip	['749', '749.1']	['757']	HP_0008501	Medial cleft lip and palate	medial cleft lip and palate	False
 749.0	Cleft palate	cleft palate	['749', '749.1']	['757', '757.1']	HP_0000175	Cleft palate	cleft palate	True
+749.0	Cleft palate	cleft palate	['749', '749.1']	['757', '757.1']	HP_0000175	Cleft of palate	cleft of palate	False
+749.0	Cleft palate	cleft palate	['749', '749.1']	['757', '757.1']	HP_0000185	Cleft soft palate	cleft soft palate	True
+749.0	Cleft palate	cleft palate	['749', '749.1']	['757', '757.1']	HP_0410005	Cleft hard palate	cleft hard palate	True
+749.0	Cleft palate	cleft palate	['749', '749.1']	['757', '757.1']	HP_0410005	Cleft bony palate	cleft bony palate	False
 749.00	Cleft palate, unspecified	cleft palate	['749', '749.1']	['757', '757.1']	HP_0000175	Cleft palate	cleft palate	True
+749.00	Cleft palate, unspecified	cleft palate	['749', '749.1']	['757', '757.1']	HP_0000175	Cleft of palate	cleft of palate	False
+749.00	Cleft palate, unspecified	cleft palate	['749', '749.1']	['757', '757.1']	HP_0000185	Cleft soft palate	cleft soft palate	True
+749.00	Cleft palate, unspecified	cleft palate	['749', '749.1']	['757', '757.1']	HP_0410005	Cleft hard palate	cleft hard palate	True
+749.00	Cleft palate, unspecified	cleft palate	['749', '749.1']	['757', '757.1']	HP_0410005	Cleft bony palate	cleft bony palate	False
 749.1	Cleft lip	cleft lip	['749', '749.1']	['757', '757.2']	HP_0410030	Cleft lip	cleft lip	True
 749.10	Cleft lip, unspecified	cleft lip	['749', '749.1']	['757', '757.2']	HP_0410030	Cleft lip	cleft lip	True
 750.11	Aglossia	aglossia	['750', '750.1', '750.13']	['759']	HP_0012730	Aglossia	aglossia	True
 750.15	Macroglossia	macroglossia	['750', '750.1', '750.13']	['759', '759.1']	HP_0000158	Macroglossia	macroglossia	True
 750.16	Microglossia	microglossia	['750', '750.1', '750.13']	['759']	HP_0000171	Microglossia	microglossia	True
 751.61	Biliary atresia	biliary atresia	['750', '750.2', '750.22']	['766', '766.1']	HP_0005912	Biliary atresia	biliary atresia	True
+751.61	Biliary atresia	biliary atresia	['750', '750.2', '750.22']	['766', '766.1']	HP_0005912	Biliary duct atresia	biliary duct atresia	False
+752.32	Hypoplasia of uterus	hypoplasia of uterus	['751', '751.1', '751.11']	['770', '770.3', '770.31']	HP_0000013	Hypoplasia of the uterus	hypoplasia of the uterus	True
 752.33	Unicornuate uterus	unicornuate uterus	['751', '751.1', '751.11']	['770', '770.3', '770.34']	HP_0031909	Unicornuate uterus	unicornuate uterus	True
 752.34	Bicornuate uterus	bicornuate uterus	['751', '751.1', '751.11']	['770', '770.3', '770.33']	HP_0000813	Bicornuate uterus	bicornuate uterus	True
 752.42	Imperforate hymen	imperforate hymen	['751', '751.1', '751.11']	['770', '770.5', '770.53']	HP_0030011	Imperforate hymen	imperforate hymen	True
@@ -771,11 +869,14 @@ ICD9_code	ICD9_label	ICD9_simpleLabel	phecode1.2_codeList	phecodeX_codeList	hpo_
 752.64	Micropenis	micropenis	['751', '751.1', '751.12']	['771', '771.2', '771.23']	HP_0000054	Micropenis	micropenis	True
 753.15	Renal dysplasia	renal dysplasia	['751', '751.2', '751.21']	['773', '773.2']	HP_0000110	Renal dysplasia	renal dysplasia	True
 753.15	Renal dysplasia	renal dysplasia	['751', '751.2', '751.21']	['773', '773.2']	HP_0000800	Cystic renal dysplasia	cystic renal dysplasia	True
+753.15	Renal dysplasia	renal dysplasia	['751', '751.2', '751.21']	['773', '773.2']	HP_0000800	Renal cystic dysplasia	renal cystic dysplasia	False
 753.15	Renal dysplasia	renal dysplasia	['751', '751.2', '751.21']	['773', '773.2']	HP_0000800	Renal dysplasia, cystic	renal dysplasia cystic	False
+754.3	Congenital dislocation of hip	congenital dislocation of hip	['755', '755.6', '755.61']	['783', '783.1', 'T830']	HP_0001374	Congenital dislocation of the hip	congenital dislocation of the hip	False
 754.40	Genu recurvatum	genu recurvatum	['755', '755.6']	['710', '710.3', '785', '785.3']	HP_0002816	Genu recurvatum	genu recurvatum	True
 754.50	Talipes varus	talipes varus	['755', '755.1']	['784', '784.1', '784.11']	HP_0001762	Talipes varus	talipes varus	False
 754.51	Talipes equinovarus	talipes equinovarus	['755', '755.1']	['710', '710.4', '710.42', '784', '784.1', '784.11']	HP_0001762	Talipes equinovarus	talipes equinovarus	True
 754.51	Talipes equinovarus	talipes equinovarus	['755', '755.1']	['710', '710.4', '710.42', '784', '784.1', '784.11']	HP_0001762	Foot, talipes equinovarus	foot talipes equinovarus	False
+754.51	Talipes equinovarus	talipes equinovarus	['755', '755.1']	['710', '710.4', '710.42', '784', '784.1', '784.11']	HP_0004696	Talipes cavus equinovarus	talipes cavus equinovarus	True
 754.53	Metatarsus varus	metatarsus varus	['755', '755.1']	['784', '784.2']	HP_0001840	Metatarsus varus	metatarsus varus	False
 754.60	Talipes valgus	talipes valgus	['755', '755.1']	['784', '784.1', '784.13']	HP_0004684	Talipes valgus	talipes valgus	True
 754.62	Talipes calcaneovalgus	talipes calcaneovalgus	['755', '755.1']	['784', '784.1', '784.13']	HP_0001884	Talipes calcaneovalgus	talipes calcaneovalgus	True
@@ -808,9 +909,18 @@ ICD9_code	ICD9_label	ICD9_simpleLabel	phecode1.2_codeList	phecodeX_codeList	hpo_
 758.6	Gonadal dysgenesis	gonadal dysgenesis	['758', '758.1']	['797', '797.7']	HP_0000133	Pure gonadal dysgenesis	pure gonadal dysgenesis	False
 758.6	Gonadal dysgenesis	gonadal dysgenesis	['758', '758.1']	['797', '797.7']	HP_0008668	Gonadal dysgenesis, male	gonadal dysgenesis male	True
 758.6	Gonadal dysgenesis	gonadal dysgenesis	['758', '758.1']	['797', '797.7']	HP_0008668	46,xy gonadal dysgenesis	46xy gonadal dysgenesis	False
+759.9	Congenital anomaly, unspecified	congenital anomaly	['759']	['796']	HP_0001374	Congenital hip anomaly	congenital hip anomaly	False
 770.3	Pulmonary hemorrhage	pulmonary hemorrhage	['656', '656.2']	['854', '854.3']	HP_0040223	Pulmonary hemorrhage	pulmonary hemorrhage	True
 770.3	Pulmonary hemorrhage	pulmonary hemorrhage	['656', '656.2']	['854', '854.3']	HP_0040223	Pulmonary haemorrhage	pulmonary hemorrhage	False
 771.1	Congenital cytomegalovirus infection	congenital cytomegalovirus infection	['657']	['856', '856.1', '856.11']	HP_0033624	History of congenital cytomegalovirus infection	history of congenital cytomegalovirus infection	False
+772.11	Intraventricular hemorrhage, grade I	intraventricular hemorrhage grade i	['656', '656.4']	['857', '857.1']	HP_0030748	Grade I preterm intraventricular hemorrhage	grade i preterm intraventricular hemorrhage	True
+772.11	Intraventricular hemorrhage, grade I	intraventricular hemorrhage grade i	['656', '656.4']	['857', '857.1']	HP_0030748	Grade I preterm intraventricular haemorrhage	grade i preterm intraventricular hemorrhage	False
+772.12	Intraventricular hemorrhage, grade II	intraventricular hemorrhage grade ii	['656', '656.4']	['857', '857.1']	HP_0030749	Grade II preterm intraventricular hemorrhage	grade ii preterm intraventricular hemorrhage	True
+772.12	Intraventricular hemorrhage, grade II	intraventricular hemorrhage grade ii	['656', '656.4']	['857', '857.1']	HP_0030749	Grade II preterm intraventricular haemorrhage	grade ii preterm intraventricular hemorrhage	False
+772.13	Intraventricular hemorrhage, grade III	intraventricular hemorrhage grade iii	['656', '656.4']	['857', '857.1']	HP_0030750	Grade III preterm intraventricular hemorrhage	grade iii preterm intraventricular hemorrhage	True
+772.13	Intraventricular hemorrhage, grade III	intraventricular hemorrhage grade iii	['656', '656.4']	['857', '857.1']	HP_0030750	Grade III preterm intraventricular haemorrhage	grade iii preterm intraventricular hemorrhage	False
+772.14	Intraventricular hemorrhage, grade IV	intraventricular hemorrhage grade iv	['656', '656.4']	['857', '857.1']	HP_0030751	Grade IV preterm intraventricular hemorrhage	grade iv preterm intraventricular hemorrhage	True
+772.14	Intraventricular hemorrhage, grade IV	intraventricular hemorrhage grade iv	['656', '656.4']	['857', '857.1']	HP_0030751	Grade IV preterm intraventricular haemorrhage	grade iv preterm intraventricular hemorrhage	False
 775.1	Neonatal diabetes mellitus	neonatal diabetes mellitus	['656', '656.3']	['861', '861.1']	HP_0008255	Transient neonatal diabetes mellitus	transient neonatal diabetes mellitus	True
 775.6	Neonatal hypoglycemia	neonatal hypoglycemia	['656', '656.3']	['861', '861.2']	HP_0001998	Neonatal hypoglycemia	neonatal hypoglycemia	True
 778.6	Congenital hydrocele	congenital hydrocele	['656', '656.7']	['868', '868.6']	HP_4000037	Congenital hydrocele	congenital hydrocele	True
@@ -828,9 +938,11 @@ ICD9_code	ICD9_label	ICD9_simpleLabel	phecode1.2_codeList	phecodeX_codeList	hpo_
 780.60	Fever, unspecified	fever	['783']	['805']	HP_0001945	Fever	fever	True
 780.93	Memory loss	memory loss	['292', '292.3']	['329', '329.1']	HP_0002354	Memory loss	memory loss	False
 780.94	Early satiety	early satiety	['1005']	['230', '230.5']	HP_0033842	Early satiety	early satiety	True
+781.0	Abnormal involuntary movements	abnormal involuntary movements	['350', '350.1']	['325', '325.1']	HP_0012547	Abnormal involuntary eye movements	abnormal involuntary eye movements	True
 781.5	Clubbing of fingers	clubbing of fingers	['781']	['813']	HP_0001217	Clubbing of fingers and toes	clubbing of fingers and toes	False
 781.5	Clubbing of fingers	clubbing of fingers	['781']	['813']	HP_0100759	Clubbing of fingers	clubbing of fingers	True
 781.7	Tetany	tetany	['350', '350.1']	['350', '350.1']	HP_0001281	Tetany	tetany	True
+781.94	Facial weakness	facial weakness	['772.6']	['334', '334.2', '334.23']	HP_0030319	Facial muscle weakness	facial muscle weakness	False
 781.94	Facial weakness	facial weakness	['772.6']	['334', '334.2', '334.23']	HP_0030319	Facial weakness	facial weakness	False
 782.3	Edema	edema	['782.3']	['812']	HP_0000969	Edema	edema	True
 782.5	Cyanosis	cyanosis	['513', '513.3']	['498', '498.2']	HP_0000961	Cyanosis	cyanosis	True
@@ -842,6 +954,7 @@ ICD9_code	ICD9_label	ICD9_simpleLabel	phecode1.2_codeList	phecodeX_codeList	hpo_
 783.41	Failure to thrive	failure to thrive	['264', '264.2']	['890', '890.1']	HP_0001525	Severe failure to thrive	severe failure to thrive	True
 783.41	Failure to thrive	failure to thrive	['264', '264.2']	['890', '890.1']	HP_0001525	Marked failure to thrive	marked failure to thrive	False
 783.42	Delayed milestones	delayed milestones	['264', '264.3']	['891', '891.4']	HP_0001263	Delayed milestones	delayed milestones	False
+783.42	Delayed milestones	delayed milestones	['264', '264.3']	['891', '891.4']	HP_0001270	Delayed motor milestones	delayed motor milestones	False
 783.43	Short stature	short stature	['264', '264.1']	['890', '890.3']	HP_0004322	Short stature	short stature	True
 783.43	Short stature	short stature	['264', '264.1']	['890', '890.3']	HP_0003502	Mild short stature	mild short stature	True
 783.43	Short stature	short stature	['264', '264.1']	['890', '890.3']	HP_0003502	short stature, mild	short stature mild	False
@@ -903,6 +1016,7 @@ ICD9_code	ICD9_label	ICD9_simpleLabel	phecode1.2_codeList	phecodeX_codeList	hpo_
 789.4	Abdominal rigidity	abdominal rigidity	['579']	['556', '556.4']	HP_0032545	Abdominal rigidity	abdominal rigidity	True
 789.5	Ascites	ascites	['572']	['555']	HP_0001541	Ascites	ascites	True
 790.0	Abnormality of red blood cells	abnormality of red blood cells	['289', '289.9']	['821']	HP_0001877	Abnormality of red blood cells	abnormality of red blood cells	False
+790.1	Elevated sedimentation rate	elevated sedimentation rate	['790.1']	['820']	HP_0003565	Elevated erythrocyte sedimentation rate	elevated erythrocyte sedimentation rate	True
 790.1	Elevated sedimentation rate	elevated sedimentation rate	['790.1']	['820']	HP_0003565	Elevated sedimentation rate	elevated sedimentation rate	False
 790.21	Impaired fasting glucose	impaired fasting glucose	['250.4', '250.41']	['204', '204.1']	HP_0025691	Impaired fasting glucose	impaired fasting glucose	True
 790.7	Bacteremia	bacteremia	['038', '038.3']	['092', '092.8']	HP_0031864	Bacteremia	bacteremia	True
@@ -918,7 +1032,10 @@ ICD9_code	ICD9_label	ICD9_simpleLabel	phecode1.2_codeList	phecodeX_codeList	hpo_
 799.22	Irritability	irritability	['1004']	['308', '308.1']	HP_0000737	Irritability	irritability	True
 799.24	Emotional lability	emotional lability	['1004']	['308', '308.3']	HP_0000712	Emotional lability	emotional lability	True
 799.4	Cachexia	cachexia	['260.1']	['230', '230.4']	HP_0004326	Cachexia	cachexia	True
+799.81	Decreased libido	decreased libido	['302', '302.1']	['294']	HP_0030018	Decreased female libido	decreased female libido	True
 799.81	Decreased libido	decreased libido	['302', '302.1']	['294']	HP_0046504	Decreased libido	decreased libido	True
+799.81	Decreased libido	decreased libido	['302', '302.1']	['294']	HP_0040306	Decreased male libido	decreased male libido	True
+812	Fracture of humerus	fracture of humerus	['803', '803.1']	['T822']	HP_0041055	Fracture of the humerus	fracture of the humerus	False
 835	Dislocation of hip	dislocation of hip	['830']	['T830.6']	HP_0002827	Dislocation of hip	dislocation of hip	False
 958.1	Fat embolism	fat embolism	['958']	['T900.1']	HP_0032008	Fat embolism	fat embolism	False
 991.5	Chilblains	chilblains	['1014']	['677']	HP_0009710	Chilblains	chilblains	True

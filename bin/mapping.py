@@ -5,7 +5,7 @@ usage: mapping.py [-h] -f FROM -t TO -m MAP -o OUTPUT [--i I]
 import argparse
 import requests
 import re
-
+import itertools
 import pandas as pd
 import wikipedia
 wikipedia.set_lang("en")
@@ -97,9 +97,12 @@ def substrMatchChecker(substr, string):
         return True
     if len(substr) <= 5: # if substring is short
         return False
-    if f" {substr} " in f" {string} ":
-        if len(substr)/len(string) > 2/3:
+    if len(substr)/len(string) > 2/3:
+        if f" {substr} " in f" {string} ":
             return True
+        #if len(substr.split(" ")) > 1:
+            #if all(f" {w} " in f" {string} " for w in substr.split(" ")): #regardless of the ordering of the words
+         #       return True 
     return False
 
 def wikimedMatch(fromTermDF, fromTerm):

@@ -483,6 +483,7 @@ HP:0032990	Localized pulmonary hemorrhage	656	Other perinatal conditions of fetu
 HP:0040223	Pulmonary hemorrhage	656	Other perinatal conditions of fetus or newborn
 HP:0004809	Neonatal alloimmune thrombocytopenia	656	Other perinatal conditions of fetus or newborn
 HP:0410255	Transient neutropenia	656	Other perinatal conditions of fetus or newborn
+HP:0410256	Infection associated neutropenia	656	Other perinatal conditions of fetus or newborn
 HP:0002464	Spastic dysarthria	656	Other perinatal conditions of fetus or newborn
 HP:0002870	Obstructive sleep apnea	656	Other perinatal conditions of fetus or newborn
 HP:0010535	Sleep apnea	656	Other perinatal conditions of fetus or newborn
@@ -554,6 +555,7 @@ HP:0032092	Left ventricular outflow tract obstruction	656	Other perinatal condit
 HP:0033754	Abnormal left ventricular end-diastolic volume	656	Other perinatal conditions of fetus or newborn
 HP:0033755	Increased left ventricular end-diastolic volume	656	Other perinatal conditions of fetus or newborn
 HP:0033756	Decreased left ventricular end-diastolic volume	656	Other perinatal conditions of fetus or newborn
+HP:0004875	Neonatal inspiratory stridor	656	Other perinatal conditions of fetus or newborn
 HP:0004886	Congenital laryngeal stridor	656	Other perinatal conditions of fetus or newborn
 HP:0002090	Pneumonia	656	Other perinatal conditions of fetus or newborn
 HP:0002100	Recurrent aspiration pneumonia	656	Other perinatal conditions of fetus or newborn
@@ -620,6 +622,7 @@ HP:0025421	Pneumomediastinum	656	Other perinatal conditions of fetus or newborn
 HP:0100750	Atelectasis	656	Other perinatal conditions of fetus or newborn
 HP:0002643	Neonatal respiratory distress	656	Other perinatal conditions of fetus or newborn
 HP:0002878	Respiratory failure	656	Other perinatal conditions of fetus or newborn
+HP:0012768	Neonatal asphyxia	656	Other perinatal conditions of fetus or newborn
 HP:0034236	Apnea of prematurity	656	Other perinatal conditions of fetus or newborn
 HP:0033210	Congenital alveolar dysplasia	656	Other perinatal conditions of fetus or newborn
 HP:0002590	Paralytic ileus	656	Other perinatal conditions of fetus or newborn
@@ -782,9 +785,13 @@ HP:0041087	Compression-fractured lumbar vertebra	743.21	Pathologic fracture of v
 HP:0041166	Fractured vertebra	743.21	Pathologic fracture of vertebrae
 HP:0041167	Fractured cervical vertebra	743.21	Pathologic fracture of vertebrae
 HP:0041168	Fractured lumbar vertebra	743.21	Pathologic fracture of vertebrae
+HP:0005661	Salmonella osteomyelitis	851	Complications of transplants and reattached limbs
 HP:0002664	Neoplasm	851	Complications of transplants and reattached limbs
 HP:0030731	Carcinoma	851	Complications of transplants and reattached limbs
+HP:0001886	Foot osteomyelitis	851	Complications of transplants and reattached limbs
 HP:0002754	Osteomyelitis	851	Complications of transplants and reattached limbs
+HP:0005010	Osteomyelitis leading to amputation due to slow healing fractures	851	Complications of transplants and reattached limbs
+HP:0007626	Mandibular osteomyelitis	851	Complications of transplants and reattached limbs
 HP:0011024	Abnormality of the gastrointestinal tract	070	Viral hepatitis
 HP:0000952	Jaundice	070	Viral hepatitis
 HP:0001046	Intermittent jaundice	070	Viral hepatitis
@@ -2058,6 +2065,7 @@ HP:0100790	Hernia	618	Genital prolapse
 HP:0100821	Urethrocele	618	Genital prolapse
 HP:0100822	Rectocele	618	Genital prolapse
 HP:0100823	Genital hernia	618	Genital prolapse
+HP:0003665	Amyotrophy of the musculature of the pelvis	618	Genital prolapse
 HP:0008988	Pelvic girdle muscle atrophy	618	Genital prolapse
 HP:0031607	Pelvic organ prolapse	618	Genital prolapse
 HP:0011024	Abnormality of the gastrointestinal tract	618.6	Vaginal enterocele, congenital or acquired
@@ -2237,7 +2245,18 @@ HP:0000119	Abnormality of the genitourinary system	990	Effects radiation NOS
 HP:0025044	Lung abscess	324	Other CNS infection and poliomyelitis
 HP:0030049	Brain abscess	324	Other CNS infection and poliomyelitis
 HP:0100523	Liver abscess	324	Other CNS infection and poliomyelitis
+HP:0033509	EBV encephalitis	324	Other CNS infection and poliomyelitis
+HP:0032160	Cryptococcal meningitis	324	Other CNS infection and poliomyelitis
+HP:0001287	Meningitis	324	Other CNS infection and poliomyelitis
+HP:0007041	Chronic lymphocytic meningitis	324	Other CNS infection and poliomyelitis
+HP:0007274	Recurrent bacterial meningitis	324	Other CNS infection and poliomyelitis
+HP:0032159	Fungal meningitis	324	Other CNS infection and poliomyelitis
+HP:0032161	Coccidioidal meningitis	324	Other CNS infection and poliomyelitis
+HP:0002383	Infectious encephalitis	324	Other CNS infection and poliomyelitis
+HP:0006946	Recurrent meningitis	324	Other CNS infection and poliomyelitis
 HP:0011450	Unusual CNS infection	324	Other CNS infection and poliomyelitis
+HP:0012302	Herpes simplex encephalitis	324	Other CNS infection and poliomyelitis
+HP:0033993	Viral encephalitis	324	Other CNS infection and poliomyelitis
 HP:0005224	Rectal abscess	324	Other CNS infection and poliomyelitis
 HP:0006980	Progressive leukoencephalopathy	324	Other CNS infection and poliomyelitis
 HP:0009789	Perianal abscess	324	Other CNS infection and poliomyelitis
@@ -2276,9 +2295,17 @@ HP:0033214	Recurrent viral pneumonia	480	Pneumonia
 HP:0033670	Organizing pneumonia	480	Pneumonia
 HP:0025044	Lung abscess	480.5	Bronchopneumonia and lung abscess
 HP:0002090	Pneumonia	480.5	Bronchopneumonia and lung abscess
+HP:0030049	Brain abscess	323	Encephalitis
 HP:0033509	EBV encephalitis	323	Encephalitis
+HP:0032160	Cryptococcal meningitis	323	Encephalitis
 HP:0006965	Acute necrotizing encephalopathy	323	Encephalitis
+HP:0001287	Meningitis	323	Encephalitis
+HP:0007041	Chronic lymphocytic meningitis	323	Encephalitis
+HP:0007274	Recurrent bacterial meningitis	323	Encephalitis
+HP:0032159	Fungal meningitis	323	Encephalitis
+HP:0032161	Coccidioidal meningitis	323	Encephalitis
 HP:0002383	Infectious encephalitis	323	Encephalitis
+HP:0006946	Recurrent meningitis	323	Encephalitis
 HP:0011450	Unusual CNS infection	323	Encephalitis
 HP:0012302	Herpes simplex encephalitis	323	Encephalitis
 HP:0012486	Myelitis	323	Encephalitis
@@ -3632,9 +3659,12 @@ HP:0001367	Abnormal joint morphology	736	Other acquired deformities of limbs
 HP:0003040	Arthropathy	736	Other acquired deformities of limbs
 HP:0001215	Camptodactyly of 2nd-5th fingers	736	Other acquired deformities of limbs
 HP:0001220	Interphalangeal joint contracture of finger	736	Other acquired deformities of limbs
+HP:0001239	Wrist flexion contracture	736	Other acquired deformities of limbs
 HP:0001371	Flexion contracture	736	Other acquired deformities of limbs
+HP:0002987	Elbow flexion contracture	736	Other acquired deformities of limbs
 HP:0005617	Bilateral camptodactyly	736	Other acquired deformities of limbs
 HP:0005879	Congenital finger flexion contractures	736	Other acquired deformities of limbs
+HP:0006380	Knee flexion contracture	736	Other acquired deformities of limbs
 HP:0009183	Joint contracture of the 5th finger	736	Other acquired deformities of limbs
 HP:0009184	Contracture of the distal interphalangeal joint of the 5th finger	736	Other acquired deformities of limbs
 HP:0009185	Contracture of the proximal interphalangeal joint of the 5th finger	736	Other acquired deformities of limbs
@@ -3656,6 +3686,8 @@ HP:0009624	Contractures of the carpometacarpal joint of the thumb	736	Other acqu
 HP:0009625	Contractures of the metacarpophalangeal joint of the thumb	736	Other acquired deformities of limbs
 HP:0009626	Contractures of the interphalangeal joint of the thumb	736	Other acquired deformities of limbs
 HP:0009697	Contracture of the distal interphalangeal joint of the fingers	736	Other acquired deformities of limbs
+HP:0012453	Bilateral wrist flexion contracture	736	Other acquired deformities of limbs
+HP:0012454	Unilateral wrist flexion contracture	736	Other acquired deformities of limbs
 HP:0012785	Flexion contracture of finger	736	Other acquired deformities of limbs
 HP:0030675	Contracture of proximal interphalangeal joints of 2nd-5th fingers	736	Other acquired deformities of limbs
 HP:0100490	Camptodactyly of finger	736	Other acquired deformities of limbs
@@ -3867,6 +3899,8 @@ HP:0012314	Bouchard's node	740	Osteoarthrosis
 HP:0001367	Abnormal joint morphology	740.1	Osteoarthritis; localized
 HP:0003040	Arthropathy	740.1	Osteoarthritis; localized
 HP:0002758	Osteoarthritis	740.1	Osteoarthritis; localized
+HP:0005086	Knee osteoarthritis	740.1	Osteoarthritis; localized
+HP:0006226	Osteoarthritis of the first carpometacarpal joint	740.1	Osteoarthritis; localized
 HP:0008843	Hip osteoarthritis	740.1	Osteoarthritis; localized
 HP:0001367	Abnormal joint morphology	740.11	Osteoarthrosis, localized, primary
 HP:0003040	Arthropathy	740.11	Osteoarthrosis, localized, primary
@@ -4117,6 +4151,7 @@ HP:0030836	Wrist pain	745	Pain in joint
 HP:0030837	Finger pain	745	Pain in joint
 HP:0030838	Hip pain	745	Pain in joint
 HP:0030839	Knee pain	745	Pain in joint
+HP:0032102	Wilson sign	745	Pain in joint
 HP:0003365	Arthralgia of the hip	745	Pain in joint
 HP:0001367	Abnormal joint morphology	756	Other congenital musculoskeletal anomalies
 HP:0003040	Arthropathy	756	Other congenital musculoskeletal anomalies
@@ -4301,6 +4336,7 @@ HP:0001433	Hepatosplenomegaly	759	Other and unspecified congenital anomalies
 HP:0001744	Splenomegaly	759	Other and unspecified congenital anomalies
 HP:0006268	Fluctuating splenomegaly	759	Other and unspecified congenital anomalies
 HP:0001374	Congenital hip dislocation	759	Other and unspecified congenital anomalies
+HP:0008780	Congenital bilateral hip dislocation	759	Other and unspecified congenital anomalies
 HP:0001696	Situs inversus totalis	759	Other and unspecified congenital anomalies
 HP:0009914	Cyclopia	759	Other and unspecified congenital anomalies
 HP:0006443	Patellar aplasia	759	Other and unspecified congenital anomalies
@@ -5078,6 +5114,7 @@ HP:0030186	Kinetic tremor	350	Abnormal movement
 HP:0030187	Titubation	350	Abnormal movement
 HP:0031007	Orofacial action-specific dystonia induced by speech	350	Abnormal movement
 HP:0031008	Lingual dystonia	350	Abnormal movement
+HP:0031786	Cogan lid twitch	350	Abnormal movement
 HP:0031943	Akathisia	350	Abnormal movement
 HP:0031959	Leg dystonia	350	Abnormal movement
 HP:0031960	Arm dystonia	350	Abnormal movement
@@ -5145,6 +5182,28 @@ HP:0031866	Clasp-knife sign	350	Abnormal movement
 HP:0031957	Spastic hemiparetic gait	350	Abnormal movement
 HP:0031958	Spastic paraparetic gait	350	Abnormal movement
 HP:0034183	Spastic triplegia	350	Abnormal movement
+HP:0000496	Abnormality of eye movement	350	Abnormal movement
+HP:0000639	Nystagmus	350	Abnormal movement
+HP:0000640	Gaze-evoked nystagmus	350	Abnormal movement
+HP:0000666	Horizontal nystagmus	350	Abnormal movement
+HP:0001361	Nystagmus-induced head nodding	350	Abnormal movement
+HP:0001583	Rotary nystagmus	350	Abnormal movement
+HP:0006934	Congenital nystagmus	350	Abnormal movement
+HP:0007286	Horizontal jerk nystagmus	350	Abnormal movement
+HP:0007747	Monocular horizontal nystagmus	350	Abnormal movement
+HP:0007811	Horizontal pendular nystagmus	350	Abnormal movement
+HP:0007859	Congenital horizontal nystagmus	350	Abnormal movement
+HP:0007979	Gaze-evoked horizontal nystagmus	350	Abnormal movement
+HP:0008026	Horizontal opticokinetic nystagmus	350	Abnormal movement
+HP:0010533	Spasmus nutans	350	Abnormal movement
+HP:0010542	Vestibular nystagmus	350	Abnormal movement
+HP:0010544	Vertical nystagmus	350	Abnormal movement
+HP:0010545	Downbeat nystagmus	350	Abnormal movement
+HP:0011477	Upbeat nystagmus	350	Abnormal movement
+HP:0012043	Pendular nystagmus	350	Abnormal movement
+HP:0012044	Seesaw nystagmus	350	Abnormal movement
+HP:0025711	Convergence-retraction nystagmus	350	Abnormal movement
+HP:0030691	Divergence nystagmus	350	Abnormal movement
 HP:0000211	Trismus	350	Abnormal movement
 HP:0000224	Hypogeusia	350	Abnormal movement
 HP:0000297	Facial hypotonia	350	Abnormal movement
@@ -5198,8 +5257,11 @@ HP:0007034	Generalized hyperreflexia	350	Abnormal movement
 HP:0007054	Proximal hyperreflexia	350	Abnormal movement
 HP:0007083	Hyperactive patellar reflex	350	Abnormal movement
 HP:0007166	Paroxysmal dyskinesia	350	Abnormal movement
+HP:0007295	Chaotic rapid conjugate ocular movements	350	Abnormal movement
 HP:0007311	Short stepped shuffling gait	350	Abnormal movement
 HP:0007350	Hyperreflexia in upper limbs	350	Abnormal movement
+HP:0007704	Paroxysmal involuntary eye movements	350	Abnormal movement
+HP:0007738	Uncontrolled eye movements	350	Abnormal movement
 HP:0008935	Generalized neonatal hypotonia	350	Abnormal movement
 HP:0008936	Axial hypotonia	350	Abnormal movement
 HP:0008945	Loss of ability to walk in early childhood	350	Abnormal movement
@@ -5207,6 +5269,7 @@ HP:0008947	Infantile muscular hypotonia	350	Abnormal movement
 HP:0008991	Exercise-induced leg cramps	350	Abnormal movement
 HP:0009062	Infantile axial hypotonia	350	Abnormal movement
 HP:0009072	Decreased Achilles reflex	350	Abnormal movement
+HP:0010543	Opsoclonus	350	Abnormal movement
 HP:0010632	Total anosmia	350	Abnormal movement
 HP:0010633	Partial anosmia	350	Abnormal movement
 HP:0011448	Ankle clonus	350	Abnormal movement
@@ -5220,9 +5283,12 @@ HP:0012247	Specific anosmia	350	Abnormal movement
 HP:0012389	Appendicular hypotonia	350	Abnormal movement
 HP:0012391	Hyporeflexia of upper limbs	350	Abnormal movement
 HP:0012392	Jaw hyporeflexia	350	Abnormal movement
+HP:0012547	Abnormal involuntary eye movements	350	Abnormal movement
+HP:0025605	Lid lag on downgaze	350	Abnormal movement
 HP:0025682	Crouch gait	350	Abnormal movement
 HP:0030051	Tip-toe gait	350	Abnormal movement
 HP:0030190	Oral motor hypotonia	350	Abnormal movement
+HP:0030826	Eyelid fasciculation	350	Abnormal movement
 HP:0030902	Palmomental reflex	350	Abnormal movement
 HP:0030903	Grasp reflex	350	Abnormal movement
 HP:0030904	Glabellar reflex	350	Abnormal movement
@@ -5232,6 +5298,7 @@ HP:0031004	Hemiareflexia	350	Abnormal movement
 HP:0031139	Frog-leg posture	350	Abnormal movement
 HP:0031249	Parageusia	350	Abnormal movement
 HP:0031629	Impaired tandem gait	350	Abnormal movement
+HP:0031785	Abnormal eyelid movement	350	Abnormal movement
 HP:0031825	Freezing of gait	350	Abnormal movement
 HP:0031826	Abnormal reflex	350	Abnormal movement
 HP:0031827	Absent abdominal reflex	350	Abnormal movement
@@ -5241,6 +5308,7 @@ HP:0031847	Difficulty walking backward	350	Abnormal movement
 HP:0031848	Cock-walk gait	350	Abnormal movement
 HP:0031856	Hobby horse gait	350	Abnormal movement
 HP:0031868	Optic ataxia	350	Abnormal movement
+HP:0031931	Ocular flutter	350	Abnormal movement
 HP:0031952	Neurogenic claudication	350	Abnormal movement
 HP:0031953	Cautious gait	350	Abnormal movement
 HP:0031954	Dystonic gait	350	Abnormal movement
@@ -5349,6 +5417,27 @@ HP:0031866	Clasp-knife sign	350.1	Abnormal involuntary movements
 HP:0031957	Spastic hemiparetic gait	350.1	Abnormal involuntary movements
 HP:0031958	Spastic paraparetic gait	350.1	Abnormal involuntary movements
 HP:0034183	Spastic triplegia	350.1	Abnormal involuntary movements
+HP:0000639	Nystagmus	350.1	Abnormal involuntary movements
+HP:0000640	Gaze-evoked nystagmus	350.1	Abnormal involuntary movements
+HP:0000666	Horizontal nystagmus	350.1	Abnormal involuntary movements
+HP:0001361	Nystagmus-induced head nodding	350.1	Abnormal involuntary movements
+HP:0001583	Rotary nystagmus	350.1	Abnormal involuntary movements
+HP:0006934	Congenital nystagmus	350.1	Abnormal involuntary movements
+HP:0007286	Horizontal jerk nystagmus	350.1	Abnormal involuntary movements
+HP:0007747	Monocular horizontal nystagmus	350.1	Abnormal involuntary movements
+HP:0007811	Horizontal pendular nystagmus	350.1	Abnormal involuntary movements
+HP:0007859	Congenital horizontal nystagmus	350.1	Abnormal involuntary movements
+HP:0007979	Gaze-evoked horizontal nystagmus	350.1	Abnormal involuntary movements
+HP:0008026	Horizontal opticokinetic nystagmus	350.1	Abnormal involuntary movements
+HP:0010533	Spasmus nutans	350.1	Abnormal involuntary movements
+HP:0010542	Vestibular nystagmus	350.1	Abnormal involuntary movements
+HP:0010544	Vertical nystagmus	350.1	Abnormal involuntary movements
+HP:0010545	Downbeat nystagmus	350.1	Abnormal involuntary movements
+HP:0011477	Upbeat nystagmus	350.1	Abnormal involuntary movements
+HP:0012043	Pendular nystagmus	350.1	Abnormal involuntary movements
+HP:0012044	Seesaw nystagmus	350.1	Abnormal involuntary movements
+HP:0025711	Convergence-retraction nystagmus	350.1	Abnormal involuntary movements
+HP:0030691	Divergence nystagmus	350.1	Abnormal involuntary movements
 HP:0000211	Trismus	350.1	Abnormal involuntary movements
 HP:0001281	Tetany	350.1	Abnormal involuntary movements
 HP:0002169	Clonus	350.1	Abnormal involuntary movements
@@ -5362,11 +5451,17 @@ HP:0003710	Exercise-induced muscle cramps	350.1	Abnormal involuntary movements
 HP:0004305	Involuntary movements	350.1	Abnormal involuntary movements
 HP:0006961	Jerky head movements	350.1	Abnormal involuntary movements
 HP:0007166	Paroxysmal dyskinesia	350.1	Abnormal involuntary movements
+HP:0007295	Chaotic rapid conjugate ocular movements	350.1	Abnormal involuntary movements
+HP:0007704	Paroxysmal involuntary eye movements	350.1	Abnormal involuntary movements
+HP:0007738	Uncontrolled eye movements	350.1	Abnormal involuntary movements
 HP:0008991	Exercise-induced leg cramps	350.1	Abnormal involuntary movements
+HP:0010543	Opsoclonus	350.1	Abnormal involuntary movements
 HP:0011448	Ankle clonus	350.1	Abnormal involuntary movements
 HP:0011449	Knee clonus	350.1	Abnormal involuntary movements
 HP:0011728	Elbow clonus	350.1	Abnormal involuntary movements
 HP:0011964	Intermittent painful muscle spasms	350.1	Abnormal involuntary movements
+HP:0012547	Abnormal involuntary eye movements	350.1	Abnormal involuntary movements
+HP:0031931	Ocular flutter	350.1	Abnormal involuntary movements
 HP:0031989	Perioral spasm	350.1	Abnormal involuntary movements
 HP:0031990	Chvostek sign	350.1	Abnormal involuntary movements
 HP:0032506	Alien limb phenomenon	350.1	Abnormal involuntary movements
@@ -5460,7 +5555,13 @@ HP:0006562	Viral hepatitis	070.3	Viral hepatitis C
 HP:0006572	Subacute progressive viral hepatitis	070.3	Viral hepatitis C
 HP:0012115	Hepatitis	070.3	Viral hepatitis C
 HP:0200119	Acute hepatitis	070.3	Viral hepatitis C
+HP:0200120	Chronic active hepatitis	070.3	Viral hepatitis C
+HP:0200123	Chronic hepatitis	070.3	Viral hepatitis C
+HP:0200124	Chronic hepatitis due to cryptosporidium infection	070.3	Viral hepatitis C
 HP:0012115	Hepatitis	1010	Other tests
+HP:0200120	Chronic active hepatitis	1010	Other tests
+HP:0200123	Chronic hepatitis	1010	Other tests
+HP:0200124	Chronic hepatitis due to cryptosporidium infection	1010	Other tests
 HP:0006579	Prolonged neonatal jaundice	656.1	Isoimmunization of fetus or newborn
 HP:0001878	Hemolytic anemia	656.1	Isoimmunization of fetus or newborn
 HP:0001890	Autoimmune hemolytic anemia	656.1	Isoimmunization of fetus or newborn
@@ -5527,6 +5628,7 @@ HP:0002664	Neoplasm	172.22	Squamous cell carcinoma
 HP:0030731	Carcinoma	172.22	Squamous cell carcinoma
 HP:0030438	Anal canal squamous cell carcinoma	172.22	Squamous cell carcinoma
 HP:0012142	Pancreatic squamous cell carcinoma	172.22	Squamous cell carcinoma
+HP:0030359	Squamous cell lung carcinoma	172.22	Squamous cell carcinoma
 HP:0002860	Squamous cell carcinoma	172.22	Squamous cell carcinoma
 HP:0006739	Squamous cell carcinoma of the skin	172.22	Squamous cell carcinoma
 HP:0012182	Oropharyngeal squamous cell carcinoma	172.22	Squamous cell carcinoma
@@ -7406,6 +7508,8 @@ HP:0000126	Hydronephrosis	595	Hydronephrosis
 HP:0000119	Abnormality of the genitourinary system	596	Other disorders of bladder
 HP:0100819	Intestinal fistula	596	Other disorders of bladder
 HP:0000015	Bladder diverticulum	596	Other disorders of bladder
+HP:0008691	Solitary bladder diverticulum	596	Other disorders of bladder
+HP:0012619	Multiple bladder diverticula	596	Other disorders of bladder
 HP:0000011	Neurogenic bladder	596	Other disorders of bladder
 HP:0000012	Urinary urgency	596	Other disorders of bladder
 HP:0002836	Bladder exstrophy	596	Other disorders of bladder
@@ -7616,6 +7720,8 @@ HP:0002558	Supernumerary nipple	612	Breast conditions, congenital or relating to
 HP:0002561	Absent nipple	612	Breast conditions, congenital or relating to hormones
 HP:0003187	Breast hypoplasia	612	Breast conditions, congenital or relating to hormones
 HP:0010313	Breast hypertrophy	612	Breast conditions, congenital or relating to hormones
+HP:0012813	Unilateral breast hypoplasia	612	Breast conditions, congenital or relating to hormones
+HP:0012814	Bilateral breast hypoplasia	612	Breast conditions, congenital or relating to hormones
 HP:0100783	Breast aplasia	612	Breast conditions, congenital or relating to hormones
 HP:0100829	Galactorrhea	612	Breast conditions, congenital or relating to hormones
 HP:0000119	Abnormality of the genitourinary system	612.1	Galactorrhea
@@ -7838,6 +7944,8 @@ HP:0100497	Vitamin B3 deficiency	261	Vitamin deficiency
 HP:0100502	Vitamin B12 deficiency	261	Vitamin deficiency
 HP:0100503	Low levels of vitamin B1	261	Vitamin deficiency
 HP:0100504	Low levels of vitamin B2	261	Vitamin deficiency
+HP:0100505	Low levels of vitamin B5	261	Vitamin deficiency
+HP:0100506	Low levels of vitamin B8	261	Vitamin deficiency
 HP:0100507	Reduced blood folate concentration	261	Vitamin deficiency
 HP:0100510	Low levels of vitamin C	261	Vitamin deficiency
 HP:0100512	Low levels of vitamin D	261	Vitamin deficiency
@@ -8688,7 +8796,14 @@ HP:0100005	Testicular mesothelioma	165	Cancer within the respiratory system
 HP:0006519	Alveolar cell carcinoma	165	Cancer within the respiratory system
 HP:0100526	Neoplasm of the lung	165	Cancer within the respiratory system
 HP:0002664	Neoplasm	191.1	Cancer of brain and nervous system
+HP:0002885	Medulloblastoma	191.1	Cancer of brain and nervous system
 HP:0002888	Ependymoma	191.1	Cancer of brain and nervous system
+HP:0003006	Neuroblastoma	191.1	Cancer of brain and nervous system
+HP:0004376	Neuroblastic tumor	191.1	Cancer of brain and nervous system
+HP:0006742	Congenital neuroblastoma	191.1	Cancer of brain and nervous system
+HP:0006747	Ganglioneuroblastoma	191.1	Cancer of brain and nervous system
+HP:0006768	Localized neuroblastoma	191.1	Cancer of brain and nervous system
+HP:0007129	Cerebellar medulloblastoma	191.1	Cancer of brain and nervous system
 HP:0009592	Astrocytoma	191.1	Cancer of brain and nervous system
 HP:0009718	Subependymal giant-cell astrocytoma	191.1	Cancer of brain and nervous system
 HP:0009733	Glioma	191.1	Cancer of brain and nervous system
@@ -8696,10 +8811,13 @@ HP:0009734	Optic nerve glioma	191.1	Cancer of brain and nervous system
 HP:0010795	Cerebellar glioma	191.1	Cancer of brain and nervous system
 HP:0010796	Brainstem glioma	191.1	Cancer of brain and nervous system
 HP:0012174	Glioblastoma multiforme	191.1	Cancer of brain and nervous system
+HP:0030068	Olfactory esthesioneuroblastoma	191.1	Cancer of brain and nervous system
+HP:0030392	Choroid plexus carcinoma	191.1	Cancer of brain and nervous system
 HP:0030731	Carcinoma	191.1	Cancer of brain and nervous system
 HP:0033680	Pilocytic astrocytoma	191.1	Cancer of brain and nervous system
 HP:0033681	Oligodendroglioma	191.1	Cancer of brain and nervous system
 HP:0033682	Pleomorphic xanthoastrocytoma	191.1	Cancer of brain and nervous system
+HP:0100312	Cerebral germinoma	191.1	Cancer of brain and nervous system
 HP:0100836	Malignant neoplasm of the central nervous system	191.1	Cancer of brain and nervous system
 HP:0009593	Peripheral Schwannoma	191.1	Cancer of brain and nervous system
 HP:0200022	Choroid plexus papilloma	191.1	Cancer of brain and nervous system
@@ -8798,6 +8916,7 @@ HP:0030994	Pancreas divisum	750	Digestive congenital anomalies
 HP:0100800	Aplasia/Hypoplasia of the pancreas	750	Digestive congenital anomalies
 HP:0000153	Abnormality of the mouth	750	Digestive congenital anomalies
 HP:0000218	High palate	750	Digestive congenital anomalies
+HP:0001407	Hepatic cysts	750	Digestive congenital anomalies
 HP:0001545	Anteriorly placed anus	750	Digestive congenital anomalies
 HP:0002023	Anal atresia	750	Digestive congenital anomalies
 HP:0002031	Abnormal esophagus morphology	750	Digestive congenital anomalies
@@ -9021,6 +9140,7 @@ HP:0001870	Acroosteolysis of distal phalanges (feet)	733	Other disorders of bone
 HP:0002694	Sclerosis of skull base	733	Other disorders of bone and cartilage
 HP:0002780	Bronchomalacia	733	Other disorders of bone and cartilage
 HP:0002797	Osteolysis	733	Other disorders of bone and cartilage
+HP:0002833	Cystic angiomatosis of bone	733	Other disorders of bone and cartilage
 HP:0004043	Lytic defects of ulnar metaphysis	733	Other disorders of bone and cartilage
 HP:0004195	Osteolytic defects of the phalanges of the 4th finger	733	Other disorders of bone and cartilage
 HP:0004216	Osteolytic defects of the phalanges of the 5th finger	733	Other disorders of bone and cartilage
@@ -9087,6 +9207,8 @@ HP:0010889	Morbus Kienboeck	733	Other disorders of bone and cartilage
 HP:0011001	Increased bone mineral density	733	Other disorders of bone and cartilage
 HP:0012062	Bone cyst	733	Other disorders of bone and cartilage
 HP:0012063	Aneurysmal bone cyst	733	Other disorders of bone and cartilage
+HP:0012064	Unicameral bone cyst	733	Other disorders of bone and cartilage
+HP:0012065	Multiple bony cystic lesions	733	Other disorders of bone and cartilage
 HP:0034046	Mandibular osteolysis	733	Other disorders of bone and cartilage
 HP:0034047	Rib osteolysis	733	Other disorders of bone and cartilage
 HP:0045039	Osteolysis involving bones of the upper limbs	733	Other disorders of bone and cartilage
@@ -9171,12 +9293,19 @@ HP:0030311	Lower extremity joint dislocation	830	Dislocation
 HP:0031610	Recurrent shoulder dislocation	830	Dislocation
 HP:0031869	Recurrent joint dislocation	830	Dislocation
 HP:0003048	Radial head subluxation	830	Dislocation
+HP:0003308	Cervical subluxation	830	Dislocation
+HP:0003320	C1-C2 subluxation	830	Dislocation
 HP:0003835	Shoulder subluxation	830	Dislocation
 HP:0004230	Subluxation of the proximal interphalangeal joint of the little finger	830	Dislocation
+HP:0004269	Subluxation of the small joints of the hand	830	Dislocation
 HP:0004294	Subluxation of metacarpal phalangeal joints	830	Dislocation
+HP:0005332	Recurrent mandibular subluxations	830	Dislocation
 HP:0005739	Posterior subluxation of radial head	830	Dislocation
+HP:0005747	Easily subluxated first metacarpophalangeal joints	830	Dislocation
 HP:0006439	Radioulnar dislocation	830	Dislocation
+HP:0008456	C2-C3 subluxation	830	Dislocation
 HP:0030043	Hip subluxation	830	Dislocation
+HP:0032153	Joint subluxation	830	Dislocation
 HP:0032191	Torn meniscus	830	Dislocation
 HP:0041082	Fractured skull	840	Sprains and strains
 HP:0032201	Rotator cuff tear	840	Sprains and strains
@@ -9382,10 +9511,20 @@ HP:0025453	Delayed adrenarche	264	Lack of normal physiological development
 HP:0025515	Delayed thelarche	264	Lack of normal physiological development
 HP:0031087	Absent pubertal growth spurt	264	Lack of normal physiological development
 HP:0001263	Global developmental delay	264	Lack of normal physiological development
+HP:0001270	Motor delay	264	Lack of normal physiological development
+HP:0002194	Delayed gross motor development	264	Lack of normal physiological development
+HP:0010862	Delayed fine motor development	264	Lack of normal physiological development
 HP:0011342	Mild global developmental delay	264	Lack of normal physiological development
 HP:0011343	Moderate global developmental delay	264	Lack of normal physiological development
 HP:0011344	Severe global developmental delay	264	Lack of normal physiological development
 HP:0012736	Profound global developmental delay	264	Lack of normal physiological development
+HP:0025335	Delayed ability to stand	264	Lack of normal physiological development
+HP:0025336	Delayed ability to sit	264	Lack of normal physiological development
+HP:0031936	Delayed ability to walk	264	Lack of normal physiological development
+HP:0032988	Persistent head lag	264	Lack of normal physiological development
+HP:0032989	Delayed ability to roll over	264	Lack of normal physiological development
+HP:0033128	Delayed ability to crawl	264	Lack of normal physiological development
+HP:0033257	Delayed ability to walk with support	264	Lack of normal physiological development
 HP:0001508	Failure to thrive	264.2	Failure to thrive (childhood)
 HP:0001525	Severe failure to thrive	264.2	Failure to thrive (childhood)
 HP:0001531	Failure to thrive in infancy	264.2	Failure to thrive (childhood)
@@ -10480,6 +10619,7 @@ HP:0040223	Pulmonary hemorrhage	656.2	Respiratory conditions of fetus and newbor
 HP:0002870	Obstructive sleep apnea	656.2	Respiratory conditions of fetus and newborn
 HP:0010535	Sleep apnea	656.2	Respiratory conditions of fetus and newborn
 HP:0010536	Central sleep apnea	656.2	Respiratory conditions of fetus and newborn
+HP:0004875	Neonatal inspiratory stridor	656.2	Respiratory conditions of fetus and newborn
 HP:0004886	Congenital laryngeal stridor	656.2	Respiratory conditions of fetus and newborn
 HP:0011946	Bronchiolitis obliterans	656.2	Respiratory conditions of fetus and newborn
 HP:0033255	Congenital lobar overinflation	656.2	Respiratory conditions of fetus and newborn
@@ -10538,6 +10678,7 @@ HP:0025421	Pneumomediastinum	656.2	Respiratory conditions of fetus and newborn
 HP:0100750	Atelectasis	656.2	Respiratory conditions of fetus and newborn
 HP:0002643	Neonatal respiratory distress	656.2	Respiratory conditions of fetus and newborn
 HP:0002878	Respiratory failure	656.2	Respiratory conditions of fetus and newborn
+HP:0012768	Neonatal asphyxia	656.2	Respiratory conditions of fetus and newborn
 HP:0034236	Apnea of prematurity	656.2	Respiratory conditions of fetus and newborn
 HP:0033210	Congenital alveolar dysplasia	656.2	Respiratory conditions of fetus and newborn
 HP:0002107	Pneumothorax	656.22	Interstitial emphysema and related conditions of newborn
@@ -10661,6 +10802,7 @@ HP:0041237	Fractured patella	800.4	Fracture of patella
 HP:0020110	Bone fracture	801	Fracture of ankle and foot
 HP:0041081	Fractured lower leg	801	Fracture of ankle and foot
 HP:0041153	Fractured ankle	801	Fracture of ankle and foot
+HP:0041150	Fractured cuboid bone	801	Fracture of ankle and foot
 HP:0041162	Fractured foot bone	801	Fracture of ankle and foot
 HP:0041193	Fractured epiphysis of first metatarsal bone	801	Fracture of ankle and foot
 HP:0041194	Fractured epiphysis of second metatarsal bone	801	Fracture of ankle and foot
@@ -10684,6 +10826,8 @@ HP:0033262	Transphyseal fracture of the distal humerus	803	Fracture of upper lim
 HP:0041055	Fractured humerus	803	Fracture of upper limb
 HP:0041088	Avulsion fractured humerus	803	Fracture of upper limb
 HP:0003961	Fractured forearm bones	803	Fracture of upper limb
+HP:0003978	Fractured radius	803	Fracture of upper limb
+HP:0003987	Fractured ulna	803	Fracture of upper limb
 HP:0041118	Fractured upper limb segment	803	Fracture of upper limb
 HP:0041144	Fractured clavicle bone	803	Fracture of upper limb
 HP:0041200	Fractured sternal end of clavicle	803	Fracture of upper limb
@@ -10699,6 +10843,7 @@ HP:0041219	Fractured elbow	803.1	Fracture of humerus
 HP:0020110	Bone fracture	803.2	Fracture of radius and ulna
 HP:0003961	Fractured forearm bones	803.2	Fracture of radius and ulna
 HP:0003978	Fractured radius	803.2	Fracture of radius and ulna
+HP:0003987	Fractured ulna	803.2	Fracture of radius and ulna
 HP:0041248	Fractured carpal bone	803.2	Fracture of radius and ulna
 HP:0020110	Bone fracture	803.21	Colles' fracture
 HP:0020110	Bone fracture	803.3	Fracture of clavicle or scapula
@@ -10973,14 +11118,22 @@ HP:0001140	Limbal dermoid	224	Benign neoplasm of eye
 HP:0002664	Neoplasm	224.1	Benign neoplasm of eye, uveal
 HP:0030731	Carcinoma	224.1	Benign neoplasm of eye, uveal
 HP:0100835	Benign neoplasm of the central nervous system	224.1	Benign neoplasm of eye, uveal
+HP:0006866	Midline central nervous system lipomas	225	Benign neoplasm of brain and other parts of nervous system
+HP:0006931	Pericallosal lipoma	225	Benign neoplasm of brain and other parts of nervous system
+HP:0034013	Curvilinear pericallosal lipoma	225	Benign neoplasm of brain and other parts of nervous system
+HP:0034014	Tubulonodular pericallosal lipoma	225	Benign neoplasm of brain and other parts of nervous system
+HP:0100251	Multiple central nervous system lipomas	225	Benign neoplasm of brain and other parts of nervous system
 HP:0002664	Neoplasm	225	Benign neoplasm of brain and other parts of nervous system
 HP:0002888	Ependymoma	225	Benign neoplasm of brain and other parts of nervous system
 HP:0030731	Carcinoma	225	Benign neoplasm of brain and other parts of nervous system
+HP:0100312	Cerebral germinoma	225	Benign neoplasm of brain and other parts of nervous system
 HP:0009593	Peripheral Schwannoma	225	Benign neoplasm of brain and other parts of nervous system
+HP:0200022	Choroid plexus papilloma	225	Benign neoplasm of brain and other parts of nervous system
 HP:0002858	Meningioma	225	Benign neoplasm of brain and other parts of nervous system
 HP:0009588	Vestibular Schwannoma	225	Benign neoplasm of brain and other parts of nervous system
 HP:0009589	Bilateral vestibular Schwannoma	225	Benign neoplasm of brain and other parts of nervous system
 HP:0009590	Unilateral vestibular Schwannoma	225	Benign neoplasm of brain and other parts of nervous system
+HP:0009713	Spinal hemangioblastoma	225	Benign neoplasm of brain and other parts of nervous system
 HP:0010799	Pinealoma	225	Benign neoplasm of brain and other parts of nervous system
 HP:0030407	Pineocytoma	225	Benign neoplasm of brain and other parts of nervous system
 HP:0030408	Pineoblastoma	225	Benign neoplasm of brain and other parts of nervous system
@@ -10993,6 +11146,13 @@ HP:0100009	Intracranial meningioma	225	Benign neoplasm of brain and other parts 
 HP:0100010	Spinal meningioma	225	Benign neoplasm of brain and other parts of nervous system
 HP:0100011	Scleral schwannoma	225	Benign neoplasm of brain and other parts of nervous system
 HP:0500089	Optic nerve sheath meningioma	225	Benign neoplasm of brain and other parts of nervous system
+HP:0006880	Cerebellar hemangioblastoma	225	Benign neoplasm of brain and other parts of nervous system
+HP:0009711	Retinal capillary hemangioma	225	Benign neoplasm of brain and other parts of nervous system
+HP:0010797	Hemangioblastoma	225	Benign neoplasm of brain and other parts of nervous system
+HP:0002444	Hypothalamic hamartoma	225	Benign neoplasm of brain and other parts of nervous system
+HP:0009716	Subependymal nodules	225	Benign neoplasm of brain and other parts of nervous system
+HP:0009717	Cortical tubers	225	Benign neoplasm of brain and other parts of nervous system
+HP:0009731	Cerebral hamartoma	225	Benign neoplasm of brain and other parts of nervous system
 HP:0100835	Benign neoplasm of the central nervous system	225	Benign neoplasm of brain and other parts of nervous system
 HP:0002664	Neoplasm	225.1	Benign neoplasm of brain, cranial nerves, meninges
 HP:0002888	Ependymoma	225.1	Benign neoplasm of brain, cranial nerves, meninges
@@ -11388,12 +11548,14 @@ HP:0002756	Pathologic fracture	743	Osteoporosis, osteopenia and pathological fra
 HP:0002953	Vertebral compression fracture	743	Osteoporosis, osteopenia and pathological fracture
 HP:0008422	Vertebral wedging	743	Osteoporosis, osteopenia and pathological fracture
 HP:0031846	Femur fracture	743	Osteoporosis, osteopenia and pathological fracture
+HP:0033262	Transphyseal fracture of the distal humerus	743	Osteoporosis, osteopenia and pathological fracture
 HP:0041055	Fractured humerus	743	Osteoporosis, osteopenia and pathological fracture
 HP:0041073	Fractured thoracic vertebra	743	Osteoporosis, osteopenia and pathological fracture
 HP:0041084	Compression-fractured thoracic vertebra	743	Osteoporosis, osteopenia and pathological fracture
 HP:0041085	Compression-fractured vertebra	743	Osteoporosis, osteopenia and pathological fracture
 HP:0041086	Compression-fractured cervical vertebra	743	Osteoporosis, osteopenia and pathological fracture
 HP:0041087	Compression-fractured lumbar vertebra	743	Osteoporosis, osteopenia and pathological fracture
+HP:0041088	Avulsion fractured humerus	743	Osteoporosis, osteopenia and pathological fracture
 HP:0041166	Fractured vertebra	743	Osteoporosis, osteopenia and pathological fracture
 HP:0041167	Fractured cervical vertebra	743	Osteoporosis, osteopenia and pathological fracture
 HP:0041168	Fractured lumbar vertebra	743	Osteoporosis, osteopenia and pathological fracture
@@ -11825,8 +11987,11 @@ HP:0007687	Unilateral ptosis	374	Other disorders of eyelids
 HP:0007838	Progressive ptosis	374	Other disorders of eyelids
 HP:0007911	Congenital bilateral ptosis	374	Other disorders of eyelids
 HP:0007970	Congenital ptosis	374	Other disorders of eyelids
+HP:0025605	Lid lag on downgaze	374	Other disorders of eyelids
 HP:0007406	Hyperpigmentation of eyelids	374	Other disorders of eyelids
 HP:0010749	Blepharochalasis	374	Other disorders of eyelids
+HP:0012568	Lower eyelid edema	374	Other disorders of eyelids
+HP:0012724	Upper eyelid edema	374	Other disorders of eyelids
 HP:0100540	Palpebral edema	374	Other disorders of eyelids
 HP:0000581	Blepharophimosis	374	Other disorders of eyelids
 HP:0000621	Entropion	374	Other disorders of eyelids
@@ -11844,7 +12009,6 @@ HP:0009755	Ankyloblepharon	374	Other disorders of eyelids
 HP:0010604	Cyst of the eyelid	374	Other disorders of eyelids
 HP:0010750	Dermatochalasis	374	Other disorders of eyelids
 HP:0025186	Marcus Gunn jaw winking synkinesis	374	Other disorders of eyelids
-HP:0025605	Lid lag on downgaze	374	Other disorders of eyelids
 HP:0025607	Upper eyelid entropion	374	Other disorders of eyelids
 HP:0025608	Cicatricial ectropion	374	Other disorders of eyelids
 HP:0030001	Lagopthalmos	374	Other disorders of eyelids
@@ -12550,7 +12714,14 @@ HP:0012054	Choroidal melanoma	190	Cancer of eye
 HP:0012055	Ciliary body melanoma	190	Cancer of eye
 HP:0009919	Retinoblastoma	190	Cancer of eye
 HP:0002664	Neoplasm	191	Manlignant and unknown neoplasms of brain and nervous system
+HP:0002885	Medulloblastoma	191	Manlignant and unknown neoplasms of brain and nervous system
 HP:0002888	Ependymoma	191	Manlignant and unknown neoplasms of brain and nervous system
+HP:0003006	Neuroblastoma	191	Manlignant and unknown neoplasms of brain and nervous system
+HP:0004376	Neuroblastic tumor	191	Manlignant and unknown neoplasms of brain and nervous system
+HP:0006742	Congenital neuroblastoma	191	Manlignant and unknown neoplasms of brain and nervous system
+HP:0006747	Ganglioneuroblastoma	191	Manlignant and unknown neoplasms of brain and nervous system
+HP:0006768	Localized neuroblastoma	191	Manlignant and unknown neoplasms of brain and nervous system
+HP:0007129	Cerebellar medulloblastoma	191	Manlignant and unknown neoplasms of brain and nervous system
 HP:0009592	Astrocytoma	191	Manlignant and unknown neoplasms of brain and nervous system
 HP:0009718	Subependymal giant-cell astrocytoma	191	Manlignant and unknown neoplasms of brain and nervous system
 HP:0009733	Glioma	191	Manlignant and unknown neoplasms of brain and nervous system
@@ -12558,10 +12729,13 @@ HP:0009734	Optic nerve glioma	191	Manlignant and unknown neoplasms of brain and 
 HP:0010795	Cerebellar glioma	191	Manlignant and unknown neoplasms of brain and nervous system
 HP:0010796	Brainstem glioma	191	Manlignant and unknown neoplasms of brain and nervous system
 HP:0012174	Glioblastoma multiforme	191	Manlignant and unknown neoplasms of brain and nervous system
+HP:0030068	Olfactory esthesioneuroblastoma	191	Manlignant and unknown neoplasms of brain and nervous system
+HP:0030392	Choroid plexus carcinoma	191	Manlignant and unknown neoplasms of brain and nervous system
 HP:0030731	Carcinoma	191	Manlignant and unknown neoplasms of brain and nervous system
 HP:0033680	Pilocytic astrocytoma	191	Manlignant and unknown neoplasms of brain and nervous system
 HP:0033681	Oligodendroglioma	191	Manlignant and unknown neoplasms of brain and nervous system
 HP:0033682	Pleomorphic xanthoastrocytoma	191	Manlignant and unknown neoplasms of brain and nervous system
+HP:0100312	Cerebral germinoma	191	Manlignant and unknown neoplasms of brain and nervous system
 HP:0100836	Malignant neoplasm of the central nervous system	191	Manlignant and unknown neoplasms of brain and nervous system
 HP:0009593	Peripheral Schwannoma	191	Manlignant and unknown neoplasms of brain and nervous system
 HP:0200022	Choroid plexus papilloma	191	Manlignant and unknown neoplasms of brain and nervous system
@@ -13008,6 +13182,43 @@ HP:0100634	Neuroendocrine neoplasm	209	Neuroendocrine tumors
 HP:0030447	Merkel cell skin cancer	209	Neuroendocrine tumors
 HP:0002664	Neoplasm	230	Kaposi's sarcoma
 HP:0030731	Carcinoma	230	Kaposi's sarcoma
+HP:0200058	Angiosarcoma	230	Kaposi's sarcoma
+HP:0200059	Metastatic angiosarcoma	230	Kaposi's sarcoma
+HP:0010616	Lung fibroma	230	Kaposi's sarcoma
+HP:0000169	Gingival fibromatosis	230	Kaposi's sarcoma
+HP:0001067	Neurofibromas	230	Kaposi's sarcoma
+HP:0002859	Rhabdomyosarcoma	230	Kaposi's sarcoma
+HP:0002891	Uterine leiomyosarcoma	230	Kaposi's sarcoma
+HP:0005220	Multiple intestinal neurofibromatosis	230	Kaposi's sarcoma
+HP:0006743	Embryonal rhabdomyosarcoma	230	Kaposi's sarcoma
+HP:0006751	Paraspinal neurofibromas	230	Kaposi's sarcoma
+HP:0006755	Cutaneous leiomyosarcoma	230	Kaposi's sarcoma
+HP:0006779	Alveolar rhabdomyosarcoma	230	Kaposi's sarcoma
+HP:0006851	Symmetric spinal nerve root neurofibromas	230	Kaposi's sarcoma
+HP:0007524	Atypical neurofibromatosis	230	Kaposi's sarcoma
+HP:0007576	Palmar neurofibromas	230	Kaposi's sarcoma
+HP:0009595	Occasional neurofibromas	230	Kaposi's sarcoma
+HP:0009720	Adenoma sebaceum	230	Kaposi's sarcoma
+HP:0009724	Subungual fibromas	230	Kaposi's sarcoma
+HP:0009732	Plexiform neurofibroma	230	Kaposi's sarcoma
+HP:0009735	Spinal neurofibromas	230	Kaposi's sarcoma
+HP:0010614	Fibroma	230	Kaposi's sarcoma
+HP:0010615	Angiofibromas	230	Kaposi's sarcoma
+HP:0010617	Cardiac fibroma	230	Kaposi's sarcoma
+HP:0010618	Ovarian fibroma	230	Kaposi's sarcoma
+HP:0010619	Fibroadenoma of the breast	230	Kaposi's sarcoma
+HP:0012218	Alveolar soft part sarcoma	230	Kaposi's sarcoma
+HP:0012570	Synovial sarcoma	230	Kaposi's sarcoma
+HP:0030426	Ossifying fibroma	230	Kaposi's sarcoma
+HP:0030427	Ossifying fibroma of the jaw	230	Kaposi's sarcoma
+HP:0030448	Soft tissue sarcoma	230	Kaposi's sarcoma
+HP:0100243	Leiomyosarcoma	230	Kaposi's sarcoma
+HP:0100244	Fibrosarcoma	230	Kaposi's sarcoma
+HP:0100245	Desmoid tumors	230	Kaposi's sarcoma
+HP:0100697	Neurofibrosarcoma	230	Kaposi's sarcoma
+HP:0100698	Subcutaneous neurofibromas	230	Kaposi's sarcoma
+HP:0100804	Ungual fibroma	230	Kaposi's sarcoma
+HP:0500092	Orbital rhabdomyosarcoma	230	Kaposi's sarcoma
 HP:0100726	Kaposi's sarcoma	230	Kaposi's sarcoma
 HP:0002044	Zollinger-Ellison syndrome	251.8	Abnormality of secretion of glucagon or gastrin
 HP:0002664	Neoplasm	270.35	Macroglobulinemia
@@ -13385,6 +13596,7 @@ HP:0100890	Cyst of the ductus choledochus	750.2	Lower gastrointestinal congenita
 HP:0001734	Annular pancreas	750.2	Lower gastrointestinal congenital anomalies
 HP:0030994	Pancreas divisum	750.2	Lower gastrointestinal congenital anomalies
 HP:0100800	Aplasia/Hypoplasia of the pancreas	750.2	Lower gastrointestinal congenital anomalies
+HP:0001407	Hepatic cysts	750.2	Lower gastrointestinal congenital anomalies
 HP:0001545	Anteriorly placed anus	750.2	Lower gastrointestinal congenital anomalies
 HP:0002023	Anal atresia	750.2	Lower gastrointestinal congenital anomalies
 HP:0002247	Duodenal atresia	750.2	Lower gastrointestinal congenital anomalies
@@ -13444,6 +13656,7 @@ HP:0100890	Cyst of the ductus choledochus	750.22	Congenital anomaly of gallbladd
 HP:0001734	Annular pancreas	750.22	Congenital anomaly of gallbladder, bile ducts, liver, pancreas
 HP:0030994	Pancreas divisum	750.22	Congenital anomaly of gallbladder, bile ducts, liver, pancreas
 HP:0100800	Aplasia/Hypoplasia of the pancreas	750.22	Congenital anomaly of gallbladder, bile ducts, liver, pancreas
+HP:0001407	Hepatic cysts	750.22	Congenital anomaly of gallbladder, bile ducts, liver, pancreas
 HP:0005264	Abnormality of the gallbladder	750.22	Congenital anomaly of gallbladder, bile ducts, liver, pancreas
 HP:0006557	Polycystic liver disease	750.22	Congenital anomaly of gallbladder, bile ducts, liver, pancreas
 HP:0006706	Cystic liver disease	750.22	Congenital anomaly of gallbladder, bile ducts, liver, pancreas
@@ -13614,6 +13827,8 @@ HP:0000041	Chordee	751	Genitourinary congenital anomalies
 HP:0008665	Clitoral hypertrophy	751	Genitourinary congenital anomalies
 HP:0000148	Vaginal atresia	751	Genitourinary congenital anomalies
 HP:0003250	Aplasia of the vagina	751	Genitourinary congenital anomalies
+HP:0012673	Aplasia of the upper vagina	751	Genitourinary congenital anomalies
+HP:0012674	Aplasia of the lower vagina	751	Genitourinary congenital anomalies
 HP:0002009	Potter facies	751	Genitourinary congenital anomalies
 HP:0000077	Abnormality of the kidney	751	Genitourinary congenital anomalies
 HP:0010292	Absent uvula	751	Genitourinary congenital anomalies
@@ -13696,6 +13911,8 @@ HP:0000041	Chordee	751.1	Congenital anomalies of genital organs
 HP:0008665	Clitoral hypertrophy	751.1	Congenital anomalies of genital organs
 HP:0000148	Vaginal atresia	751.1	Congenital anomalies of genital organs
 HP:0003250	Aplasia of the vagina	751.1	Congenital anomalies of genital organs
+HP:0012673	Aplasia of the upper vagina	751.1	Congenital anomalies of genital organs
+HP:0012674	Aplasia of the lower vagina	751.1	Congenital anomalies of genital organs
 HP:0010292	Absent uvula	751.1	Congenital anomalies of genital organs
 HP:0000013	Hypoplasia of the uterus	751.1	Congenital anomalies of genital organs
 HP:0000028	Cryptorchidism	751.1	Congenital anomalies of genital organs
@@ -13748,6 +13965,8 @@ HP:0000143	Rectovaginal fistula	751.11	Congenital anomalies of female genital or
 HP:0008665	Clitoral hypertrophy	751.11	Congenital anomalies of female genital organs
 HP:0000148	Vaginal atresia	751.11	Congenital anomalies of female genital organs
 HP:0003250	Aplasia of the vagina	751.11	Congenital anomalies of female genital organs
+HP:0012673	Aplasia of the upper vagina	751.11	Congenital anomalies of female genital organs
+HP:0012674	Aplasia of the lower vagina	751.11	Congenital anomalies of female genital organs
 HP:0010292	Absent uvula	751.11	Congenital anomalies of female genital organs
 HP:0000013	Hypoplasia of the uterus	751.11	Congenital anomalies of female genital organs
 HP:0000145	Transverse vaginal septum	751.11	Congenital anomalies of female genital organs
@@ -14476,6 +14695,7 @@ HP:0005521	Disseminated intravascular coagulation	656.5	Hematological disorders 
 HP:0011880	Acute disseminated intravascular coagulation	656.5	Hematological disorders of newborn
 HP:0004809	Neonatal alloimmune thrombocytopenia	656.5	Hematological disorders of newborn
 HP:0410255	Transient neutropenia	656.5	Hematological disorders of newborn
+HP:0410256	Infection associated neutropenia	656.5	Hematological disorders of newborn
 HP:0001915	Aplastic anemia	284	Aplastic anemia
 HP:0001871	Abnormality of blood and blood-forming tissues	284	Aplastic anemia
 HP:0001908	Hypoplastic anemia	284	Aplastic anemia
@@ -14854,6 +15074,7 @@ HP:0007737	Bone spicule pigmentation of the retina	362	Other retinal disorders
 HP:0007769	Peripheral retinal degeneration	362	Other retinal disorders
 HP:0007773	Vitreoretinopathy	362	Other retinal disorders
 HP:0007778	Posterior retinal neovascularization	362	Other retinal disorders
+HP:0007782	obsolete Peripheral retinal cone degeneration	362	Other retinal disorders
 HP:0007868	obsolete Age-related macular degeneration	362	Other retinal disorders
 HP:0007875	Congenital blindness	362	Other retinal disorders
 HP:0007898	Exudative retinopathy	362	Other retinal disorders
@@ -15114,6 +15335,7 @@ HP:0002308	Chiari malformation	747	Cardiac and circulatory congenital anomalies
 HP:0007099	Chiari type I malformation	747	Cardiac and circulatory congenital anomalies
 HP:0025660	Chiari type II malformation	747	Cardiac and circulatory congenital anomalies
 HP:0025661	Chiari type III malformation	747	Cardiac and circulatory congenital anomalies
+HP:0030745	Dilatation of the ductus arteriosus	747	Cardiac and circulatory congenital anomalies
 HP:0001641	Abnormal pulmonary valve morphology	747	Cardiac and circulatory congenital anomalies
 HP:0001647	Bicuspid aortic valve	747	Cardiac and circulatory congenital anomalies
 HP:0001650	Aortic valve stenosis	747	Cardiac and circulatory congenital anomalies
@@ -15166,6 +15388,7 @@ HP:0001683	Ectopia cordis	747	Cardiac and circulatory congenital anomalies
 HP:0001684	Secundum atrial septal defect	747	Cardiac and circulatory congenital anomalies
 HP:0001691	Muscular subvalvular aortic stenosis	747	Cardiac and circulatory congenital anomalies
 HP:0001696	Situs inversus totalis	747	Cardiac and circulatory congenital anomalies
+HP:0001710	Conotruncal defect	747	Cardiac and circulatory congenital anomalies
 HP:0001719	Double outlet right ventricle	747	Cardiac and circulatory congenital anomalies
 HP:0001750	Single ventricle	747	Cardiac and circulatory congenital anomalies
 HP:0002564	obsolete Malformation of the heart and great vessels	747	Cardiac and circulatory congenital anomalies
@@ -15266,6 +15489,7 @@ HP:0011719	Supracardiac total anomalous pulmonary venous connection	747	Cardiac 
 HP:0011720	Cardiac total anomalous pulmonary venous connection	747	Cardiac and circulatory congenital anomalies
 HP:0011721	Infracardiac total anomalous pulmonary venous connection	747	Cardiac and circulatory congenital anomalies
 HP:0011722	Mixed total anomalous pulmonary venous connection	747	Cardiac and circulatory congenital anomalies
+HP:0011723	Congenital malformation of the right heart	747	Cardiac and circulatory congenital anomalies
 HP:0011724	Uhl's anomaly	747	Cardiac and circulatory congenital anomalies
 HP:0011726	Persistent fetal circulation	747	Cardiac and circulatory congenital anomalies
 HP:0011994	Abnormal atrial septum morphology	747	Cardiac and circulatory congenital anomalies
@@ -15313,6 +15537,7 @@ HP:0002308	Chiari malformation	747.1	Cardiac congenital anomalies
 HP:0007099	Chiari type I malformation	747.1	Cardiac congenital anomalies
 HP:0025660	Chiari type II malformation	747.1	Cardiac congenital anomalies
 HP:0025661	Chiari type III malformation	747.1	Cardiac congenital anomalies
+HP:0030745	Dilatation of the ductus arteriosus	747.1	Cardiac congenital anomalies
 HP:0001641	Abnormal pulmonary valve morphology	747.1	Cardiac congenital anomalies
 HP:0001647	Bicuspid aortic valve	747.1	Cardiac congenital anomalies
 HP:0001650	Aortic valve stenosis	747.1	Cardiac congenital anomalies
@@ -15359,6 +15584,7 @@ HP:0001683	Ectopia cordis	747.1	Cardiac congenital anomalies
 HP:0001684	Secundum atrial septal defect	747.1	Cardiac congenital anomalies
 HP:0001691	Muscular subvalvular aortic stenosis	747.1	Cardiac congenital anomalies
 HP:0001696	Situs inversus totalis	747.1	Cardiac congenital anomalies
+HP:0001710	Conotruncal defect	747.1	Cardiac congenital anomalies
 HP:0001719	Double outlet right ventricle	747.1	Cardiac congenital anomalies
 HP:0001750	Single ventricle	747.1	Cardiac congenital anomalies
 HP:0002564	obsolete Malformation of the heart and great vessels	747.1	Cardiac congenital anomalies
@@ -15459,6 +15685,7 @@ HP:0011719	Supracardiac total anomalous pulmonary venous connection	747.1	Cardia
 HP:0011720	Cardiac total anomalous pulmonary venous connection	747.1	Cardiac congenital anomalies
 HP:0011721	Infracardiac total anomalous pulmonary venous connection	747.1	Cardiac congenital anomalies
 HP:0011722	Mixed total anomalous pulmonary venous connection	747.1	Cardiac congenital anomalies
+HP:0011723	Congenital malformation of the right heart	747.1	Cardiac congenital anomalies
 HP:0011724	Uhl's anomaly	747.1	Cardiac congenital anomalies
 HP:0011994	Abnormal atrial septum morphology	747.1	Cardiac congenital anomalies
 HP:0011995	Atrial septal dilatation	747.1	Cardiac congenital anomalies
@@ -15500,14 +15727,22 @@ HP:0031346	Rectal arteriovenous malformation	747.13	Congenital anomalies of grea
 HP:0031347	Uterine arteriovenous malformation	747.13	Congenital anomalies of great vessels
 HP:0100026	Arteriovenous malformation	747.13	Congenital anomalies of great vessels
 HP:0100784	Peripheral arteriovenous fistula	747.13	Congenital anomalies of great vessels
+HP:0030745	Dilatation of the ductus arteriosus	747.13	Congenital anomalies of great vessels
 HP:0001650	Aortic valve stenosis	747.13	Congenital anomalies of great vessels
 HP:0010883	Aortic valve atresia	747.13	Congenital anomalies of great vessels
+HP:0011659	Tetralogy of Fallot with absent pulmonary valve	747.13	Congenital anomalies of great vessels
 HP:0001627	Abnormal heart morphology	747.13	Congenital anomalies of great vessels
+HP:0001636	Tetralogy of Fallot	747.13	Congenital anomalies of great vessels
 HP:0001643	Patent ductus arteriosus	747.13	Congenital anomalies of great vessels
+HP:0001660	Truncus arteriosus	747.13	Congenital anomalies of great vessels
+HP:0001669	Transposition of the great arteries	747.13	Congenital anomalies of great vessels
 HP:0001680	Coarctation of aorta	747.13	Congenital anomalies of great vessels
+HP:0001710	Conotruncal defect	747.13	Congenital anomalies of great vessels
+HP:0001719	Double outlet right ventricle	747.13	Congenital anomalies of great vessels
 HP:0002623	Overriding aorta	747.13	Congenital anomalies of great vessels
 HP:0002627	Right aortic arch with mirror image branching	747.13	Congenital anomalies of great vessels
 HP:0004381	Supravalvular aortic stenosis	747.13	Congenital anomalies of great vessels
+HP:0004384	Type I truncus arteriosus	747.13	Congenital anomalies of great vessels
 HP:0004414	Abnormality of the pulmonary artery	747.13	Congenital anomalies of great vessels
 HP:0004415	Pulmonary artery stenosis	747.13	Congenital anomalies of great vessels
 HP:0004935	Pulmonary artery atresia	747.13	Congenital anomalies of great vessels
@@ -15519,12 +15754,18 @@ HP:0005301	Persistent left superior vena cava	747.13	Congenital anomalies of gre
 HP:0010772	Anomalous pulmonary venous return	747.13	Congenital anomalies of great vessels
 HP:0010773	Partial anomalous pulmonary venous return	747.13	Congenital anomalies of great vessels
 HP:0010775	Vascular ring	747.13	Congenital anomalies of great vessels
+HP:0011540	Congenitally corrected transposition of the great arteries	747.13	Congenital anomalies of great vessels
 HP:0011589	Common origin of the right brachiocephalic artery and left common carotid artery	747.13	Congenital anomalies of great vessels
 HP:0011590	Double aortic arch	747.13	Congenital anomalies of great vessels
 HP:0011594	Right aortic arch with retroesophageal diverticulum of Kommerell	747.13	Congenital anomalies of great vessels
 HP:0011597	Right aortic arch with left descending aorta and left ductus arteriosus	747.13	Congenital anomalies of great vessels
 HP:0011598	Right aortic arch with retroesophageal left subclavian artery	747.13	Congenital anomalies of great vessels
 HP:0011603	Congenital malformation of the great arteries	747.13	Congenital anomalies of great vessels
+HP:0011604	Aortopulmonary window	747.13	Congenital anomalies of great vessels
+HP:0011605	Congenitally corrected transposition of the great arteries with ventricular septal defect	747.13	Congenital anomalies of great vessels
+HP:0011608	Type II truncus arteriosus	747.13	Congenital anomalies of great vessels
+HP:0011609	Type III truncus arteriosus	747.13	Congenital anomalies of great vessels
+HP:0011610	Type IV truncus arteriosus	747.13	Congenital anomalies of great vessels
 HP:0011611	Interrupted aortic arch	747.13	Congenital anomalies of great vessels
 HP:0011612	Interrupted aortic arch type A	747.13	Congenital anomalies of great vessels
 HP:0011613	Interrupted aortic arch type B	747.13	Congenital anomalies of great vessels
@@ -15535,20 +15776,35 @@ HP:0011647	Postductal coarctation of the aorta	747.13	Congenital anomalies of gr
 HP:0011648	Patent ductus arteriosus after birth at term	747.13	Congenital anomalies of great vessels
 HP:0011649	Patent ductus arteriosus after premature birth	747.13	Congenital anomalies of great vessels
 HP:0011650	Bilateral ductus arteriosus	747.13	Congenital anomalies of great vessels
+HP:0011651	Double outlet right ventricle with doubly committed ventricular septal defect and pulmonary stenosis	747.13	Congenital anomalies of great vessels
+HP:0011652	Double outlet right ventricle with doubly committed ventricular septal defect without pulmonary stenosis	747.13	Congenital anomalies of great vessels
+HP:0011653	Double outlet right ventricle with non-committed ventricular septal defect and pulmonary stenosis	747.13	Congenital anomalies of great vessels
+HP:0011654	Double outlet right ventricle with non-committed ventricular septal defect without pulmonary stenosis	747.13	Congenital anomalies of great vessels
+HP:0011655	Double outlet right ventricle with subaortic ventricular septal defect and pulmonary stenosis	747.13	Congenital anomalies of great vessels
+HP:0011656	Double outlet right ventricle with subaortic ventricular septal defect without pulmonary stenosis	747.13	Congenital anomalies of great vessels
+HP:0011657	Double outlet right ventricle with subpulmonary ventricular septal defect and pulmonary stenosis	747.13	Congenital anomalies of great vessels
+HP:0011658	Double outlet right ventricle with subpulmonary ventricular septal defect without pulmonary stenosis	747.13	Congenital anomalies of great vessels
 HP:0011666	Absent right superior vena cava	747.13	Congenital anomalies of great vessels
 HP:0011667	Bilateral superior vena cava with bridging vein	747.13	Congenital anomalies of great vessels
 HP:0011668	Bilateral superior vena cava with no bridging vein	747.13	Congenital anomalies of great vessels
 HP:0011669	Left superior vena cava draining directly to the left atrium	747.13	Congenital anomalies of great vessels
 HP:0011670	Left superior vena cava draining to coronary sinus	747.13	Congenital anomalies of great vessels
+HP:0011676	Tetralogy of Fallot with absent subarterial conus	747.13	Congenital anomalies of great vessels
+HP:0011677	Tetralogy of Fallot with atrioventricular canal defect	747.13	Congenital anomalies of great vessels
+HP:0011678	Tetralogy of Fallot with pulmonary atresia and major aortopulmonary collateral arteries	747.13	Congenital anomalies of great vessels
+HP:0011679	Tetralogy of Fallot with pulmonary stenosis	747.13	Congenital anomalies of great vessels
 HP:0011719	Supracardiac total anomalous pulmonary venous connection	747.13	Congenital anomalies of great vessels
 HP:0011720	Cardiac total anomalous pulmonary venous connection	747.13	Congenital anomalies of great vessels
 HP:0011721	Infracardiac total anomalous pulmonary venous connection	747.13	Congenital anomalies of great vessels
 HP:0011722	Mixed total anomalous pulmonary venous connection	747.13	Congenital anomalies of great vessels
 HP:0012020	Right aortic arch	747.13	Congenital anomalies of great vessels
 HP:0012305	Coarctation of the descending aortic arch	747.13	Congenital anomalies of great vessels
+HP:0012516	Tetralogy of Fallot with pulmonary atresia	747.13	Congenital anomalies of great vessels
 HP:0031053	Coarctation in the transverse aortic arch	747.13	Congenital anomalies of great vessels
 HP:0031054	Long segment coarctation of the aorta	747.13	Congenital anomalies of great vessels
 HP:0031253	Anomalous origin of left subclavian artery	747.13	Congenital anomalies of great vessels
+HP:0031348	Dextrotransposition of the great arteries	747.13	Congenital anomalies of great vessels
+HP:0031349	Levotransposition of the great arteries	747.13	Congenital anomalies of great vessels
 HP:0031562	Balanced double aortic arch	747.13	Congenital anomalies of great vessels
 HP:0031935	Ascending aorta hypoplasia	747.13	Congenital anomalies of great vessels
 HP:0033379	Bilateral superior vena cava	747.13	Congenital anomalies of great vessels
@@ -15899,6 +16155,7 @@ HP:0012043	Pendular nystagmus	378	Strabismus and other disorders of binocular ey
 HP:0012044	Seesaw nystagmus	378	Strabismus and other disorders of binocular eye movements
 HP:0025711	Convergence-retraction nystagmus	378	Strabismus and other disorders of binocular eye movements
 HP:0030691	Divergence nystagmus	378	Strabismus and other disorders of binocular eye movements
+HP:0010543	Opsoclonus	378	Strabismus and other disorders of binocular eye movements
 HP:0006897	Abducens palsy	378	Strabismus and other disorders of binocular eye movements
 HP:0007011	Fourth cranial nerve palsy	378	Strabismus and other disorders of binocular eye movements
 HP:0000486	Strabismus	378	Strabismus and other disorders of binocular eye movements
@@ -15965,7 +16222,6 @@ HP:0500078	Alternating hypotropia	378	Strabismus and other disorders of binocula
 HP:0500079	Alternating hypophoria	378	Strabismus and other disorders of binocular eye movements
 HP:0000511	Vertical supranuclear gaze palsy	378	Strabismus and other disorders of binocular eye movements
 HP:0000619	Impaired convergence	378	Strabismus and other disorders of binocular eye movements
-HP:0010543	Opsoclonus	378	Strabismus and other disorders of binocular eye movements
 HP:0011349	obsolete Abducens palsy	378	Strabismus and other disorders of binocular eye movements
 HP:0025330	Downgaze palsy	378	Strabismus and other disorders of binocular eye movements
 HP:0025331	Upgaze palsy	378	Strabismus and other disorders of binocular eye movements
@@ -16800,10 +17056,20 @@ HP:0025453	Delayed adrenarche	264.3	Delayed milestones
 HP:0025515	Delayed thelarche	264.3	Delayed milestones
 HP:0031087	Absent pubertal growth spurt	264.3	Delayed milestones
 HP:0001263	Global developmental delay	264.3	Delayed milestones
+HP:0001270	Motor delay	264.3	Delayed milestones
+HP:0002194	Delayed gross motor development	264.3	Delayed milestones
+HP:0010862	Delayed fine motor development	264.3	Delayed milestones
 HP:0011342	Mild global developmental delay	264.3	Delayed milestones
 HP:0011343	Moderate global developmental delay	264.3	Delayed milestones
 HP:0011344	Severe global developmental delay	264.3	Delayed milestones
 HP:0012736	Profound global developmental delay	264.3	Delayed milestones
+HP:0025335	Delayed ability to stand	264.3	Delayed milestones
+HP:0025336	Delayed ability to sit	264.3	Delayed milestones
+HP:0031936	Delayed ability to walk	264.3	Delayed milestones
+HP:0032988	Persistent head lag	264.3	Delayed milestones
+HP:0032989	Delayed ability to roll over	264.3	Delayed milestones
+HP:0033128	Delayed ability to crawl	264.3	Delayed milestones
+HP:0033257	Delayed ability to walk with support	264.3	Delayed milestones
 HP:0000863	Central diabetes insipidus	253.3	Diabetes insipidus
 HP:0000873	Diabetes insipidus	253.3	Diabetes insipidus
 HP:0009806	Nephrogenic diabetes insipidus	253.3	Diabetes insipidus
@@ -17402,10 +17668,20 @@ HP:0012736	Profound global developmental delay	306	Other mental disorder
 HP:0000708	Behavioral abnormality	306	Other mental disorder
 HP:0012228	Tension-type headache	306	Other mental disorder
 HP:0001263	Global developmental delay	315	Develomental delays and disorders
+HP:0001270	Motor delay	315	Develomental delays and disorders
+HP:0002194	Delayed gross motor development	315	Develomental delays and disorders
+HP:0010862	Delayed fine motor development	315	Develomental delays and disorders
 HP:0011342	Mild global developmental delay	315	Develomental delays and disorders
 HP:0011343	Moderate global developmental delay	315	Develomental delays and disorders
 HP:0011344	Severe global developmental delay	315	Develomental delays and disorders
 HP:0012736	Profound global developmental delay	315	Develomental delays and disorders
+HP:0025335	Delayed ability to stand	315	Develomental delays and disorders
+HP:0025336	Delayed ability to sit	315	Develomental delays and disorders
+HP:0031936	Delayed ability to walk	315	Develomental delays and disorders
+HP:0032988	Persistent head lag	315	Develomental delays and disorders
+HP:0032989	Delayed ability to roll over	315	Develomental delays and disorders
+HP:0033128	Delayed ability to crawl	315	Develomental delays and disorders
+HP:0033257	Delayed ability to walk with support	315	Develomental delays and disorders
 HP:0001249	Intellectual disability	315	Develomental delays and disorders
 HP:0001256	Intellectual disability, mild	315	Develomental delays and disorders
 HP:0002187	Intellectual disability, profound	315	Develomental delays and disorders
@@ -17444,21 +17720,11 @@ HP:0000735	Impaired social interactions	315	Develomental delays and disorders
 HP:0006834	Developmental stagnation at onset of seizures	315	Develomental delays and disorders
 HP:0007281	Developmental stagnation	315	Develomental delays and disorders
 HP:0012170	Nail-biting	315	Develomental delays and disorders
-HP:0001270	Motor delay	315	Develomental delays and disorders
 HP:0001328	Specific learning disability	315	Develomental delays and disorders
-HP:0002194	Delayed gross motor development	315	Develomental delays and disorders
 HP:0002463	Language impairment	315	Develomental delays and disorders
 HP:0010794	Impaired visuospatial constructive cognition	315	Develomental delays and disorders
-HP:0010862	Delayed fine motor development	315	Develomental delays and disorders
-HP:0025335	Delayed ability to stand	315	Develomental delays and disorders
-HP:0025336	Delayed ability to sit	315	Develomental delays and disorders
 HP:0030391	Spoken word recognition deficit	315	Develomental delays and disorders
 HP:0031469	Low self esteem	315	Develomental delays and disorders
-HP:0031936	Delayed ability to walk	315	Develomental delays and disorders
-HP:0032988	Persistent head lag	315	Develomental delays and disorders
-HP:0032989	Delayed ability to roll over	315	Develomental delays and disorders
-HP:0033128	Delayed ability to crawl	315	Develomental delays and disorders
-HP:0033257	Delayed ability to walk with support	315	Develomental delays and disorders
 HP:0001263	Global developmental delay	315.2	Speech and language disorder
 HP:0011342	Mild global developmental delay	315.2	Speech and language disorder
 HP:0011343	Moderate global developmental delay	315.2	Speech and language disorder
@@ -17494,10 +17760,20 @@ HP:0002463	Language impairment	315.2	Speech and language disorder
 HP:0010794	Impaired visuospatial constructive cognition	315.2	Speech and language disorder
 HP:0030391	Spoken word recognition deficit	315.2	Speech and language disorder
 HP:0001263	Global developmental delay	315.3	Mental retardation
+HP:0001270	Motor delay	315.3	Mental retardation
+HP:0002194	Delayed gross motor development	315.3	Mental retardation
+HP:0010862	Delayed fine motor development	315.3	Mental retardation
 HP:0011342	Mild global developmental delay	315.3	Mental retardation
 HP:0011343	Moderate global developmental delay	315.3	Mental retardation
 HP:0011344	Severe global developmental delay	315.3	Mental retardation
 HP:0012736	Profound global developmental delay	315.3	Mental retardation
+HP:0025335	Delayed ability to stand	315.3	Mental retardation
+HP:0025336	Delayed ability to sit	315.3	Mental retardation
+HP:0031936	Delayed ability to walk	315.3	Mental retardation
+HP:0032988	Persistent head lag	315.3	Mental retardation
+HP:0032989	Delayed ability to roll over	315.3	Mental retardation
+HP:0033128	Delayed ability to crawl	315.3	Mental retardation
+HP:0033257	Delayed ability to walk with support	315.3	Mental retardation
 HP:0001249	Intellectual disability	315.3	Mental retardation
 HP:0001256	Intellectual disability, mild	315.3	Mental retardation
 HP:0002187	Intellectual disability, profound	315.3	Mental retardation
@@ -17507,16 +17783,6 @@ HP:0006889	Intellectual disability, borderline	315.3	Mental retardation
 HP:0010864	Intellectual disability, severe	315.3	Mental retardation
 HP:0000708	Behavioral abnormality	315.3	Mental retardation
 HP:0033667	Diminished mental health	315.3	Mental retardation
-HP:0001270	Motor delay	315.3	Mental retardation
-HP:0002194	Delayed gross motor development	315.3	Mental retardation
-HP:0010862	Delayed fine motor development	315.3	Mental retardation
-HP:0025335	Delayed ability to stand	315.3	Mental retardation
-HP:0025336	Delayed ability to sit	315.3	Mental retardation
-HP:0031936	Delayed ability to walk	315.3	Mental retardation
-HP:0032988	Persistent head lag	315.3	Mental retardation
-HP:0032989	Delayed ability to roll over	315.3	Mental retardation
-HP:0033128	Delayed ability to crawl	315.3	Mental retardation
-HP:0033257	Delayed ability to walk with support	315.3	Mental retardation
 HP:0003614	Trimethylaminuria	271.9	Other disorders of carbohydrate transport and metabolism
 HP:0000943	Dysostosis multiplex	271.9	Other disorders of carbohydrate transport and metabolism
 HP:0001677	Coronary artery atherosclerosis	271.9	Other disorders of carbohydrate transport and metabolism
@@ -18078,6 +18344,7 @@ HP:0001105	Retinal atrophy	362.6	Peripheral retinal degenerations
 HP:0007667	Peripheral cystoid retinal degeneration	362.6	Peripheral retinal degenerations
 HP:0007769	Peripheral retinal degeneration	362.6	Peripheral retinal degenerations
 HP:0007773	Vitreoretinopathy	362.6	Peripheral retinal degenerations
+HP:0007782	obsolete Peripheral retinal cone degeneration	362.6	Peripheral retinal degenerations
 HP:0007937	Reticular pigmentary degeneration	362.6	Peripheral retinal degenerations
 HP:0007964	Degenerative vitreoretinopathy	362.6	Peripheral retinal degenerations
 HP:0007992	Lattice retinal degeneration	362.6	Peripheral retinal degenerations
@@ -18130,8 +18397,12 @@ HP:0031729	Moderate hypermetropia	367.8	Hypermetropia
 HP:0500042	Latent hypermetropia	367.8	Hypermetropia
 HP:0000517	Abnormality of the lens	366.1	Nonsenile Cataract
 HP:0007657	Diffuse nuclear cataract	366.1	Nonsenile Cataract
+HP:0007787	Posterior subcapsular cataract	366.1	Nonsenile Cataract
+HP:0007889	Iridescent posterior subcapsular cataract	366.1	Nonsenile Cataract
+HP:0007935	Juvenile posterior subcapsular lenticular opacities	366.1	Nonsenile Cataract
 HP:0010698	Nuclear pulverulent cataract	366.1	Nonsenile Cataract
 HP:0010699	Triangular nuclear cataract	366.1	Nonsenile Cataract
+HP:0010923	Anterior subcapsular cataract	366.1	Nonsenile Cataract
 HP:0010925	Nuclear punctate cataract	366.1	Nonsenile Cataract
 HP:0010926	Aculeiform cataract	366.1	Nonsenile Cataract
 HP:0100018	Nuclear cataract	366.1	Nonsenile Cataract
@@ -21244,6 +21515,11 @@ HP:0002487	Hyperkinetic movements	724	Other and unspecified disorders of back
 HP:0003198	Myopathy	724	Other and unspecified disorders of back
 HP:0008443	Spinal deformities	724	Other and unspecified disorders of back
 HP:0002949	Fused cervical vertebrae	724	Other and unspecified disorders of back
+HP:0004575	Fusion of midcervical facet joints	724	Other and unspecified disorders of back
+HP:0004602	Cervical C2/C3 vertebral fusion	724	Other and unspecified disorders of back
+HP:0004635	Cervical C5/C6 vertebrae fusion	724	Other and unspecified disorders of back
+HP:0008449	Progressive cervical vertebral spine fusion	724	Other and unspecified disorders of back
+HP:0030281	Cervical C3/C4 vertebral fusion	724	Other and unspecified disorders of back
 HP:0031417	Rhinorrhea	479	Other upper respiratory disease
 HP:0001742	Nasal congestion	479	Other upper respiratory disease
 HP:0002777	Tracheal stenosis	479	Other upper respiratory disease
@@ -21838,7 +22114,13 @@ HP:0002372	Normal interictal EEG	346	Abnormal findings on study of brain and/or 
 HP:0002392	EEG with polyspike wave complexes	346	Abnormal findings on study of brain and/or nervous system
 HP:0002521	Hypsarrhythmia	346	Abnormal findings on study of brain and/or nervous system
 HP:0002921	Abnormality of the cerebrospinal fluid	346	Abnormal findings on study of brain and/or nervous system
+HP:0003403	EMG: decremental response of compound muscle action potential to repetitive nerve stimulation	346	Abnormal findings on study of brain and/or nervous system
+HP:0003444	EMG: chronic denervation signs	346	Abnormal findings on study of brain and/or nervous system
+HP:0003445	EMG: neuropathic changes	346	Abnormal findings on study of brain and/or nervous system
 HP:0003457	EMG abnormality	346	Abnormal findings on study of brain and/or nervous system
+HP:0003458	EMG: myopathic abnormalities	346	Abnormal findings on study of brain and/or nervous system
+HP:0003482	EMG: axonal abnormality	346	Abnormal findings on study of brain and/or nervous system
+HP:0003730	EMG: myotonic runs	346	Abnormal findings on study of brain and/or nervous system
 HP:0006934	Congenital nystagmus	346	Abnormal findings on study of brain and/or nervous system
 HP:0007286	Horizontal jerk nystagmus	346	Abnormal findings on study of brain and/or nervous system
 HP:0007688	Undetectable light- and dark-adapted electroretinogram	346	Abnormal findings on study of brain and/or nervous system
@@ -21938,9 +22220,19 @@ HP:0012043	Pendular nystagmus	346	Abnormal findings on study of brain and/or ner
 HP:0012044	Seesaw nystagmus	346	Abnormal findings on study of brain and/or nervous system
 HP:0012557	EEG with centrotemporal focal spike waves	346	Abnormal findings on study of brain and/or nervous system
 HP:0012657	Abnormal brain positron emission tomography	346	Abnormal findings on study of brain and/or nervous system
+HP:0012658	Abnormal brain FDG positron emission tomography	346	Abnormal findings on study of brain and/or nervous system
+HP:0012659	Prefrontal hypometabolism in FDG PET	346	Abnormal findings on study of brain and/or nervous system
+HP:0012660	Thalamic hypometabolism in FDG PET	346	Abnormal findings on study of brain and/or nervous system
+HP:0012661	Hypothalamic hypometabolism in FDG PET	346	Abnormal findings on study of brain and/or nervous system
+HP:0012662	Parietal hypometabolism in FDG PET	346	Abnormal findings on study of brain and/or nervous system
 HP:0025373	Interictal EEG abnormality	346	Abnormal findings on study of brain and/or nervous system
 HP:0025644	Fixation-off epileptiform discharges	346	Abnormal findings on study of brain and/or nervous system
 HP:0025711	Convergence-retraction nystagmus	346	Abnormal findings on study of brain and/or nervous system
+HP:0030000	EMG: repetitive nerve stimulation abnormality	346	Abnormal findings on study of brain and/or nervous system
+HP:0030006	Single fiber EMG abnormality	346	Abnormal findings on study of brain and/or nervous system
+HP:0030007	EMG: positive sharp waves	346	Abnormal findings on study of brain and/or nervous system
+HP:0030205	Increased jitter at single fiber EMG	346	Abnormal findings on study of brain and/or nervous system
+HP:0030206	EMG: incremental response of compound muscle action potential to repetitive nerve stimulation	346	Abnormal findings on study of brain and/or nervous system
 HP:0030454	Abnormal electrooculogram	346	Abnormal findings on study of brain and/or nervous system
 HP:0030465	Undetectable light-adapted electroretinogram	346	Abnormal findings on study of brain and/or nervous system
 HP:0030466	Abnormal full-field electroretinogram	346	Abnormal findings on study of brain and/or nervous system
@@ -21978,6 +22270,12 @@ HP:0033718	EEG with central epileptiform discharges	346	Abnormal findings on stu
 HP:0033719	EEG with parietal epileptiform discharges	346	Abnormal findings on study of brain and/or nervous system
 HP:0033720	EEG with occipital epileptiform discharges	346	Abnormal findings on study of brain and/or nervous system
 HP:0033721	EEG with centrotemporal epileptiform discharges	346	Abnormal findings on study of brain and/or nervous system
+HP:0033767	Abnormal single motor unit action potential	346	Abnormal findings on study of brain and/or nervous system
+HP:0100283	EMG: continuous motor unit activity at rest	346	Abnormal findings on study of brain and/or nervous system
+HP:0100284	EMG: myotonic discharges	346	Abnormal findings on study of brain and/or nervous system
+HP:0100285	EMG: impaired neuromuscular transmission	346	Abnormal findings on study of brain and/or nervous system
+HP:0100287	EMG: slow motor conduction	346	Abnormal findings on study of brain and/or nervous system
+HP:0100288	EMG: myokymic discharges	346	Abnormal findings on study of brain and/or nervous system
 HP:0500206	Abnormal CSF lysine concentration	346	Abnormal findings on study of brain and/or nervous system
 HP:0500241	Abnormal CSF homocarnosine concentration	346	Abnormal findings on study of brain and/or nervous system
 HP:0000639	Nystagmus	378.2	Nystagmus and other irregular eye movements
@@ -22088,6 +22386,11 @@ HP:0012017	EEG with parietal focal spikes	346.2	Nonspecific abnormal results of 
 HP:0012018	EEG with temporal focal spikes	346.2	Nonspecific abnormal results of function study of brain and central nervous system
 HP:0012557	EEG with centrotemporal focal spike waves	346.2	Nonspecific abnormal results of function study of brain and central nervous system
 HP:0012657	Abnormal brain positron emission tomography	346.2	Nonspecific abnormal results of function study of brain and central nervous system
+HP:0012658	Abnormal brain FDG positron emission tomography	346.2	Nonspecific abnormal results of function study of brain and central nervous system
+HP:0012659	Prefrontal hypometabolism in FDG PET	346.2	Nonspecific abnormal results of function study of brain and central nervous system
+HP:0012660	Thalamic hypometabolism in FDG PET	346.2	Nonspecific abnormal results of function study of brain and central nervous system
+HP:0012661	Hypothalamic hypometabolism in FDG PET	346.2	Nonspecific abnormal results of function study of brain and central nervous system
+HP:0012662	Parietal hypometabolism in FDG PET	346.2	Nonspecific abnormal results of function study of brain and central nervous system
 HP:0025373	Interictal EEG abnormality	346.2	Nonspecific abnormal results of function study of brain and central nervous system
 HP:0025644	Fixation-off epileptiform discharges	346.2	Nonspecific abnormal results of function study of brain and central nervous system
 HP:0031491	Continuous spike and waves during slow sleep	346.2	Nonspecific abnormal results of function study of brain and central nervous system
@@ -22165,7 +22468,9 @@ HP:0032081	Intralamellar mucoid extracellular matrix accumulation	442	Other aneu
 HP:0032082	Translamellar mucoid extracellular matrix accumulation	442	Other aneurysm
 HP:0033261	Renal artery aneurysm	442	Other aneurysm
 HP:0033311	Abdominal aortic dissection	442	Other aneurysm
+HP:0034179	Vertebral artery aneurysm	442	Other aneurysm
 HP:0200146	Mucoid extracellular matrix accumulation	442	Other aneurysm
+HP:4000067	Iliac artery aneurysm	442	Other aneurysm
 HP:0002616	Aortic root aneurysm	442.1	Aortic aneurysm
 HP:0004942	Aortic aneurysm	442.1	Aortic aneurysm
 HP:0004959	Descending thoracic aorta aneurysm	442.1	Aortic aneurysm
@@ -22582,6 +22887,7 @@ HP:0001149	Lattice corneal dystrophy	364	Corneal opacity and other disorders of 
 HP:0007690	Map-dot-fingerprint corneal dystrophy	364	Corneal opacity and other disorders of cornea
 HP:0007705	Corneal degeneration	364	Corneal opacity and other disorders of cornea
 HP:0007709	Band-shaped corneal dystrophy	364	Corneal opacity and other disorders of cornea
+HP:0007754	Macular dystrophy	364	Corneal opacity and other disorders of cornea
 HP:0007755	Juvenile epithelial corneal dystrophy	364	Corneal opacity and other disorders of cornea
 HP:0007802	Granular corneal dystrophy	364	Corneal opacity and other disorders of cornea
 HP:0007809	Punctate corneal dystrophy	364	Corneal opacity and other disorders of cornea
@@ -22591,7 +22897,9 @@ HP:0007915	Polymorphous posterior corneal dystrophy	364	Corneal opacity and othe
 HP:0007957	Corneal opacity	364	Corneal opacity and other disorders of cornea
 HP:0007962	Speckled corneal dystrophy	364	Corneal opacity and other disorders of cornea
 HP:0008005	Congenital corneal dystrophy	364	Corneal opacity and other disorders of cornea
+HP:0008511	Central posterior corneal opacity	364	Corneal opacity and other disorders of cornea
 HP:0012039	Descemet Membrane Folds	364	Corneal opacity and other disorders of cornea
+HP:0030636	Occult macular dystrophy	364	Corneal opacity and other disorders of cornea
 HP:0100690	Mosaic central corneal dystrophy	364	Corneal opacity and other disorders of cornea
 HP:0200020	Corneal erosion	364	Corneal opacity and other disorders of cornea
 HP:0200032	Kayser-Fleischer ring	364	Corneal opacity and other disorders of cornea
@@ -22630,6 +22938,7 @@ HP:0200066	Ribbonlike corneal degeneration	364.4	Corneal degenerations
 HP:0001131	Corneal dystrophy	364.5	Corneal dystrophy
 HP:0001149	Lattice corneal dystrophy	364.5	Corneal dystrophy
 HP:0007709	Band-shaped corneal dystrophy	364.5	Corneal dystrophy
+HP:0007754	Macular dystrophy	364.5	Corneal dystrophy
 HP:0007755	Juvenile epithelial corneal dystrophy	364.5	Corneal dystrophy
 HP:0007802	Granular corneal dystrophy	364.5	Corneal dystrophy
 HP:0007809	Punctate corneal dystrophy	364.5	Corneal dystrophy
@@ -22640,6 +22949,7 @@ HP:0007881	Central corneal dystrophy	364.5	Corneal dystrophy
 HP:0007915	Polymorphous posterior corneal dystrophy	364.5	Corneal dystrophy
 HP:0007962	Speckled corneal dystrophy	364.5	Corneal dystrophy
 HP:0008005	Congenital corneal dystrophy	364.5	Corneal dystrophy
+HP:0030636	Occult macular dystrophy	364.5	Corneal dystrophy
 HP:0032935	Posterior crocodile shagreen of the cornea	364.5	Corneal dystrophy
 HP:0100690	Mosaic central corneal dystrophy	364.5	Corneal dystrophy
 HP:0000495	Recurrent corneal erosions	370.1	Corneal ulcer
@@ -22662,6 +22972,10 @@ HP:0012109	Angle closure glaucoma	365	Glaucoma
 HP:0012627	Pseudoexfoliation	365	Glaucoma
 HP:0032119	Narrow angle glaucoma	365	Glaucoma
 HP:0000501	Glaucoma	365.1	Open-angle glaucoma
+HP:0000557	Buphthalmos	365.1	Open-angle glaucoma
+HP:0001087	Developmental glaucoma	365.1	Open-angle glaucoma
+HP:0008007	Primary congenital glaucoma	365.1	Open-angle glaucoma
+HP:0008041	Late onset congenital glaucoma	365.1	Open-angle glaucoma
 HP:0012108	Open angle glaucoma	365.1	Open-angle glaucoma
 HP:0012627	Pseudoexfoliation	365.1	Open-angle glaucoma
 HP:0000501	Glaucoma	365.11	Primary open angle glaucoma
@@ -22866,6 +23180,7 @@ HP:0031599	P mitrale	747.12	Valvular heart disease/ heart chambers
 HP:0001642	Pulmonic stenosis	747.12	Valvular heart disease/ heart chambers
 HP:0010444	Pulmonary insufficiency	747.12	Valvular heart disease/ heart chambers
 HP:0004383	Hypoplastic left heart	747.12	Valvular heart disease/ heart chambers
+HP:0004935	Pulmonary artery atresia	747.12	Valvular heart disease/ heart chambers
 HP:0010954	Hypoplastic right heart	747.12	Valvular heart disease/ heart chambers
 HP:0001650	Aortic valve stenosis	394.1	Mitral valve stenosis and aortic valve stenosis
 HP:0001718	Mitral stenosis	394.1	Mitral valve stenosis and aortic valve stenosis
@@ -23288,6 +23603,8 @@ HP:0012161	External carotid artery dissection	442.8	Aneurysm of other specified 
 HP:0012162	Common carotid artery dissection	442.8	Aneurysm of other specified artery
 HP:0012163	Carotid artery dilatation	442.8	Aneurysm of other specified artery
 HP:0033261	Renal artery aneurysm	442.8	Aneurysm of other specified artery
+HP:0034179	Vertebral artery aneurysm	442.8	Aneurysm of other specified artery
+HP:4000067	Iliac artery aneurysm	442.2	Aneurysm of iliac artery
 HP:0030880	Raynaud phenomenon	443.1	Raynaud's syndrome
 HP:0007395	Postnatal-onset ichthyosiform erythroderma	691.1	Ichthyosis congenita
 HP:0007431	Congenital ichthyosiform erythroderma	691.1	Ichthyosis congenita
@@ -23370,6 +23687,7 @@ HP:0002786	Tracheobronchomalacia	733.9	Chondromalacia
 HP:0033979	Excessive dynamic airway collapse	733.9	Chondromalacia
 HP:0033990	Cartilaginous tracheobronchomalacia	733.9	Chondromalacia
 HP:0002780	Bronchomalacia	733.9	Chondromalacia
+HP:0004875	Neonatal inspiratory stridor	661	Fetal distress and abnormal forces of labor
 HP:0002643	Neonatal respiratory distress	661	Fetal distress and abnormal forces of labor
 HP:0012768	Neonatal asphyxia	661	Fetal distress and abnormal forces of labor
 HP:0033210	Congenital alveolar dysplasia	661	Fetal distress and abnormal forces of labor
@@ -23630,6 +23948,11 @@ HP:0008441	Herniation of intervertebral nuclei	722.1	Displacement of interverteb
 HP:0008443	Spinal deformities	724.1	Disorders of sacrum
 HP:0008443	Spinal deformities	724.9	Other unspecified back disorders
 HP:0002949	Fused cervical vertebrae	724.9	Other unspecified back disorders
+HP:0004575	Fusion of midcervical facet joints	724.9	Other unspecified back disorders
+HP:0004602	Cervical C2/C3 vertebral fusion	724.9	Other unspecified back disorders
+HP:0004635	Cervical C5/C6 vertebrae fusion	724.9	Other unspecified back disorders
+HP:0008449	Progressive cervical vertebral spine fusion	724.9	Other unspecified back disorders
+HP:0030281	Cervical C3/C4 vertebral fusion	724.9	Other unspecified back disorders
 HP:0001215	Camptodactyly of 2nd-5th fingers	755.4	Congenital anomalies of upper limb, including shoulder girdle
 HP:0001836	Camptodactyly of toe	755.4	Congenital anomalies of upper limb, including shoulder girdle
 HP:0005617	Bilateral camptodactyly	755.4	Congenital anomalies of upper limb, including shoulder girdle
@@ -23745,7 +24068,9 @@ HP:0001385	Hip dysplasia	755.61	Congenital hip dysplasia and deformity
 HP:0003302	Spondylolisthesis	754.2	Spondylolisthesis, congenital
 HP:0008489	Spondylolisthesis at L5-S1	754.2	Spondylolisthesis, congenital
 HP:0041217	Fractured shoulder	743.4	Stress fracture
+HP:0033262	Transphyseal fracture of the distal humerus	743.4	Stress fracture
 HP:0041055	Fractured humerus	743.4	Stress fracture
+HP:0041088	Avulsion fractured humerus	743.4	Stress fracture
 HP:0041166	Fractured vertebra	743.4	Stress fracture
 HP:0001373	Joint dislocation	842	Other sprains and strains
 HP:0001374	Congenital hip dislocation	842	Other sprains and strains

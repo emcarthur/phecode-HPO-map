@@ -1805,6 +1805,7 @@ HP:0032282	Contact dermatitis	840.8	Allergies related to other diseases/symptoms
 HP:0100327	Cow milk allergy	840.8	Allergies related to other diseases/symptoms
 HP:0410327	Dairy allergy	840.8	Allergies related to other diseases/symptoms
 HP:0410328	Egg allergy	840.8	Allergies related to other diseases/symptoms
+HP:0001051	Seborrheic dermatitis	888	Skin conditions in infants
 HP:0002751	Kyphoscoliosis	C944	Other specified complications of procedures, not elsewhere classified
 HP:0002808	Kyphosis	C944	Other specified complications of procedures, not elsewhere classified
 HP:0002942	Thoracic kyphosis	C944	Other specified complications of procedures, not elsewhere classified
@@ -5876,6 +5877,7 @@ HP:0009590	Unilateral vestibular Schwannoma	334	Disorders of other cranial nerve
 HP:0012318	Occipital neuralgia	334	Disorders of other cranial nerves
 HP:0100661	Trigeminal neuralgia	334	Disorders of other cranial nerves
 HP:0010828	Hemifacial spasm	334	Disorders of other cranial nerves
+HP:0010542	Vestibular nystagmus	334	Disorders of other cranial nerves
 HP:0000317	Facial myokymia	334	Disorders of other cranial nerves
 HP:0001291	Abnormal cranial nerve morphology	334	Disorders of other cranial nerves
 HP:0001293	Cranial nerve compression	334	Disorders of other cranial nerves
@@ -5891,7 +5893,6 @@ HP:0007209	Facial paralysis	334	Disorders of other cranial nerves
 HP:0007807	Optic nerve compression	334	Disorders of other cranial nerves
 HP:0007958	Optic atrophy from cranial nerve compression	334	Disorders of other cranial nerves
 HP:0009591	Abnormality of the vestibulocochlear nerve	334	Disorders of other cranial nerves
-HP:0010542	Vestibular nystagmus	334	Disorders of other cranial nerves
 HP:0010628	Facial palsy	334	Disorders of other cranial nerves
 HP:0010824	Abnormal fifth cranial nerve morphology	334	Disorders of other cranial nerves
 HP:0010825	Abnormality of the eleventh cranial nerve	334	Disorders of other cranial nerves
@@ -5919,6 +5920,7 @@ HP:0009588	Vestibular Schwannoma	334.1	Trigeminal nerve disorders [CN5]
 HP:0009589	Bilateral vestibular Schwannoma	334.1	Trigeminal nerve disorders [CN5]
 HP:0009590	Unilateral vestibular Schwannoma	334.1	Trigeminal nerve disorders [CN5]
 HP:0100661	Trigeminal neuralgia	334.1	Trigeminal nerve disorders [CN5]
+HP:0010542	Vestibular nystagmus	334.1	Trigeminal nerve disorders [CN5]
 HP:0001291	Abnormal cranial nerve morphology	334.1	Trigeminal nerve disorders [CN5]
 HP:0001293	Cranial nerve compression	334.1	Trigeminal nerve disorders [CN5]
 HP:0001349	Facial diplegia	334.1	Trigeminal nerve disorders [CN5]
@@ -5932,7 +5934,6 @@ HP:0007209	Facial paralysis	334.1	Trigeminal nerve disorders [CN5]
 HP:0007807	Optic nerve compression	334.1	Trigeminal nerve disorders [CN5]
 HP:0007958	Optic atrophy from cranial nerve compression	334.1	Trigeminal nerve disorders [CN5]
 HP:0009591	Abnormality of the vestibulocochlear nerve	334.1	Trigeminal nerve disorders [CN5]
-HP:0010542	Vestibular nystagmus	334.1	Trigeminal nerve disorders [CN5]
 HP:0010628	Facial palsy	334.1	Trigeminal nerve disorders [CN5]
 HP:0010824	Abnormal fifth cranial nerve morphology	334.1	Trigeminal nerve disorders [CN5]
 HP:0010825	Abnormality of the eleventh cranial nerve	334.1	Trigeminal nerve disorders [CN5]
@@ -7032,7 +7033,11 @@ HP:0004905	Low levels of vitamin A	232	Vitamin deficiencies
 HP:0004912	Hypophosphatemic rickets	232	Vitamin deficiencies
 HP:0006463	Rickets of the lower limbs	232	Vitamin deficiencies
 HP:0008326	Reduced circulating vitamin B6 level	232	Vitamin deficiencies
+HP:0100497	Vitamin B3 deficiency	232	Vitamin deficiencies
+HP:0100503	Low levels of vitamin B1	232	Vitamin deficiencies
 HP:0100504	Low levels of vitamin B2	232	Vitamin deficiencies
+HP:0100505	Low levels of vitamin B5	232	Vitamin deficiencies
+HP:0100506	Low levels of vitamin B8	232	Vitamin deficiencies
 HP:0100510	Low levels of vitamin C	232	Vitamin deficiencies
 HP:0100512	Low levels of vitamin D	232	Vitamin deficiencies
 HP:0100513	Low levels of vitamin E	232	Vitamin deficiencies
@@ -9311,6 +9316,7 @@ HP:0007737	Bone spicule pigmentation of the retina	374	Disorders of the retina
 HP:0007769	Peripheral retinal degeneration	374	Disorders of the retina
 HP:0007773	Vitreoretinopathy	374	Disorders of the retina
 HP:0007778	Posterior retinal neovascularization	374	Disorders of the retina
+HP:0007782	obsolete Peripheral retinal cone degeneration	374	Disorders of the retina
 HP:0007875	Congenital blindness	374	Disorders of the retina
 HP:0007898	Exudative retinopathy	374	Disorders of the retina
 HP:0007899	Retinal nonattachment	374	Disorders of the retina
@@ -11313,6 +11319,7 @@ HP:0500092	Orbital rhabdomyosarcoma	104.3	Malignant neoplasm of other connective
 HP:0100697	Neurofibrosarcoma	104.4	Malignant neoplasm of peripheral nerves*
 HP:0100723	Gastrointestinal stroma tumor	104.5	Gastrointestinal stromal tumor*
 HP:0100726	Kaposi's sarcoma	104.6	Kaposi's sarcoma
+HP:0030448	Soft tissue sarcoma	104.6	Kaposi's sarcoma
 HP:0030076	Lobular carcinoma in situ	105	Malignant neoplasm of the breast
 HP:0010619	Fibroadenoma of the breast	105	Malignant neoplasm of the breast
 HP:0003002	Breast carcinoma	105	Malignant neoplasm of the breast
@@ -14755,11 +14762,11 @@ HP:0030837	Finger pain	809.33	Pain in hand and fingers*
 HP:0046505	Hand pain	809.33	Pain in hand and fingers*
 HP:0030857	Eye movement-induced pain	389	Other disorders of eye
 HP:0200026	Ocular pain	389	Other disorders of eye
+HP:0010543	Opsoclonus	389	Other disorders of eye
 HP:0025338	Circumlimbal hyperemia	389	Other disorders of eye
 HP:0030953	Conjunctival hyperemia	389	Other disorders of eye
 HP:0000555	Leukocoria	389	Other disorders of eye
 HP:0000667	Phthisis bulbi	389	Other disorders of eye
-HP:0010543	Opsoclonus	389	Other disorders of eye
 HP:0030857	Eye movement-induced pain	389.1	Ocular pain
 HP:0200026	Ocular pain	389.1	Ocular pain
 HP:0032141	Precordial pain	800	Chest pain
@@ -15567,6 +15574,7 @@ HP:0031291	Ichthyosis follicularis	790.1	Congenital ichthyosis
 HP:0007431	Congenital ichthyosiform erythroderma	790.13	Lamellar ichthyosis*
 HP:0007475	Congenital bullous ichthyosiform erythroderma	790.13	Lamellar ichthyosis*
 HP:0007479	Congenital nonbullous ichthyosiform erythroderma	790.13	Lamellar ichthyosis*
+HP:0007431	Congenital ichthyosiform erythroderma	790.14	Congenital bullous ichthyosiform erythroderma*
 HP:0007475	Congenital bullous ichthyosiform erythroderma	790.14	Congenital bullous ichthyosiform erythroderma*
 HP:0031291	Ichthyosis follicularis	790.14	Congenital bullous ichthyosiform erythroderma*
 HP:0002720	Decreased circulating IgA level	179.1	Hypogammaglobulinemia NOS
@@ -16406,6 +16414,7 @@ HP:0011342	Mild global developmental delay	891.4	Delayed milestones
 HP:0011343	Moderate global developmental delay	891.4	Delayed milestones
 HP:0011344	Severe global developmental delay	891.4	Delayed milestones
 HP:0012736	Profound global developmental delay	891.4	Delayed milestones
+HP:0001270	Motor delay	891.4	Delayed milestones
 HP:0000845	Elevated circulating growth hormone concentration	209.11	Tall stature, acromegaly and gigantism
 HP:0000870	Increased circulating prolactin concentration	209.13	Hyperprolactinemia*
 HP:0003510	Severe short stature	229	Other endocrine disorders
@@ -16447,8 +16456,6 @@ HP:0002172	Postural instability	354	Dizziness and giddiness
 HP:0031972	Presyncope	354	Dizziness and giddiness
 HP:0002321	Vertigo	394	Disorders of vestibular function
 HP:0010532	Paroxysmal vertigo	394	Disorders of vestibular function
-HP:0010542	Vestibular nystagmus	394	Disorders of vestibular function
-HP:0002172	Postural instability	394	Disorders of vestibular function
 HP:0000639	Nystagmus	394	Disorders of vestibular function
 HP:0000640	Gaze-evoked nystagmus	394	Disorders of vestibular function
 HP:0000666	Horizontal nystagmus	394	Disorders of vestibular function
@@ -16462,6 +16469,7 @@ HP:0007859	Congenital horizontal nystagmus	394	Disorders of vestibular function
 HP:0007979	Gaze-evoked horizontal nystagmus	394	Disorders of vestibular function
 HP:0008026	Horizontal opticokinetic nystagmus	394	Disorders of vestibular function
 HP:0010533	Spasmus nutans	394	Disorders of vestibular function
+HP:0010542	Vestibular nystagmus	394	Disorders of vestibular function
 HP:0010544	Vertical nystagmus	394	Disorders of vestibular function
 HP:0010545	Downbeat nystagmus	394	Disorders of vestibular function
 HP:0011477	Upbeat nystagmus	394	Disorders of vestibular function
@@ -16469,9 +16477,9 @@ HP:0012043	Pendular nystagmus	394	Disorders of vestibular function
 HP:0012044	Seesaw nystagmus	394	Disorders of vestibular function
 HP:0025711	Convergence-retraction nystagmus	394	Disorders of vestibular function
 HP:0030691	Divergence nystagmus	394	Disorders of vestibular function
+HP:0002172	Postural instability	394	Disorders of vestibular function
 HP:0002321	Vertigo	394.2	Vertigo
 HP:0010532	Paroxysmal vertigo	394.2	Vertigo
-HP:0010542	Vestibular nystagmus	394.2	Vertigo
 HP:0000639	Nystagmus	394.2	Vertigo
 HP:0000640	Gaze-evoked nystagmus	394.2	Vertigo
 HP:0000666	Horizontal nystagmus	394.2	Vertigo
@@ -16485,6 +16493,7 @@ HP:0007859	Congenital horizontal nystagmus	394.2	Vertigo
 HP:0007979	Gaze-evoked horizontal nystagmus	394.2	Vertigo
 HP:0008026	Horizontal opticokinetic nystagmus	394.2	Vertigo
 HP:0010533	Spasmus nutans	394.2	Vertigo
+HP:0010542	Vestibular nystagmus	394.2	Vertigo
 HP:0010544	Vertical nystagmus	394.2	Vertigo
 HP:0010545	Downbeat nystagmus	394.2	Vertigo
 HP:0011477	Upbeat nystagmus	394.2	Vertigo
@@ -17084,9 +17093,11 @@ HP:0032081	Intralamellar mucoid extracellular matrix accumulation	438	Aneurysm o
 HP:0032082	Translamellar mucoid extracellular matrix accumulation	438	Aneurysm or ectasia
 HP:0033261	Renal artery aneurysm	438	Aneurysm or ectasia
 HP:0033311	Abdominal aortic dissection	438	Aneurysm or ectasia
+HP:0034179	Vertebral artery aneurysm	438	Aneurysm or ectasia
 HP:0100026	Arteriovenous malformation	438	Aneurysm or ectasia
 HP:0100784	Peripheral arteriovenous fistula	438	Aneurysm or ectasia
 HP:0200146	Mucoid extracellular matrix accumulation	438	Aneurysm or ectasia
+HP:4000067	Iliac artery aneurysm	438	Aneurysm or ectasia
 HP:0002390	Spinal arteriovenous malformation	438.4	Arterial dissection
 HP:0002408	Cerebral arteriovenous malformation	438.4	Arterial dissection
 HP:0002616	Aortic root aneurysm	438.4	Arterial dissection
@@ -17381,6 +17392,7 @@ HP:0001149	Lattice corneal dystrophy	369	Noninflammatory disorders of the cornea
 HP:0007705	Corneal degeneration	369	Noninflammatory disorders of the cornea
 HP:0007709	Band-shaped corneal dystrophy	369	Noninflammatory disorders of the cornea
 HP:0007727	Opacification of the corneal epithelium	369	Noninflammatory disorders of the cornea
+HP:0007754	Macular dystrophy	369	Noninflammatory disorders of the cornea
 HP:0007759	Opacification of the corneal stroma	369	Noninflammatory disorders of the cornea
 HP:0007760	Crystalline corneal dystrophy	369	Noninflammatory disorders of the cornea
 HP:0007802	Granular corneal dystrophy	369	Noninflammatory disorders of the cornea
@@ -18604,6 +18616,7 @@ HP:0012171	Stereotypical hand wringing	325	Symptoms and signs related to movemen
 HP:0012172	Stereotypical body rocking	325	Symptoms and signs related to movement disorders
 HP:0012389	Appendicular hypotonia	325	Symptoms and signs related to movement disorders
 HP:0012407	Scissor gait	325	Symptoms and signs related to movement disorders
+HP:0012547	Abnormal involuntary eye movements	325	Symptoms and signs related to movement disorders
 HP:0025682	Crouch gait	325	Symptoms and signs related to movement disorders
 HP:0030051	Tip-toe gait	325	Symptoms and signs related to movement disorders
 HP:0030190	Oral motor hypotonia	325	Symptoms and signs related to movement disorders
@@ -18692,6 +18705,7 @@ HP:0011449	Knee clonus	325.1	Abnormal involuntary movements
 HP:0011728	Elbow clonus	325.1	Abnormal involuntary movements
 HP:0012171	Stereotypical hand wringing	325.1	Abnormal involuntary movements
 HP:0012172	Stereotypical body rocking	325.1	Abnormal involuntary movements
+HP:0012547	Abnormal involuntary eye movements	325.1	Abnormal involuntary movements
 HP:0030218	Punding	325.1	Abnormal involuntary movements
 HP:0031990	Chvostek sign	325.1	Abnormal involuntary movements
 HP:0032506	Alien limb phenomenon	325.1	Abnormal involuntary movements
@@ -19231,6 +19245,7 @@ HP:0002398	Degeneration of anterior horn cells	323.3	Motor neuron disease
 HP:0006802	Abnormal anterior horn cell morphology	323.3	Motor neuron disease
 HP:0007024	Pseudobulbar paralysis	323.3	Motor neuron disease
 HP:0007354	Amyotrophic lateral sclerosis	323.3	Motor neuron disease
+HP:0008955	Progressive distal muscular atrophy	323.3	Motor neuron disease
 HP:0008964	Nonprogressive muscular atrophy	323.3	Motor neuron disease
 HP:0009067	Progressive spinal muscular atrophy	323.3	Motor neuron disease
 HP:0001283	Bulbar palsy	323.32	Progressive bulbar palsy
@@ -20319,6 +20334,143 @@ HP:0009062	Infantile axial hypotonia	872.12	Congenital hypotonia*
 HP:0012389	Appendicular hypotonia	872.12	Congenital hypotonia*
 HP:0030190	Oral motor hypotonia	872.12	Congenital hypotonia*
 HP:0031139	Frog-leg posture	872.12	Congenital hypotonia*
+HP:0000639	Nystagmus	383	Irregular eye movements
+HP:0000640	Gaze-evoked nystagmus	383	Irregular eye movements
+HP:0000666	Horizontal nystagmus	383	Irregular eye movements
+HP:0001361	Nystagmus-induced head nodding	383	Irregular eye movements
+HP:0001583	Rotary nystagmus	383	Irregular eye movements
+HP:0006934	Congenital nystagmus	383	Irregular eye movements
+HP:0007286	Horizontal jerk nystagmus	383	Irregular eye movements
+HP:0007747	Monocular horizontal nystagmus	383	Irregular eye movements
+HP:0007811	Horizontal pendular nystagmus	383	Irregular eye movements
+HP:0007859	Congenital horizontal nystagmus	383	Irregular eye movements
+HP:0007979	Gaze-evoked horizontal nystagmus	383	Irregular eye movements
+HP:0008026	Horizontal opticokinetic nystagmus	383	Irregular eye movements
+HP:0010533	Spasmus nutans	383	Irregular eye movements
+HP:0010542	Vestibular nystagmus	383	Irregular eye movements
+HP:0010543	Opsoclonus	383	Irregular eye movements
+HP:0010544	Vertical nystagmus	383	Irregular eye movements
+HP:0010545	Downbeat nystagmus	383	Irregular eye movements
+HP:0011477	Upbeat nystagmus	383	Irregular eye movements
+HP:0012043	Pendular nystagmus	383	Irregular eye movements
+HP:0012044	Seesaw nystagmus	383	Irregular eye movements
+HP:0025711	Convergence-retraction nystagmus	383	Irregular eye movements
+HP:0030691	Divergence nystagmus	383	Irregular eye movements
+HP:0000639	Nystagmus	383.1	Nystagmus
+HP:0000640	Gaze-evoked nystagmus	383.1	Nystagmus
+HP:0000666	Horizontal nystagmus	383.1	Nystagmus
+HP:0001361	Nystagmus-induced head nodding	383.1	Nystagmus
+HP:0001583	Rotary nystagmus	383.1	Nystagmus
+HP:0006934	Congenital nystagmus	383.1	Nystagmus
+HP:0007286	Horizontal jerk nystagmus	383.1	Nystagmus
+HP:0007747	Monocular horizontal nystagmus	383.1	Nystagmus
+HP:0007811	Horizontal pendular nystagmus	383.1	Nystagmus
+HP:0007859	Congenital horizontal nystagmus	383.1	Nystagmus
+HP:0007979	Gaze-evoked horizontal nystagmus	383.1	Nystagmus
+HP:0008026	Horizontal opticokinetic nystagmus	383.1	Nystagmus
+HP:0010533	Spasmus nutans	383.1	Nystagmus
+HP:0010542	Vestibular nystagmus	383.1	Nystagmus
+HP:0010544	Vertical nystagmus	383.1	Nystagmus
+HP:0010545	Downbeat nystagmus	383.1	Nystagmus
+HP:0011477	Upbeat nystagmus	383.1	Nystagmus
+HP:0012043	Pendular nystagmus	383.1	Nystagmus
+HP:0012044	Seesaw nystagmus	383.1	Nystagmus
+HP:0025711	Convergence-retraction nystagmus	383.1	Nystagmus
+HP:0030691	Divergence nystagmus	383.1	Nystagmus
+HP:0000639	Nystagmus	385	Abnormal results of function studies of eye
+HP:0000640	Gaze-evoked nystagmus	385	Abnormal results of function studies of eye
+HP:0000666	Horizontal nystagmus	385	Abnormal results of function studies of eye
+HP:0001361	Nystagmus-induced head nodding	385	Abnormal results of function studies of eye
+HP:0001583	Rotary nystagmus	385	Abnormal results of function studies of eye
+HP:0006934	Congenital nystagmus	385	Abnormal results of function studies of eye
+HP:0007286	Horizontal jerk nystagmus	385	Abnormal results of function studies of eye
+HP:0007747	Monocular horizontal nystagmus	385	Abnormal results of function studies of eye
+HP:0007811	Horizontal pendular nystagmus	385	Abnormal results of function studies of eye
+HP:0007859	Congenital horizontal nystagmus	385	Abnormal results of function studies of eye
+HP:0007979	Gaze-evoked horizontal nystagmus	385	Abnormal results of function studies of eye
+HP:0008026	Horizontal opticokinetic nystagmus	385	Abnormal results of function studies of eye
+HP:0010533	Spasmus nutans	385	Abnormal results of function studies of eye
+HP:0010542	Vestibular nystagmus	385	Abnormal results of function studies of eye
+HP:0010544	Vertical nystagmus	385	Abnormal results of function studies of eye
+HP:0010545	Downbeat nystagmus	385	Abnormal results of function studies of eye
+HP:0011477	Upbeat nystagmus	385	Abnormal results of function studies of eye
+HP:0012043	Pendular nystagmus	385	Abnormal results of function studies of eye
+HP:0012044	Seesaw nystagmus	385	Abnormal results of function studies of eye
+HP:0025711	Convergence-retraction nystagmus	385	Abnormal results of function studies of eye
+HP:0030691	Divergence nystagmus	385	Abnormal results of function studies of eye
+HP:0000496	Abnormality of eye movement	385	Abnormal results of function studies of eye
+HP:0000512	Abnormal electroretinogram	385	Abnormal results of function studies of eye
+HP:0000550	Undetectable electroretinogram	385	Abnormal results of function studies of eye
+HP:0000649	Abnormality of visual evoked potentials	385	Abnormal results of function studies of eye
+HP:0000650	Abnormal amplitude of pattern reversal visual evoked potentials	385	Abnormal results of function studies of eye
+HP:0000654	Decreased light- and dark-adapted electroretinogram amplitude	385	Abnormal results of function studies of eye
+HP:0007688	Undetectable light- and dark-adapted electroretinogram	385	Abnormal results of function studies of eye
+HP:0007928	Abnormal flash visual evoked potentials	385	Abnormal results of function studies of eye
+HP:0007965	Undetectable visual evoked potentials	385	Abnormal results of function studies of eye
+HP:0007984	Electronegative electroretinogram	385	Abnormal results of function studies of eye
+HP:0008045	Enlarged flash visual evoked potentials	385	Abnormal results of function studies of eye
+HP:0008179	Decreased Arden ratio of electrooculogram	385	Abnormal results of function studies of eye
+HP:0008275	Abnormal light-adapted electroretinogram	385	Abnormal results of function studies of eye
+HP:0008323	Abnormal light- and dark-adapted electroretinogram	385	Abnormal results of function studies of eye
+HP:0030454	Abnormal electrooculogram	385	Abnormal results of function studies of eye
+HP:0030455	Abnormality of pattern visual evoked potentials	385	Abnormal results of function studies of eye
+HP:0030456	Abnormality of pattern onset/offset visual evoked potentials	385	Abnormal results of function studies of eye
+HP:0030457	Abnormal amplitude of pattern onset/offset visual evoked potentials	385	Abnormal results of function studies of eye
+HP:0030458	Abnormal timing of pattern onset/offset visual evoked potentials	385	Abnormal results of function studies of eye
+HP:0030460	Abnormal timing of pattern reversal visual evoked potentials	385	Abnormal results of function studies of eye
+HP:0030461	Abnormal timing of flash visual evoked potentials	385	Abnormal results of function studies of eye
+HP:0030462	Abnormal amplitude of flash visual evoked potentials	385	Abnormal results of function studies of eye
+HP:0030463	Asymmetrical distribution of flash visual evoked potentials	385	Abnormal results of function studies of eye
+HP:0030464	Asymmetrical distribution of pattern reversal visual evoked potentials	385	Abnormal results of function studies of eye
+HP:0030465	Undetectable light-adapted electroretinogram	385	Abnormal results of function studies of eye
+HP:0030466	Abnormal full-field electroretinogram	385	Abnormal results of function studies of eye
+HP:0030467	Abnormal pattern electroretinogram	385	Abnormal results of function studies of eye
+HP:0030468	Abnormal multifocal electroretinogram	385	Abnormal results of function studies of eye
+HP:0030469	Abnormal dark-adapted electroretinogram	385	Abnormal results of function studies of eye
+HP:0030470	Abnormal dark-adapted bright flash electroretinogram	385	Abnormal results of function studies of eye
+HP:0030471	Abnormal dark-adapted dim flash electroretinogram	385	Abnormal results of function studies of eye
+HP:0030472	Abnormal light-adapted single flash electroretinogram	385	Abnormal results of function studies of eye
+HP:0030473	Abnormal light-adapted flicker electroretinogram	385	Abnormal results of function studies of eye
+HP:0030474	Undetectable dark-adapted electroretinogram	385	Abnormal results of function studies of eye
+HP:0030475	Abnormal timing of dark-adapted dim flash electroretinogram	385	Abnormal results of function studies of eye
+HP:0030476	Abnormal amplitude of dark-adapted dim flash electroretinogram	385	Abnormal results of function studies of eye
+HP:0030477	Abnormal timing of dark-adapted bright flash electroretinogram	385	Abnormal results of function studies of eye
+HP:0030478	Abnormal amplitude of dark-adapted bright flash electroretinogram	385	Abnormal results of function studies of eye
+HP:0030479	Abnormal amplitude of light-adapted flicker electroretinogram	385	Abnormal results of function studies of eye
+HP:0030480	Abnormal timing of light-adapted flicker electroretinogram	385	Abnormal results of function studies of eye
+HP:0030481	Abnormal amplitude of light-adapted single flash electroretinogram	385	Abnormal results of function studies of eye
+HP:0030482	Abnormal timing of light-adapted single flash electroretinogram	385	Abnormal results of function studies of eye
+HP:0030483	Reduced amplitude of dark-adapted bright flash electroretinogram a-wave	385	Abnormal results of function studies of eye
+HP:0030484	Supernormal dark-adapted bright flash electroretinogram b-wave	385	Abnormal results of function studies of eye
+HP:0030485	Abnormal amplitude of pattern electroretinogram	385	Abnormal results of function studies of eye
+HP:0030486	Abnormal timing of pattern electroretinogram	385	Abnormal results of function studies of eye
+HP:0030487	Abnormal P50/N95 ratio of pattern electroretinogram	385	Abnormal results of function studies of eye
+HP:0030488	Abnormal central response of multifocal electroretinogram	385	Abnormal results of function studies of eye
+HP:0030489	Abnormal paracentral response of multifocal electroretinogram	385	Abnormal results of function studies of eye
+HP:0030844	Undetectable pattern electroretinogram	385	Abnormal results of function studies of eye
+HP:0031155	Increased Arden ratio of electrooculogram	385	Abnormal results of function studies of eye
+HP:0100289	Abnormality of pattern reversal visual evoked potentials	385	Abnormal results of function studies of eye
+HP:0000639	Nystagmus	394.23	Central origin vertigo
+HP:0000640	Gaze-evoked nystagmus	394.23	Central origin vertigo
+HP:0000666	Horizontal nystagmus	394.23	Central origin vertigo
+HP:0001361	Nystagmus-induced head nodding	394.23	Central origin vertigo
+HP:0001583	Rotary nystagmus	394.23	Central origin vertigo
+HP:0006934	Congenital nystagmus	394.23	Central origin vertigo
+HP:0007286	Horizontal jerk nystagmus	394.23	Central origin vertigo
+HP:0007747	Monocular horizontal nystagmus	394.23	Central origin vertigo
+HP:0007811	Horizontal pendular nystagmus	394.23	Central origin vertigo
+HP:0007859	Congenital horizontal nystagmus	394.23	Central origin vertigo
+HP:0007979	Gaze-evoked horizontal nystagmus	394.23	Central origin vertigo
+HP:0008026	Horizontal opticokinetic nystagmus	394.23	Central origin vertigo
+HP:0010533	Spasmus nutans	394.23	Central origin vertigo
+HP:0010542	Vestibular nystagmus	394.23	Central origin vertigo
+HP:0010544	Vertical nystagmus	394.23	Central origin vertigo
+HP:0010545	Downbeat nystagmus	394.23	Central origin vertigo
+HP:0011477	Upbeat nystagmus	394.23	Central origin vertigo
+HP:0012043	Pendular nystagmus	394.23	Central origin vertigo
+HP:0012044	Seesaw nystagmus	394.23	Central origin vertigo
+HP:0025711	Convergence-retraction nystagmus	394.23	Central origin vertigo
+HP:0030691	Divergence nystagmus	394.23	Central origin vertigo
 HP:0001308	Tongue fasciculations	325.12	Fasciculation*
 HP:0002380	Fasciculations	325.12	Fasciculation*
 HP:0007089	Facial-lingual fasciculations	325.12	Fasciculation*
@@ -20459,6 +20611,9 @@ HP:0032588	Hand apraxia	894.2	Apraxia*
 HP:0002527	Falls	T915	Fall
 HP:0010526	Dysgraphia	894.1	Dyslexia and alexia
 HP:0010522	Dyslexia	894.1	Dyslexia and alexia
+HP:0000514	Slow saccadic eye movements	383.2	Saccadic eye movements
+HP:0000570	Abnormal saccadic eye movements	383.2	Saccadic eye movements
+HP:0007885	Slowed horizontal saccades	383.2	Saccadic eye movements
 HP:0006918	Diffuse cerebral sclerosis	326.3	Diffuse myelinoclastic sclerosis [Schilder's disease]
 HP:0001334	Communicating hydrocephalus	344	Disorders of the circulation of the cerebrospinal fluid
 HP:0002343	Normal pressure hydrocephalus	344	Disorders of the circulation of the cerebrospinal fluid
@@ -20579,6 +20734,7 @@ HP:0010535	Sleep apnea	488	Abnormalities of breathing
 HP:0010536	Central sleep apnea	488	Abnormalities of breathing
 HP:0025267	Snoring	488	Abnormalities of breathing
 HP:0025372	Loud snoring	488	Abnormalities of breathing
+HP:0002871	Central apnea	488	Abnormalities of breathing
 HP:0012763	Paroxysmal dyspnea	488	Abnormalities of breathing
 HP:0004875	Neonatal inspiratory stridor	488	Abnormalities of breathing
 HP:0033677	Acute respiratory distress syndrome	488	Abnormalities of breathing
@@ -20589,7 +20745,6 @@ HP:0002104	Apnea	488	Abnormalities of breathing
 HP:0002789	Tachypnea	488	Abnormalities of breathing
 HP:0002791	Hypoventilation	488	Abnormalities of breathing
 HP:0002795	Abnormal respiratory system physiology	488	Abnormalities of breathing
-HP:0002871	Central apnea	488	Abnormalities of breathing
 HP:0002872	Apneic episodes precipitated by illness, fatigue, stress	488	Abnormalities of breathing
 HP:0002875	Exertional dyspnea	488	Abnormalities of breathing
 HP:0002876	Episodic tachypnea	488	Abnormalities of breathing
@@ -20622,8 +20777,8 @@ HP:0046507	Bradypnea	488	Abnormalities of breathing
 HP:0002870	Obstructive sleep apnea	488.7	Apnea NEC
 HP:0010535	Sleep apnea	488.7	Apnea NEC
 HP:0010536	Central sleep apnea	488.7	Apnea NEC
-HP:0002104	Apnea	488.7	Apnea NEC
 HP:0002871	Central apnea	488.7	Apnea NEC
+HP:0002104	Apnea	488.7	Apnea NEC
 HP:0002872	Apneic episodes precipitated by illness, fatigue, stress	488.7	Apnea NEC
 HP:0002882	Sudden episodic apnea	488.7	Apnea NEC
 HP:0005949	Apneic episodes in infancy	488.7	Apnea NEC
@@ -20637,6 +20792,7 @@ HP:0010535	Sleep apnea	854.91	Primary sleep apnea of newborn
 HP:0010536	Central sleep apnea	854.91	Primary sleep apnea of newborn
 HP:0034236	Apnea of prematurity	854.91	Primary sleep apnea of newborn
 HP:0010536	Central sleep apnea	333.12	Central sleep apnea
+HP:0002871	Central apnea	333.12	Central sleep apnea
 HP:0025234	Parasomnia	333.5	Parasomnia and sleep arousal Disorders
 HP:0025235	Non-rapid eye movement parasomnia	333.5	Parasomnia and sleep arousal Disorders
 HP:0025236	Somnambulism	333.5	Parasomnia and sleep arousal Disorders
@@ -20698,143 +20854,6 @@ HP:0040297	Preauricular cyst	756	Congenital malformations of face and neck
 HP:0007958	Optic atrophy from cranial nerve compression	380.3	Optic atrophy
 HP:0000648	Optic atrophy	380.3	Optic atrophy
 HP:0001112	Leber optic atrophy	380.3	Optic atrophy
-HP:0010542	Vestibular nystagmus	383	Irregular eye movements
-HP:0000639	Nystagmus	383	Irregular eye movements
-HP:0000640	Gaze-evoked nystagmus	383	Irregular eye movements
-HP:0000666	Horizontal nystagmus	383	Irregular eye movements
-HP:0001361	Nystagmus-induced head nodding	383	Irregular eye movements
-HP:0001583	Rotary nystagmus	383	Irregular eye movements
-HP:0006934	Congenital nystagmus	383	Irregular eye movements
-HP:0007286	Horizontal jerk nystagmus	383	Irregular eye movements
-HP:0007747	Monocular horizontal nystagmus	383	Irregular eye movements
-HP:0007811	Horizontal pendular nystagmus	383	Irregular eye movements
-HP:0007859	Congenital horizontal nystagmus	383	Irregular eye movements
-HP:0007979	Gaze-evoked horizontal nystagmus	383	Irregular eye movements
-HP:0008026	Horizontal opticokinetic nystagmus	383	Irregular eye movements
-HP:0010533	Spasmus nutans	383	Irregular eye movements
-HP:0010543	Opsoclonus	383	Irregular eye movements
-HP:0010544	Vertical nystagmus	383	Irregular eye movements
-HP:0010545	Downbeat nystagmus	383	Irregular eye movements
-HP:0011477	Upbeat nystagmus	383	Irregular eye movements
-HP:0012043	Pendular nystagmus	383	Irregular eye movements
-HP:0012044	Seesaw nystagmus	383	Irregular eye movements
-HP:0025711	Convergence-retraction nystagmus	383	Irregular eye movements
-HP:0030691	Divergence nystagmus	383	Irregular eye movements
-HP:0010542	Vestibular nystagmus	383.1	Nystagmus
-HP:0000639	Nystagmus	383.1	Nystagmus
-HP:0000640	Gaze-evoked nystagmus	383.1	Nystagmus
-HP:0000666	Horizontal nystagmus	383.1	Nystagmus
-HP:0001361	Nystagmus-induced head nodding	383.1	Nystagmus
-HP:0001583	Rotary nystagmus	383.1	Nystagmus
-HP:0006934	Congenital nystagmus	383.1	Nystagmus
-HP:0007286	Horizontal jerk nystagmus	383.1	Nystagmus
-HP:0007747	Monocular horizontal nystagmus	383.1	Nystagmus
-HP:0007811	Horizontal pendular nystagmus	383.1	Nystagmus
-HP:0007859	Congenital horizontal nystagmus	383.1	Nystagmus
-HP:0007979	Gaze-evoked horizontal nystagmus	383.1	Nystagmus
-HP:0008026	Horizontal opticokinetic nystagmus	383.1	Nystagmus
-HP:0010533	Spasmus nutans	383.1	Nystagmus
-HP:0010544	Vertical nystagmus	383.1	Nystagmus
-HP:0010545	Downbeat nystagmus	383.1	Nystagmus
-HP:0011477	Upbeat nystagmus	383.1	Nystagmus
-HP:0012043	Pendular nystagmus	383.1	Nystagmus
-HP:0012044	Seesaw nystagmus	383.1	Nystagmus
-HP:0025711	Convergence-retraction nystagmus	383.1	Nystagmus
-HP:0030691	Divergence nystagmus	383.1	Nystagmus
-HP:0010542	Vestibular nystagmus	385	Abnormal results of function studies of eye
-HP:0000639	Nystagmus	385	Abnormal results of function studies of eye
-HP:0000640	Gaze-evoked nystagmus	385	Abnormal results of function studies of eye
-HP:0000666	Horizontal nystagmus	385	Abnormal results of function studies of eye
-HP:0001361	Nystagmus-induced head nodding	385	Abnormal results of function studies of eye
-HP:0001583	Rotary nystagmus	385	Abnormal results of function studies of eye
-HP:0006934	Congenital nystagmus	385	Abnormal results of function studies of eye
-HP:0007286	Horizontal jerk nystagmus	385	Abnormal results of function studies of eye
-HP:0007747	Monocular horizontal nystagmus	385	Abnormal results of function studies of eye
-HP:0007811	Horizontal pendular nystagmus	385	Abnormal results of function studies of eye
-HP:0007859	Congenital horizontal nystagmus	385	Abnormal results of function studies of eye
-HP:0007979	Gaze-evoked horizontal nystagmus	385	Abnormal results of function studies of eye
-HP:0008026	Horizontal opticokinetic nystagmus	385	Abnormal results of function studies of eye
-HP:0010533	Spasmus nutans	385	Abnormal results of function studies of eye
-HP:0010544	Vertical nystagmus	385	Abnormal results of function studies of eye
-HP:0010545	Downbeat nystagmus	385	Abnormal results of function studies of eye
-HP:0011477	Upbeat nystagmus	385	Abnormal results of function studies of eye
-HP:0012043	Pendular nystagmus	385	Abnormal results of function studies of eye
-HP:0012044	Seesaw nystagmus	385	Abnormal results of function studies of eye
-HP:0025711	Convergence-retraction nystagmus	385	Abnormal results of function studies of eye
-HP:0030691	Divergence nystagmus	385	Abnormal results of function studies of eye
-HP:0000496	Abnormality of eye movement	385	Abnormal results of function studies of eye
-HP:0000512	Abnormal electroretinogram	385	Abnormal results of function studies of eye
-HP:0000550	Undetectable electroretinogram	385	Abnormal results of function studies of eye
-HP:0000649	Abnormality of visual evoked potentials	385	Abnormal results of function studies of eye
-HP:0000650	Abnormal amplitude of pattern reversal visual evoked potentials	385	Abnormal results of function studies of eye
-HP:0000654	Decreased light- and dark-adapted electroretinogram amplitude	385	Abnormal results of function studies of eye
-HP:0007688	Undetectable light- and dark-adapted electroretinogram	385	Abnormal results of function studies of eye
-HP:0007928	Abnormal flash visual evoked potentials	385	Abnormal results of function studies of eye
-HP:0007965	Undetectable visual evoked potentials	385	Abnormal results of function studies of eye
-HP:0007984	Electronegative electroretinogram	385	Abnormal results of function studies of eye
-HP:0008045	Enlarged flash visual evoked potentials	385	Abnormal results of function studies of eye
-HP:0008179	Decreased Arden ratio of electrooculogram	385	Abnormal results of function studies of eye
-HP:0008275	Abnormal light-adapted electroretinogram	385	Abnormal results of function studies of eye
-HP:0008323	Abnormal light- and dark-adapted electroretinogram	385	Abnormal results of function studies of eye
-HP:0030454	Abnormal electrooculogram	385	Abnormal results of function studies of eye
-HP:0030455	Abnormality of pattern visual evoked potentials	385	Abnormal results of function studies of eye
-HP:0030456	Abnormality of pattern onset/offset visual evoked potentials	385	Abnormal results of function studies of eye
-HP:0030457	Abnormal amplitude of pattern onset/offset visual evoked potentials	385	Abnormal results of function studies of eye
-HP:0030458	Abnormal timing of pattern onset/offset visual evoked potentials	385	Abnormal results of function studies of eye
-HP:0030460	Abnormal timing of pattern reversal visual evoked potentials	385	Abnormal results of function studies of eye
-HP:0030461	Abnormal timing of flash visual evoked potentials	385	Abnormal results of function studies of eye
-HP:0030462	Abnormal amplitude of flash visual evoked potentials	385	Abnormal results of function studies of eye
-HP:0030463	Asymmetrical distribution of flash visual evoked potentials	385	Abnormal results of function studies of eye
-HP:0030464	Asymmetrical distribution of pattern reversal visual evoked potentials	385	Abnormal results of function studies of eye
-HP:0030465	Undetectable light-adapted electroretinogram	385	Abnormal results of function studies of eye
-HP:0030466	Abnormal full-field electroretinogram	385	Abnormal results of function studies of eye
-HP:0030467	Abnormal pattern electroretinogram	385	Abnormal results of function studies of eye
-HP:0030468	Abnormal multifocal electroretinogram	385	Abnormal results of function studies of eye
-HP:0030469	Abnormal dark-adapted electroretinogram	385	Abnormal results of function studies of eye
-HP:0030470	Abnormal dark-adapted bright flash electroretinogram	385	Abnormal results of function studies of eye
-HP:0030471	Abnormal dark-adapted dim flash electroretinogram	385	Abnormal results of function studies of eye
-HP:0030472	Abnormal light-adapted single flash electroretinogram	385	Abnormal results of function studies of eye
-HP:0030473	Abnormal light-adapted flicker electroretinogram	385	Abnormal results of function studies of eye
-HP:0030474	Undetectable dark-adapted electroretinogram	385	Abnormal results of function studies of eye
-HP:0030475	Abnormal timing of dark-adapted dim flash electroretinogram	385	Abnormal results of function studies of eye
-HP:0030476	Abnormal amplitude of dark-adapted dim flash electroretinogram	385	Abnormal results of function studies of eye
-HP:0030477	Abnormal timing of dark-adapted bright flash electroretinogram	385	Abnormal results of function studies of eye
-HP:0030478	Abnormal amplitude of dark-adapted bright flash electroretinogram	385	Abnormal results of function studies of eye
-HP:0030479	Abnormal amplitude of light-adapted flicker electroretinogram	385	Abnormal results of function studies of eye
-HP:0030480	Abnormal timing of light-adapted flicker electroretinogram	385	Abnormal results of function studies of eye
-HP:0030481	Abnormal amplitude of light-adapted single flash electroretinogram	385	Abnormal results of function studies of eye
-HP:0030482	Abnormal timing of light-adapted single flash electroretinogram	385	Abnormal results of function studies of eye
-HP:0030483	Reduced amplitude of dark-adapted bright flash electroretinogram a-wave	385	Abnormal results of function studies of eye
-HP:0030484	Supernormal dark-adapted bright flash electroretinogram b-wave	385	Abnormal results of function studies of eye
-HP:0030485	Abnormal amplitude of pattern electroretinogram	385	Abnormal results of function studies of eye
-HP:0030486	Abnormal timing of pattern electroretinogram	385	Abnormal results of function studies of eye
-HP:0030487	Abnormal P50/N95 ratio of pattern electroretinogram	385	Abnormal results of function studies of eye
-HP:0030488	Abnormal central response of multifocal electroretinogram	385	Abnormal results of function studies of eye
-HP:0030489	Abnormal paracentral response of multifocal electroretinogram	385	Abnormal results of function studies of eye
-HP:0030844	Undetectable pattern electroretinogram	385	Abnormal results of function studies of eye
-HP:0031155	Increased Arden ratio of electrooculogram	385	Abnormal results of function studies of eye
-HP:0100289	Abnormality of pattern reversal visual evoked potentials	385	Abnormal results of function studies of eye
-HP:0010542	Vestibular nystagmus	394.23	Central origin vertigo
-HP:0000639	Nystagmus	394.23	Central origin vertigo
-HP:0000640	Gaze-evoked nystagmus	394.23	Central origin vertigo
-HP:0000666	Horizontal nystagmus	394.23	Central origin vertigo
-HP:0001361	Nystagmus-induced head nodding	394.23	Central origin vertigo
-HP:0001583	Rotary nystagmus	394.23	Central origin vertigo
-HP:0006934	Congenital nystagmus	394.23	Central origin vertigo
-HP:0007286	Horizontal jerk nystagmus	394.23	Central origin vertigo
-HP:0007747	Monocular horizontal nystagmus	394.23	Central origin vertigo
-HP:0007811	Horizontal pendular nystagmus	394.23	Central origin vertigo
-HP:0007859	Congenital horizontal nystagmus	394.23	Central origin vertigo
-HP:0007979	Gaze-evoked horizontal nystagmus	394.23	Central origin vertigo
-HP:0008026	Horizontal opticokinetic nystagmus	394.23	Central origin vertigo
-HP:0010533	Spasmus nutans	394.23	Central origin vertigo
-HP:0010544	Vertical nystagmus	394.23	Central origin vertigo
-HP:0010545	Downbeat nystagmus	394.23	Central origin vertigo
-HP:0011477	Upbeat nystagmus	394.23	Central origin vertigo
-HP:0012043	Pendular nystagmus	394.23	Central origin vertigo
-HP:0012044	Seesaw nystagmus	394.23	Central origin vertigo
-HP:0025711	Convergence-retraction nystagmus	394.23	Central origin vertigo
-HP:0030691	Divergence nystagmus	394.23	Central origin vertigo
 HP:0012246	Oculomotor nerve palsy	334.41	Third [oculomotor] nerve palsy
 HP:0001215	Camptodactyly of 2nd-5th fingers	785	Congenital anomalies of limbs
 HP:0001760	Abnormal foot morphology	785	Congenital anomalies of limbs
@@ -22490,6 +22509,7 @@ HP:0007755	Juvenile epithelial corneal dystrophy	369.5	Hereditary corneal dystro
 HP:0001131	Corneal dystrophy	369.5	Hereditary corneal dystrophies
 HP:0001149	Lattice corneal dystrophy	369.5	Hereditary corneal dystrophies
 HP:0007709	Band-shaped corneal dystrophy	369.5	Hereditary corneal dystrophies
+HP:0007754	Macular dystrophy	369.5	Hereditary corneal dystrophies
 HP:0007802	Granular corneal dystrophy	369.5	Hereditary corneal dystrophies
 HP:0007809	Punctate corneal dystrophy	369.5	Hereditary corneal dystrophies
 HP:0007827	Nodular corneal dystrophy	369.5	Hereditary corneal dystrophies
@@ -22531,6 +22551,28 @@ HP:0011496	Corneal neovascularization	369.3	Corneal neovascularization
 HP:0001084	Corneal arcus	369.44	Senile corneal changes including arcus senilis
 HP:0001131	Corneal dystrophy	369.52	Lattice corneal dystrophy
 HP:0001149	Lattice corneal dystrophy	369.52	Lattice corneal dystrophy
+HP:0007754	Macular dystrophy	374.7	Retinal dystrophy
+HP:0030636	Occult macular dystrophy	374.7	Retinal dystrophy
+HP:0001135	Chorioretinal dystrophy	374.7	Retinal dystrophy
+HP:0000510	Rod-cone dystrophy	374.7	Retinal dystrophy
+HP:0000580	Pigmentary retinopathy	374.7	Retinal dystrophy
+HP:0007737	Bone spicule pigmentation of the retina	374.7	Retinal dystrophy
+HP:0007875	Congenital blindness	374.7	Retinal dystrophy
+HP:0007947	Pericentral retinitis pigmentosa	374.7	Retinal dystrophy
+HP:0008020	Cone dystrophy	374.7	Retinal dystrophy
+HP:0030505	Nummular pigmentation of the fundus	374.7	Retinal dystrophy
+HP:0030642	Fundus albipunctatus	374.7	Retinal dystrophy
+HP:0031172	Sectoral retinitis pigmentosa	374.7	Retinal dystrophy
+HP:0000548	Cone/cone-rod dystrophy	374.7	Retinal dystrophy
+HP:0000556	Retinal dystrophy	374.7	Retinal dystrophy
+HP:0007642	Congenital stationary night blindness	374.7	Retinal dystrophy
+HP:0007913	Reticular retinal dystrophy	374.7	Retinal dystrophy
+HP:0007963	Pattern dystrophy of the retina	374.7	Retinal dystrophy
+HP:0030635	Retinal dystrophy with early macular involvement	374.7	Retinal dystrophy
+HP:0030638	Congenital stationary night blindness with normal fundus	374.7	Retinal dystrophy
+HP:0030639	Congenital stationary night blindness with abnormal fundus	374.7	Retinal dystrophy
+HP:0030640	Complete congenital stationary night blindness	374.7	Retinal dystrophy
+HP:0030641	Incomplete congenital stationary night blindness	374.7	Retinal dystrophy
 HP:0007802	Granular corneal dystrophy	369.53	Granular corneal dystrophy
 HP:0000555	Leukocoria	370.4	Adhesions and disruptions of iris and ciliary body
 HP:0000615	Abnormal pupil morphology	370.4	Adhesions and disruptions of iris and ciliary body
@@ -22783,28 +22825,6 @@ HP:0007903	Paravenous chorioretinal atrophy	753.84	Congenital malformation of ch
 HP:0007950	Peripapillary chorioretinal atrophy	753.84	Congenital malformation of choroid
 HP:0030491	Choriocapillaris atrophy	753.84	Congenital malformation of choroid
 HP:0200065	Chorioretinal degeneration	753.84	Congenital malformation of choroid
-HP:0001135	Chorioretinal dystrophy	374.7	Retinal dystrophy
-HP:0000510	Rod-cone dystrophy	374.7	Retinal dystrophy
-HP:0000580	Pigmentary retinopathy	374.7	Retinal dystrophy
-HP:0007737	Bone spicule pigmentation of the retina	374.7	Retinal dystrophy
-HP:0007875	Congenital blindness	374.7	Retinal dystrophy
-HP:0007947	Pericentral retinitis pigmentosa	374.7	Retinal dystrophy
-HP:0008020	Cone dystrophy	374.7	Retinal dystrophy
-HP:0030505	Nummular pigmentation of the fundus	374.7	Retinal dystrophy
-HP:0030642	Fundus albipunctatus	374.7	Retinal dystrophy
-HP:0031172	Sectoral retinitis pigmentosa	374.7	Retinal dystrophy
-HP:0000548	Cone/cone-rod dystrophy	374.7	Retinal dystrophy
-HP:0000556	Retinal dystrophy	374.7	Retinal dystrophy
-HP:0007642	Congenital stationary night blindness	374.7	Retinal dystrophy
-HP:0007754	Macular dystrophy	374.7	Retinal dystrophy
-HP:0007913	Reticular retinal dystrophy	374.7	Retinal dystrophy
-HP:0007963	Pattern dystrophy of the retina	374.7	Retinal dystrophy
-HP:0030635	Retinal dystrophy with early macular involvement	374.7	Retinal dystrophy
-HP:0030636	Occult macular dystrophy	374.7	Retinal dystrophy
-HP:0030638	Congenital stationary night blindness with normal fundus	374.7	Retinal dystrophy
-HP:0030639	Congenital stationary night blindness with abnormal fundus	374.7	Retinal dystrophy
-HP:0030640	Complete congenital stationary night blindness	374.7	Retinal dystrophy
-HP:0030641	Incomplete congenital stationary night blindness	374.7	Retinal dystrophy
 HP:0001139	Choroideremia	373.3	Hereditary choroidal dystrophy
 HP:0001139	Choroideremia	373.31	Choroideremia
 HP:0007945	obsolete Choroidal degeneration	373.2	Choroidal degenerations
@@ -22836,6 +22856,7 @@ HP:0040049	Macular edema	374.53	Cystoid macular degeneration
 HP:0007667	Peripheral cystoid retinal degeneration	374.6	Peripheral retinal degeneration
 HP:0007769	Peripheral retinal degeneration	374.6	Peripheral retinal degeneration
 HP:0007773	Vitreoretinopathy	374.6	Peripheral retinal degeneration
+HP:0007782	obsolete Peripheral retinal cone degeneration	374.6	Peripheral retinal degeneration
 HP:0007937	Reticular pigmentary degeneration	374.6	Peripheral retinal degeneration
 HP:0007964	Degenerative vitreoretinopathy	374.6	Peripheral retinal degeneration
 HP:0007992	Lattice retinal degeneration	374.6	Peripheral retinal degeneration
@@ -22949,6 +22970,17 @@ HP:0030599	Abnormal Estermann grid perimetry test	386	Visual disturbances
 HP:0030644	Blind-spot enlargment	386	Visual disturbances
 HP:0031590	Asthenopia	386	Visual disturbances
 HP:0200018	Protanomaly	386	Visual disturbances
+HP:0007875	Congenital blindness	386.6	Night blindness
+HP:0030642	Fundus albipunctatus	386.6	Night blindness
+HP:0007642	Congenital stationary night blindness	386.6	Night blindness
+HP:0030638	Congenital stationary night blindness with normal fundus	386.6	Night blindness
+HP:0030639	Congenital stationary night blindness with abnormal fundus	386.6	Night blindness
+HP:0030640	Complete congenital stationary night blindness	386.6	Night blindness
+HP:0030641	Incomplete congenital stationary night blindness	386.6	Night blindness
+HP:0000662	Nyctalopia	386.6	Night blindness
+HP:0007675	Progressive night blindness	386.6	Night blindness
+HP:0007830	Adult-onset night blindness	386.6	Night blindness
+HP:0012047	Hemeralopia	386.6	Night blindness
 HP:0007875	Congenital blindness	388	Blindness and low vision
 HP:0000618	Blindness	388	Blindness and low vision
 HP:0000505	Visual impairment	388	Blindness and low vision
@@ -22999,16 +23031,6 @@ HP:0025342	Central retinal artery occlusion	374.37	Retinal arterial occlusions
 HP:0025326	Retinal arterial occlusion	374.39	Transient retinal arterial occlusion [Amaurosis fugax]
 HP:0025342	Central retinal artery occlusion	374.39	Transient retinal arterial occlusion [Amaurosis fugax]
 HP:0100576	Amaurosis fugax	374.39	Transient retinal arterial occlusion [Amaurosis fugax]
-HP:0030642	Fundus albipunctatus	386.6	Night blindness
-HP:0007642	Congenital stationary night blindness	386.6	Night blindness
-HP:0030638	Congenital stationary night blindness with normal fundus	386.6	Night blindness
-HP:0030639	Congenital stationary night blindness with abnormal fundus	386.6	Night blindness
-HP:0030640	Complete congenital stationary night blindness	386.6	Night blindness
-HP:0030641	Incomplete congenital stationary night blindness	386.6	Night blindness
-HP:0000662	Nyctalopia	386.6	Night blindness
-HP:0007675	Progressive night blindness	386.6	Night blindness
-HP:0007830	Adult-onset night blindness	386.6	Night blindness
-HP:0012047	Hemeralopia	386.6	Night blindness
 HP:0100014	Epiretinal membrane	374.55	Puckering of macula
 HP:0000501	Glaucoma	375	Abnormal intraocular pressure
 HP:0000557	Buphthalmos	375	Abnormal intraocular pressure
@@ -23128,9 +23150,6 @@ HP:0000511	Vertical supranuclear gaze palsy	431.13	Brain stem stroke syndrome*
 HP:0025330	Downgaze palsy	431.13	Brain stem stroke syndrome*
 HP:0025331	Upgaze palsy	431.13	Brain stem stroke syndrome*
 HP:0000619	Impaired convergence	382.1	Impaired convergence
-HP:0000514	Slow saccadic eye movements	383.2	Saccadic eye movements
-HP:0000570	Abnormal saccadic eye movements	383.2	Saccadic eye movements
-HP:0007885	Slowed horizontal saccades	383.2	Saccadic eye movements
 HP:0007932	Bilateral congenital mydriasis	384.3	Mydriasis
 HP:0011499	Mydriasis	384.3	Mydriasis
 HP:0012074	Tonic pupil	384.4	Tonic pupil
@@ -23540,6 +23559,7 @@ HP:0001642	Pulmonic stenosis	413	Heart valve disorders
 HP:0001647	Bicuspid aortic valve	413	Heart valve disorders
 HP:0004381	Supravalvular aortic stenosis	413	Heart valve disorders
 HP:0004764	Myxomatous mitral valve degeneration	413	Heart valve disorders
+HP:0004935	Pulmonary artery atresia	413	Heart valve disorders
 HP:0005134	Absence of the pulmonary valve	413	Heart valve disorders
 HP:0005148	Pulmonary valve defects	413	Heart valve disorders
 HP:0005164	Dysplastic pulmonary valve	413	Heart valve disorders
@@ -23591,6 +23611,7 @@ HP:0011560	Mitral atresia	413.21	Aortic stenosis
 HP:0011570	Congenital mitral stenosis	413.21	Aortic stenosis
 HP:0004381	Supravalvular aortic stenosis	413.21	Aortic stenosis
 HP:0004381	Supravalvular aortic stenosis	778	Congenital malformations of great arteries
+HP:0004935	Pulmonary artery atresia	778	Congenital malformations of great arteries
 HP:0011659	Tetralogy of Fallot with absent pulmonary valve	778	Congenital malformations of great arteries
 HP:0001627	Abnormal heart morphology	778	Congenital malformations of great arteries
 HP:0002642	Arteriovenous fistulas of celiac and mesenteric vessels	778	Congenital malformations of great arteries
@@ -23609,7 +23630,6 @@ HP:0002623	Overriding aorta	778	Congenital malformations of great arteries
 HP:0002627	Right aortic arch with mirror image branching	778	Congenital malformations of great arteries
 HP:0004384	Type I truncus arteriosus	778	Congenital malformations of great arteries
 HP:0004415	Pulmonary artery stenosis	778	Congenital malformations of great arteries
-HP:0004935	Pulmonary artery atresia	778	Congenital malformations of great arteries
 HP:0004969	Peripheral pulmonary artery stenosis	778	Congenital malformations of great arteries
 HP:0004974	Coarctation of abdominal aorta	778	Congenital malformations of great arteries
 HP:0005151	Preductal coarctation of the aorta	778	Congenital malformations of great arteries
@@ -23715,6 +23735,7 @@ HP:0031599	P mitrale	779	Congenital malformations of heart valves
 HP:0001641	Abnormal pulmonary valve morphology	779	Congenital malformations of heart valves
 HP:0001642	Pulmonic stenosis	779	Congenital malformations of heart valves
 HP:0001647	Bicuspid aortic valve	779	Congenital malformations of heart valves
+HP:0004935	Pulmonary artery atresia	779	Congenital malformations of heart valves
 HP:0005134	Absence of the pulmonary valve	779	Congenital malformations of heart valves
 HP:0005148	Pulmonary valve defects	779	Congenital malformations of heart valves
 HP:0005164	Dysplastic pulmonary valve	779	Congenital malformations of heart valves
@@ -23849,6 +23870,7 @@ HP:0011681	Subarterial ventricular septal defect	780	Other congenital anomalies 
 HP:0011682	Perimembranous ventricular septal defect	780	Other congenital anomalies of heart
 HP:0011683	Restrictive ventricular septal defect	780	Other congenital anomalies of heart
 HP:0011684	Non-restrictive ventricular septal defect	780	Other congenital anomalies of heart
+HP:0011723	Congenital malformation of the right heart	780	Other congenital anomalies of heart
 HP:0011994	Abnormal atrial septum morphology	780	Other congenital anomalies of heart
 HP:0011995	Atrial septal dilatation	780	Other congenital anomalies of heart
 HP:0025506	Coronary artery sandwich anomaly	780	Other congenital anomalies of heart
@@ -24042,6 +24064,7 @@ HP:0001634	Mitral valve prolapse	413.12	Mitral valve prolapse*
 HP:0004764	Myxomatous mitral valve degeneration	413.12	Mitral valve prolapse*
 HP:0001641	Abnormal pulmonary valve morphology	413.4	Pulmonary valve disorders
 HP:0001642	Pulmonic stenosis	413.4	Pulmonary valve disorders
+HP:0004935	Pulmonary artery atresia	413.4	Pulmonary valve disorders
 HP:0005134	Absence of the pulmonary valve	413.4	Pulmonary valve disorders
 HP:0005148	Pulmonary valve defects	413.4	Pulmonary valve disorders
 HP:0005164	Dysplastic pulmonary valve	413.4	Pulmonary valve disorders
@@ -24053,6 +24076,7 @@ HP:0011659	Tetralogy of Fallot with absent pulmonary valve	413.4	Pulmonary valve
 HP:0031566	Abnormal pulmonary valve cusp morphology	413.4	Pulmonary valve disorders
 HP:0001641	Abnormal pulmonary valve morphology	779.1	Anomalies of pulmonary valve, congenital
 HP:0001642	Pulmonic stenosis	779.1	Anomalies of pulmonary valve, congenital
+HP:0004935	Pulmonary artery atresia	779.1	Anomalies of pulmonary valve, congenital
 HP:0005134	Absence of the pulmonary valve	779.1	Anomalies of pulmonary valve, congenital
 HP:0005148	Pulmonary valve defects	779.1	Anomalies of pulmonary valve, congenital
 HP:0005164	Dysplastic pulmonary valve	779.1	Anomalies of pulmonary valve, congenital
@@ -24066,32 +24090,7 @@ HP:0001642	Pulmonic stenosis	413.41	Pulmonary valve stenosis*
 HP:0001642	Pulmonic stenosis	413.42	Pulmonary valve insufficiency*
 HP:0010444	Pulmonary insufficiency	413.42	Pulmonary valve insufficiency*
 HP:0001642	Pulmonic stenosis	779.12	Congenital pulmonary valve stenosis
-HP:0010444	Pulmonary insufficiency	779.13	Congenital pulmonary valve insufficiency*
-HP:0010882	Pulmonary valve atresia	779.11	Pulmonary valve atresia
-HP:0011659	Tetralogy of Fallot with absent pulmonary valve	778.2	Transposition of great vessels
-HP:0001636	Tetralogy of Fallot	778.2	Transposition of great vessels
-HP:0001669	Transposition of the great arteries	778.2	Transposition of great vessels
-HP:0001710	Conotruncal defect	778.2	Transposition of great vessels
-HP:0001719	Double outlet right ventricle	778.2	Transposition of great vessels
-HP:0011540	Congenitally corrected transposition of the great arteries	778.2	Transposition of great vessels
-HP:0011553	Discordant atrioventricular connection	778.2	Transposition of great vessels
-HP:0011563	Abnormal ventriculoarterial connection	778.2	Transposition of great vessels
-HP:0011605	Congenitally corrected transposition of the great arteries with ventricular septal defect	778.2	Transposition of great vessels
-HP:0011651	Double outlet right ventricle with doubly committed ventricular septal defect and pulmonary stenosis	778.2	Transposition of great vessels
-HP:0011652	Double outlet right ventricle with doubly committed ventricular septal defect without pulmonary stenosis	778.2	Transposition of great vessels
-HP:0011653	Double outlet right ventricle with non-committed ventricular septal defect and pulmonary stenosis	778.2	Transposition of great vessels
-HP:0011654	Double outlet right ventricle with non-committed ventricular septal defect without pulmonary stenosis	778.2	Transposition of great vessels
-HP:0011655	Double outlet right ventricle with subaortic ventricular septal defect and pulmonary stenosis	778.2	Transposition of great vessels
-HP:0011656	Double outlet right ventricle with subaortic ventricular septal defect without pulmonary stenosis	778.2	Transposition of great vessels
-HP:0011657	Double outlet right ventricle with subpulmonary ventricular septal defect and pulmonary stenosis	778.2	Transposition of great vessels
-HP:0011658	Double outlet right ventricle with subpulmonary ventricular septal defect without pulmonary stenosis	778.2	Transposition of great vessels
-HP:0011676	Tetralogy of Fallot with absent subarterial conus	778.2	Transposition of great vessels
-HP:0011677	Tetralogy of Fallot with atrioventricular canal defect	778.2	Transposition of great vessels
-HP:0011678	Tetralogy of Fallot with pulmonary atresia and major aortopulmonary collateral arteries	778.2	Transposition of great vessels
-HP:0011679	Tetralogy of Fallot with pulmonary stenosis	778.2	Transposition of great vessels
-HP:0012516	Tetralogy of Fallot with pulmonary atresia	778.2	Transposition of great vessels
-HP:0031348	Dextrotransposition of the great arteries	778.2	Transposition of great vessels
-HP:0031349	Levotransposition of the great arteries	778.2	Transposition of great vessels
+HP:0004935	Pulmonary artery atresia	778.5	Anomalies of pulmonary artery, congenital
 HP:0011659	Tetralogy of Fallot with absent pulmonary valve	778.5	Anomalies of pulmonary artery, congenital
 HP:0002642	Arteriovenous fistulas of celiac and mesenteric vessels	778.5	Anomalies of pulmonary artery, congenital
 HP:0004947	Arteriovenous fistula	778.5	Anomalies of pulmonary artery, congenital
@@ -24106,7 +24105,6 @@ HP:0001710	Conotruncal defect	778.5	Anomalies of pulmonary artery, congenital
 HP:0001719	Double outlet right ventricle	778.5	Anomalies of pulmonary artery, congenital
 HP:0004384	Type I truncus arteriosus	778.5	Anomalies of pulmonary artery, congenital
 HP:0004415	Pulmonary artery stenosis	778.5	Anomalies of pulmonary artery, congenital
-HP:0004935	Pulmonary artery atresia	778.5	Anomalies of pulmonary artery, congenital
 HP:0004969	Peripheral pulmonary artery stenosis	778.5	Anomalies of pulmonary artery, congenital
 HP:0011540	Congenitally corrected transposition of the great arteries	778.5	Anomalies of pulmonary artery, congenital
 HP:0011603	Congenital malformation of the great arteries	778.5	Anomalies of pulmonary artery, congenital
@@ -24133,6 +24131,34 @@ HP:0011679	Tetralogy of Fallot with pulmonary stenosis	778.5	Anomalies of pulmon
 HP:0012516	Tetralogy of Fallot with pulmonary atresia	778.5	Anomalies of pulmonary artery, congenital
 HP:0031348	Dextrotransposition of the great arteries	778.5	Anomalies of pulmonary artery, congenital
 HP:0031349	Levotransposition of the great arteries	778.5	Anomalies of pulmonary artery, congenital
+HP:0004935	Pulmonary artery atresia	778.51	Pulmonary artery coarctation and atresia
+HP:0004935	Pulmonary artery atresia	779.11	Pulmonary valve atresia
+HP:0010882	Pulmonary valve atresia	779.11	Pulmonary valve atresia
+HP:0010444	Pulmonary insufficiency	779.13	Congenital pulmonary valve insufficiency*
+HP:0011659	Tetralogy of Fallot with absent pulmonary valve	778.2	Transposition of great vessels
+HP:0001636	Tetralogy of Fallot	778.2	Transposition of great vessels
+HP:0001669	Transposition of the great arteries	778.2	Transposition of great vessels
+HP:0001710	Conotruncal defect	778.2	Transposition of great vessels
+HP:0001719	Double outlet right ventricle	778.2	Transposition of great vessels
+HP:0011540	Congenitally corrected transposition of the great arteries	778.2	Transposition of great vessels
+HP:0011553	Discordant atrioventricular connection	778.2	Transposition of great vessels
+HP:0011563	Abnormal ventriculoarterial connection	778.2	Transposition of great vessels
+HP:0011605	Congenitally corrected transposition of the great arteries with ventricular septal defect	778.2	Transposition of great vessels
+HP:0011651	Double outlet right ventricle with doubly committed ventricular septal defect and pulmonary stenosis	778.2	Transposition of great vessels
+HP:0011652	Double outlet right ventricle with doubly committed ventricular septal defect without pulmonary stenosis	778.2	Transposition of great vessels
+HP:0011653	Double outlet right ventricle with non-committed ventricular septal defect and pulmonary stenosis	778.2	Transposition of great vessels
+HP:0011654	Double outlet right ventricle with non-committed ventricular septal defect without pulmonary stenosis	778.2	Transposition of great vessels
+HP:0011655	Double outlet right ventricle with subaortic ventricular septal defect and pulmonary stenosis	778.2	Transposition of great vessels
+HP:0011656	Double outlet right ventricle with subaortic ventricular septal defect without pulmonary stenosis	778.2	Transposition of great vessels
+HP:0011657	Double outlet right ventricle with subpulmonary ventricular septal defect and pulmonary stenosis	778.2	Transposition of great vessels
+HP:0011658	Double outlet right ventricle with subpulmonary ventricular septal defect without pulmonary stenosis	778.2	Transposition of great vessels
+HP:0011676	Tetralogy of Fallot with absent subarterial conus	778.2	Transposition of great vessels
+HP:0011677	Tetralogy of Fallot with atrioventricular canal defect	778.2	Transposition of great vessels
+HP:0011678	Tetralogy of Fallot with pulmonary atresia and major aortopulmonary collateral arteries	778.2	Transposition of great vessels
+HP:0011679	Tetralogy of Fallot with pulmonary stenosis	778.2	Transposition of great vessels
+HP:0012516	Tetralogy of Fallot with pulmonary atresia	778.2	Transposition of great vessels
+HP:0031348	Dextrotransposition of the great arteries	778.2	Transposition of great vessels
+HP:0031349	Levotransposition of the great arteries	778.2	Transposition of great vessels
 HP:0011659	Tetralogy of Fallot with absent pulmonary valve	780.4	Congenital malformations of cardiac septa
 HP:0001636	Tetralogy of Fallot	780.4	Congenital malformations of cardiac septa
 HP:0011604	Aortopulmonary window	780.4	Congenital malformations of cardiac septa
@@ -24840,6 +24866,7 @@ HP:0031644	Fusiform abdominal aortic aneurysm	438.13	Thoracoabdominal aortic ane
 HP:0031645	Saccular abdominal aortic aneurysm	438.13	Thoracoabdominal aortic aneurysm
 HP:0031711	Asymmetric abdominal aortic aneurysm	438.13	Thoracoabdominal aortic aneurysm
 HP:0025019	Arterial rupture	438.8	Rupture of artery
+HP:4000067	Iliac artery aneurysm	438.2	Aneurysm of iliac or artery of lower extremity
 HP:0002619	Varicose veins	444	Venous insufficiency
 HP:0002626	Venous varicosities of celiac and mesenteric vessels	444	Venous insufficiency
 HP:0100677	Vulval varicose vein	444	Venous insufficiency
@@ -26268,9 +26295,11 @@ HP:0004976	Knee dislocation	T830.7	Dislocation of knee
 HP:0005001	Recurrent patellar dislocation	T830.7	Dislocation of knee
 HP:0005191	Congenital knee dislocation	T830.7	Dislocation of knee
 HP:0010499	Patellar subluxation	T830.7	Dislocation of knee
+HP:0001373	Joint dislocation	T830.8	Dislocation of foot and ankle
 HP:0008141	Dislocation of toes	T830.8	Dislocation of foot and ankle
 HP:0004294	Subluxation of metacarpal phalangeal joints	T830.8	Dislocation of foot and ankle
 HP:0005747	Easily subluxated first metacarpophalangeal joints	T830.8	Dislocation of foot and ankle
+HP:0032153	Joint subluxation	T830.8	Dislocation of foot and ankle
 HP:0001373	Joint dislocation	T840.9	Other sprains and strains
 HP:0001374	Congenital hip dislocation	T840.9	Other sprains and strains
 HP:0002827	Hip dislocation	T840.9	Other sprains and strains
@@ -26812,6 +26841,7 @@ HP:0009892	Anotia	755.1	Aplasia/Hypoplasia of the external ear
 HP:0011266	Microtia, first degree	755.1	Aplasia/Hypoplasia of the external ear
 HP:0011267	Microtia, third degree	755.1	Aplasia/Hypoplasia of the external ear
 HP:0400003	Focal absence of the external ear	755.1	Aplasia/Hypoplasia of the external ear
+HP:0008771	Aplasia/Hypoplasia of the ear	755.1	Aplasia/Hypoplasia of the external ear
 HP:0008772	Aplasia/Hypoplasia of the external ear	755.1	Aplasia/Hypoplasia of the external ear
 HP:0008551	Microtia	755.11	Microtia
 HP:0008569	Microtia, second degree	755.11	Microtia
@@ -27125,7 +27155,6 @@ HP:0011598	Right aortic arch with retroesophageal left subclavian artery	778.47	
 HP:0012020	Right aortic arch	778.47	Right aortic arch*
 HP:0004415	Pulmonary artery stenosis	778.52	Stenosis of pulmonary artery*
 HP:0004969	Peripheral pulmonary artery stenosis	778.52	Stenosis of pulmonary artery*
-HP:0004935	Pulmonary artery atresia	778.51	Pulmonary artery coarctation and atresia
 HP:0010775	Vascular ring	778.46	Vascular ring of aorta*
 HP:0011590	Double aortic arch	778.46	Vascular ring of aorta*
 HP:0031562	Balanced double aortic arch	778.46	Vascular ring of aorta*

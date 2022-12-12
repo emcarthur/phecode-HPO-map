@@ -21,6 +21,13 @@ HP:0002248	Hematemesis	459.1	Hemorrhage NOS
 HP:0002584	Intestinal bleeding	459.1	Hemorrhage NOS
 HP:0012849	Small intestinal bleeding	459.1	Hemorrhage NOS
 HP:0032144	Coffee ground vomitus	459.1	Hemorrhage NOS
+HP:0002249	Melena	531.1	Hemorrhage from gastrointestinal ulcer
+HP:0002573	Hematochezia	531.1	Hemorrhage from gastrointestinal ulcer
+HP:0002239	Gastrointestinal hemorrhage	531.1	Hemorrhage from gastrointestinal ulcer
+HP:0002248	Hematemesis	531.1	Hemorrhage from gastrointestinal ulcer
+HP:0002584	Intestinal bleeding	531.1	Hemorrhage from gastrointestinal ulcer
+HP:0012849	Small intestinal bleeding	531.1	Hemorrhage from gastrointestinal ulcer
+HP:0032144	Coffee ground vomitus	531.1	Hemorrhage from gastrointestinal ulcer
 HP:0002249	Melena	556.11	Angiodysplasia of intestine (without mention of hemorrhage)
 HP:0002573	Hematochezia	556.11	Angiodysplasia of intestine (without mention of hemorrhage)
 HP:0002239	Gastrointestinal hemorrhage	556.11	Angiodysplasia of intestine (without mention of hemorrhage)
@@ -110,6 +117,7 @@ HP:0000695	Natal tooth	520.2	Disturbances in tooth eruption
 HP:0001571	Multiple impacted teeth	520.2	Disturbances in tooth eruption
 HP:0011079	Impacted tooth	520.2	Disturbances in tooth eruption
 HP:0000670	Carious teeth	521.1	Dental caries
+HP:0030758	Periapical tooth abscess	522.5	Periapical abscess
 HP:0000230	Gingivitis	523.1	Gingivitis
 HP:0000166	Severe periodontitis	523.3	Periodontitis (acute or chronic)
 HP:0000704	Periodontitis	523.3	Periodontitis (acute or chronic)
@@ -959,7 +967,12 @@ HP:0034029	Hepatic foam cells	440	Atherosclerosis
 HP:0004417	Intermittent claudication	443.9	Peripheral vascular disease, unspecified
 HP:0100758	Gangrene	791	Gangrene
 HP:0012452	Restless legs	333	Extrapyramidal disease and abnormal movement disorders
+HP:0031786	Cogan lid twitch	350	Abnormal movement
 HP:0100022	Abnormality of movement	350	Abnormal movement
+HP:0000496	Abnormality of eye movement	350	Abnormal movement
+HP:0025605	Lid lag on downgaze	350	Abnormal movement
+HP:0030826	Eyelid fasciculation	350	Abnormal movement
+HP:0031785	Abnormal eyelid movement	350	Abnormal movement
 HP:0001266	Choreoathetosis	350.1	Abnormal involuntary movements
 HP:0002072	Chorea	350.1	Abnormal involuntary movements
 HP:0007098	Paroxysmal choreoathetosis	350.1	Abnormal involuntary movements
@@ -1015,14 +1028,41 @@ HP:0001308	Tongue fasciculations	350.1	Abnormal involuntary movements
 HP:0007089	Facial-lingual fasciculations	350.1	Abnormal involuntary movements
 HP:0007289	Limb fasciculations	350.1	Abnormal involuntary movements
 HP:0032507	Labiomental fasciculations	350.1	Abnormal involuntary movements
+HP:0000639	Nystagmus	350.1	Abnormal involuntary movements
+HP:0000640	Gaze-evoked nystagmus	350.1	Abnormal involuntary movements
+HP:0000666	Horizontal nystagmus	350.1	Abnormal involuntary movements
+HP:0001361	Nystagmus-induced head nodding	350.1	Abnormal involuntary movements
+HP:0001583	Rotary nystagmus	350.1	Abnormal involuntary movements
+HP:0006934	Congenital nystagmus	350.1	Abnormal involuntary movements
+HP:0007286	Horizontal jerk nystagmus	350.1	Abnormal involuntary movements
+HP:0007747	Monocular horizontal nystagmus	350.1	Abnormal involuntary movements
+HP:0007811	Horizontal pendular nystagmus	350.1	Abnormal involuntary movements
+HP:0007859	Congenital horizontal nystagmus	350.1	Abnormal involuntary movements
+HP:0007979	Gaze-evoked horizontal nystagmus	350.1	Abnormal involuntary movements
+HP:0008026	Horizontal opticokinetic nystagmus	350.1	Abnormal involuntary movements
+HP:0010533	Spasmus nutans	350.1	Abnormal involuntary movements
+HP:0010542	Vestibular nystagmus	350.1	Abnormal involuntary movements
+HP:0010544	Vertical nystagmus	350.1	Abnormal involuntary movements
+HP:0010545	Downbeat nystagmus	350.1	Abnormal involuntary movements
+HP:0011477	Upbeat nystagmus	350.1	Abnormal involuntary movements
+HP:0012043	Pendular nystagmus	350.1	Abnormal involuntary movements
+HP:0012044	Seesaw nystagmus	350.1	Abnormal involuntary movements
+HP:0025711	Convergence-retraction nystagmus	350.1	Abnormal involuntary movements
+HP:0030691	Divergence nystagmus	350.1	Abnormal involuntary movements
 HP:0002169	Clonus	350.1	Abnormal involuntary movements
 HP:0002305	Athetosis	350.1	Abnormal involuntary movements
 HP:0002380	Fasciculations	350.1	Abnormal involuntary movements
 HP:0004305	Involuntary movements	350.1	Abnormal involuntary movements
 HP:0007166	Paroxysmal dyskinesia	350.1	Abnormal involuntary movements
+HP:0007295	Chaotic rapid conjugate ocular movements	350.1	Abnormal involuntary movements
+HP:0007704	Paroxysmal involuntary eye movements	350.1	Abnormal involuntary movements
+HP:0007738	Uncontrolled eye movements	350.1	Abnormal involuntary movements
+HP:0010543	Opsoclonus	350.1	Abnormal involuntary movements
 HP:0011448	Ankle clonus	350.1	Abnormal involuntary movements
 HP:0011449	Knee clonus	350.1	Abnormal involuntary movements
 HP:0011728	Elbow clonus	350.1	Abnormal involuntary movements
+HP:0012547	Abnormal involuntary eye movements	350.1	Abnormal involuntary movements
+HP:0031931	Ocular flutter	350.1	Abnormal involuntary movements
 HP:0031990	Chvostek sign	350.1	Abnormal involuntary movements
 HP:0032506	Alien limb phenomenon	350.1	Abnormal involuntary movements
 HP:0005575	Hemolytic-uremic syndrome	283.21	Hemolytic-uremic syndrome
@@ -1053,6 +1093,7 @@ HP:0200043	Verrucae	078	Viral warts & HPV
 HP:0550004	Verruca plana	078	Viral warts & HPV
 HP:0030438	Anal canal squamous cell carcinoma	172.22	Squamous cell carcinoma
 HP:0012142	Pancreatic squamous cell carcinoma	172.22	Squamous cell carcinoma
+HP:0030359	Squamous cell lung carcinoma	172.22	Squamous cell carcinoma
 HP:0002860	Squamous cell carcinoma	172.22	Squamous cell carcinoma
 HP:0006739	Squamous cell carcinoma of the skin	172.22	Squamous cell carcinoma
 HP:0012182	Oropharyngeal squamous cell carcinoma	172.22	Squamous cell carcinoma
@@ -1177,6 +1218,35 @@ HP:0410137	Solar urticaria	947	Urticaria
 HP:0410138	Vibratory urticaria	947	Urticaria
 HP:0002277	Horner syndrome	337	Disorders of the autonomic nervous system
 HP:0006837	Congenital Horner syndrome	337	Disorders of the autonomic nervous system
+HP:0001271	Polyneuropathy	337.1	Peripheral autonomic neuropathy
+HP:0000763	Sensory neuropathy	337.1	Peripheral autonomic neuropathy
+HP:0001301	Chronic sensorineural polyneuropathy	337.1	Peripheral autonomic neuropathy
+HP:0003390	Sensory axonal neuropathy	337.1	Peripheral autonomic neuropathy
+HP:0003409	Distal sensory impairment of all modalities	337.1	Peripheral autonomic neuropathy
+HP:0003434	Sensory ataxic neuropathy	337.1	Peripheral autonomic neuropathy
+HP:0003477	Peripheral axonal neuropathy	337.1	Peripheral autonomic neuropathy
+HP:0003489	Acute episodes of neuropathic symptoms	337.1	Peripheral autonomic neuropathy
+HP:0006865	Sensorimotor polyneuropathy affecting arms more than legs	337.1	Peripheral autonomic neuropathy
+HP:0006903	Congenital peripheral neuropathy	337.1	Peripheral autonomic neuropathy
+HP:0006949	Episodic peripheral neuropathy	337.1	Peripheral autonomic neuropathy
+HP:0007002	Motor axonal neuropathy	337.1	Peripheral autonomic neuropathy
+HP:0007067	Distal peripheral sensory neuropathy	337.1	Peripheral autonomic neuropathy
+HP:0007108	Demyelinating peripheral neuropathy	337.1	Peripheral autonomic neuropathy
+HP:0007131	Acute demyelinating polyneuropathy	337.1	Peripheral autonomic neuropathy
+HP:0007133	Progressive peripheral neuropathy	337.1	Peripheral autonomic neuropathy
+HP:0007141	Sensorimotor neuropathy	337.1	Peripheral autonomic neuropathy
+HP:0007178	Motor polyneuropathy	337.1	Peripheral autonomic neuropathy
+HP:0007220	Demyelinating motor neuropathy	337.1	Peripheral autonomic neuropathy
+HP:0007267	Chronic axonal neuropathy	337.1	Peripheral autonomic neuropathy
+HP:0007327	Mixed demyelinating and axonal polyneuropathy	337.1	Peripheral autonomic neuropathy
+HP:0009830	Peripheral neuropathy	337.1	Peripheral autonomic neuropathy
+HP:0009831	Mononeuropathy	337.1	Peripheral autonomic neuropathy
+HP:0011402	Demyelinating sensory neuropathy	337.1	Peripheral autonomic neuropathy
+HP:0012181	Entrapment neuropathy	337.1	Peripheral autonomic neuropathy
+HP:0012185	Constrictive median neuropathy	337.1	Peripheral autonomic neuropathy
+HP:0012186	Entrapment neuropathy of the ulnar nerve at elbow	337.1	Peripheral autonomic neuropathy
+HP:0012216	Entrapment neuropathy of suprascapular nerve	337.1	Peripheral autonomic neuropathy
+HP:0032018	Multiple mononeuropathy	337.1	Peripheral autonomic neuropathy
 HP:0002277	Horner syndrome	337.1	Peripheral autonomic neuropathy
 HP:0006837	Congenital Horner syndrome	337.1	Peripheral autonomic neuropathy
 HP:0100661	Trigeminal neuralgia	352.1	Trigeminal nerve disorders [CN5]
@@ -1466,6 +1536,17 @@ HP:0012886	Hemorrhagic ovarian cyst	628	Ovarian cyst
 HP:0012887	Ovarian serous cystadenoma	628	Ovarian cyst
 HP:0030425	Calcified ovarian cyst	628	Ovarian cyst
 HP:0004905	Low levels of vitamin A	261	Vitamin deficiency
+HP:0008326	Reduced circulating vitamin B6 level	261	Vitamin deficiency
+HP:0100497	Vitamin B3 deficiency	261	Vitamin deficiency
+HP:0100502	Vitamin B12 deficiency	261	Vitamin deficiency
+HP:0100503	Low levels of vitamin B1	261	Vitamin deficiency
+HP:0100504	Low levels of vitamin B2	261	Vitamin deficiency
+HP:0100505	Low levels of vitamin B5	261	Vitamin deficiency
+HP:0100506	Low levels of vitamin B8	261	Vitamin deficiency
+HP:0100507	Reduced blood folate concentration	261	Vitamin deficiency
+HP:0100510	Low levels of vitamin C	261	Vitamin deficiency
+HP:0100512	Low levels of vitamin D	261	Vitamin deficiency
+HP:0100513	Low levels of vitamin E	261	Vitamin deficiency
 HP:0005508	Monoclonal immunoglobulin M proteinemia	270.32	Paraproteinemia
 HP:0020194	IgA heavy chain paraproteinemia	270.32	Paraproteinemia
 HP:0020195	IgG heavy chain paraproteinemia	270.32	Paraproteinemia
@@ -1537,6 +1618,13 @@ HP:0031866	Clasp-knife sign	772.2	Spasm of muscle
 HP:0031957	Spastic hemiparetic gait	772.2	Spasm of muscle
 HP:0031958	Spastic paraparetic gait	772.2	Spasm of muscle
 HP:0034183	Spastic triplegia	772.2	Spasm of muscle
+HP:0003394	Muscle spasm	772.2	Spasm of muscle
+HP:0003435	Cold-induced hand cramps	772.2	Spasm of muscle
+HP:0003449	Cold-induced muscle cramps	772.2	Spasm of muscle
+HP:0003710	Exercise-induced muscle cramps	772.2	Spasm of muscle
+HP:0008991	Exercise-induced leg cramps	772.2	Spasm of muscle
+HP:0011964	Intermittent painful muscle spasms	772.2	Spasm of muscle
+HP:0031989	Perioral spasm	772.2	Spasm of muscle
 HP:0001085	Papilledema	377	Disorders of optic nerve and visual pathways
 HP:0100654	Retrobulbar optic neuritis	377.3	Optic neuritis/neuropathy
 HP:0100653	Optic neuritis	377.3	Optic neuritis/neuropathy
@@ -1648,6 +1736,7 @@ HP:0031670	Continuous heart murmur	396	Abnormal heart sounds
 HP:0031687	Abnormally loud pulmonic component of the second heart sound	396	Abnormal heart sounds
 HP:0033113	Gallop rhythm	396	Abnormal heart sounds
 HP:0033114	Quadruple gallop rhythm	396	Abnormal heart sounds
+HP:0006671	Paroxysmal atrial tachycardia	427.1	Paroxysmal tachycardia, unspecified
 HP:0006688	Paroxysmal tachycardia	427.1	Paroxysmal tachycardia, unspecified
 HP:0001645	Sudden cardiac death	427.42	Cardiac arrest
 HP:0001695	Cardiac arrest	427.42	Cardiac arrest
@@ -2124,8 +2213,51 @@ HP:0006748	Adrenal pheochromocytoma	159.2	Malignant neoplasm of small intestine,
 HP:0002666	Pheochromocytoma	164	Cancer of intrathoracic organs
 HP:0006737	Extraadrenal pheochromocytoma	164	Cancer of intrathoracic organs
 HP:0006748	Adrenal pheochromocytoma	164	Cancer of intrathoracic organs
+HP:0200058	Angiosarcoma	170	Cancer of bone and connective tissue
+HP:0200059	Metastatic angiosarcoma	170	Cancer of bone and connective tissue
+HP:0010616	Lung fibroma	170	Cancer of bone and connective tissue
+HP:0000169	Gingival fibromatosis	170	Cancer of bone and connective tissue
+HP:0001067	Neurofibromas	170	Cancer of bone and connective tissue
+HP:0002669	Osteosarcoma	170	Cancer of bone and connective tissue
+HP:0002859	Rhabdomyosarcoma	170	Cancer of bone and connective tissue
+HP:0002891	Uterine leiomyosarcoma	170	Cancer of bone and connective tissue
+HP:0005220	Multiple intestinal neurofibromatosis	170	Cancer of bone and connective tissue
+HP:0006743	Embryonal rhabdomyosarcoma	170	Cancer of bone and connective tissue
+HP:0006751	Paraspinal neurofibromas	170	Cancer of bone and connective tissue
+HP:0006755	Cutaneous leiomyosarcoma	170	Cancer of bone and connective tissue
+HP:0006765	Chondrosarcoma	170	Cancer of bone and connective tissue
+HP:0006779	Alveolar rhabdomyosarcoma	170	Cancer of bone and connective tissue
+HP:0006851	Symmetric spinal nerve root neurofibromas	170	Cancer of bone and connective tissue
+HP:0007524	Atypical neurofibromatosis	170	Cancer of bone and connective tissue
+HP:0007576	Palmar neurofibromas	170	Cancer of bone and connective tissue
+HP:0008663	Renal sarcoma	170	Cancer of bone and connective tissue
+HP:0009595	Occasional neurofibromas	170	Cancer of bone and connective tissue
+HP:0009720	Adenoma sebaceum	170	Cancer of bone and connective tissue
+HP:0009724	Subungual fibromas	170	Cancer of bone and connective tissue
+HP:0009732	Plexiform neurofibroma	170	Cancer of bone and connective tissue
+HP:0009735	Spinal neurofibromas	170	Cancer of bone and connective tissue
+HP:0010614	Fibroma	170	Cancer of bone and connective tissue
+HP:0010615	Angiofibromas	170	Cancer of bone and connective tissue
+HP:0010617	Cardiac fibroma	170	Cancer of bone and connective tissue
+HP:0010618	Ovarian fibroma	170	Cancer of bone and connective tissue
+HP:0010619	Fibroadenoma of the breast	170	Cancer of bone and connective tissue
+HP:0012218	Alveolar soft part sarcoma	170	Cancer of bone and connective tissue
+HP:0012254	Ewing sarcoma	170	Cancer of bone and connective tissue
+HP:0012570	Synovial sarcoma	170	Cancer of bone and connective tissue
+HP:0030426	Ossifying fibroma	170	Cancer of bone and connective tissue
+HP:0030427	Ossifying fibroma of the jaw	170	Cancer of bone and connective tissue
 HP:0030433	Osteoid osteoma	170	Cancer of bone and connective tissue
+HP:0030448	Soft tissue sarcoma	170	Cancer of bone and connective tissue
+HP:0100242	Sarcoma	170	Cancer of bone and connective tissue
+HP:0100243	Leiomyosarcoma	170	Cancer of bone and connective tissue
+HP:0100244	Fibrosarcoma	170	Cancer of bone and connective tissue
+HP:0100245	Desmoid tumors	170	Cancer of bone and connective tissue
 HP:0100246	Osteoma	170	Cancer of bone and connective tissue
+HP:0100697	Neurofibrosarcoma	170	Cancer of bone and connective tissue
+HP:0100698	Subcutaneous neurofibromas	170	Cancer of bone and connective tissue
+HP:0100804	Ungual fibroma	170	Cancer of bone and connective tissue
+HP:0500092	Orbital rhabdomyosarcoma	170	Cancer of bone and connective tissue
+HP:0002669	Osteosarcoma	170.1	Bone cancer
 HP:0200058	Angiosarcoma	170.2	Cancer of connective tissue
 HP:0200059	Metastatic angiosarcoma	170.2	Cancer of connective tissue
 HP:0010616	Lung fibroma	170.2	Cancer of connective tissue
@@ -3018,10 +3150,20 @@ HP:0011405	Childhood onset short-limb short stature	264.1	Short stature
 HP:0011406	Infancy onset short-trunk short stature	264.1	Short stature
 HP:0012106	Rhizomelic leg shortening	264.1	Short stature
 HP:0001263	Global developmental delay	264.3	Delayed milestones
+HP:0001270	Motor delay	264.3	Delayed milestones
+HP:0002194	Delayed gross motor development	264.3	Delayed milestones
+HP:0010862	Delayed fine motor development	264.3	Delayed milestones
 HP:0011342	Mild global developmental delay	264.3	Delayed milestones
 HP:0011343	Moderate global developmental delay	264.3	Delayed milestones
 HP:0011344	Severe global developmental delay	264.3	Delayed milestones
 HP:0012736	Profound global developmental delay	264.3	Delayed milestones
+HP:0025335	Delayed ability to stand	264.3	Delayed milestones
+HP:0025336	Delayed ability to sit	264.3	Delayed milestones
+HP:0031936	Delayed ability to walk	264.3	Delayed milestones
+HP:0032988	Persistent head lag	264.3	Delayed milestones
+HP:0032989	Delayed ability to roll over	264.3	Delayed milestones
+HP:0033128	Delayed ability to crawl	264.3	Delayed milestones
+HP:0033257	Delayed ability to walk with support	264.3	Delayed milestones
 HP:0000863	Central diabetes insipidus	253.3	Diabetes insipidus
 HP:0000873	Diabetes insipidus	253.3	Diabetes insipidus
 HP:0009806	Nephrogenic diabetes insipidus	253.3	Diabetes insipidus
@@ -3231,6 +3373,13 @@ HP:0410252	Chronic neutropenia	288.11	Neutropenia
 HP:0410254	Cyclic neutropenia in myeloid maturation arrest in bone marrow	288.11	Neutropenia
 HP:0410255	Transient neutropenia	288.11	Neutropenia
 HP:0410256	Infection associated neutropenia	288.11	Neutropenia
+HP:0001880	Eosinophilia	288.2	Elevated white blood cell count
+HP:0001974	Leukocytosis	288.2	Elevated white blood cell count
+HP:0005404	Increased B cell count	288.2	Elevated white blood cell count
+HP:0032061	Hypereosinophilia	288.2	Elevated white blood cell count
+HP:0032151	Episodic eosinophilia	288.2	Elevated white blood cell count
+HP:0100827	Lymphocytosis	288.2	Elevated white blood cell count
+HP:0100828	Increased T cell count	288.2	Elevated white blood cell count
 HP:0011874	Heparin-induced thrombocytopenia	964.1	Anticoagulants causing adverse effects
 HP:0002912	Methylmalonic acidemia	270.2	Disorders of amino-acid metabolism
 HP:0032397	Citrullinuria	270.21	Disorders of urea cycle metabolism
@@ -4517,6 +4666,7 @@ HP:0009805	Low-output congestive heart failure	428.1	Congestive heart failure (C
 HP:0001635	Congestive heart failure	428.2	Heart failure NOS
 HP:0001722	High-output congestive heart failure	428.2	Heart failure NOS
 HP:0009805	Low-output congestive heart failure	428.2	Heart failure NOS
+HP:0007201	Cerebral artery atherosclerosis	433.12	Cerebral atherosclerosis
 HP:0012397	Aortic atherosclerotic lesion	440.9	Atherosclerosis of aorta
 HP:0002204	Pulmonary embolism	415.11	Pulmonary embolism and infarction, acute
 HP:0032008	Pulmonary fat embolism	415.11	Pulmonary embolism and infarction, acute
@@ -4552,6 +4702,7 @@ HP:0033710	Rest dyspnea	512.7	Shortness of breath
 HP:0031684	Renal artery atherosclerosis	440.1	Atherosclerosis of renal artery
 HP:0004945	Extracranial internal carotid artery dissection	442.4	Arterial dissection
 HP:0005294	Arterial dissection	442.4	Arterial dissection
+HP:4000067	Iliac artery aneurysm	442.2	Aneurysm of iliac artery
 HP:0030880	Raynaud phenomenon	443.1	Raynaud's syndrome
 HP:0002625	Deep venous thrombosis	451.2	Phlebitis and thrombophlebitis of lower extremities
 HP:0004850	Recurrent deep vein thrombosis	451.2	Phlebitis and thrombophlebitis of lower extremities
@@ -4615,6 +4766,7 @@ HP:0003416	Spinal canal stenosis	720	Spinal stenosis
 HP:0004610	Lumbar spinal canal stenosis	720	Spinal stenosis
 HP:0005733	Spinal stenosis with reduced interpedicular distance	720	Spinal stenosis
 HP:0008445	Cervical spinal canal stenosis	720	Spinal stenosis
+HP:0004610	Lumbar spinal canal stenosis	720.1	Spinal stenosis of lumbar region
 HP:0003302	Spondylolisthesis	738.4	Acquired spondylolisthesis
 HP:0008489	Spondylolisthesis at L5-S1	738.4	Acquired spondylolisthesis
 HP:0008419	Intervertebral disc degeneration	722.6	Degeneration of intervertebral disc

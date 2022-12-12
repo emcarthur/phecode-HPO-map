@@ -2920,6 +2920,7 @@ HP:0030186	Kinetic tremor	350	Abnormal movement
 HP:0030187	Titubation	350	Abnormal movement
 HP:0031007	Orofacial action-specific dystonia induced by speech	350	Abnormal movement
 HP:0031008	Lingual dystonia	350	Abnormal movement
+HP:0031786	Cogan lid twitch	350	Abnormal movement
 HP:0031943	Akathisia	350	Abnormal movement
 HP:0031959	Leg dystonia	350	Abnormal movement
 HP:0031960	Arm dystonia	350	Abnormal movement
@@ -2966,6 +2967,7 @@ HP:0002064	Spastic gait	350	Abnormal movement
 HP:0012407	Scissor gait	350	Abnormal movement
 HP:0031957	Spastic hemiparetic gait	350	Abnormal movement
 HP:0031958	Spastic paraparetic gait	350	Abnormal movement
+HP:0000496	Abnormality of eye movement	350	Abnormal movement
 HP:0000211	Trismus	350	Abnormal movement
 HP:0000224	Hypogeusia	350	Abnormal movement
 HP:0000458	Anosmia	350	Abnormal movement
@@ -3022,8 +3024,10 @@ HP:0012164	Asterixis	350	Abnormal movement
 HP:0012247	Specific anosmia	350	Abnormal movement
 HP:0012391	Hyporeflexia of upper limbs	350	Abnormal movement
 HP:0012392	Jaw hyporeflexia	350	Abnormal movement
+HP:0025605	Lid lag on downgaze	350	Abnormal movement
 HP:0025682	Crouch gait	350	Abnormal movement
 HP:0030051	Tip-toe gait	350	Abnormal movement
+HP:0030826	Eyelid fasciculation	350	Abnormal movement
 HP:0030902	Palmomental reflex	350	Abnormal movement
 HP:0030903	Grasp reflex	350	Abnormal movement
 HP:0030904	Glabellar reflex	350	Abnormal movement
@@ -3032,6 +3036,7 @@ HP:0030906	Suck reflex	350	Abnormal movement
 HP:0031004	Hemiareflexia	350	Abnormal movement
 HP:0031249	Parageusia	350	Abnormal movement
 HP:0031629	Impaired tandem gait	350	Abnormal movement
+HP:0031785	Abnormal eyelid movement	350	Abnormal movement
 HP:0031825	Freezing of gait	350	Abnormal movement
 HP:0031826	Abnormal reflex	350	Abnormal movement
 HP:0031827	Absent abdominal reflex	350	Abnormal movement
@@ -3123,6 +3128,27 @@ HP:0007289	Limb fasciculations	350.1	Abnormal involuntary movements
 HP:0010546	Muscle fibrillation	350.1	Abnormal involuntary movements
 HP:0032507	Labiomental fasciculations	350.1	Abnormal involuntary movements
 HP:0001257	Spasticity	350.1	Abnormal involuntary movements
+HP:0000639	Nystagmus	350.1	Abnormal involuntary movements
+HP:0000640	Gaze-evoked nystagmus	350.1	Abnormal involuntary movements
+HP:0000666	Horizontal nystagmus	350.1	Abnormal involuntary movements
+HP:0001361	Nystagmus-induced head nodding	350.1	Abnormal involuntary movements
+HP:0001583	Rotary nystagmus	350.1	Abnormal involuntary movements
+HP:0006934	Congenital nystagmus	350.1	Abnormal involuntary movements
+HP:0007286	Horizontal jerk nystagmus	350.1	Abnormal involuntary movements
+HP:0007747	Monocular horizontal nystagmus	350.1	Abnormal involuntary movements
+HP:0007811	Horizontal pendular nystagmus	350.1	Abnormal involuntary movements
+HP:0007859	Congenital horizontal nystagmus	350.1	Abnormal involuntary movements
+HP:0007979	Gaze-evoked horizontal nystagmus	350.1	Abnormal involuntary movements
+HP:0008026	Horizontal opticokinetic nystagmus	350.1	Abnormal involuntary movements
+HP:0010533	Spasmus nutans	350.1	Abnormal involuntary movements
+HP:0010542	Vestibular nystagmus	350.1	Abnormal involuntary movements
+HP:0010544	Vertical nystagmus	350.1	Abnormal involuntary movements
+HP:0010545	Downbeat nystagmus	350.1	Abnormal involuntary movements
+HP:0011477	Upbeat nystagmus	350.1	Abnormal involuntary movements
+HP:0012043	Pendular nystagmus	350.1	Abnormal involuntary movements
+HP:0012044	Seesaw nystagmus	350.1	Abnormal involuntary movements
+HP:0025711	Convergence-retraction nystagmus	350.1	Abnormal involuntary movements
+HP:0030691	Divergence nystagmus	350.1	Abnormal involuntary movements
 HP:0000211	Trismus	350.1	Abnormal involuntary movements
 HP:0001281	Tetany	350.1	Abnormal involuntary movements
 HP:0002169	Clonus	350.1	Abnormal involuntary movements
@@ -3133,9 +3159,15 @@ HP:0003394	Muscle spasm	350.1	Abnormal involuntary movements
 HP:0004305	Involuntary movements	350.1	Abnormal involuntary movements
 HP:0006961	Jerky head movements	350.1	Abnormal involuntary movements
 HP:0007166	Paroxysmal dyskinesia	350.1	Abnormal involuntary movements
+HP:0007295	Chaotic rapid conjugate ocular movements	350.1	Abnormal involuntary movements
+HP:0007704	Paroxysmal involuntary eye movements	350.1	Abnormal involuntary movements
+HP:0007738	Uncontrolled eye movements	350.1	Abnormal involuntary movements
+HP:0010543	Opsoclonus	350.1	Abnormal involuntary movements
 HP:0011448	Ankle clonus	350.1	Abnormal involuntary movements
 HP:0011449	Knee clonus	350.1	Abnormal involuntary movements
 HP:0011728	Elbow clonus	350.1	Abnormal involuntary movements
+HP:0012547	Abnormal involuntary eye movements	350.1	Abnormal involuntary movements
+HP:0031931	Ocular flutter	350.1	Abnormal involuntary movements
 HP:0031990	Chvostek sign	350.1	Abnormal involuntary movements
 HP:0032506	Alien limb phenomenon	350.1	Abnormal involuntary movements
 HP:0005575	Hemolytic-uremic syndrome	283	Acquired hemolytic anemias
@@ -3242,6 +3274,7 @@ HP:0002664	Neoplasm	172.22	Squamous cell carcinoma
 HP:0030731	Carcinoma	172.22	Squamous cell carcinoma
 HP:0030438	Anal canal squamous cell carcinoma	172.22	Squamous cell carcinoma
 HP:0012142	Pancreatic squamous cell carcinoma	172.22	Squamous cell carcinoma
+HP:0030359	Squamous cell lung carcinoma	172.22	Squamous cell carcinoma
 HP:0002860	Squamous cell carcinoma	172.22	Squamous cell carcinoma
 HP:0006739	Squamous cell carcinoma of the skin	172.22	Squamous cell carcinoma
 HP:0012182	Oropharyngeal squamous cell carcinoma	172.22	Squamous cell carcinoma
@@ -4761,6 +4794,8 @@ HP:0100497	Vitamin B3 deficiency	261	Vitamin deficiency
 HP:0100502	Vitamin B12 deficiency	261	Vitamin deficiency
 HP:0100503	Low levels of vitamin B1	261	Vitamin deficiency
 HP:0100504	Low levels of vitamin B2	261	Vitamin deficiency
+HP:0100505	Low levels of vitamin B5	261	Vitamin deficiency
+HP:0100506	Low levels of vitamin B8	261	Vitamin deficiency
 HP:0100507	Reduced blood folate concentration	261	Vitamin deficiency
 HP:0100510	Low levels of vitamin C	261	Vitamin deficiency
 HP:0100512	Low levels of vitamin D	261	Vitamin deficiency
@@ -5165,6 +5200,12 @@ HP:0031957	Spastic hemiparetic gait	772.2	Spasm of muscle
 HP:0031958	Spastic paraparetic gait	772.2	Spasm of muscle
 HP:0034183	Spastic triplegia	772.2	Spasm of muscle
 HP:0003394	Muscle spasm	772.2	Spasm of muscle
+HP:0003435	Cold-induced hand cramps	772.2	Spasm of muscle
+HP:0003449	Cold-induced muscle cramps	772.2	Spasm of muscle
+HP:0003710	Exercise-induced muscle cramps	772.2	Spasm of muscle
+HP:0008991	Exercise-induced leg cramps	772.2	Spasm of muscle
+HP:0011964	Intermittent painful muscle spasms	772.2	Spasm of muscle
+HP:0031989	Perioral spasm	772.2	Spasm of muscle
 HP:0003198	Myopathy	772.2	Spasm of muscle
 HP:0001371	Flexion contracture	772.2	Spasm of muscle
 HP:0031988	obsolete Muscle spasm	772.2	Spasm of muscle
@@ -5647,9 +5688,6 @@ HP:0030310	Upper extremity joint dislocation	830	Dislocation
 HP:0030311	Lower extremity joint dislocation	830	Dislocation
 HP:0031610	Recurrent shoulder dislocation	830	Dislocation
 HP:0031869	Recurrent joint dislocation	830	Dislocation
-HP:0003048	Radial head subluxation	830	Dislocation
-HP:0003835	Shoulder subluxation	830	Dislocation
-HP:0004294	Subluxation of metacarpal phalangeal joints	830	Dislocation
 HP:0030043	Hip subluxation	830	Dislocation
 HP:0032191	Torn meniscus	830	Dislocation
 HP:0041082	Fractured skull	840	Sprains and strains
@@ -7245,6 +7283,7 @@ HP:0007687	Unilateral ptosis	374	Other disorders of eyelids
 HP:0007838	Progressive ptosis	374	Other disorders of eyelids
 HP:0007911	Congenital bilateral ptosis	374	Other disorders of eyelids
 HP:0007970	Congenital ptosis	374	Other disorders of eyelids
+HP:0025605	Lid lag on downgaze	374	Other disorders of eyelids
 HP:0007406	Hyperpigmentation of eyelids	374	Other disorders of eyelids
 HP:0010749	Blepharochalasis	374	Other disorders of eyelids
 HP:0012568	Lower eyelid edema	374	Other disorders of eyelids
@@ -7263,7 +7302,6 @@ HP:0009755	Ankyloblepharon	374	Other disorders of eyelids
 HP:0010604	Cyst of the eyelid	374	Other disorders of eyelids
 HP:0010750	Dermatochalasis	374	Other disorders of eyelids
 HP:0025186	Marcus Gunn jaw winking synkinesis	374	Other disorders of eyelids
-HP:0025605	Lid lag on downgaze	374	Other disorders of eyelids
 HP:0025607	Upper eyelid entropion	374	Other disorders of eyelids
 HP:0025608	Cicatricial ectropion	374	Other disorders of eyelids
 HP:0030001	Lagopthalmos	374	Other disorders of eyelids
@@ -9467,7 +9505,6 @@ HP:0011719	Supracardiac total anomalous pulmonary venous connection	747	Cardiac 
 HP:0011720	Cardiac total anomalous pulmonary venous connection	747	Cardiac and circulatory congenital anomalies
 HP:0011721	Infracardiac total anomalous pulmonary venous connection	747	Cardiac and circulatory congenital anomalies
 HP:0011722	Mixed total anomalous pulmonary venous connection	747	Cardiac and circulatory congenital anomalies
-HP:0011724	Uhl's anomaly	747	Cardiac and circulatory congenital anomalies
 HP:0011726	Persistent fetal circulation	747	Cardiac and circulatory congenital anomalies
 HP:0012020	Right aortic arch	747	Cardiac and circulatory congenital anomalies
 HP:0012305	Coarctation of the descending aortic arch	747	Cardiac and circulatory congenital anomalies
@@ -9615,7 +9652,6 @@ HP:0011719	Supracardiac total anomalous pulmonary venous connection	747.1	Cardia
 HP:0011720	Cardiac total anomalous pulmonary venous connection	747.1	Cardiac congenital anomalies
 HP:0011721	Infracardiac total anomalous pulmonary venous connection	747.1	Cardiac congenital anomalies
 HP:0011722	Mixed total anomalous pulmonary venous connection	747.1	Cardiac congenital anomalies
-HP:0011724	Uhl's anomaly	747.1	Cardiac congenital anomalies
 HP:0012020	Right aortic arch	747.1	Cardiac congenital anomalies
 HP:0012305	Coarctation of the descending aortic arch	747.1	Cardiac congenital anomalies
 HP:0012516	Tetralogy of Fallot with pulmonary atresia	747.1	Cardiac congenital anomalies
@@ -9874,6 +9910,7 @@ HP:0012043	Pendular nystagmus	378	Strabismus and other disorders of binocular ey
 HP:0012044	Seesaw nystagmus	378	Strabismus and other disorders of binocular eye movements
 HP:0025711	Convergence-retraction nystagmus	378	Strabismus and other disorders of binocular eye movements
 HP:0030691	Divergence nystagmus	378	Strabismus and other disorders of binocular eye movements
+HP:0010543	Opsoclonus	378	Strabismus and other disorders of binocular eye movements
 HP:0006897	Abducens palsy	378	Strabismus and other disorders of binocular eye movements
 HP:0007011	Fourth cranial nerve palsy	378	Strabismus and other disorders of binocular eye movements
 HP:0000486	Strabismus	378	Strabismus and other disorders of binocular eye movements
@@ -9940,7 +9977,6 @@ HP:0500078	Alternating hypotropia	378	Strabismus and other disorders of binocula
 HP:0500079	Alternating hypophoria	378	Strabismus and other disorders of binocular eye movements
 HP:0000511	Vertical supranuclear gaze palsy	378	Strabismus and other disorders of binocular eye movements
 HP:0000619	Impaired convergence	378	Strabismus and other disorders of binocular eye movements
-HP:0010543	Opsoclonus	378	Strabismus and other disorders of binocular eye movements
 HP:0011349	obsolete Abducens palsy	378	Strabismus and other disorders of binocular eye movements
 HP:0025592	Superior oblique muscle weakness	378	Strabismus and other disorders of binocular eye movements
 HP:0000544	External ophthalmoplegia	378.5	Paralytic strabismus
@@ -10378,10 +10414,20 @@ HP:0011406	Infancy onset short-trunk short stature	264.1	Short stature
 HP:0012106	Rhizomelic leg shortening	264.1	Short stature
 HP:0001510	Growth delay	264.3	Delayed milestones
 HP:0001263	Global developmental delay	264.3	Delayed milestones
+HP:0001270	Motor delay	264.3	Delayed milestones
+HP:0002194	Delayed gross motor development	264.3	Delayed milestones
+HP:0010862	Delayed fine motor development	264.3	Delayed milestones
 HP:0011342	Mild global developmental delay	264.3	Delayed milestones
 HP:0011343	Moderate global developmental delay	264.3	Delayed milestones
 HP:0011344	Severe global developmental delay	264.3	Delayed milestones
 HP:0012736	Profound global developmental delay	264.3	Delayed milestones
+HP:0025335	Delayed ability to stand	264.3	Delayed milestones
+HP:0025336	Delayed ability to sit	264.3	Delayed milestones
+HP:0031936	Delayed ability to walk	264.3	Delayed milestones
+HP:0032988	Persistent head lag	264.3	Delayed milestones
+HP:0032989	Delayed ability to roll over	264.3	Delayed milestones
+HP:0033128	Delayed ability to crawl	264.3	Delayed milestones
+HP:0033257	Delayed ability to walk with support	264.3	Delayed milestones
 HP:0000863	Central diabetes insipidus	253.3	Diabetes insipidus
 HP:0000873	Diabetes insipidus	253.3	Diabetes insipidus
 HP:0009806	Nephrogenic diabetes insipidus	253.3	Diabetes insipidus
@@ -10730,6 +10776,7 @@ HP:0001263	Global developmental delay	306	Other mental disorder
 HP:0000708	Behavioral abnormality	306	Other mental disorder
 HP:0012228	Tension-type headache	306	Other mental disorder
 HP:0001263	Global developmental delay	315	Develomental delays and disorders
+HP:0001270	Motor delay	315	Develomental delays and disorders
 HP:0011342	Mild global developmental delay	315	Develomental delays and disorders
 HP:0011343	Moderate global developmental delay	315	Develomental delays and disorders
 HP:0011344	Severe global developmental delay	315	Develomental delays and disorders
@@ -10749,7 +10796,6 @@ HP:0033667	Diminished mental health	315	Develomental delays and disorders
 HP:0012167	Hair-pulling	315	Develomental delays and disorders
 HP:0000735	Impaired social interactions	315	Develomental delays and disorders
 HP:0007281	Developmental stagnation	315	Develomental delays and disorders
-HP:0001270	Motor delay	315	Develomental delays and disorders
 HP:0001328	Specific learning disability	315	Develomental delays and disorders
 HP:0002463	Language impairment	315	Develomental delays and disorders
 HP:0031469	Low self esteem	315	Develomental delays and disorders
@@ -10761,6 +10807,7 @@ HP:0000735	Impaired social interactions	315.2	Speech and language disorder
 HP:0001328	Specific learning disability	315.2	Speech and language disorder
 HP:0002463	Language impairment	315.2	Speech and language disorder
 HP:0001263	Global developmental delay	315.3	Mental retardation
+HP:0001270	Motor delay	315.3	Mental retardation
 HP:0001249	Intellectual disability	315.3	Mental retardation
 HP:0001256	Intellectual disability, mild	315.3	Mental retardation
 HP:0002187	Intellectual disability, profound	315.3	Mental retardation
@@ -10770,7 +10817,6 @@ HP:0006889	Intellectual disability, borderline	315.3	Mental retardation
 HP:0010864	Intellectual disability, severe	315.3	Mental retardation
 HP:0000708	Behavioral abnormality	315.3	Mental retardation
 HP:0033667	Diminished mental health	315.3	Mental retardation
-HP:0001270	Motor delay	315.3	Mental retardation
 HP:0003614	Trimethylaminuria	271.9	Other disorders of carbohydrate transport and metabolism
 HP:0000943	Dysostosis multiplex	271.9	Other disorders of carbohydrate transport and metabolism
 HP:0003159	Hyperoxaluria	271.9	Other disorders of carbohydrate transport and metabolism
@@ -13882,6 +13928,7 @@ HP:0012162	Common carotid artery dissection	442.4	Arterial dissection
 HP:0012158	Carotid artery dissection	442.8	Aneurysm of other specified artery
 HP:0012163	Carotid artery dilatation	442.8	Aneurysm of other specified artery
 HP:0033261	Renal artery aneurysm	442.8	Aneurysm of other specified artery
+HP:4000067	Iliac artery aneurysm	442.2	Aneurysm of iliac artery
 HP:0030880	Raynaud phenomenon	443.1	Raynaud's syndrome
 HP:0007431	Congenital ichthyosiform erythroderma	691.1	Ichthyosis congenita
 HP:0007475	Congenital bullous ichthyosiform erythroderma	691.1	Ichthyosis congenita

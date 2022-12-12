@@ -2,6 +2,7 @@ phecode1.2_code	phecode1.2_label	phecode1.2_simpleLabel	phecode1.2_category	hpo_
 038.3	Bacteremia	bacteremia	infectious diseases	HP_0031864	Bacteremia	bacteremia	True
 041	Bacterial infection NOS	bacterial infection	infectious diseases	HP_0100658	Bacterial infection of skin	bacterial infection of skin	False
 070	Viral hepatitis	viral hepatitis	infectious diseases	HP_0006562	Viral hepatitis	viral hepatitis	True
+070.4	Chronic hepatitis	chronic hepatitis	infectious diseases	HP_0200120	Chronic active hepatitis	chronic active hepatitis	True
 070.4	Chronic hepatitis	chronic hepatitis	infectious diseases	HP_0200123	Chronic hepatitis	chronic hepatitis	True
 070.9	Hepatitis NOS	hepatitis	infectious diseases	HP_0012115	Hepatitis	hepatitis	True
 079	Viral infection	viral infection	infectious diseases	HP_0031691	Severe viral infection	severe viral infection	True
@@ -13,11 +14,14 @@ phecode1.2_code	phecode1.2_label	phecode1.2_simpleLabel	phecode1.2_category	hpo_
 117.1	Histoplasmosis	histoplasmosis	infectious diseases	HP_0032256	Histoplasmosis	histoplasmosis	True
 117.2	Coccidioidomycosis	coccidioidomycosis	infectious diseases	HP_0032249	Coccidioidomycosis	coccidioidomycosis	True
 131	Protozoan infection	protozoan infection	infectious diseases	HP_0020104	Unusual protozoan infection	unusual protozoan infection	True
+149.4	Cancer of larynx	cancer of larynx	neoplasms	HP_0012118	Cancer of the larynx	cancer of the larynx	False
 153.2	Colon cancer	colon cancer	neoplasms	HP_0003003	Colon cancer	colon cancer	True
+170.1	Bone cancer	bone cancer	neoplasms	HP_0002669	Bone cell cancer	bone cell cancer	False
 170.2	Cancer of connective tissue	cancer of connective tissue	neoplasms	HP_0100242	Cancer of connective tissue	cancer of connective tissue	False
 172.21	Basal cell carcinoma	basal cell carcinoma	neoplasms	HP_0002671	Basal cell carcinoma	basal cell carcinoma	True
 172.22	Squamous cell carcinoma	squamous cell carcinoma	neoplasms	HP_0002860	Squamous cell carcinoma	squamous cell carcinoma	True
 172.22	Squamous cell carcinoma	squamous cell carcinoma	neoplasms	HP_0012142	Pancreatic squamous cell carcinoma	pancreatic squamous cell carcinoma	True
+172.22	Squamous cell carcinoma	squamous cell carcinoma	neoplasms	HP_0030359	Squamous cell lung carcinoma	squamous cell lung carcinoma	True
 172.22	Squamous cell carcinoma	squamous cell carcinoma	neoplasms	HP_0030417	Vulval squamous cell carcinoma	vulval squamous cell carcinoma	False
 172.22	Squamous cell carcinoma	squamous cell carcinoma	neoplasms	HP_0030438	Anal canal squamous cell carcinoma	anal canal squamous cell carcinoma	True
 174	Breast cancer	breast cancer	neoplasms	HP_0003002	Breast cancer	breast cancer	False
@@ -28,10 +32,16 @@ phecode1.2_code	phecode1.2_label	phecode1.2_simpleLabel	phecode1.2_category	hpo_
 204.1	Lymphoid leukemia	lymphoid leukemia	neoplasms	HP_0006721	Acute lymphoid leukemia	acute lymphoid leukemia	False
 204.1	Lymphoid leukemia	lymphoid leukemia	neoplasms	HP_0005526	Lymphoid leukemia	lymphoid leukemia	True
 204.1	Lymphoid leukemia	lymphoid leukemia	neoplasms	HP_0005526	Lymphoid leukaemia	lymphoid leukemia	False
+204.11	Lymphoid leukemia, acute	lymphoid leukemia acute	neoplasms	HP_0006721	Acute lymphoid leukaemia	acute lymphoid leukemia	False
+204.11	Lymphoid leukemia, acute	lymphoid leukemia acute	neoplasms	HP_0006721	Acute lymphoid leukemia	acute lymphoid leukemia	False
 204.2	Myeloid leukemia	myeloid leukemia	neoplasms	HP_0004808	Acute myeloid leukemia	acute myeloid leukemia	True
 204.2	Myeloid leukemia	myeloid leukemia	neoplasms	HP_0004808	Acute myeloid leukaemia	acute myeloid leukemia	False
 204.2	Myeloid leukemia	myeloid leukemia	neoplasms	HP_0012324	Myeloid leukemia	myeloid leukemia	True
 204.2	Myeloid leukemia	myeloid leukemia	neoplasms	HP_0012324	Myeloid leukaemia	myeloid leukemia	False
+204.21	Myeloid leukemia, acute	myeloid leukemia acute	neoplasms	HP_0004808	Acute myeloid leukemia	acute myeloid leukemia	True
+204.21	Myeloid leukemia, acute	myeloid leukemia acute	neoplasms	HP_0004808	Acute myeloid leukaemia	acute myeloid leukemia	False
+204.22	Myeloid leukemia, chronic	myeloid leukemia chronic	neoplasms	HP_0005506	Chronic myeloid leukaemia	chronic myeloid leukemia	False
+204.22	Myeloid leukemia, chronic	myeloid leukemia chronic	neoplasms	HP_0005506	Chronic myeloid leukemia	chronic myeloid leukemia	False
 204.3	Monocytic leukemia	monocytic leukemia	neoplasms	HP_0004845	Acute monocytic leukemia	acute monocytic leukemia	True
 204.3	Monocytic leukemia	monocytic leukemia	neoplasms	HP_0004845	Acute monocytic leukaemia	acute monocytic leukemia	False
 204.4	Multiple myeloma	multiple myeloma	neoplasms	HP_0006775	Multiple myeloma	multiple myeloma	True
@@ -46,6 +56,7 @@ phecode1.2_code	phecode1.2_label	phecode1.2_simpleLabel	phecode1.2_category	hpo_
 244.4	Hypothyroidism NOS	hypothyroidism	endocrine/metabolic	HP_0000821	Hypothyroidism	hypothyroidism	True
 244.4	Hypothyroidism NOS	hypothyroidism	endocrine/metabolic	HP_0008223	Mild hypothyroidism	mild hypothyroidism	False
 244.5	Congenital hypothyroidism	congenital hypothyroidism	endocrine/metabolic	HP_0000851	Congenital hypothyroidism	congenital hypothyroidism	True
+244.5	Congenital hypothyroidism	congenital hypothyroidism	endocrine/metabolic	HP_0000851	Hypothyroidism, congenital	hypothyroidism congenital	False
 245	Thyroiditis	thyroiditis	endocrine/metabolic	HP_0100646	Thyroiditis	thyroiditis	True
 245.21	Chronic lymphocytic thyroiditis	chronic lymphocytic thyroiditis	endocrine/metabolic	HP_0000872	Chronic lymphocytic thyroiditis	chronic lymphocytic thyroiditis	False
 250	Diabetes mellitus	diabetes mellitus	endocrine/metabolic	HP_0000819	Diabetes mellitus	diabetes mellitus	True
@@ -71,12 +82,25 @@ phecode1.2_code	phecode1.2_label	phecode1.2_simpleLabel	phecode1.2_category	hpo_
 260.1	Cachexia	cachexia	endocrine/metabolic	HP_0004326	Cachexia	cachexia	True
 260.6	Anorexia	anorexia	endocrine/metabolic	HP_0002039	Anorexia	anorexia	True
 260.7	Polyphagia	polyphagia	endocrine/metabolic	HP_0002591	Polyphagia	polyphagia	True
+261	Vitamin deficiency	vitamin deficiency	endocrine/metabolic	HP_0004905	Vitamin A deficiency	vitamin a deficiency	False
+261	Vitamin deficiency	vitamin deficiency	endocrine/metabolic	HP_0008326	Vitamin B6 deficiency	vitamin b6 deficiency	False
+261	Vitamin deficiency	vitamin deficiency	endocrine/metabolic	HP_0100497	Vitamin B3 deficiency	vitamin b3 deficiency	True
+261	Vitamin deficiency	vitamin deficiency	endocrine/metabolic	HP_0100502	Vitamin B12 deficiency	vitamin b12 deficiency	True
+261	Vitamin deficiency	vitamin deficiency	endocrine/metabolic	HP_0100503	Vitamin B1 deficiency	vitamin b1 deficiency	False
+261	Vitamin deficiency	vitamin deficiency	endocrine/metabolic	HP_0100504	Vitamin B2 deficiency	vitamin b2 deficiency	False
+261	Vitamin deficiency	vitamin deficiency	endocrine/metabolic	HP_0100505	Vitamin B5 deficiency	vitamin b5 deficiency	False
+261	Vitamin deficiency	vitamin deficiency	endocrine/metabolic	HP_0100506	Vitamin B8 deficiency	vitamin b8 deficiency	False
+261	Vitamin deficiency	vitamin deficiency	endocrine/metabolic	HP_0100507	Vitamin B9 deficiency	vitamin b9 deficiency	False
+261	Vitamin deficiency	vitamin deficiency	endocrine/metabolic	HP_0100510	Vitamin C deficiency	vitamin c deficiency	False
+261	Vitamin deficiency	vitamin deficiency	endocrine/metabolic	HP_0100512	Vitamin D deficiency	vitamin d deficiency	False
+261	Vitamin deficiency	vitamin deficiency	endocrine/metabolic	HP_0100513	Vitamin E deficiency	vitamin e deficiency	False
 261.1	Vitamin A deficiency	vitamin a deficiency	endocrine/metabolic	HP_0004905	Vitamin A deficiency	vitamin a deficiency	False
 261.4	Vitamin D deficiency	vitamin d deficiency	endocrine/metabolic	HP_0100512	Vitamin D deficiency	vitamin d deficiency	False
 264.1	Short stature	short stature	endocrine/metabolic	HP_0004322	Short stature	short stature	True
 264.1	Short stature	short stature	endocrine/metabolic	HP_0003502	Mild short stature	mild short stature	True
 264.1	Short stature	short stature	endocrine/metabolic	HP_0003502	short stature, mild	short stature mild	False
 264.3	Delayed milestones	delayed milestones	endocrine/metabolic	HP_0001263	Delayed milestones	delayed milestones	False
+264.3	Delayed milestones	delayed milestones	endocrine/metabolic	HP_0001270	Delayed motor milestones	delayed motor milestones	False
 269	Proteinuria	proteinuria	endocrine/metabolic	HP_0000093	Proteinuria	proteinuria	True
 269	Proteinuria	proteinuria	endocrine/metabolic	HP_0012595	Mild proteinuria	mild proteinuria	True
 270.32	Paraproteinemia	paraproteinemia	endocrine/metabolic	HP_0031047	Paraproteinemia	paraproteinemia	True
@@ -122,7 +146,9 @@ phecode1.2_code	phecode1.2_label	phecode1.2_simpleLabel	phecode1.2_category	hpo_
 296.2	Depression	depression	mental disorders	HP_0000716	Depression	depression	True
 296.2	Depression	depression	mental disorders	HP_0031594	PTa depression	pta depression	False
 297.1	Suicidal ideation	suicidal ideation	mental disorders	HP_0031589	Suicidal ideation	suicidal ideation	True
+302.1	Decreased libido	decreased libido	mental disorders	HP_0030018	Decreased female libido	decreased female libido	True
 302.1	Decreased libido	decreased libido	mental disorders	HP_0046504	Decreased libido	decreased libido	True
+302.1	Decreased libido	decreased libido	mental disorders	HP_0040306	Decreased male libido	decreased male libido	True
 313.1	Attention deficit hyperactivity disorder	attention deficit hyperactivity disorder	mental disorders	HP_0007018	Attention deficit hyperactivity disorder	attention deficit hyperactivity disorder	True
 313.3	Autism	autism	mental disorders	HP_0000717	Autism	autism	True
 315.3	Mental retardation	mental retardation	mental disorders	HP_0001249	Mental retardation	mental retardation	False
@@ -150,6 +176,9 @@ phecode1.2_code	phecode1.2_label	phecode1.2_simpleLabel	phecode1.2_category	hpo_
 340	Migraine	migraine	neurological	HP_0002076	Migraine	migraine	True
 342	Hemiplegia	hemiplegia	neurological	HP_0002301	Hemiplegia	hemiplegia	True
 348.7	Coma	coma	neurological	HP_0001259	Coma	coma	True
+350	Abnormal movement	abnormal movement	neurological	HP_0000496	Abnormal eye movement	abnormal eye movement	False
+350	Abnormal movement	abnormal movement	neurological	HP_0031785	Abnormal eyelid movement	abnormal eyelid movement	True
+350.1	Abnormal involuntary movements	abnormal involuntary movements	neurological	HP_0012547	Abnormal involuntary eye movements	abnormal involuntary eye movements	True
 350.5	Abnormal reflex	abnormal reflex	neurological	HP_0031826	Abnormal reflex	abnormal reflex	True
 359.2	Myopathy	myopathy	neurological	HP_0003198	Myopathy	myopathy	True
 362.1	Retinopathy of prematurity	retinopathy of prematurity	sense organs	HP_0500049	Retinopathy of prematurity	retinopathy of prematurity	True
@@ -196,6 +225,7 @@ phecode1.2_code	phecode1.2_label	phecode1.2_simpleLabel	phecode1.2_category	hpo_
 375.1	Dry eyes	dry eyes	sense organs	HP_0001097	Dry eyes	dry eyes	False
 375.2	Epiphora	epiphora	sense organs	HP_0009926	Epiphora	epiphora	True
 377.1	Optic atrophy	optic atrophy	sense organs	HP_0000648	Optic atrophy	optic atrophy	True
+377.1	Optic atrophy	optic atrophy	sense organs	HP_0000648	Optic nerve atrophy	optic nerve atrophy	False
 377.1	Optic atrophy	optic atrophy	sense organs	HP_0001112	Leber optic atrophy	leber optic atrophy	True
 378.5	Paralytic strabismus	paralytic strabismus	sense organs	HP_0031775	Paralytic strabismus	paralytic strabismus	False
 380.1	Otitis externa	otitis externa	sense organs	HP_0410017	Otitis externa	otitis externa	True
@@ -204,14 +234,20 @@ phecode1.2_code	phecode1.2_label	phecode1.2_simpleLabel	phecode1.2_category	hpo_
 382	Otalgia	otalgia	sense organs	HP_0030766	Otalgia	otalgia	False
 383	Otosclerosis	otosclerosis	sense organs	HP_0000362	Otosclerosis	otosclerosis	True
 385.3	Cholesteatoma	cholesteatoma	sense organs	HP_0009797	Cholesteatoma	cholesteatoma	True
+389.1	Sensorineural hearing loss	sensorineural hearing loss	sense organs	HP_0000407	Hearing loss, sensorineural	hearing loss sensorineural	False
 389.1	Sensorineural hearing loss	sensorineural hearing loss	sense organs	HP_0000407	Sensorineural hearing loss	sensorineural hearing loss	False
+389.1	Sensorineural hearing loss	sensorineural hearing loss	sense organs	HP_0000408	Hearing loss, progressive sensorineural	hearing loss progressive sensorineural	False
+389.1	Sensorineural hearing loss	sensorineural hearing loss	sense organs	HP_0000408	Hearing loss, sensorineural, progressive	hearing loss sensorineural progressive	False
 389.1	Sensorineural hearing loss	sensorineural hearing loss	sense organs	HP_0000408	Sensorineural hearing loss, progressive	sensorineural hearing loss progressive	False
 389.1	Sensorineural hearing loss	sensorineural hearing loss	sense organs	HP_0008527	Congenital sensorineural hearing loss	congenital sensorineural hearing loss	False
+389.1	Sensorineural hearing loss	sensorineural hearing loss	sense organs	HP_0008527	Hearing loss, congenital sensorineural	hearing loss congenital sensorineural	False
 389.1	Sensorineural hearing loss	sensorineural hearing loss	sense organs	HP_0008610	Infantile sensorineural hearing loss	infantile sensorineural hearing loss	False
 389.1	Sensorineural hearing loss	sensorineural hearing loss	sense organs	HP_0008615	Late sensorineural hearing loss	late sensorineural hearing loss	False
 389.1	Sensorineural hearing loss	sensorineural hearing loss	sense organs	HP_0008619	Bilateral sensorineural hearing loss	bilateral sensorineural hearing loss	False
+389.1	Sensorineural hearing loss	sensorineural hearing loss	sense organs	HP_0008619	Hearing loss, sensorineural, bilateral	hearing loss sensorineural bilateral	False
 389.1	Sensorineural hearing loss	sensorineural hearing loss	sense organs	HP_0008625	Severe sensorineural hearing loss	severe sensorineural hearing loss	False
 389.2	Conductive hearing loss	conductive hearing loss	sense organs	HP_0000405	Conductive hearing loss	conductive hearing loss	False
+389.2	Conductive hearing loss	conductive hearing loss	sense organs	HP_0000405	Hearing loss, conductive	hearing loss conductive	False
 389.2	Conductive hearing loss	conductive hearing loss	sense organs	HP_0008513	Bilateral conductive hearing loss	bilateral conductive hearing loss	False
 389.2	Conductive hearing loss	conductive hearing loss	sense organs	HP_0008591	Congenital conductive hearing loss	congenital conductive hearing loss	False
 389.2	Conductive hearing loss	conductive hearing loss	sense organs	HP_0008598	Conductive hearing loss, mild	conductive hearing loss mild	False
@@ -221,6 +257,7 @@ phecode1.2_code	phecode1.2_label	phecode1.2_simpleLabel	phecode1.2_category	hpo_
 401	Hypertension	hypertension	circulatory system	HP_0000822	Hypertension	hypertension	True
 411.2	Myocardial infarction	myocardial infarction	circulatory system	HP_0001658	Myocardial infarction	myocardial infarction	True
 411.3	Angina pectoris	angina pectoris	circulatory system	HP_0001681	Angina pectoris	angina pectoris	True
+411.4	Coronary atherosclerosis	coronary atherosclerosis	circulatory system	HP_0001677	Coronary artery atherosclerosis	coronary artery atherosclerosis	True
 411.4	Coronary atherosclerosis	coronary atherosclerosis	circulatory system	HP_0001677	Coronary atherosclerosis	coronary atherosclerosis	False
 411.4	Coronary atherosclerosis	coronary atherosclerosis	circulatory system	HP_0004929	obsolete Coronary atherosclerosis	obsolete coronary atherosclerosis	True
 416	Cardiomegaly	cardiomegaly	circulatory system	HP_0001640	Cardiomegaly	cardiomegaly	True
@@ -234,12 +271,15 @@ phecode1.2_code	phecode1.2_label	phecode1.2_simpleLabel	phecode1.2_category	hpo_
 426.3	Bundle branch block	bundle branch block	circulatory system	HP_0011712	Right bundle branch block	right bundle branch block	True
 426.31	Right bundle branch block	right bundle branch block	circulatory system	HP_0011712	Right bundle branch block	right bundle branch block	True
 426.32	Left bundle branch block	left bundle branch block	circulatory system	HP_0011713	Left bundle branch block	left bundle branch block	True
+427.1	Paroxysmal tachycardia, unspecified	paroxysmal tachycardia	circulatory system	HP_0006671	Paroxysmal atrial tachycardia	paroxysmal atrial tachycardia	True
 427.1	Paroxysmal tachycardia, unspecified	paroxysmal tachycardia	circulatory system	HP_0006688	Paroxysmal tachycardia	paroxysmal tachycardia	True
 427.11	Paroxysmal supraventricular tachycardia	paroxysmal supraventricular tachycardia	circulatory system	HP_0004763	Paroxysmal supraventricular tachycardia	paroxysmal supraventricular tachycardia	True
 427.12	Paroxysmal ventricular tachycardia	paroxysmal ventricular tachycardia	circulatory system	HP_0004751	Paroxysmal ventricular tachycardia	paroxysmal ventricular tachycardia	True
 427.21	Atrial fibrillation	atrial fibrillation	circulatory system	HP_0005110	Atrial fibrillation	atrial fibrillation	True
 427.22	Atrial flutter	atrial flutter	circulatory system	HP_0004749	Atrial flutter	atrial flutter	True
 427.42	Cardiac arrest	cardiac arrest	circulatory system	HP_0001695	Cardiac arrest	cardiac arrest	True
+427.5	Arrhythmia (cardiac) NOS	arrhythmia cardiac	circulatory system	HP_0011675	Cardiac arrhythmia	cardiac arrhythmia	False
+427.61	Supraventricular premature beats	supraventricular premature beats	circulatory system	HP_0006699	Premature supraventricular beats	premature supraventricular beats	False
 427.7	Tachycardia NOS	tachycardia	circulatory system	HP_0001649	Tachycardia	tachycardia	True
 427.9	Palpitations	palpitations	circulatory system	HP_0001962	Palpitations	palpitations	True
 428.2	Heart failure NOS	heart failure	circulatory system	HP_0001635	Heart failure	heart failure	False
@@ -254,9 +294,15 @@ phecode1.2_code	phecode1.2_label	phecode1.2_simpleLabel	phecode1.2_category	hpo_
 430.2	Intracerebral hemorrhage	intracerebral hemorrhage	circulatory system	HP_0007023	Antenatal intracerebral haemorrhage	antenatal intracerebral hemorrhage	False
 430.3	Subdural hemorrhage	subdural hemorrhage	circulatory system	HP_0100309	Subdural hemorrhage	subdural hemorrhage	True
 430.3	Subdural hemorrhage	subdural hemorrhage	circulatory system	HP_0100309	Subdural haemorrhage	subdural hemorrhage	False
+433.12	Cerebral atherosclerosis	cerebral atherosclerosis	circulatory system	HP_0007201	Cerebral artery atherosclerosis	cerebral artery atherosclerosis	True
 433.3	Cerebral ischemia	cerebral ischemia	circulatory system	HP_0002637	Cerebral ischemia	cerebral ischemia	True
+433.5	Cerebral aneurysm	cerebral aneurysm	circulatory system	HP_0007029	Cerebral berry aneurysm	cerebral berry aneurysm	True
 440	Atherosclerosis	atherosclerosis	circulatory system	HP_0002621	Atherosclerosis	atherosclerosis	True
+440.9	Atherosclerosis of aorta	atherosclerosis of aorta	circulatory system	HP_0012397	Atherosclerosis of the aorta	atherosclerosis of the aorta	False
+442.1	Aortic aneurysm	aortic aneurysm	circulatory system	HP_0002616	Aortic root aneurysm	aortic root aneurysm	True
 442.1	Aortic aneurysm	aortic aneurysm	circulatory system	HP_0004942	Aortic aneurysm	aortic aneurysm	True
+442.1	Aortic aneurysm	aortic aneurysm	circulatory system	HP_0005113	Aortic arch aneurysm	aortic arch aneurysm	True
+442.1	Aortic aneurysm	aortic aneurysm	circulatory system	HP_0011645	Aortic sinus aneurysm	aortic sinus aneurysm	False
 442.11	Abdominal aortic aneurysm	abdominal aortic aneurysm	circulatory system	HP_0005112	Abdominal aortic aneurysm	abdominal aortic aneurysm	True
 442.11	Abdominal aortic aneurysm	abdominal aortic aneurysm	circulatory system	HP_0031644	Fusiform abdominal aortic aneurysm	fusiform abdominal aortic aneurysm	True
 442.11	Abdominal aortic aneurysm	abdominal aortic aneurysm	circulatory system	HP_0031645	Saccular abdominal aortic aneurysm	saccular abdominal aortic aneurysm	True
@@ -298,6 +344,7 @@ phecode1.2_code	phecode1.2_label	phecode1.2_simpleLabel	phecode1.2_category	hpo_
 516.1	Hemoptysis	hemoptysis	respiratory	HP_0002105	Hemoptysis	hemoptysis	True
 521.1	Dental caries	dental caries	digestive	HP_0000670	Dental caries	dental caries	False
 521.1	Dental caries	dental caries	digestive	HP_0000670	Early dental caries	early dental caries	False
+522.5	Periapical abscess	periapical abscess	digestive	HP_0030758	Periapical tooth abscess	periapical tooth abscess	True
 523.1	Gingivitis	gingivitis	digestive	HP_0000230	Gingivitis	gingivitis	True
 529.1	Glossitis	glossitis	digestive	HP_0000206	Glossitis	glossitis	True
 530.11	GERD	gerd	digestive	HP_0002020	GERD	gerd	False
@@ -335,6 +382,7 @@ phecode1.2_code	phecode1.2_label	phecode1.2_simpleLabel	phecode1.2_category	hpo_
 574.1	Cholelithiasis	cholelithiasis	digestive	HP_0001081	Cholelithiasis	cholelithiasis	True
 575.1	Cholangitis	cholangitis	digestive	HP_0030151	Cholangitis	cholangitis	True
 577.1	Acute pancreatitis	acute pancreatitis	digestive	HP_0001735	Acute pancreatitis	acute pancreatitis	True
+577.1	Acute pancreatitis	acute pancreatitis	digestive	HP_0001735	Pancreatitis, acute	pancreatitis acute	False
 577.2	Chronic pancreatitis	chronic pancreatitis	digestive	HP_0006280	Chronic pancreatitis	chronic pancreatitis	True
 578	Gastrointestinal hemorrhage	gastrointestinal hemorrhage	digestive	HP_0002239	Gastrointestinal hemorrhage	gastrointestinal hemorrhage	True
 578	Gastrointestinal hemorrhage	gastrointestinal hemorrhage	digestive	HP_0002239	Gastrointestinal haemorrhage	gastrointestinal hemorrhage	False
@@ -366,11 +414,13 @@ phecode1.2_code	phecode1.2_label	phecode1.2_simpleLabel	phecode1.2_category	hpo_
 599.4	Urinary incontinence	urinary incontinence	genitourinary	HP_0010992	Stress urinary incontinence	stress urinary incontinence	True
 601.1	Prostatitis	prostatitis	genitourinary	HP_0000024	Prostatitis	prostatitis	True
 603.2	Spermatocele	spermatocele	genitourinary	HP_0033808	Spermatocele	spermatocele	True
+609.1	Infertility, male	infertility male	genitourinary	HP_0003251	Male infertility	male infertility	True
 610.2	Fibroadenosis of breast	fibroadenosis of breast	genitourinary	HP_0010619	Fibroadenosis of breast	fibroadenosis of breast	False
 612.1	Galactorrhea	galactorrhea	genitourinary	HP_0100829	Galactorrhea	galactorrhea	True
 615	Endometriosis	endometriosis	genitourinary	HP_0030127	Endometriosis	endometriosis	True
 625.1	Dyspareunia	dyspareunia	genitourinary	HP_0030016	Dyspareunia	dyspareunia	True
 626.2	Dysmenorrhea	dysmenorrhea	genitourinary	HP_0100607	Dysmenorrhea	dysmenorrhea	True
+626.8	Infertility, female	infertility female	genitourinary	HP_0008222	Female infertility	female infertility	True
 627.1	Postmenopausal bleeding	postmenopausal bleeding	genitourinary	HP_0033840	Postmenopausal bleeding	postmenopausal bleeding	True
 628	Ovarian cyst	ovarian cyst	genitourinary	HP_0000138	Ovarian cyst	ovarian cyst	True
 634.3	Ectopic pregnancy	ectopic pregnancy	pregnancy complications	HP_0031456	Ectopic pregnancy	ectopic pregnancy	True
@@ -401,7 +451,9 @@ phecode1.2_code	phecode1.2_label	phecode1.2_simpleLabel	phecode1.2_category	hpo_
 714.1	Rheumatoid arthritis	rheumatoid arthritis	musculoskeletal	HP_0005681	Juvenile rheumatoid arthritis	juvenile rheumatoid arthritis	True
 714.1	Rheumatoid arthritis	rheumatoid arthritis	musculoskeletal	HP_0005681	Rheumatoid arthritis, juvenile	rheumatoid arthritis juvenile	False
 714.2	Juvenile rheumatoid arthritis	juvenile rheumatoid arthritis	musculoskeletal	HP_0005681	Juvenile rheumatoid arthritis	juvenile rheumatoid arthritis	True
+714.2	Juvenile rheumatoid arthritis	juvenile rheumatoid arthritis	musculoskeletal	HP_0005681	Rheumatoid arthritis, juvenile	rheumatoid arthritis juvenile	False
 716.9	Arthropathy NOS	arthropathy	musculoskeletal	HP_0003040	Arthropathy	arthropathy	True
+720	Spinal stenosis	spinal stenosis	musculoskeletal	HP_0003416	Spinal canal stenosis	spinal canal stenosis	True
 720	Spinal stenosis	spinal stenosis	musculoskeletal	HP_0003416	Spinal stenosis	spinal stenosis	False
 720	Spinal stenosis	spinal stenosis	musculoskeletal	HP_0004610	Lumbar spinal stenosis	lumbar spinal stenosis	False
 722.3	Schmorl's nodes	schmorls nodes	musculoskeletal	HP_0030041	Schmorl's nodes	schmorls nodes	False
@@ -413,12 +465,18 @@ phecode1.2_code	phecode1.2_label	phecode1.2_simpleLabel	phecode1.2_category	hpo_
 735.1	Flat foot	flat foot	musculoskeletal	HP_0001763	Flat foot	flat foot	False
 735.23	Hallux rigidus	hallux rigidus	musculoskeletal	HP_0025004	Hallux rigidus	hallux rigidus	True
 737	Curvature of spine	curvature of spine	musculoskeletal	HP_0010674	Curvature of spine	curvature of spine	False
+739	Contracture of joint	contracture of joint	musculoskeletal	HP_0002987	Contracture of elbow joint	contracture of elbow joint	False
+739	Contracture of joint	contracture of joint	musculoskeletal	HP_0009473	Joint contracture of the hand	joint contracture of the hand	True
 741.3	Difficulty in walking	difficulty in walking	musculoskeletal	HP_0002355	Difficulty in walking	difficulty in walking	False
 741.5	Hemarthrosis	hemarthrosis	musculoskeletal	HP_0005261	Hemarthrosis	hemarthrosis	False
 743.1	Osteoporosis	osteoporosis	musculoskeletal	HP_0000939	Osteoporosis	osteoporosis	True
 743.11	Osteoporosis NOS	osteoporosis	musculoskeletal	HP_0000939	Osteoporosis	osteoporosis	True
 743.2	Pathologic fracture	pathologic fracture	musculoskeletal	HP_0002756	Pathologic fracture	pathologic fracture	True
 749.1	Cleft palate	cleft palate	congenital anomalies	HP_0000175	Cleft palate	cleft palate	True
+749.1	Cleft palate	cleft palate	congenital anomalies	HP_0000175	Cleft of palate	cleft of palate	False
+749.1	Cleft palate	cleft palate	congenital anomalies	HP_0000185	Cleft soft palate	cleft soft palate	True
+749.1	Cleft palate	cleft palate	congenital anomalies	HP_0410005	Cleft hard palate	cleft hard palate	True
+749.1	Cleft palate	cleft palate	congenital anomalies	HP_0410005	Cleft bony palate	cleft bony palate	False
 752.11	Spina bifida	spina bifida	congenital anomalies	HP_0002414	Spina bifida	spina bifida	True
 756.21	Pectus excavatum	pectus excavatum	congenital anomalies	HP_0000767	Pectus excavatum	pectus excavatum	True
 756.22	Pectus carinatum	pectus carinatum	congenital anomalies	HP_0000768	Pectus carinatum	pectus carinatum	True
@@ -438,15 +496,18 @@ phecode1.2_code	phecode1.2_label	phecode1.2_simpleLabel	phecode1.2_category	hpo_
 772.4	Rhabdomyolysis	rhabdomyolysis	symptoms	HP_0003201	Rhabdomyolysis	rhabdomyolysis	True
 772.4	Rhabdomyolysis	rhabdomyolysis	symptoms	HP_0008942	Acute rhabdomyolysis	acute rhabdomyolysis	True
 772.4	Rhabdomyolysis	rhabdomyolysis	symptoms	HP_0008942	Rhabdomyolysis, acute	rhabdomyolysis acute	False
+772.6	Facial weakness	facial weakness	symptoms	HP_0030319	Facial muscle weakness	facial muscle weakness	False
 772.6	Facial weakness	facial weakness	symptoms	HP_0030319	Facial weakness	facial weakness	False
 782.3	Edema	edema	symptoms	HP_0000969	Edema	edema	True
 785	Abdominal pain	abdominal pain	symptoms	HP_0002027	Abdominal pain	abdominal pain	True
 785	Abdominal pain	abdominal pain	symptoms	HP_0033400	Acute abdominal pain	acute abdominal pain	False
 789	Nausea and vomiting	nausea and vomiting	symptoms	HP_0002017	Nausea and vomiting	nausea and vomiting	True
+790.1	Elevated sedimentation rate	elevated sedimentation rate	symptoms	HP_0003565	Elevated erythrocyte sedimentation rate	elevated erythrocyte sedimentation rate	True
 790.1	Elevated sedimentation rate	elevated sedimentation rate	symptoms	HP_0003565	Elevated sedimentation rate	elevated sedimentation rate	False
 791	Gangrene	gangrene	symptoms	HP_0100758	Gangrene	gangrene	True
 797	Shock	shock	symptoms	HP_0031273	Shock	shock	True
 797.1	Cardiogenic shock	cardiogenic shock	symptoms	HP_0030149	Cardiogenic shock	cardiogenic shock	True
+803.1	Fracture of humerus	fracture of humerus	injuries & poisonings	HP_0041055	Fracture of the humerus	fracture of the humerus	False
 830	Dislocation	dislocation	injuries & poisonings	HP_0001083	Lens dislocation	lens dislocation	False
 830	Dislocation	dislocation	injuries & poisonings	HP_0002827	Hip dislocation	hip dislocation	True
 830	Dislocation	dislocation	injuries & poisonings	HP_0004976	Knee dislocation	knee dislocation	True

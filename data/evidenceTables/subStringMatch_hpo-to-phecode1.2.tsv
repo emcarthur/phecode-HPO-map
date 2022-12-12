@@ -25,6 +25,8 @@ HP_0000360	Tinnitus	tinnitus	True	389.4	Tinnitus	tinnitus	sense organs
 HP_0000362	Otosclerosis	otosclerosis	True	383	Otosclerosis	otosclerosis	sense organs
 HP_0000388	Otitis media	otitis media	True	381.1	Otitis media	otitis media	sense organs
 HP_0000405	Conductive hearing loss	conductive hearing loss	False	389.2	Conductive hearing loss	conductive hearing loss	sense organs
+HP_0000405	Hearing loss, conductive	hearing loss conductive	False	389.2	Conductive hearing loss	conductive hearing loss	sense organs
+HP_0000407	Hearing loss, sensorineural	hearing loss sensorineural	False	389.1	Sensorineural hearing loss	sensorineural hearing loss	sense organs
 HP_0000407	Sensorineural hearing loss	sensorineural hearing loss	False	389.1	Sensorineural hearing loss	sensorineural hearing loss	sense organs
 HP_0001324	Muscle weakness	muscle weakness	True	772.3	Muscle weakness	muscle weakness	symptoms
 HP_0000473	Torticollis	torticollis	True	723.1	Torticollis	torticollis	musculoskeletal
@@ -32,6 +34,7 @@ HP_0000483	Astigmatism	astigmatism	True	367.2	Astigmatism	astigmatism	sense orga
 HP_0000491	Keratitis	keratitis	True	370	Keratitis	keratitis	sense organs
 HP_0000498	Inflammation of eyelids	inflammation of eyelids	False	371.3	Inflammation of eyelids	inflammation of eyelids	sense organs
 HP_0000501	Glaucoma	glaucoma	True	365	Glaucoma	glaucoma	sense organs
+HP_0000508	Eyelid ptosis	eyelid ptosis	False	374.3	Ptosis of eyelid	ptosis of eyelid	sense organs
 HP_0000518	Cataract	cataract	True	366	Cataract	cataract	sense organs
 HP_0000520	Exophthalmos	exophthalmos	False	242.3	Exophthalmos	exophthalmos	endocrine/metabolic
 HP_0000540	Hypermetropia	hypermetropia	True	367.8	Hypermetropia	hypermetropia	sense organs
@@ -49,6 +52,7 @@ HP_0000716	Depression	depression	True	296.2	Depression	depression	mental disorde
 HP_0000717	Autism	autism	True	313.3	Autism	autism	mental disorders
 HP_0004305	Involuntary movements	involuntary movements	True	350.1	Abnormal involuntary movements	abnormal involuntary movements	neurological
 HP_0000738	Hallucinations	hallucinations	True	292.6	Hallucinations	hallucinations	mental disorders
+HP_0009830	Peripheral neuropathy	peripheral neuropathy	True	337.1	Peripheral autonomic neuropathy	peripheral autonomic neuropathy	neurological
 HP_0000767	Pectus excavatum	pectus excavatum	True	756.21	Pectus excavatum	pectus excavatum	congenital anomalies
 HP_0000768	Pectus carinatum	pectus carinatum	True	756.22	Pectus carinatum	pectus carinatum	congenital anomalies
 HP_0000776	Diaphragmatic hernia	diaphragmatic hernia	False	550.2	Diaphragmatic hernia	diaphragmatic hernia	digestive
@@ -65,6 +69,7 @@ HP_0000839	Pituitary dwarfism	pituitary dwarfism	True	253.5	Pituitary dwarfism	p
 HP_0004322	Short stature	short stature	True	264.1	Short stature	short stature	endocrine/metabolic
 HP_0000843	Hyperparathyroidism	hyperparathyroidism	True	252.1	Hyperparathyroidism	hyperparathyroidism	endocrine/metabolic
 HP_0000851	Congenital hypothyroidism	congenital hypothyroidism	True	244.5	Congenital hypothyroidism	congenital hypothyroidism	endocrine/metabolic
+HP_0000851	Hypothyroidism, congenital	hypothyroidism congenital	False	244.5	Congenital hypothyroidism	congenital hypothyroidism	endocrine/metabolic
 HP_0000859	Hyperaldosteronism	hyperaldosteronism	True	255.12	Hyperaldosteronism	hyperaldosteronism	endocrine/metabolic
 HP_0000873	Diabetes insipidus	diabetes insipidus	True	253.3	Diabetes insipidus	diabetes insipidus	endocrine/metabolic
 HP_0000872	Chronic lymphocytic thyroiditis	chronic lymphocytic thyroiditis	False	245.21	Chronic lymphocytic thyroiditis	chronic lymphocytic thyroiditis	endocrine/metabolic
@@ -108,6 +113,8 @@ HP_0002170	Intracranial haemorrhage	intracranial hemorrhage	False	430	Intracrani
 HP_0002170	Intracranial haemorrhage	intracranial hemorrhage	False	818	Intracranial hemorrhage (injury)	intracranial hemorrhage injury	injuries & poisonings
 HP_0001370	Rheumatoid arthritis	rheumatoid arthritis	True	714.1	Rheumatoid arthritis	rheumatoid arthritis	musculoskeletal
 HP_0001370	Rheumatoid arthritis	rheumatoid arthritis	True	714.2	Juvenile rheumatoid arthritis	juvenile rheumatoid arthritis	musculoskeletal
+HP_0001371	Joint contracture	joint contracture	False	739	Contracture of joint	contracture of joint	musculoskeletal
+HP_0001387	Joint stiffness	joint stiffness	True	741.2	Stiffness of joint	stiffness of joint	musculoskeletal
 HP_0001409	Portal hypertension	portal hypertension	True	571.81	Portal hypertension	portal hypertension	digestive
 HP_0006562	Viral hepatitis	viral hepatitis	True	070	Viral hepatitis	viral hepatitis	infectious diseases
 HP_0006562	Viral hepatitis	viral hepatitis	True	070.1	Viral hepatitis A	viral hepatitis a	infectious diseases
@@ -123,18 +130,24 @@ HP_0001635	Congestive heart failure	congestive heart failure	True	428.1	Congesti
 HP_0001635	Heart failure	heart failure	False	428.2	Heart failure NOS	heart failure	circulatory system
 HP_0001638	Cardiomyopathy	cardiomyopathy	True	425	Cardiomyopathy	cardiomyopathy	circulatory system
 HP_0001638	Cardiomyopathy	cardiomyopathy	True	425.8	Other cardiomyopathy	other cardiomyopathy	circulatory system
+HP_0001639	Hypertrophic cardiomyopathy	hypertrophic cardiomyopathy	True	425.11	Hypertrophic obstructive cardiomyopathy	hypertrophic obstructive cardiomyopathy	circulatory system
 HP_0001639	Hypertrophic cardiomyopathy	hypertrophic cardiomyopathy	True	425.12	Other hypertrophic cardiomyopathy	other hypertrophic cardiomyopathy	circulatory system
+HP_0001639	Cardiomyopathy, hypertrophic	cardiomyopathy hypertrophic	False	425.11	Hypertrophic obstructive cardiomyopathy	hypertrophic obstructive cardiomyopathy	circulatory system
+HP_0001639	Cardiomyopathy, hypertrophic	cardiomyopathy hypertrophic	False	425.12	Other hypertrophic cardiomyopathy	other hypertrophic cardiomyopathy	circulatory system
 HP_0001640	Cardiomegaly	cardiomegaly	True	416	Cardiomegaly	cardiomegaly	circulatory system
 HP_0001695	Cardiac arrest	cardiac arrest	True	427.42	Cardiac arrest	cardiac arrest	circulatory system
 HP_0001699	Sudden death	sudden death	True	1003	Sudden death	sudden death	
 HP_0001649	Tachycardia	tachycardia	True	427.7	Tachycardia NOS	tachycardia	circulatory system
+HP_0011675	Cardiac arrhythmia	cardiac arrhythmia	False	427.5	Arrhythmia (cardiac) NOS	arrhythmia cardiac	circulatory system
 HP_0001658	Myocardial infarction	myocardial infarction	True	411.2	Myocardial infarction	myocardial infarction	circulatory system
 HP_0001677	Coronary atherosclerosis	coronary atherosclerosis	False	411.4	Coronary atherosclerosis	coronary atherosclerosis	circulatory system
 HP_0002621	Atherosclerosis	atherosclerosis	True	440	Atherosclerosis	atherosclerosis	circulatory system
+HP_0001678	Atrioventricular block	atrioventricular block	True	426.2	Atrioventricular [AV] block	atrioventricular av block	circulatory system
 HP_0001678	Atrioventricular block	atrioventricular block	True	426.24	Atrioventricular block, complete	atrioventricular block complete	circulatory system
 HP_0001681	Angina pectoris	angina pectoris	True	411.3	Angina pectoris	angina pectoris	circulatory system
 HP_0001701	Pericarditis	pericarditis	True	420.2	Pericarditis	pericarditis	circulatory system
 HP_0001735	Acute pancreatitis	acute pancreatitis	True	577.1	Acute pancreatitis	acute pancreatitis	digestive
+HP_0001735	Pancreatitis, acute	pancreatitis acute	False	577.1	Acute pancreatitis	acute pancreatitis	digestive
 HP_0001763	Flat foot	flat foot	False	735.1	Flat foot	flat foot	musculoskeletal
 HP_0001997	Gout	gout	True	274.1	Gout	gout	endocrine/metabolic
 HP_0001873	Thrombocytopenia	thrombocytopenia	True	287.3	Thrombocytopenia	thrombocytopenia	hematopoietic
@@ -142,6 +155,7 @@ HP_0001875	Neutropenia	neutropenia	True	288.11	Neutropenia	neutropenia	hematopoi
 HP_0001876	Pancytopenia	pancytopenia	True	284.1	Pancytopenia	pancytopenia	hematopoietic
 HP_0001877	Abnormality of red blood cells	abnormality of red blood cells	False	289.9	Abnormality of red blood cells	abnormality of red blood cells	hematopoietic
 HP_0001880	Eosinophilia	eosinophilia	True	288.3	Eosinophilia	eosinophilia	hematopoietic
+HP_0001974	Elevated white blood count	elevated white blood count	False	288.2	Elevated white blood cell count	elevated white blood cell count	hematopoietic
 HP_0002754	Osteomyelitis	osteomyelitis	True	710.1	Osteomyelitis	osteomyelitis	musculoskeletal
 HP_0002754	Osteomyelitis	osteomyelitis	True	710.11	Acute osteomyelitis	acute osteomyelitis	musculoskeletal
 HP_0002754	Osteomyelitis	osteomyelitis	True	710.19	Unspecified osteomyelitis	osteomyelitis	musculoskeletal
@@ -191,11 +205,16 @@ HP_0003077	Hyperlipidemia	hyperlipidemia	True	272.1	Hyperlipidemia	hyperlipidemi
 HP_0003077	Hyperlipidemia	hyperlipidemia	True	272.13	Mixed hyperlipidemia	mixed hyperlipidemia	endocrine/metabolic
 HP_0002901	Hypocalcemia	hypocalcemia	True	275.51	Hypocalcemia	hypocalcemia	endocrine/metabolic
 HP_0002232	Alopecia areata	alopecia areata	False	704.11	Alopecia Areata	alopecia areata	dermatologic
+HP_0002239	Gastrointestinal hemorrhage	gastrointestinal hemorrhage	True	531.1	Hemorrhage from gastrointestinal ulcer	hemorrhage from gastrointestinal ulcer	digestive
 HP_0002239	Gastrointestinal hemorrhage	gastrointestinal hemorrhage	True	578	Gastrointestinal hemorrhage	gastrointestinal hemorrhage	digestive
+HP_0002239	Gastrointestinal hemorrhage	gastrointestinal hemorrhage	True	578.9	Hemorrhage of gastrointestinal tract	hemorrhage of gastrointestinal tract	digestive
+HP_0002239	Gastrointestinal haemorrhage	gastrointestinal hemorrhage	False	531.1	Hemorrhage from gastrointestinal ulcer	hemorrhage from gastrointestinal ulcer	digestive
 HP_0002239	Gastrointestinal haemorrhage	gastrointestinal hemorrhage	False	578	Gastrointestinal hemorrhage	gastrointestinal hemorrhage	digestive
+HP_0002239	Gastrointestinal haemorrhage	gastrointestinal hemorrhage	False	578.9	Hemorrhage of gastrointestinal tract	hemorrhage of gastrointestinal tract	digestive
 HP_0002248	Hematemesis	hematemesis	True	578.1	Hematemesis	hematemesis	digestive
 HP_0002301	Hemiplegia	hemiplegia	True	342	Hemiplegia	hemiplegia	neurological
 HP_0002354	Memory loss	memory loss	False	292.3	Memory loss	memory loss	mental disorders
+HP_0002355	Difficulty walking	difficulty walking	True	741.3	Difficulty in walking	difficulty in walking	musculoskeletal
 HP_0002355	Difficulty in walking	difficulty in walking	False	741.3	Difficulty in walking	difficulty in walking	musculoskeletal
 HP_0002381	Aphasia	aphasia	True	292.11	Aphasia	aphasia	mental disorders
 HP_0006802	Anterior horn cell disease	anterior horn cell disease	False	334.2	Anterior horn cell disease	anterior horn cell disease	neurological
@@ -213,6 +232,7 @@ HP_0002613	Biliary cirrhosis	biliary cirrhosis	True	571.6	Primary biliary cirrho
 HP_0002619	Varicose veins	varicose veins	True	454	Varicose veins	varicose veins	circulatory system
 HP_0002625	Deep vein thrombosis	deep vein thrombosis	False	452.2	Deep vein thrombosis [DVT]	deep vein thrombosis dvt	circulatory system
 HP_0010674	Curvature of spine	curvature of spine	False	737	Curvature of spine	curvature of spine	musculoskeletal
+HP_0100242	Cancer of connective tissue	cancer of connective tissue	False	170	Cancer of bone and connective tissue	cancer of bone and connective tissue	neoplasms
 HP_0100242	Cancer of connective tissue	cancer of connective tissue	False	170.2	Cancer of connective tissue	cancer of connective tissue	neoplasms
 HP_0002671	Basal cell carcinoma	basal cell carcinoma	True	172.21	Basal cell carcinoma	basal cell carcinoma	neoplasms
 HP_0002725	Systemic lupus erythematosus	systemic lupus erythematosus	True	695.42	Systemic lupus erythematosus	systemic lupus erythematosus	dermatologic
@@ -221,9 +241,12 @@ HP_0002756	Pathologic fracture	pathologic fracture	True	743.22	Pathologic fractu
 HP_0006536	Airway obstruction	airway obstruction	True	496	Chronic airway obstruction	chronic airway obstruction	respiratory
 HP_0002791	Hypoventilation	hypoventilation	True	513.3	Hypoventilation	hypoventilation	respiratory
 HP_0003040	Arthropathy	arthropathy	True	716.9	Arthropathy NOS	arthropathy	musculoskeletal
+HP_0002829	Joint pain	joint pain	False	745	Pain in joint	pain in joint	musculoskeletal
+HP_0012062	Bone cyst	bone cyst	True	733.2	Cyst of bone	cyst of bone	musculoskeletal
 HP_0012387	Bronchitis	bronchitis	True	497	Bronchitis	bronchitis	respiratory
 HP_0002840	Lymphadenitis	lymphadenitis	True	289.4	Lymphadenitis	lymphadenitis	hematopoietic
 HP_0002860	Squamous cell carcinoma	squamous cell carcinoma	True	172.22	Squamous cell carcinoma	squamous cell carcinoma	neoplasms
+HP_0009725	Bladder cancer	bladder cancer	False	189.2	Cancer of bladder	cancer of bladder	neoplasms
 HP_0002870	Obstructive sleep apnea	obstructive sleep apnea	True	327.32	Obstructive sleep apnea	obstructive sleep apnea	neurological
 HP_0010535	Sleep apnea	sleep apnea	True	327.3	Sleep apnea	sleep apnea	neurological
 HP_0002878	Respiratory failure	respiratory failure	True	509.1	Respiratory failure	respiratory failure	respiratory
@@ -239,6 +262,8 @@ HP_0003124	Hypercholesterolemia	hypercholesterolemia	True	272.11	Hypercholestero
 HP_0003193	Allergic rhinitis	allergic rhinitis	True	476	Allergic rhinitis	allergic rhinitis	respiratory
 HP_0003198	Myopathy	myopathy	True	359.2	Myopathy	myopathy	neurological
 HP_0003201	Rhabdomyolysis	rhabdomyolysis	True	772.4	Rhabdomyolysis	rhabdomyolysis	symptoms
+HP_0003251	Male infertility	male infertility	True	609.1	Infertility, male	infertility male	genitourinary
+HP_0003394	Muscle spasm	muscle spasm	True	772.2	Spasm of muscle	spasm of muscle	symptoms
 HP_0003416	Spinal stenosis	spinal stenosis	False	720	Spinal stenosis	spinal stenosis	musculoskeletal
 HP_0003418	Back pain	back pain	True	760	Back pain	back pain	symptoms
 HP_0003565	Elevated sedimentation rate	elevated sedimentation rate	False	790.1	Elevated sedimentation rate	elevated sedimentation rate	symptoms
@@ -251,6 +276,7 @@ HP_0012622	Chronic kidney disease	chronic kidney disease	True	585.33	Chronic Kid
 HP_0012622	Chronic kidney disease	chronic kidney disease	True	585.34	Chronic Kidney Disease, Stage IV	chronic kidney disease stage iv	genitourinary
 HP_0004326	Cachexia	cachexia	True	260.1	Cachexia	cachexia	endocrine/metabolic
 HP_0004469	Chronic bronchitis	chronic bronchitis	True	496.2	Chronic bronchitis	chronic bronchitis	respiratory
+HP_0004610	Lumbar spinal stenosis	lumbar spinal stenosis	False	720.1	Spinal stenosis of lumbar region	spinal stenosis of lumbar region	musculoskeletal
 HP_0004749	Atrial flutter	atrial flutter	True	427.22	Atrial flutter	atrial flutter	circulatory system
 HP_0004751	Paroxysmal ventricular tachycardia	paroxysmal ventricular tachycardia	True	427.12	Paroxysmal ventricular tachycardia	paroxysmal ventricular tachycardia	circulatory system
 HP_0004756	Ventricular tachycardia	ventricular tachycardia	True	427.12	Paroxysmal ventricular tachycardia	paroxysmal ventricular tachycardia	circulatory system
@@ -258,6 +284,12 @@ HP_0005110	Atrial fibrillation	atrial fibrillation	True	427.21	Atrial fibrillati
 HP_0004755	Supraventricular tachycardia	supraventricular tachycardia	True	427.11	Paroxysmal supraventricular tachycardia	paroxysmal supraventricular tachycardia	circulatory system
 HP_0004763	Paroxysmal supraventricular tachycardia	paroxysmal supraventricular tachycardia	True	427.11	Paroxysmal supraventricular tachycardia	paroxysmal supraventricular tachycardia	circulatory system
 HP_0012115	Hepatitis	hepatitis	True	070.9	Hepatitis NOS	hepatitis	infectious diseases
+HP_0004791	Esophagus ulcer	esophagus ulcer	False	530.12	Ulcer of esophagus	ulcer of esophagus	digestive
+HP_0004791	Oesophagus ulcer	esophagus ulcer	False	530.12	Ulcer of esophagus	ulcer of esophagus	digestive
+HP_0004808	Acute myeloid leukemia	acute myeloid leukemia	True	204.21	Myeloid leukemia, acute	myeloid leukemia acute	neoplasms
+HP_0004808	Acute myeloid leukaemia	acute myeloid leukemia	False	204.21	Myeloid leukemia, acute	myeloid leukemia acute	neoplasms
+HP_0006721	Acute lymphoid leukaemia	acute lymphoid leukemia	False	204.11	Lymphoid leukemia, acute	lymphoid leukemia acute	neoplasms
+HP_0006721	Acute lymphoid leukemia	acute lymphoid leukemia	False	204.11	Lymphoid leukemia, acute	lymphoid leukemia acute	neoplasms
 HP_0012324	Myeloid leukemia	myeloid leukemia	True	204.2	Myeloid leukemia	myeloid leukemia	neoplasms
 HP_0012324	Myeloid leukemia	myeloid leukemia	True	204.21	Myeloid leukemia, acute	myeloid leukemia acute	neoplasms
 HP_0012324	Myeloid leukaemia	myeloid leukemia	False	204.2	Myeloid leukemia	myeloid leukemia	neoplasms
@@ -269,6 +301,8 @@ HP_0005294	Arterial dissection	arterial dissection	True	442.4	Arterial dissectio
 HP_0005112	Abdominal aortic aneurysm	abdominal aortic aneurysm	True	442.11	Abdominal aortic aneurysm	abdominal aortic aneurysm	circulatory system
 HP_0011713	Left bundle branch block	left bundle branch block	True	426.32	Left bundle branch block	left bundle branch block	circulatory system
 HP_0005261	Hemarthrosis	hemarthrosis	False	741.5	Hemarthrosis	hemarthrosis	musculoskeletal
+HP_0005506	Chronic myeloid leukaemia	chronic myeloid leukemia	False	204.22	Myeloid leukemia, chronic	myeloid leukemia chronic	neoplasms
+HP_0005506	Chronic myeloid leukemia	chronic myeloid leukemia	False	204.22	Myeloid leukemia, chronic	myeloid leukemia chronic	neoplasms
 HP_0031047	Paraproteinemia	paraproteinemia	True	270.32	Paraproteinemia	paraproteinemia	endocrine/metabolic
 HP_0005526	Lymphoid leukemia	lymphoid leukemia	True	204.1	Lymphoid leukemia	lymphoid leukemia	neoplasms
 HP_0005526	Lymphoid leukemia	lymphoid leukemia	True	204.11	Lymphoid leukemia, acute	lymphoid leukemia acute	neoplasms
@@ -278,6 +312,7 @@ HP_0005526	Lymphoid leukaemia	lymphoid leukemia	False	204.11	Lymphoid leukemia, 
 HP_0005526	Lymphoid leukaemia	lymphoid leukemia	False	204.12	Lymphoid leukemia, chronic	lymphoid leukemia chronic	neoplasms
 HP_0005575	Hemolytic-uremic syndrome	hemolytic-uremic syndrome	True	283.21	Hemolytic-uremic syndrome	hemolytic-uremic syndrome	hematopoietic
 HP_0005681	Juvenile rheumatoid arthritis	juvenile rheumatoid arthritis	True	714.2	Juvenile rheumatoid arthritis	juvenile rheumatoid arthritis	musculoskeletal
+HP_0005681	Rheumatoid arthritis, juvenile	rheumatoid arthritis juvenile	False	714.2	Juvenile rheumatoid arthritis	juvenile rheumatoid arthritis	musculoskeletal
 HP_0005943	Respiratory arrest	respiratory arrest	True	509.5	Respiratory arrest	respiratory arrest	respiratory
 HP_0005978	Type 2 diabetes	type 2 diabetes	False	250.2	Type 2 diabetes	type 2 diabetes	endocrine/metabolic
 HP_0005987	Multinodular goiter	multinodular goiter	True	241.2	Nontoxic multinodular goiter	nontoxic multinodular goiter	endocrine/metabolic
@@ -288,6 +323,7 @@ HP_0006280	Chronic pancreatitis	chronic pancreatitis	True	577.2	Chronic pancreat
 HP_0012089	Arteritis	arteritis	True	446.9	Arteritis NOS	arteritis	circulatory system
 HP_0006688	Paroxysmal tachycardia	paroxysmal tachycardia	True	427.1	Paroxysmal tachycardia, unspecified	paroxysmal tachycardia	circulatory system
 HP_0100584	Endocarditis	endocarditis	True	420.3	Endocarditis	endocarditis	circulatory system
+HP_0006699	Premature supraventricular beats	premature supraventricular beats	False	427.61	Supraventricular premature beats	supraventricular premature beats	circulatory system
 HP_0006775	Multiple myeloma	multiple myeloma	True	204.4	Multiple myeloma	multiple myeloma	neoplasms
 HP_0007018	Attention deficit hyperactivity disorder	attention deficit hyperactivity disorder	True	313.1	Attention deficit hyperactivity disorder	attention deficit hyperactivity disorder	mental disorders
 HP_0100786	Hypersomnia	hypersomnia	True	327.1	Hypersomnia	hypersomnia	neurological
@@ -299,12 +335,17 @@ HP_0012804	Corneal ulcer	corneal ulcer	False	370.1	Corneal ulcer	corneal ulcer	s
 HP_0007879	Allergic conjunctivitis	allergic conjunctivitis	True	371.21	Allergic conjunctivitis	allergic conjunctivitis	sense organs
 HP_0008028	Cystoid macular degeneration	cystoid macular degeneration	True	362.23	Cystoid macular degeneration of retina	cystoid macular degeneration of retina	sense organs
 HP_0008066	Blister	blister	False	911	Blister	blister	injuries & poisonings
+HP_0008222	Female infertility	female infertility	True	626.8	Infertility, female	infertility female	genitourinary
 HP_0008245	Secondary hypothyroidism	secondary hypothyroidism	False	244.1	Secondary hypothyroidism	secondary hypothyroidism	endocrine/metabolic
+HP_0008419	Intervertebral disc degeneration	intervertebral disk degeneration	True	722.6	Degeneration of intervertebral disc	degeneration of intervertebral disk	musculoskeletal
+HP_0009763	Limb pain	limb pain	True	773	Pain in limb	pain in limb	symptoms
 HP_0009797	Cholesteatoma	cholesteatoma	True	385.3	Cholesteatoma	cholesteatoma	sense organs
 HP_0009926	Epiphora	epiphora	True	375.2	Epiphora	epiphora	sense organs
+HP_0010619	Breast fibroadenosis	breast fibroadenosis	False	610.2	Fibroadenosis of breast	fibroadenosis of breast	genitourinary
 HP_0010619	Fibroadenosis of breast	fibroadenosis of breast	False	610.2	Fibroadenosis of breast	fibroadenosis of breast	genitourinary
 HP_0010750	Dermatochalasis	dermatochalasis	True	374.6	Dermatochalasis	dermatochalasis	sense organs
 HP_0010769	Pilonidal cyst	pilonidal cyst	False	686.3	Pilonidal cyst	pilonidal cyst	dermatologic
+HP_0010885	Aseptic bone necrosis	aseptic bone necrosis	False	733.4	Aseptic necrosis of bone	aseptic necrosis of bone	musculoskeletal
 HP_0010886	Osteochondritis dissecans	osteochondritis dissecans	True	732.7	Osteochondritis dissecans	osteochondritis dissecans	musculoskeletal
 HP_0011106	Hypovolemia	hypovolemia	True	276.5	Hypovolemia	hypovolemia	endocrine/metabolic
 HP_0011109	Chronic sinusitis	chronic sinusitis	True	475	Chronic sinusitis	chronic sinusitis	respiratory
@@ -316,6 +357,8 @@ HP_0011868	Sciatica	sciatica	True	764	Sciatica	sciatica	symptoms
 HP_0011974	Myelofibrosis	myelofibrosis	True	289.1	Myelofibrosis	myelofibrosis	hematopoietic
 HP_0012075	Personality disorder	personality disorder	True	301.1	Schizoid personality disorder	schizoid personality disorder	mental disorders
 HP_0012108	Open angle glaucoma	open angle glaucoma	True	365.11	Primary open angle glaucoma	primary open angle glaucoma	sense organs
+HP_0012125	Prostate cancer	prostate cancer	True	185	Cancer of prostate	cancer of prostate	neoplasms
+HP_0012126	Stomach cancer	stomach cancer	True	151	Cancer of stomach	cancer of stomach	neoplasms
 HP_0012188	Hyperemesis gravidarum	hyperemesis gravidarum	True	643.1	Hyperemesis gravidarum	hyperemesis gravidarum	pregnancy complications
 HP_0012219	Erythema nodosum	erythema nodosum	True	695.81	Erythema nodosum	erythema nodosum	dermatologic
 HP_0012238	Hyperchylomicronemia	hyperchylomicronemia	False	272.14	Hyperchylomicronemia	hyperchylomicronemia	endocrine/metabolic
@@ -351,6 +394,7 @@ HP_0031287	Seborrheic keratosis	seborrheic keratosis	True	702.2	Seborrheic kerat
 HP_0100785	Insomnia	insomnia	True	327.4	Insomnia	insomnia	neurological
 HP_0031456	Ectopic pregnancy	ectopic pregnancy	True	634.3	Ectopic pregnancy	ectopic pregnancy	pregnancy complications
 HP_0031589	Suicidal ideation	suicidal ideation	True	297.1	Suicidal ideation	suicidal ideation	mental disorders
+HP_0031684	Renal artery atherosclerosis	renal artery atherosclerosis	True	440.1	Atherosclerosis of renal artery	atherosclerosis of renal artery	circulatory system
 HP_0031775	Paralytic strabismus	paralytic strabismus	False	378.5	Paralytic strabismus	paralytic strabismus	sense organs
 HP_0031864	Bacteremia	bacteremia	True	038.3	Bacteremia	bacteremia	infectious diseases
 HP_0032141	Precordial pain	precordial pain	True	418.1	Precordial pain	precordial pain	circulatory system
@@ -361,11 +405,13 @@ HP_0032551	Hemorrhoids	hemorrhoids	True	455	Hemorrhoids	hemorrhoids	circulatory 
 HP_0032551	Haemorrhoids	hemorrhoids	False	455	Hemorrhoids	hemorrhoids	circulatory system
 HP_0033050	Throat pain	throat pain	False	478	Throat pain	throat pain	respiratory
 HP_0033117	Duodenitis	duodenitis	True	535.6	Duodenitis	duodenitis	digestive
+HP_0041055	Humerus fracture	humerus fracture	False	803.1	Fracture of humerus	fracture of humerus	injuries & poisonings
 HP_0033589	Flatulence	flatulence	True	561.2	Flatulence	flatulence	digestive
 HP_0033808	Spermatocele	spermatocele	True	603.2	Spermatocele	spermatocele	genitourinary
 HP_0033840	Postmenopausal bleeding	postmenopausal bleeding	True	627.1	Postmenopausal bleeding	postmenopausal bleeding	genitourinary
 HP_0040165	Periostitis	periostitis	True	710.2	Periostitis	periostitis	musculoskeletal
 HP_0100806	Sepsis	sepsis	True	994.2	Sepsis	sepsis	injuries & poisonings
+HP_0041081	Lower limb fracture	lower limb fracture	False	800	Fracture of lower limb	fracture of lower limb	injuries & poisonings
 HP_0100537	Fasciitis	fasciitis	True	728.7	Fasciitis	fasciitis	musculoskeletal
 HP_0100279	Ulcerative colitis	ulcerative colitis	True	555.2	Ulcerative colitis	ulcerative colitis	digestive
 HP_0100279	Ulcerative colitis	ulcerative colitis	True	555.21	Ulcerative colitis (chronic)	ulcerative colitis chronic	digestive
@@ -391,3 +437,4 @@ HP_0200123	Chronic hepatitis	chronic hepatitis	True	070.4	Chronic hepatitis	chro
 HP_0410017	Otitis externa	otitis externa	True	380.1	Otitis externa	otitis externa	sense organs
 HP_0410151	Eosinophilic esophagitis	eosinophilic esophagitis	False	530.15	Eosinophilic esophagitis	eosinophilic esophagitis	digestive
 HP_0500049	Retinopathy of prematurity	retinopathy of prematurity	True	362.1	Retinopathy of prematurity	retinopathy of prematurity	sense organs
+HP_4000067	Iliac artery aneurysm	iliac artery aneurysm	True	442.2	Aneurysm of iliac artery	aneurysm of iliac artery	circulatory system

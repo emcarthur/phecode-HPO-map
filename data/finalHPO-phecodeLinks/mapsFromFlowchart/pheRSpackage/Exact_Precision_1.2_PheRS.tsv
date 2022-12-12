@@ -18,6 +18,7 @@ HP:0033343	Mucoid diarrhea	561.1	Diarrhea
 HP:0100279	Ulcerative colitis	564	Functional digestive disorders
 HP:0002251	Aganglionic megacolon	564	Functional digestive disorders
 HP:0011029	Internal hemorrhage	459.1	Hemorrhage NOS
+HP:0002239	Gastrointestinal hemorrhage	531.1	Hemorrhage from gastrointestinal ulcer
 HP:0002239	Gastrointestinal hemorrhage	556.11	Angiodysplasia of intestine (without mention of hemorrhage)
 HP:0002249	Melena	578	Gastrointestinal hemorrhage
 HP:0002573	Hematochezia	578	Gastrointestinal hemorrhage
@@ -605,8 +606,11 @@ HP:0002072	Chorea	041.21	Rheumatic fever / chorea
 HP:0012452	Restless legs	333	Extrapyramidal disease and abnormal movement disorders
 HP:0001332	Dystonia	333	Extrapyramidal disease and abnormal movement disorders
 HP:0100022	Abnormality of movement	350	Abnormal movement
+HP:0000496	Abnormality of eye movement	350	Abnormal movement
+HP:0031785	Abnormal eyelid movement	350	Abnormal movement
 HP:0000829	Hypoparathyroidism	350.1	Abnormal involuntary movements
 HP:0004305	Involuntary movements	350.1	Abnormal involuntary movements
+HP:0012547	Abnormal involuntary eye movements	350.1	Abnormal involuntary movements
 HP:0002072	Chorea	646	Other complications of pregnancy NEC
 HP:0005575	Hemolytic-uremic syndrome	283.21	Hemolytic-uremic syndrome
 HP:0005575	Hemolytic-uremic syndrome	580.3	Nephritis and nephropathy without mention of glomerulonephritis
@@ -636,6 +640,7 @@ HP:0200043	Verrucae	078	Viral warts & HPV
 HP:0008069	Neoplasm of the skin	172.2	Other non-epithelial cancer of skin
 HP:0030438	Anal canal squamous cell carcinoma	172.22	Squamous cell carcinoma
 HP:0012142	Pancreatic squamous cell carcinoma	172.22	Squamous cell carcinoma
+HP:0030359	Squamous cell lung carcinoma	172.22	Squamous cell carcinoma
 HP:0002860	Squamous cell carcinoma	172.22	Squamous cell carcinoma
 HP:0006739	Squamous cell carcinoma of the skin	172.22	Squamous cell carcinoma
 HP:0008069	Neoplasm of the skin	172.22	Squamous cell carcinoma
@@ -746,6 +751,7 @@ HP:0410137	Solar urticaria	947	Urticaria
 HP:0410138	Vibratory urticaria	947	Urticaria
 HP:0009830	Peripheral neuropathy	250.6	Polyneuropathy in diabetes
 HP:0000508	Ptosis	337	Disorders of the autonomic nervous system
+HP:0009830	Peripheral neuropathy	337.1	Peripheral autonomic neuropathy
 HP:0000508	Ptosis	337.1	Peripheral autonomic neuropathy
 HP:0033345	Neuralgia	352	Disorders of other cranial nerves
 HP:0100661	Trigeminal neuralgia	352.1	Trigeminal nerve disorders [CN5]
@@ -1031,6 +1037,17 @@ HP:0012887	Ovarian serous cystadenoma	628	Ovarian cyst
 HP:0030425	Calcified ovarian cyst	628	Ovarian cyst
 HP:0004395	Malnutrition	261	Vitamin deficiency
 HP:0004905	Low levels of vitamin A	261	Vitamin deficiency
+HP:0008326	Reduced circulating vitamin B6 level	261	Vitamin deficiency
+HP:0100497	Vitamin B3 deficiency	261	Vitamin deficiency
+HP:0100502	Vitamin B12 deficiency	261	Vitamin deficiency
+HP:0100503	Low levels of vitamin B1	261	Vitamin deficiency
+HP:0100504	Low levels of vitamin B2	261	Vitamin deficiency
+HP:0100505	Low levels of vitamin B5	261	Vitamin deficiency
+HP:0100506	Low levels of vitamin B8	261	Vitamin deficiency
+HP:0100507	Reduced blood folate concentration	261	Vitamin deficiency
+HP:0100510	Low levels of vitamin C	261	Vitamin deficiency
+HP:0100512	Low levels of vitamin D	261	Vitamin deficiency
+HP:0100513	Low levels of vitamin E	261	Vitamin deficiency
 HP:0005508	Monoclonal immunoglobulin M proteinemia	270.32	Paraproteinemia
 HP:0020194	IgA heavy chain paraproteinemia	270.32	Paraproteinemia
 HP:0020195	IgG heavy chain paraproteinemia	270.32	Paraproteinemia
@@ -1583,6 +1600,7 @@ HP:0030406	Primary peritoneal carcinoma	159.4	Malignant neoplasm of retroperiton
 HP:0100001	Malignant mesothelioma	159.4	Malignant neoplasm of retroperitoneum and peritoneum
 HP:0002666	Pheochromocytoma	164	Cancer of intrathoracic organs
 HP:0100526	Neoplasm of the lung	165.1	Cancer of bronchus; lung
+HP:0100242	Sarcoma	170	Cancer of bone and connective tissue
 HP:0100246	Osteoma	170	Cancer of bone and connective tissue
 HP:0002669	Osteosarcoma	170.1	Bone cancer
 HP:0006765	Chondrosarcoma	170.1	Bone cancer
@@ -2158,6 +2176,7 @@ HP:0011405	Childhood onset short-limb short stature	264.1	Short stature
 HP:0011406	Infancy onset short-trunk short stature	264.1	Short stature
 HP:0012106	Rhizomelic leg shortening	264.1	Short stature
 HP:0001263	Global developmental delay	264.3	Delayed milestones
+HP:0001270	Motor delay	264.3	Delayed milestones
 HP:0011342	Mild global developmental delay	264.3	Delayed milestones
 HP:0011343	Moderate global developmental delay	264.3	Delayed milestones
 HP:0011344	Severe global developmental delay	264.3	Delayed milestones
@@ -3275,6 +3294,7 @@ HP:0009805	Low-output congestive heart failure	428.1	Congestive heart failure (C
 HP:0001635	Congestive heart failure	428.2	Heart failure NOS
 HP:0001722	High-output congestive heart failure	428.2	Heart failure NOS
 HP:0009805	Low-output congestive heart failure	428.2	Heart failure NOS
+HP:0007201	Cerebral artery atherosclerosis	433.12	Cerebral atherosclerosis
 HP:0012397	Aortic atherosclerotic lesion	440.9	Atherosclerosis of aorta
 HP:0004950	Peripheral arterial stenosis	440.9	Atherosclerosis of aorta
 HP:0005315	obsolete Peripheral artery occlusive disease	440.9	Atherosclerosis of aorta
@@ -3314,6 +3334,7 @@ HP:0005315	obsolete Peripheral artery occlusive disease	443.7	Peripheral angiopa
 HP:0004945	Extracranial internal carotid artery dissection	442.4	Arterial dissection
 HP:0005294	Arterial dissection	442.4	Arterial dissection
 HP:0012158	Carotid artery dissection	442.4	Arterial dissection
+HP:4000067	Iliac artery aneurysm	442.2	Aneurysm of iliac artery
 HP:0030880	Raynaud phenomenon	443.1	Raynaud's syndrome
 HP:0030880	Raynaud phenomenon	856	Vascular complications of surgery and medical procedures
 HP:0008064	Ichthyosis	691.1	Ichthyosis congenita
@@ -3403,6 +3424,7 @@ HP:0003416	Spinal canal stenosis	720	Spinal stenosis
 HP:0004610	Lumbar spinal canal stenosis	720	Spinal stenosis
 HP:0005733	Spinal stenosis with reduced interpedicular distance	720	Spinal stenosis
 HP:0008445	Cervical spinal canal stenosis	720	Spinal stenosis
+HP:0004610	Lumbar spinal canal stenosis	720.1	Spinal stenosis of lumbar region
 HP:0003302	Spondylolisthesis	738.4	Acquired spondylolisthesis
 HP:0008419	Intervertebral disc degeneration	722.6	Degeneration of intervertebral disc
 HP:0030041	Schmorl's node	722.3	Schmorl's nodes

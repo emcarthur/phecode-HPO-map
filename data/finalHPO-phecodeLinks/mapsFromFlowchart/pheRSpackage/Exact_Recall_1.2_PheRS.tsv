@@ -45,6 +45,7 @@ HP:0005521	Disseminated intravascular coagulation	286	Coagulation defects
 HP:0025343	Lupus anticoagulant	286	Coagulation defects
 HP:0001892	Abnormal bleeding	287	Purpura and other hemorrhagic conditions
 HP:0031041	Obstruction of the superior vena cava	459	Other disorders of circulatory system
+HP:0002239	Gastrointestinal hemorrhage	531.1	Hemorrhage from gastrointestinal ulcer
 HP:0002249	Melena	556.11	Angiodysplasia of intestine (without mention of hemorrhage)
 HP:0002573	Hematochezia	556.11	Angiodysplasia of intestine (without mention of hemorrhage)
 HP:0002239	Gastrointestinal hemorrhage	556.11	Angiodysplasia of intestine (without mention of hemorrhage)
@@ -1650,6 +1651,7 @@ HP:0031943	Akathisia	350	Abnormal movement
 HP:0100022	Abnormality of movement	350	Abnormal movement
 HP:0001251	Ataxia	350	Abnormal movement
 HP:0001257	Spasticity	350	Abnormal movement
+HP:0000496	Abnormality of eye movement	350	Abnormal movement
 HP:0000211	Trismus	350	Abnormal movement
 HP:0000458	Anosmia	350	Abnormal movement
 HP:0001252	Hypotonia	350	Abnormal movement
@@ -1659,6 +1661,7 @@ HP:0002457	Abnormal head movements	350	Abnormal movement
 HP:0003394	Muscle spasm	350	Abnormal movement
 HP:0012164	Asterixis	350	Abnormal movement
 HP:0031249	Parageusia	350	Abnormal movement
+HP:0031785	Abnormal eyelid movement	350	Abnormal movement
 HP:0031826	Abnormal reflex	350	Abnormal movement
 HP:0031868	Optic ataxia	350	Abnormal movement
 HP:0034004	Parosmia	350	Abnormal movement
@@ -1672,6 +1675,7 @@ HP:0001281	Tetany	350.1	Abnormal involuntary movements
 HP:0002457	Abnormal head movements	350.1	Abnormal involuntary movements
 HP:0003394	Muscle spasm	350.1	Abnormal involuntary movements
 HP:0004305	Involuntary movements	350.1	Abnormal involuntary movements
+HP:0012547	Abnormal involuntary eye movements	350.1	Abnormal involuntary movements
 HP:0005575	Hemolytic-uremic syndrome	283	Acquired hemolytic anemias
 HP:0001878	Hemolytic anemia	283	Acquired hemolytic anemias
 HP:0005575	Hemolytic-uremic syndrome	283.2	Non-autoimmune hemolytic anemias
@@ -1714,6 +1718,7 @@ HP:0550004	Verruca plana	078	Viral warts & HPV
 HP:0002861	Melanoma	172	Skin cancer
 HP:0030438	Anal canal squamous cell carcinoma	172.22	Squamous cell carcinoma
 HP:0012142	Pancreatic squamous cell carcinoma	172.22	Squamous cell carcinoma
+HP:0030359	Squamous cell lung carcinoma	172.22	Squamous cell carcinoma
 HP:0002860	Squamous cell carcinoma	172.22	Squamous cell carcinoma
 HP:0006739	Squamous cell carcinoma of the skin	172.22	Squamous cell carcinoma
 HP:0012182	Oropharyngeal squamous cell carcinoma	172.22	Squamous cell carcinoma
@@ -2447,8 +2452,14 @@ HP:0004905	Low levels of vitamin A	261	Vitamin deficiency
 HP:0008326	Reduced circulating vitamin B6 level	261	Vitamin deficiency
 HP:0033987	Phosphaturic mesenchymal tumor	261	Vitamin deficiency
 HP:0100036	Pseudo-fractures	261	Vitamin deficiency
+HP:0100497	Vitamin B3 deficiency	261	Vitamin deficiency
+HP:0100502	Vitamin B12 deficiency	261	Vitamin deficiency
+HP:0100503	Low levels of vitamin B1	261	Vitamin deficiency
 HP:0100504	Low levels of vitamin B2	261	Vitamin deficiency
+HP:0100505	Low levels of vitamin B5	261	Vitamin deficiency
+HP:0100506	Low levels of vitamin B8	261	Vitamin deficiency
 HP:0100507	Reduced blood folate concentration	261	Vitamin deficiency
+HP:0100510	Low levels of vitamin C	261	Vitamin deficiency
 HP:0100512	Low levels of vitamin D	261	Vitamin deficiency
 HP:0100513	Low levels of vitamin E	261	Vitamin deficiency
 HP:0008326	Reduced circulating vitamin B6 level	261.2	Vitamin B-complex deficiencies
@@ -2750,7 +2761,6 @@ HP:0030310	Upper extremity joint dislocation	830	Dislocation
 HP:0030311	Lower extremity joint dislocation	830	Dislocation
 HP:0031610	Recurrent shoulder dislocation	830	Dislocation
 HP:0031869	Recurrent joint dislocation	830	Dislocation
-HP:0003048	Radial head subluxation	830	Dislocation
 HP:0032191	Torn meniscus	830	Dislocation
 HP:0032201	Rotator cuff tear	840	Sprains and strains
 HP:0032191	Torn meniscus	840	Sprains and strains
@@ -3589,6 +3599,7 @@ HP:0012720	Neoplasm of the nose	165.1	Cancer of bronchus; lung
 HP:0011847	Giant cell tumor of bone	170	Cancer of bone and connective tissue
 HP:0030432	Chondroblastoma	170	Cancer of bone and connective tissue
 HP:0030433	Osteoid osteoma	170	Cancer of bone and connective tissue
+HP:0100242	Sarcoma	170	Cancer of bone and connective tissue
 HP:0100246	Osteoma	170	Cancer of bone and connective tissue
 HP:0100723	Gastrointestinal stroma tumor	170	Cancer of bone and connective tissue
 HP:0002669	Osteosarcoma	170.1	Bone cancer
@@ -4596,7 +4607,6 @@ HP:0005301	Persistent left superior vena cava	747	Cardiac and circulatory congen
 HP:0010772	Anomalous pulmonary venous return	747	Cardiac and circulatory congenital anomalies
 HP:0010774	Cor triatriatum	747	Cardiac and circulatory congenital anomalies
 HP:0010775	Vascular ring	747	Cardiac and circulatory congenital anomalies
-HP:0010954	Hypoplastic right heart	747	Cardiac and circulatory congenital anomalies
 HP:0011553	Discordant atrioventricular connection	747	Cardiac and circulatory congenital anomalies
 HP:0011581	Double outlet left ventricle	747	Cardiac and circulatory congenital anomalies
 HP:0011590	Double aortic arch	747	Cardiac and circulatory congenital anomalies
@@ -4633,7 +4643,6 @@ HP:0005301	Persistent left superior vena cava	747.1	Cardiac congenital anomalies
 HP:0010772	Anomalous pulmonary venous return	747.1	Cardiac congenital anomalies
 HP:0010774	Cor triatriatum	747.1	Cardiac congenital anomalies
 HP:0010775	Vascular ring	747.1	Cardiac congenital anomalies
-HP:0010954	Hypoplastic right heart	747.1	Cardiac congenital anomalies
 HP:0011553	Discordant atrioventricular connection	747.1	Cardiac congenital anomalies
 HP:0011581	Double outlet left ventricle	747.1	Cardiac congenital anomalies
 HP:0011590	Double aortic arch	747.1	Cardiac congenital anomalies
@@ -4708,6 +4717,7 @@ HP:0000597	Ophthalmoparesis	378	Strabismus and other disorders of binocular eye 
 HP:0010553	Oculogyric crisis	378	Strabismus and other disorders of binocular eye movements
 HP:0031622	Brown anomaly	378	Strabismus and other disorders of binocular eye movements
 HP:0000639	Nystagmus	378	Strabismus and other disorders of binocular eye movements
+HP:0010543	Opsoclonus	378	Strabismus and other disorders of binocular eye movements
 HP:0006897	Abducens palsy	378	Strabismus and other disorders of binocular eye movements
 HP:0007011	Fourth cranial nerve palsy	378	Strabismus and other disorders of binocular eye movements
 HP:0000486	Strabismus	378	Strabismus and other disorders of binocular eye movements
@@ -4774,7 +4784,6 @@ HP:0500078	Alternating hypotropia	378	Strabismus and other disorders of binocula
 HP:0500079	Alternating hypophoria	378	Strabismus and other disorders of binocular eye movements
 HP:0000511	Vertical supranuclear gaze palsy	378	Strabismus and other disorders of binocular eye movements
 HP:0000619	Impaired convergence	378	Strabismus and other disorders of binocular eye movements
-HP:0010543	Opsoclonus	378	Strabismus and other disorders of binocular eye movements
 HP:0025592	Superior oblique muscle weakness	378	Strabismus and other disorders of binocular eye movements
 HP:0000597	Ophthalmoparesis	378.5	Paralytic strabismus
 HP:0006897	Abducens palsy	378.5	Paralytic strabismus
@@ -5022,6 +5031,7 @@ HP:0011406	Infancy onset short-trunk short stature	264.1	Short stature
 HP:0012106	Rhizomelic leg shortening	264.1	Short stature
 HP:0001510	Growth delay	264.3	Delayed milestones
 HP:0001263	Global developmental delay	264.3	Delayed milestones
+HP:0001270	Motor delay	264.3	Delayed milestones
 HP:0011342	Mild global developmental delay	264.3	Delayed milestones
 HP:0011343	Moderate global developmental delay	264.3	Delayed milestones
 HP:0011344	Severe global developmental delay	264.3	Delayed milestones
@@ -5282,6 +5292,7 @@ HP:0001263	Global developmental delay	306	Other mental disorder
 HP:0000708	Behavioral abnormality	306	Other mental disorder
 HP:0012228	Tension-type headache	306	Other mental disorder
 HP:0001263	Global developmental delay	315	Develomental delays and disorders
+HP:0001270	Motor delay	315	Develomental delays and disorders
 HP:0001249	Intellectual disability	315	Develomental delays and disorders
 HP:0000708	Behavioral abnormality	315	Develomental delays and disorders
 HP:0002381	Aphasia	315	Develomental delays and disorders
@@ -5289,7 +5300,6 @@ HP:0010524	Agnosia	315	Develomental delays and disorders
 HP:0033667	Diminished mental health	315	Develomental delays and disorders
 HP:0012167	Hair-pulling	315	Develomental delays and disorders
 HP:0007281	Developmental stagnation	315	Develomental delays and disorders
-HP:0001270	Motor delay	315	Develomental delays and disorders
 HP:0001328	Specific learning disability	315	Develomental delays and disorders
 HP:0002463	Language impairment	315	Develomental delays and disorders
 HP:0031469	Low self esteem	315	Develomental delays and disorders
@@ -5299,6 +5309,7 @@ HP:0010524	Agnosia	315.2	Speech and language disorder
 HP:0001328	Specific learning disability	315.2	Speech and language disorder
 HP:0002463	Language impairment	315.2	Speech and language disorder
 HP:0001263	Global developmental delay	315.3	Mental retardation
+HP:0001270	Motor delay	315.3	Mental retardation
 HP:0001249	Intellectual disability	315.3	Mental retardation
 HP:0001256	Intellectual disability, mild	315.3	Mental retardation
 HP:0002187	Intellectual disability, profound	315.3	Mental retardation
@@ -5308,7 +5319,6 @@ HP:0006889	Intellectual disability, borderline	315.3	Mental retardation
 HP:0010864	Intellectual disability, severe	315.3	Mental retardation
 HP:0000708	Behavioral abnormality	315.3	Mental retardation
 HP:0033667	Diminished mental health	315.3	Mental retardation
-HP:0001270	Motor delay	315.3	Mental retardation
 HP:0003614	Trimethylaminuria	271.9	Other disorders of carbohydrate transport and metabolism
 HP:0003159	Hyperoxaluria	271.9	Other disorders of carbohydrate transport and metabolism
 HP:0001878	Hemolytic anemia	282	Hereditary hemolytic anemias
@@ -7151,6 +7161,7 @@ HP:0001722	High-output congestive heart failure	428.2	Heart failure NOS
 HP:0005162	Abnormal left ventricular function	428.2	Heart failure NOS
 HP:0009805	Low-output congestive heart failure	428.2	Heart failure NOS
 HP:0012763	Paroxysmal dyspnea	428.2	Heart failure NOS
+HP:0007201	Cerebral artery atherosclerosis	433.12	Cerebral atherosclerosis
 HP:0012397	Aortic atherosclerotic lesion	440.9	Atherosclerosis of aorta
 HP:0001648	Cor pulmonale	415.1	Acute pulmonary heart disease
 HP:0002204	Pulmonary embolism	415.1	Acute pulmonary heart disease
@@ -7201,6 +7212,7 @@ HP:0005294	Arterial dissection	442.4	Arterial dissection
 HP:0012158	Carotid artery dissection	442.4	Arterial dissection
 HP:0012158	Carotid artery dissection	442.8	Aneurysm of other specified artery
 HP:0033261	Renal artery aneurysm	442.8	Aneurysm of other specified artery
+HP:4000067	Iliac artery aneurysm	442.2	Aneurysm of iliac artery
 HP:0030880	Raynaud phenomenon	443.1	Raynaud's syndrome
 HP:0008064	Ichthyosis	691.1	Ichthyosis congenita
 HP:0002625	Deep venous thrombosis	451.2	Phlebitis and thrombophlebitis of lower extremities
@@ -7350,6 +7362,7 @@ HP:0003416	Spinal canal stenosis	720	Spinal stenosis
 HP:0004610	Lumbar spinal canal stenosis	720	Spinal stenosis
 HP:0005733	Spinal stenosis with reduced interpedicular distance	720	Spinal stenosis
 HP:0008445	Cervical spinal canal stenosis	720	Spinal stenosis
+HP:0004610	Lumbar spinal canal stenosis	720.1	Spinal stenosis of lumbar region
 HP:0003304	Spondylolysis	738.4	Acquired spondylolisthesis
 HP:0003302	Spondylolisthesis	738.4	Acquired spondylolisthesis
 HP:0008489	Spondylolisthesis at L5-S1	738.4	Acquired spondylolisthesis

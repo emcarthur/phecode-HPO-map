@@ -18,6 +18,7 @@ phecode1.2_code	phecode1.2_label	phecode1.2_category	hpo_code	hpo_label	hpo_chil
 564	Functional digestive disorders	digestive	HP_0100279	Ulcerative colitis	False													14.21646512638318									True
 564	Functional digestive disorders	digestive	HP_0002251	Aganglionic megacolon	False											100.0	100.0	39.96020474218589		True	True	True	True	True		True	True
 459.1	Hemorrhage NOS	circulatory system	HP_0011029	Internal hemorrhage	False													18.89331949427561									True
+531.1	Hemorrhage from gastrointestinal ulcer	digestive	HP_0002239	Gastrointestinal hemorrhage	False		True								89.29										True	True	True
 556.11	Angiodysplasia of intestine (without mention of hemorrhage)	digestive	HP_0002239	Gastrointestinal hemorrhage	False													54.75586432005685							True	True	True
 578	Gastrointestinal hemorrhage	digestive	HP_0002249	Melena	True	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
 578	Gastrointestinal hemorrhage	digestive	HP_0002573	Hematochezia	True	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
@@ -27,7 +28,7 @@ phecode1.2_code	phecode1.2_label	phecode1.2_category	hpo_code	hpo_label	hpo_chil
 578	Gastrointestinal hemorrhage	digestive	HP_0012849	Small intestinal bleeding	True	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
 578	Gastrointestinal hemorrhage	digestive	HP_0032144	Coffee ground vomitus	True	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
 578.2	Blood in stool	digestive	HP_0012390	Anal fissure	False													15.520690617472825									True
-578.9	Hemorrhage of gastrointestinal tract	digestive	HP_0002239	Gastrointestinal hemorrhage	False							True	True	True	89.29	89.29	100.0	54.75586432005685	True	True	True	True	True	True	True	True	True
+578.9	Hemorrhage of gastrointestinal tract	digestive	HP_0002239	Gastrointestinal hemorrhage	False		True			True		True	True	True	89.29	89.29	100.0	54.75586432005685	True	True	True	True	True	True	True	True	True
 656	Other perinatal conditions of fetus or newborn	pregnancy complications	HP_0006970	Periventricular leukomalacia	False				True	True	True					100.0		14.54927310335569	True	True	True	True	True	True		True	True
 656.4	Hemorrhage of fetus or newborn	pregnancy complications	HP_0030746	Intraventricular hemorrhage	False					True						90.0		50.06051345926194					True	True	True	True	True
 782.6	Pallor and flushing	symptoms	HP_0025085	Bloody diarrhea	False													26.591769437983324									True
@@ -139,7 +140,7 @@ phecode1.2_code	phecode1.2_label	phecode1.2_category	hpo_code	hpo_label	hpo_chil
 530.1	Esophagitis, GERD and related diseases	digestive	HP_0100633	Esophagitis	False				True	True	True	True	True	True		100.0	100.0	30.83386571862661	True	True	True	True	True	True		True	True
 530.11	GERD	digestive	HP_0002020	Gastroesophageal reflux	False	True	True	True					True		100.0		94.74	44.310417390150974	True	True	True	True	True	True	True	True	True
 530.11	GERD	digestive	HP_0100633	Esophagitis	False													30.83985277376575									True
-530.12	Ulcer of esophagus	digestive	HP_0004791	Esophageal ulceration	False										100.0	100.0	100.0		True	True	True	True			True	True	True
+530.12	Ulcer of esophagus	digestive	HP_0004791	Esophageal ulceration	False		True			True			True		100.0	100.0	100.0		True	True	True	True			True	True	True
 530.13	Barrett's esophagus	digestive	HP_0100580	Barrett esophagus	False	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	107.67508555579624	True	True	True	True	True	True	True	True	True
 530.13	Barrett's esophagus	digestive	HP_0002020	Gastroesophageal reflux	False													24.620150596285946									True
 530.14	Reflux esophagitis	digestive	HP_0002020	Gastroesophageal reflux	False												83.08	44.3018152442815							True	True	True
@@ -287,7 +288,7 @@ phecode1.2_code	phecode1.2_label	phecode1.2_category	hpo_code	hpo_label	hpo_chil
 949	Allergies, other	injuries & poisonings	HP_0410338	Plant product allergy	True							True	True	True	100.0		100.0	21.740021590274768			True	True	True	True	True	True	True
 949	Allergies, other	injuries & poisonings	HP_0410339	Insect bite allergy	True							True	True	True	100.0		100.0	21.740021590274768			True	True	True	True	True	True	True
 949	Allergies, other	injuries & poisonings	HP_0500093	Food allergy	True							True	True	True	100.0		100.0	21.740021590274768			True	True	True	True	True	True	True
-949	Allergies, other	injuries & poisonings	HP_0500094	Latex allergy	True							True	True	True	100.0	100.0	100.0	21.740021590274768			True	True	True	True	True	True	True
+949	Allergies, other	injuries & poisonings	HP_0500094	Latex allergy	True					True		True	True	True	100.0	100.0	100.0	21.740021590274768			True	True	True	True	True	True	True
 979	Adverse drug events and drug allergies	injuries & poisonings	HP_0012393	Allergy	False													14.580162785575773									True
 979	Adverse drug events and drug allergies	injuries & poisonings	HP_0100845	Anaphylactic shock	False													19.71833537147881									True
 480	Pneumonia	respiratory	HP_0002090	Pneumonia	False	True	True	True							100.0			20.93455018117669		True	True	True	True	True	True	True	True
@@ -298,7 +299,7 @@ phecode1.2_code	phecode1.2_label	phecode1.2_category	hpo_code	hpo_label	hpo_chil
 480	Pneumonia	respiratory	HP_0011952	Acute aspiration pneumonia	True	True	True	True							100.0			20.93455018117669		True	True	True	True	True	True	True	True
 480	Pneumonia	respiratory	HP_0033214	Recurrent viral pneumonia	True	True	True	True							100.0	82.05	82.05	20.93455018117669		True	True	True	True	True	True	True	True
 323	Encephalitis	neurological	HP_0033509	EBV encephalitis	True			True				True	True	True	100.0		90.62				True	True	True	True	True	True	True
-323	Encephalitis	neurological	HP_0002383	Infectious encephalitis	True										100.0		90.62						True	True	True	True	True
+323	Encephalitis	neurological	HP_0002383	Infectious encephalitis	True								True		100.0		90.62						True	True	True	True	True
 323	Encephalitis	neurological	HP_0012302	Herpes simplex encephalitis	True							True	True	True	100.0		90.62				True	True	True	True	True	True	True
 323	Encephalitis	neurological	HP_0033993	Viral encephalitis	True							True	True	True	100.0		90.62				True	True	True	True	True	True	True
 656.6	Perinatal disorders of digestive system	pregnancy complications	HP_0033165	Necrotizing enterocolitis	False					True			True			80.95	80.95	70.50695155089745					True	True	True	True	True
@@ -408,118 +409,118 @@ phecode1.2_code	phecode1.2_label	phecode1.2_category	hpo_code	hpo_label	hpo_chil
 736.4	Genu valgum or varum (acquired)	musculoskeletal	HP_0002979	Bowing of the legs	False													113.72325640011644			True	True	True		True	True	True
 736.5	Acquired deformities of knee	musculoskeletal	HP_0002748	Rickets	False													34.20075012166476									True
 736.5	Acquired deformities of knee	musculoskeletal	HP_0002979	Bowing of the legs	False													113.72325640011644			True	True			True	True	True
-739	Contracture of joint	musculoskeletal	HP_0005997	Restricted neck movement due to contractures	True								True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
-739	Contracture of joint	musculoskeletal	HP_0001215	Camptodactyly of 2nd-5th fingers	True								True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
-739	Contracture of joint	musculoskeletal	HP_0001220	Interphalangeal joint contracture of finger	True								True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
-739	Contracture of joint	musculoskeletal	HP_0001239	Wrist flexion contracture	True								True	True	100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
-739	Contracture of joint	musculoskeletal	HP_0001371	Flexion contracture	False								True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
-739	Contracture of joint	musculoskeletal	HP_0001771	Achilles tendon contracture	True								True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
-739	Contracture of joint	musculoskeletal	HP_0001836	Camptodactyly of toe	True								True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
-739	Contracture of joint	musculoskeletal	HP_0002803	Congenital contracture	True								True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
-739	Contracture of joint	musculoskeletal	HP_0002804	Arthrogryposis multiplex congenita	True								True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
-739	Contracture of joint	musculoskeletal	HP_0002828	Multiple joint contractures	True								True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
-739	Contracture of joint	musculoskeletal	HP_0002987	Elbow flexion contracture	True								True	True	100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
-739	Contracture of joint	musculoskeletal	HP_0003044	Shoulder flexion contracture	True								True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
-739	Contracture of joint	musculoskeletal	HP_0003089	Hamstring contractures	True								True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
-739	Contracture of joint	musculoskeletal	HP_0003121	Limb joint contracture	True								True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
-739	Contracture of joint	musculoskeletal	HP_0003273	Hip contracture	True								True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
-739	Contracture of joint	musculoskeletal	HP_0004631	Decreased cervical spine flexion due to contractures of posterior cervical muscles	True								True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
-739	Contracture of joint	musculoskeletal	HP_0005612	Arthrogryposis-like hand anomaly	True								True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
-739	Contracture of joint	musculoskeletal	HP_0005617	Bilateral camptodactyly	True								True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
-739	Contracture of joint	musculoskeletal	HP_0005679	Dupuytren contracture	True								True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
-739	Contracture of joint	musculoskeletal	HP_0005684	Distal arthrogryposis	True								True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
-739	Contracture of joint	musculoskeletal	HP_0005745	Congenital foot contractures	True								True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
-739	Contracture of joint	musculoskeletal	HP_0005750	Contractures of the joints of the lower limbs	True								True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
-739	Contracture of joint	musculoskeletal	HP_0005781	Contractures of the large joints	True								True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
-739	Contracture of joint	musculoskeletal	HP_0005830	Flexion contracture of toe	True								True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
-739	Contracture of joint	musculoskeletal	HP_0005853	Congenital foot contraction deformities	True								True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
-739	Contracture of joint	musculoskeletal	HP_0005876	Progressive flexion contractures	True								True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
-739	Contracture of joint	musculoskeletal	HP_0005879	Congenital finger flexion contractures	True								True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
-739	Contracture of joint	musculoskeletal	HP_0006366	Adductor longus contractures	True								True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
-739	Contracture of joint	musculoskeletal	HP_0006380	Knee flexion contracture	True								True	True	100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
-739	Contracture of joint	musculoskeletal	HP_0006466	Ankle flexion contracture	True								True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
-739	Contracture of joint	musculoskeletal	HP_0008112	Plantar flexion contractures	True								True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
-739	Contracture of joint	musculoskeletal	HP_0008366	Contractures involving the joints of the feet	True								True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
-739	Contracture of joint	musculoskeletal	HP_0009183	Joint contracture of the 5th finger	True								True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
-739	Contracture of joint	musculoskeletal	HP_0009184	Contracture of the distal interphalangeal joint of the 5th finger	True								True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
-739	Contracture of joint	musculoskeletal	HP_0009185	Contracture of the proximal interphalangeal joint of the 5th finger	True								True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
-739	Contracture of joint	musculoskeletal	HP_0009186	Contracture of the metacarpophalangeal joint of the 5th finger	True								True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
-739	Contracture of joint	musculoskeletal	HP_0009274	Joint contracture of the 4th finger	True								True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
-739	Contracture of joint	musculoskeletal	HP_0009275	Contracture of the distal interphalangeal joint of the 4th finger	True								True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
-739	Contracture of joint	musculoskeletal	HP_0009276	Contracture of the proximal interphalangeal joint of the 4th finger	True								True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
-739	Contracture of joint	musculoskeletal	HP_0009277	Contracture of the metacarpophalangeal joint of the 4th finger	True								True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
-739	Contracture of joint	musculoskeletal	HP_0009319	Joint contracture of the 3rd finger	True								True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
-739	Contracture of joint	musculoskeletal	HP_0009469	Contracture of the distal interphalangeal joint of the 3rd finger	True								True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
-739	Contracture of joint	musculoskeletal	HP_0009470	Contracture of the metacarpophalangeal joint of the 3rd finger	True								True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
-739	Contracture of joint	musculoskeletal	HP_0009471	Contracture of the proximal interphalangeal joint of the 3rd finger	True								True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
-739	Contracture of joint	musculoskeletal	HP_0009473	Joint contracture of the hand	True								True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
-739	Contracture of joint	musculoskeletal	HP_0009537	Flexion contracture of the 2nd finger	True								True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
-739	Contracture of joint	musculoskeletal	HP_0009538	Contracture of the distal interphalangeal joint of the 2nd finger	True								True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
-739	Contracture of joint	musculoskeletal	HP_0009539	Contracture of the metacarpophalangeal joint of the 2nd finger	True								True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
-739	Contracture of joint	musculoskeletal	HP_0009540	Contracture of the proximal interphalangeal joint of the 2nd finger	True								True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
-739	Contracture of joint	musculoskeletal	HP_0009600	Flexion contracture of thumb	True								True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
-739	Contracture of joint	musculoskeletal	HP_0009624	Contractures of the carpometacarpal joint of the thumb	True								True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
-739	Contracture of joint	musculoskeletal	HP_0009625	Contractures of the metacarpophalangeal joint of the thumb	True								True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
-739	Contracture of joint	musculoskeletal	HP_0009626	Contractures of the interphalangeal joint of the thumb	True								True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
-739	Contracture of joint	musculoskeletal	HP_0009697	Contracture of the distal interphalangeal joint of the fingers	True								True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
-739	Contracture of joint	musculoskeletal	HP_0010212	Flexion contracture of the hallux	True								True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
-739	Contracture of joint	musculoskeletal	HP_0010213	Contracture of the tarsometatarsal joint of the hallux	True								True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
-739	Contracture of joint	musculoskeletal	HP_0010214	Contracture of the interphalangeal joint of the hallux	True								True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
-739	Contracture of joint	musculoskeletal	HP_0010215	Contractures of the metatarsophalangeal joint of the hallux	True								True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
-739	Contracture of joint	musculoskeletal	HP_0010327	Flexion contracture of the 2nd toe	True								True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
-739	Contracture of joint	musculoskeletal	HP_0010333	Flexion contracture of 3rd toe	True								True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
-739	Contracture of joint	musculoskeletal	HP_0010339	Flexion contracture of the 4th toe	True								True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
-739	Contracture of joint	musculoskeletal	HP_0010345	Flexion contracture of the 5th toe	True								True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
-739	Contracture of joint	musculoskeletal	HP_0012385	Camptodactyly	True								True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
-739	Contracture of joint	musculoskeletal	HP_0012453	Bilateral wrist flexion contracture	True								True	True	100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
-739	Contracture of joint	musculoskeletal	HP_0012454	Unilateral wrist flexion contracture	True								True	True	100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
-739	Contracture of joint	musculoskeletal	HP_0012785	Flexion contracture of finger	True								True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
-739	Contracture of joint	musculoskeletal	HP_0030044	Flexion contracture of digit	True								True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
-739	Contracture of joint	musculoskeletal	HP_0030233	Bethlem sign	True								True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
-739	Contracture of joint	musculoskeletal	HP_0030675	Contracture of proximal interphalangeal joints of 2nd-5th fingers	True								True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
-739	Contracture of joint	musculoskeletal	HP_0033333	Jaw contracture	True								True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
-739	Contracture of joint	musculoskeletal	HP_0100348	Contracture of the proximal interphalangeal joint of the 2nd toe	True								True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
-739	Contracture of joint	musculoskeletal	HP_0100349	Contracture of the proximal interphalangeal joint of the 3rd toe	True								True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
-739	Contracture of joint	musculoskeletal	HP_0100350	Contracture of the proximal interphalangeal joint of the 4th toe	True								True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
-739	Contracture of joint	musculoskeletal	HP_0100351	Contractures of the proximal interphalangeal joint of the 5th toe	True								True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
-739	Contracture of joint	musculoskeletal	HP_0100352	Contracture of the distal interphalangeal joint of the 2nd toe	True								True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
-739	Contracture of joint	musculoskeletal	HP_0100353	Contracture of the distal interphalangeal joint of the 3rd toe	True								True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
-739	Contracture of joint	musculoskeletal	HP_0100354	Contracture of the distal interphalangeal joint of the 4th toe	True								True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
-739	Contracture of joint	musculoskeletal	HP_0100355	Contractures of the distal interphalangeal joint of the 5th toe	True								True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
-739	Contracture of joint	musculoskeletal	HP_0100356	Contracture of the metatarsophalangeal joint of the 2nd toe	True								True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
-739	Contracture of joint	musculoskeletal	HP_0100357	Contracture of the metatarsophalangeal joint of the 3rd toe	True								True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
-739	Contracture of joint	musculoskeletal	HP_0100358	Contracture of the metatarsophalangeal joint of the 4th toe	True								True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
-739	Contracture of joint	musculoskeletal	HP_0100359	Contracture of the metatarsophalangeal joint of the 5th toe	True								True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
-739	Contracture of joint	musculoskeletal	HP_0100360	Contractures of the joints of the upper limbs	True								True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
-739	Contracture of joint	musculoskeletal	HP_0100490	Camptodactyly of finger	True								True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
-739	Contracture of joint	musculoskeletal	HP_0100492	Joint contractures involving the joints of the feet	True								True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
+739	Contracture of joint	musculoskeletal	HP_0005997	Restricted neck movement due to contractures	True		True			True			True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
+739	Contracture of joint	musculoskeletal	HP_0001215	Camptodactyly of 2nd-5th fingers	True		True	True		True	True		True	True	100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
+739	Contracture of joint	musculoskeletal	HP_0001220	Interphalangeal joint contracture of finger	True		True	True		True	True		True	True	100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
+739	Contracture of joint	musculoskeletal	HP_0001239	Wrist flexion contracture	True		True			True			True	True	100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
+739	Contracture of joint	musculoskeletal	HP_0001371	Flexion contracture	False		True			True			True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
+739	Contracture of joint	musculoskeletal	HP_0001771	Achilles tendon contracture	True		True			True			True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
+739	Contracture of joint	musculoskeletal	HP_0001836	Camptodactyly of toe	True		True			True			True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
+739	Contracture of joint	musculoskeletal	HP_0002803	Congenital contracture	True		True			True			True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
+739	Contracture of joint	musculoskeletal	HP_0002804	Arthrogryposis multiplex congenita	True		True			True			True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
+739	Contracture of joint	musculoskeletal	HP_0002828	Multiple joint contractures	True		True			True			True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
+739	Contracture of joint	musculoskeletal	HP_0002987	Elbow flexion contracture	True		True	True		True	True		True	True	100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
+739	Contracture of joint	musculoskeletal	HP_0003044	Shoulder flexion contracture	True		True			True			True	True	100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
+739	Contracture of joint	musculoskeletal	HP_0003089	Hamstring contractures	True		True			True			True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
+739	Contracture of joint	musculoskeletal	HP_0003121	Limb joint contracture	True		True			True			True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
+739	Contracture of joint	musculoskeletal	HP_0003273	Hip contracture	True		True			True			True	True	100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
+739	Contracture of joint	musculoskeletal	HP_0004631	Decreased cervical spine flexion due to contractures of posterior cervical muscles	True		True			True			True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
+739	Contracture of joint	musculoskeletal	HP_0005612	Arthrogryposis-like hand anomaly	True		True			True			True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
+739	Contracture of joint	musculoskeletal	HP_0005617	Bilateral camptodactyly	True		True	True		True	True		True	True	100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
+739	Contracture of joint	musculoskeletal	HP_0005679	Dupuytren contracture	True		True	True		True	True		True	True	100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
+739	Contracture of joint	musculoskeletal	HP_0005684	Distal arthrogryposis	True		True			True			True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
+739	Contracture of joint	musculoskeletal	HP_0005745	Congenital foot contractures	True		True			True			True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
+739	Contracture of joint	musculoskeletal	HP_0005750	Contractures of the joints of the lower limbs	True		True			True			True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
+739	Contracture of joint	musculoskeletal	HP_0005781	Contractures of the large joints	True		True			True			True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
+739	Contracture of joint	musculoskeletal	HP_0005830	Flexion contracture of toe	True		True			True			True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
+739	Contracture of joint	musculoskeletal	HP_0005853	Congenital foot contraction deformities	True		True			True			True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
+739	Contracture of joint	musculoskeletal	HP_0005876	Progressive flexion contractures	True		True			True			True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
+739	Contracture of joint	musculoskeletal	HP_0005879	Congenital finger flexion contractures	True		True	True		True	True		True	True	100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
+739	Contracture of joint	musculoskeletal	HP_0006366	Adductor longus contractures	True		True			True			True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
+739	Contracture of joint	musculoskeletal	HP_0006380	Knee flexion contracture	True		True			True			True	True	100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
+739	Contracture of joint	musculoskeletal	HP_0006466	Ankle flexion contracture	True		True			True			True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
+739	Contracture of joint	musculoskeletal	HP_0008112	Plantar flexion contractures	True		True			True			True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
+739	Contracture of joint	musculoskeletal	HP_0008366	Contractures involving the joints of the feet	True		True			True			True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
+739	Contracture of joint	musculoskeletal	HP_0009183	Joint contracture of the 5th finger	True		True	True		True	True		True	True	100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
+739	Contracture of joint	musculoskeletal	HP_0009184	Contracture of the distal interphalangeal joint of the 5th finger	True		True	True		True	True		True	True	100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
+739	Contracture of joint	musculoskeletal	HP_0009185	Contracture of the proximal interphalangeal joint of the 5th finger	True		True	True		True	True		True	True	100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
+739	Contracture of joint	musculoskeletal	HP_0009186	Contracture of the metacarpophalangeal joint of the 5th finger	True		True	True		True	True		True	True	100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
+739	Contracture of joint	musculoskeletal	HP_0009274	Joint contracture of the 4th finger	True		True	True		True	True		True	True	100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
+739	Contracture of joint	musculoskeletal	HP_0009275	Contracture of the distal interphalangeal joint of the 4th finger	True		True	True		True	True		True	True	100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
+739	Contracture of joint	musculoskeletal	HP_0009276	Contracture of the proximal interphalangeal joint of the 4th finger	True		True	True		True	True		True	True	100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
+739	Contracture of joint	musculoskeletal	HP_0009277	Contracture of the metacarpophalangeal joint of the 4th finger	True		True	True		True	True		True	True	100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
+739	Contracture of joint	musculoskeletal	HP_0009319	Joint contracture of the 3rd finger	True		True	True		True	True		True	True	100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
+739	Contracture of joint	musculoskeletal	HP_0009469	Contracture of the distal interphalangeal joint of the 3rd finger	True		True	True		True	True		True	True	100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
+739	Contracture of joint	musculoskeletal	HP_0009470	Contracture of the metacarpophalangeal joint of the 3rd finger	True		True	True		True	True		True	True	100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
+739	Contracture of joint	musculoskeletal	HP_0009471	Contracture of the proximal interphalangeal joint of the 3rd finger	True		True	True		True	True		True	True	100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
+739	Contracture of joint	musculoskeletal	HP_0009473	Joint contracture of the hand	True		True	True		True	True		True	True	100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
+739	Contracture of joint	musculoskeletal	HP_0009537	Flexion contracture of the 2nd finger	True		True	True		True	True		True	True	100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
+739	Contracture of joint	musculoskeletal	HP_0009538	Contracture of the distal interphalangeal joint of the 2nd finger	True		True	True		True	True		True	True	100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
+739	Contracture of joint	musculoskeletal	HP_0009539	Contracture of the metacarpophalangeal joint of the 2nd finger	True		True	True		True	True		True	True	100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
+739	Contracture of joint	musculoskeletal	HP_0009540	Contracture of the proximal interphalangeal joint of the 2nd finger	True		True	True		True	True		True	True	100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
+739	Contracture of joint	musculoskeletal	HP_0009600	Flexion contracture of thumb	True		True	True		True	True		True	True	100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
+739	Contracture of joint	musculoskeletal	HP_0009624	Contractures of the carpometacarpal joint of the thumb	True		True	True		True	True		True	True	100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
+739	Contracture of joint	musculoskeletal	HP_0009625	Contractures of the metacarpophalangeal joint of the thumb	True		True	True		True	True		True	True	100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
+739	Contracture of joint	musculoskeletal	HP_0009626	Contractures of the interphalangeal joint of the thumb	True		True	True		True	True		True	True	100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
+739	Contracture of joint	musculoskeletal	HP_0009697	Contracture of the distal interphalangeal joint of the fingers	True		True	True		True	True		True	True	100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
+739	Contracture of joint	musculoskeletal	HP_0010212	Flexion contracture of the hallux	True		True			True			True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
+739	Contracture of joint	musculoskeletal	HP_0010213	Contracture of the tarsometatarsal joint of the hallux	True		True			True			True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
+739	Contracture of joint	musculoskeletal	HP_0010214	Contracture of the interphalangeal joint of the hallux	True		True			True			True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
+739	Contracture of joint	musculoskeletal	HP_0010215	Contractures of the metatarsophalangeal joint of the hallux	True		True			True			True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
+739	Contracture of joint	musculoskeletal	HP_0010327	Flexion contracture of the 2nd toe	True		True			True			True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
+739	Contracture of joint	musculoskeletal	HP_0010333	Flexion contracture of 3rd toe	True		True			True			True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
+739	Contracture of joint	musculoskeletal	HP_0010339	Flexion contracture of the 4th toe	True		True			True			True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
+739	Contracture of joint	musculoskeletal	HP_0010345	Flexion contracture of the 5th toe	True		True			True			True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
+739	Contracture of joint	musculoskeletal	HP_0012385	Camptodactyly	True		True			True			True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
+739	Contracture of joint	musculoskeletal	HP_0012453	Bilateral wrist flexion contracture	True		True			True			True	True	100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
+739	Contracture of joint	musculoskeletal	HP_0012454	Unilateral wrist flexion contracture	True		True			True			True	True	100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
+739	Contracture of joint	musculoskeletal	HP_0012785	Flexion contracture of finger	True		True	True		True	True		True	True	100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
+739	Contracture of joint	musculoskeletal	HP_0030044	Flexion contracture of digit	True		True			True			True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
+739	Contracture of joint	musculoskeletal	HP_0030233	Bethlem sign	True		True	True		True	True		True	True	100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
+739	Contracture of joint	musculoskeletal	HP_0030675	Contracture of proximal interphalangeal joints of 2nd-5th fingers	True		True	True		True	True		True	True	100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
+739	Contracture of joint	musculoskeletal	HP_0033333	Jaw contracture	True		True			True			True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
+739	Contracture of joint	musculoskeletal	HP_0100348	Contracture of the proximal interphalangeal joint of the 2nd toe	True		True			True			True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
+739	Contracture of joint	musculoskeletal	HP_0100349	Contracture of the proximal interphalangeal joint of the 3rd toe	True		True			True			True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
+739	Contracture of joint	musculoskeletal	HP_0100350	Contracture of the proximal interphalangeal joint of the 4th toe	True		True			True			True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
+739	Contracture of joint	musculoskeletal	HP_0100351	Contractures of the proximal interphalangeal joint of the 5th toe	True		True			True			True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
+739	Contracture of joint	musculoskeletal	HP_0100352	Contracture of the distal interphalangeal joint of the 2nd toe	True		True			True			True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
+739	Contracture of joint	musculoskeletal	HP_0100353	Contracture of the distal interphalangeal joint of the 3rd toe	True		True			True			True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
+739	Contracture of joint	musculoskeletal	HP_0100354	Contracture of the distal interphalangeal joint of the 4th toe	True		True			True			True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
+739	Contracture of joint	musculoskeletal	HP_0100355	Contractures of the distal interphalangeal joint of the 5th toe	True		True			True			True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
+739	Contracture of joint	musculoskeletal	HP_0100356	Contracture of the metatarsophalangeal joint of the 2nd toe	True		True			True			True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
+739	Contracture of joint	musculoskeletal	HP_0100357	Contracture of the metatarsophalangeal joint of the 3rd toe	True		True			True			True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
+739	Contracture of joint	musculoskeletal	HP_0100358	Contracture of the metatarsophalangeal joint of the 4th toe	True		True			True			True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
+739	Contracture of joint	musculoskeletal	HP_0100359	Contracture of the metatarsophalangeal joint of the 5th toe	True		True			True			True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
+739	Contracture of joint	musculoskeletal	HP_0100360	Contractures of the joints of the upper limbs	True		True			True			True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
+739	Contracture of joint	musculoskeletal	HP_0100490	Camptodactyly of finger	True		True	True		True	True		True	True	100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
+739	Contracture of joint	musculoskeletal	HP_0100492	Joint contractures involving the joints of the feet	True		True			True			True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
 740.9	Osteoarthrosis NOS	musculoskeletal	HP_0001369	Arthritis	False													27.093301431933945			True	True				True	True
 741	Symptoms and disorders of the joints	musculoskeletal	HP_0001369	Arthritis	False													53.026677254140644					True		True	True	True
 741.2	Stiffness of joint	musculoskeletal	HP_0000473	Torticollis	False													38.40736297627596									True
-741.2	Stiffness of joint	musculoskeletal	HP_0025258	Stiff neck	True										100.0								True	True	True	True	True
+741.2	Stiffness of joint	musculoskeletal	HP_0025258	Stiff neck	True		True								100.0								True	True	True	True	True
 741.2	Stiffness of joint	musculoskeletal	HP_0002758	Osteoarthritis	False													18.59692008640545									True
 741.2	Stiffness of joint	musculoskeletal	HP_0003095	Septic arthritis	False													22.59628363236529									True
-741.2	Stiffness of joint	musculoskeletal	HP_0009742	Stiff shoulders	True										100.0								True	True	True	True	True
+741.2	Stiffness of joint	musculoskeletal	HP_0009742	Stiff shoulders	True		True								100.0								True	True	True	True	True
 741.2	Stiffness of joint	musculoskeletal	HP_0010891	Morbus Scheuermann	False													15.926582358037972									True
-741.2	Stiffness of joint	musculoskeletal	HP_0001387	Joint stiffness	False										100.0								True	True	True	True	True
-741.2	Stiffness of joint	musculoskeletal	HP_0005197	Generalized morning stiffness	True										100.0								True	True	True	True	True
-741.2	Stiffness of joint	musculoskeletal	HP_0005198	Stiff interphalangeal joints	True										100.0								True	True	True	True	True
-741.2	Stiffness of joint	musculoskeletal	HP_0025259	Stiff elbow	True										100.0								True	True	True	True	True
-741.2	Stiffness of joint	musculoskeletal	HP_0025260	Stiff wrist	True										100.0								True	True	True	True	True
-741.2	Stiffness of joint	musculoskeletal	HP_0025261	Stiff finger	True										100.0								True	True	True	True	True
-741.2	Stiffness of joint	musculoskeletal	HP_0025262	Stiff hip	True										100.0								True	True	True	True	True
-741.2	Stiffness of joint	musculoskeletal	HP_0025263	Stiff knee	True										100.0								True	True	True	True	True
-741.2	Stiffness of joint	musculoskeletal	HP_0025264	Stiff ankle	True										100.0								True	True	True	True	True
-741.2	Stiffness of joint	musculoskeletal	HP_0025265	Stiff toe	True										100.0								True	True	True	True	True
+741.2	Stiffness of joint	musculoskeletal	HP_0001387	Joint stiffness	False		True								100.0								True	True	True	True	True
+741.2	Stiffness of joint	musculoskeletal	HP_0005197	Generalized morning stiffness	True		True								100.0								True	True	True	True	True
+741.2	Stiffness of joint	musculoskeletal	HP_0005198	Stiff interphalangeal joints	True		True								100.0								True	True	True	True	True
+741.2	Stiffness of joint	musculoskeletal	HP_0025259	Stiff elbow	True		True								100.0								True	True	True	True	True
+741.2	Stiffness of joint	musculoskeletal	HP_0025260	Stiff wrist	True		True								100.0								True	True	True	True	True
+741.2	Stiffness of joint	musculoskeletal	HP_0025261	Stiff finger	True		True								100.0								True	True	True	True	True
+741.2	Stiffness of joint	musculoskeletal	HP_0025262	Stiff hip	True		True								100.0								True	True	True	True	True
+741.2	Stiffness of joint	musculoskeletal	HP_0025263	Stiff knee	True		True								100.0								True	True	True	True	True
+741.2	Stiffness of joint	musculoskeletal	HP_0025264	Stiff ankle	True		True								100.0								True	True	True	True	True
+741.2	Stiffness of joint	musculoskeletal	HP_0025265	Stiff toe	True		True								100.0								True	True	True	True	True
 741.2	Stiffness of joint	musculoskeletal	HP_0001155	Abnormality of the hand	False													19.42678067131603									True
 741.2	Stiffness of joint	musculoskeletal	HP_0003552	Muscle stiffness	False													13.898656914358687									True
 741.5	Hemarthrosis	musculoskeletal	HP_0005261	Joint hemorrhage	False	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
 742	Derangement of joint, non-traumatic	musculoskeletal	HP_0001373	Joint dislocation	False												81.82	114.46747245150831							True	True	True
 742.2	Pathological, developmental or recurrent dislocation	musculoskeletal	HP_0001373	Joint dislocation	False												81.82	114.46747245150831							True	True	True
 742.9	Other derangement of joint	musculoskeletal	HP_0001373	Joint dislocation	False													69.08688219631304							True	True	True
-745	Pain in joint	musculoskeletal	HP_0002829	Arthralgia	False										100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
-745	Pain in joint	musculoskeletal	HP_0005059	Arthralgia/arthritis	True										100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
-745	Pain in joint	musculoskeletal	HP_0030839	Knee pain	False												100.0	25.182794099388442			True	True				True	True
+745	Pain in joint	musculoskeletal	HP_0002829	Arthralgia	False		True			True			True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
+745	Pain in joint	musculoskeletal	HP_0005059	Arthralgia/arthritis	True		True			True			True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
+745	Pain in joint	musculoskeletal	HP_0030839	Knee pain	False								True				100.0	25.182794099388442			True	True				True	True
 756.3	Congenital anomalies of muscle, tendon, fascia, and connective tissue	congenital anomalies	HP_0002979	Bowing of the legs	False													17.26808759834762			True	True				True	True
 756.5	Congenital osteodystrophies	congenital anomalies	HP_0002979	Bowing of the legs	False													13.951789263600222			True	True				True	True
 835	Internal derangement of knee	injuries & poisonings	HP_0032191	Torn meniscus	False													63.81229632466359						True	True	True	True
@@ -605,8 +606,11 @@ phecode1.2_code	phecode1.2_label	phecode1.2_category	hpo_code	hpo_label	hpo_chil
 333	Extrapyramidal disease and abnormal movement disorders	neurological	HP_0012452	Restless legs	False													58.88681055612852							True	True	True
 333	Extrapyramidal disease and abnormal movement disorders	neurological	HP_0001332	Dystonia	False							True	True	True			100.0	32.25281441128594			True	True	True	True		True	True
 350	Abnormal movement	neurological	HP_0100022	Abnormality of movement	False										100.0								True	True	True	True	True
+350	Abnormal movement	neurological	HP_0000496	Abnormality of eye movement	False			True																	True	True	True
+350	Abnormal movement	neurological	HP_0031785	Abnormal eyelid movement	False			True																	True	True	True
 350.1	Abnormal involuntary movements	neurological	HP_0000829	Hypoparathyroidism	False													40.05246349475773									True
 350.1	Abnormal involuntary movements	neurological	HP_0004305	Involuntary movements	False		True			True			True		85.71	85.71	85.71								True	True	True
+350.1	Abnormal involuntary movements	neurological	HP_0012547	Abnormal involuntary eye movements	False			True			True			True											True	True	True
 646	Other complications of pregnancy NEC	pregnancy complications	HP_0002072	Chorea	False													34.18182080478768									True
 283.21	Hemolytic-uremic syndrome	hematopoietic	HP_0005575	Hemolytic-uremic syndrome	False	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	108.7173805512834	True	True	True	True	True	True	True	True	True
 580.3	Nephritis and nephropathy without mention of glomerulonephritis	genitourinary	HP_0005575	Hemolytic-uremic syndrome	False													17.967367606106688									True
@@ -636,8 +640,9 @@ phecode1.2_code	phecode1.2_label	phecode1.2_category	hpo_code	hpo_label	hpo_chil
 172.2	Other non-epithelial cancer of skin	neoplasms	HP_0008069	Neoplasm of the skin	False													28.00631447040216			True	True				True	True
 172.22	Squamous cell carcinoma	neoplasms	HP_0030438	Anal canal squamous cell carcinoma	False			True																	True	True	True
 172.22	Squamous cell carcinoma	neoplasms	HP_0012142	Pancreatic squamous cell carcinoma	False			True																	True	True	True
+172.22	Squamous cell carcinoma	neoplasms	HP_0030359	Squamous cell lung carcinoma	False			True																	True	True	True
 172.22	Squamous cell carcinoma	neoplasms	HP_0002860	Squamous cell carcinoma	True	True	True	True					True		100.0			47.46779365241967							True	True	True
-172.22	Squamous cell carcinoma	neoplasms	HP_0006739	Squamous cell carcinoma of the skin	True	True	True	True					True		100.0	93.33	100.0	47.46779365241967							True	True	True
+172.22	Squamous cell carcinoma	neoplasms	HP_0006739	Squamous cell carcinoma of the skin	True	True	True	True					True	True	100.0	93.33	100.0	47.46779365241967							True	True	True
 172.22	Squamous cell carcinoma	neoplasms	HP_0008069	Neoplasm of the skin	False													26.30977118515405									True
 172.22	Squamous cell carcinoma	neoplasms	HP_0012182	Oropharyngeal squamous cell carcinoma	True	True	True	True					True		100.0			47.46779365241967							True	True	True
 172.22	Squamous cell carcinoma	neoplasms	HP_0030417	Squamous cell carcinoma of the vulva	False			True																	True	True	True
@@ -746,6 +751,7 @@ phecode1.2_code	phecode1.2_label	phecode1.2_category	hpo_code	hpo_label	hpo_chil
 947	Urticaria	dermatologic	HP_0410138	Vibratory urticaria	True	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	64.15558305371505	True	True	True	True	True	True	True	True	True
 250.6	Polyneuropathy in diabetes	endocrine/metabolic	HP_0009830	Peripheral neuropathy	False													15.375913178516786		True							True
 337	Disorders of the autonomic nervous system	neurological	HP_0000508	Ptosis	False													14.935390702070851									True
+337.1	Peripheral autonomic neuropathy	neurological	HP_0009830	Peripheral neuropathy	False		True								83.33									True	True	True	True
 337.1	Peripheral autonomic neuropathy	neurological	HP_0000508	Ptosis	False													19.89485235199935									True
 352	Disorders of other cranial nerves	neurological	HP_0033345	Neuralgia	False													21.564584809401435									True
 352.1	Trigeminal nerve disorders [CN5]	neurological	HP_0100661	Trigeminal neuralgia	False				True	True	True	True	True	True		100.0	100.0	102.75234168091295	True	True	True	True	True	True	True	True	True
@@ -755,7 +761,7 @@ phecode1.2_code	phecode1.2_label	phecode1.2_category	hpo_code	hpo_label	hpo_chil
 358	Myoneural disorders	neurological	HP_0030357	Small cell lung carcinoma	False													35.0476982308532									True
 359.1	Muscular dystrophies	neurological	HP_0006785	Limb-girdle muscular dystrophy	True							True	True	True	100.0	84.44	100.0	41.33164037242084		True	True	True	True	True	True	True	True
 359.1	Muscular dystrophies	neurological	HP_0003560	Muscular dystrophy	False							True	True	True	100.0	84.44	100.0	41.33164037242084		True	True	True	True	True	True	True	True
-359.1	Muscular dystrophies	neurological	HP_0003741	Congenital muscular dystrophy	True							True	True	True	100.0	84.44	100.0	41.33164037242084		True	True	True	True	True	True	True	True
+359.1	Muscular dystrophies	neurological	HP_0003741	Congenital muscular dystrophy	True					True		True	True	True	100.0	84.44	100.0	41.33164037242084		True	True	True	True	True	True	True	True
 359.1	Muscular dystrophies	neurological	HP_0007081	Late-onset muscular dystrophy	True							True	True	True	100.0	84.44	100.0	41.33164037242084		True	True	True	True	True	True	True	True
 359.1	Muscular dystrophies	neurological	HP_0008970	Scapulohumeral muscular dystrophy	True							True	True	True	100.0	84.44	100.0	41.33164037242084		True	True	True	True	True	True	True	True
 414	Other forms of chronic heart disease	circulatory system	HP_0001638	Cardiomyopathy	False											81.25	81.25	36.8236421181965			True	True				True	True
@@ -827,7 +833,7 @@ phecode1.2_code	phecode1.2_label	phecode1.2_category	hpo_code	hpo_label	hpo_chil
 472	Chronic pharyngitis and nasopharyngitis	respiratory	HP_0001742	Nasal congestion	False													25.6907367908357									True
 474.1	Acute tonsillitis	respiratory	HP_0025439	Pharyngitis	False													20.559950195790673									True
 478	Throat pain	respiratory	HP_0025439	Pharyngitis	False													80.05425555017909		True		True			True	True	True
-478	Throat pain	respiratory	HP_0033050	Pharyngalgia	False	True	True	True	True	True	True				100.0	100.0	100.0								True	True	True
+478	Throat pain	respiratory	HP_0033050	Pharyngalgia	False	True	True	True	True	True	True		True		100.0	100.0	100.0								True	True	True
 180.3	Cervical intraepithelial neoplasia [CIN] [Cervical dysplasia]	neoplasms	HP_0032242	Cervical intraepithelial neoplasia	False													36.45914979680881		True		True	True	True			True
 269	Proteinuria	endocrine/metabolic	HP_0000093	Proteinuria	False	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	57.32692341579606	True	True	True	True	True	True	True	True	True
 269	Proteinuria	endocrine/metabolic	HP_0003126	Low-molecular-weight proteinuria	True	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	57.32692341579606	True	True	True	True	True	True	True	True	True
@@ -971,11 +977,11 @@ phecode1.2_code	phecode1.2_label	phecode1.2_category	hpo_code	hpo_label	hpo_chil
 608	Other disorders of male genital organs	genitourinary	HP_0033808	Spermatocele	False													30.5955300515138				True					True
 608	Other disorders of male genital organs	genitourinary	HP_0100813	Testicular torsion	False													41.14344651515743									True
 609.1	Infertility, male	genitourinary	HP_0000789	Infertility	False		True			True			True					16.350351697513087						True	True	True	True
-609.1	Infertility, male	genitourinary	HP_0003251	Male infertility	True		True		True	True	True	True	True	True	100.0	100.0	100.0	19.50157176375164	True	True	True	True		True	True	True	True
+609.1	Infertility, male	genitourinary	HP_0003251	Male infertility	True		True	True	True	True	True	True	True	True	100.0	100.0	100.0	19.50157176375164	True	True	True	True		True	True	True	True
 610.1	Cystic mastopathy	genitourinary	HP_0032408	Breast mass	False													42.263786604171536									True
 610.2	Fibroadenosis of breast	genitourinary	HP_0010619	Fibroadenoma of the breast	False	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0								True	True	True
 610.8	Other specified benign mammary dysplasias	genitourinary	HP_0032408	Breast mass	False													24.225579837216426									True
-611.3	Lump or mass in breast	genitourinary	HP_0032408	Breast mass	False										82.93	82.93	100.0	44.334785958366965	True	True	True	True	True	True	True	True	True
+611.3	Lump or mass in breast	genitourinary	HP_0032408	Breast mass	False								True		82.93	82.93	100.0	44.334785958366965	True	True	True	True	True	True	True	True	True
 612.1	Galactorrhea	genitourinary	HP_0040277	Neoplasm of the pituitary gland	False													14.679006059578386									True
 612.1	Galactorrhea	genitourinary	HP_0100829	Galactorrhea	False	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
 612.2	Hypertrophy of breast (Gynecomastia)	genitourinary	HP_0000771	Gynecomastia	False													87.48304626849855			True	True	True	True	True	True	True
@@ -1019,7 +1025,7 @@ phecode1.2_code	phecode1.2_label	phecode1.2_category	hpo_code	hpo_label	hpo_chil
 626.2	Dysmenorrhea	genitourinary	HP_0100607	Dysmenorrhea	False	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	96.10814015722788	True	True	True	True	True	True	True	True	True
 626.21	Mittelschmerz	genitourinary	HP_0012531	Pain	False													21.585085168605513									True
 626.8	Infertility, female	genitourinary	HP_0000789	Infertility	False													33.31209936732129					True	True			True
-626.8	Infertility, female	genitourinary	HP_0008222	Female infertility	True							True	True	True	100.0	100.0	100.0	33.31209936732129	True	True	True	True	True	True	True	True	True
+626.8	Infertility, female	genitourinary	HP_0008222	Female infertility	True		True	True		True	True	True	True	True	100.0	100.0	100.0	33.31209936732129	True	True	True	True	True	True	True	True	True
 627.1	Postmenopausal bleeding	genitourinary	HP_0033840	Postmenopausal bleeding	False	True	True	True	True	True	True	True	True	True					True	True	True	True			True	True	True
 627.2	Symptomatic menopause	genitourinary	HP_0031217	Hot flashes	False													37.04814164997849						True			True
 628	Ovarian cyst	genitourinary	HP_0025274	Ovarian dermoid cyst	True	True	True	True							100.0	82.76	100.0	73.00444256985428			True	True	True	True	True	True	True
@@ -1030,7 +1036,18 @@ phecode1.2_code	phecode1.2_label	phecode1.2_category	hpo_code	hpo_label	hpo_chil
 628	Ovarian cyst	genitourinary	HP_0012887	Ovarian serous cystadenoma	True	True	True	True							100.0	82.76	100.0	73.00444256985428			True	True	True	True	True	True	True
 628	Ovarian cyst	genitourinary	HP_0030425	Calcified ovarian cyst	True	True	True	True							100.0	82.76	100.0	73.00444256985428			True	True	True	True	True	True	True
 261	Vitamin deficiency	endocrine/metabolic	HP_0004395	Malnutrition	False													20.98476168759233									True
-261	Vitamin deficiency	endocrine/metabolic	HP_0004905	Low levels of vitamin A	False				True	True	True	True	True	True	100.0	100.0	100.0		True	True	True	True			True	True	True
+261	Vitamin deficiency	endocrine/metabolic	HP_0004905	Low levels of vitamin A	False			True	True	True	True	True	True	True	100.0	100.0	100.0		True	True	True	True			True	True	True
+261	Vitamin deficiency	endocrine/metabolic	HP_0008326	Reduced circulating vitamin B6 level	False			True	True	True	True			True		100.0			True	True	True	True			True	True	True
+261	Vitamin deficiency	endocrine/metabolic	HP_0100497	Vitamin B3 deficiency	False			True			True			True							True	True			True	True	True
+261	Vitamin deficiency	endocrine/metabolic	HP_0100502	Vitamin B12 deficiency	False			True			True			True							True	True			True	True	True
+261	Vitamin deficiency	endocrine/metabolic	HP_0100503	Low levels of vitamin B1	False			True			True			True						True	True	True			True	True	True
+261	Vitamin deficiency	endocrine/metabolic	HP_0100504	Low levels of vitamin B2	False			True			True	True	True	True			100.0		True	True	True	True			True	True	True
+261	Vitamin deficiency	endocrine/metabolic	HP_0100505	Low levels of vitamin B5	False			True			True			True											True	True	True
+261	Vitamin deficiency	endocrine/metabolic	HP_0100506	Low levels of vitamin B8	False			True			True			True											True	True	True
+261	Vitamin deficiency	endocrine/metabolic	HP_0100507	Reduced blood folate concentration	False			True			True			True							True	True	True	True	True	True	True
+261	Vitamin deficiency	endocrine/metabolic	HP_0100510	Low levels of vitamin C	False			True			True			True			80.95		True	True	True	True			True	True	True
+261	Vitamin deficiency	endocrine/metabolic	HP_0100512	Low levels of vitamin D	False			True	True	True	True	True	True	True		100.0	100.0		True	True	True	True			True	True	True
+261	Vitamin deficiency	endocrine/metabolic	HP_0100513	Low levels of vitamin E	False			True			True		True	True			100.0				True	True	True	True	True	True	True
 270.32	Paraproteinemia	endocrine/metabolic	HP_0005508	Monoclonal immunoglobulin M proteinemia	True	True	True	True							100.0	100.0							True	True	True	True	True
 270.32	Paraproteinemia	endocrine/metabolic	HP_0020194	IgA heavy chain paraproteinemia	True	True	True	True							100.0	100.0							True	True	True	True	True
 270.32	Paraproteinemia	endocrine/metabolic	HP_0020195	IgG heavy chain paraproteinemia	True	True	True	True							100.0	100.0							True	True	True	True	True
@@ -1063,9 +1080,9 @@ phecode1.2_code	phecode1.2_label	phecode1.2_category	hpo_code	hpo_label	hpo_chil
 343	Infantile cerebral palsy	neurological	HP_0100021	Cerebral palsy	False							True	True	True			100.0	68.6286315655525		True	True	True	True	True	True	True	True
 772.2	Spasm of muscle	symptoms	HP_0002487	Hyperkinetic movements	False										100.0	100.0	100.0						True		True	True	True
 772.2	Spasm of muscle	symptoms	HP_0001257	Spasticity	False													62.41717598412786							True	True	True
-772.2	Spasm of muscle	symptoms	HP_0003394	Muscle spasm	False							True	True	True				37.91806893884997	True	True	True	True	True			True	True
+772.2	Spasm of muscle	symptoms	HP_0003394	Muscle spasm	False		True			True		True	True	True				37.91806893884997	True	True	True	True	True		True	True	True
 772.2	Spasm of muscle	symptoms	HP_0031988	obsolete Muscle spasm	False													37.91806893884997	True	True	True	True				True	True
-749	Congenital anomalies of face and neck	congenital anomalies	HP_0009796	Branchial cyst	False											83.33		13.903155656396768	True	True						True	True
+749	Congenital anomalies of face and neck	congenital anomalies	HP_0009796	Branchial cyst	False					True						83.33		13.903155656396768	True	True						True	True
 749	Congenital anomalies of face and neck	congenital anomalies	HP_0000453	Choanal atresia	False				True	True	True	True	True	True		100.0	100.0	21.92403021029721	True	True	True	True	True	True		True	True
 873	Broken tooth	injuries & poisonings	HP_0020110	Bone fracture	False													18.13863044253797									True
 873	Broken tooth	injuries & poisonings	HP_0011095	Overjet	False													18.97391902703519									True
@@ -1093,7 +1110,7 @@ phecode1.2_code	phecode1.2_label	phecode1.2_category	hpo_code	hpo_label	hpo_chil
 961.1	Poisoning/allergy of sulfonamides	injuries & poisonings	HP_0002092	Pulmonary arterial hypertension	False													20.368048714793048									True
 818	Intracranial hemorrhage (injury)	injuries & poisonings	HP_0002170	Intracranial hemorrhage	False		True								85.71										True	True	True
 830	Dislocation	injuries & poisonings	HP_0001083	Ectopia lentis	False			True																	True	True	True
-830	Dislocation	injuries & poisonings	HP_0001373	Joint dislocation	False													62.07170632573101	True	True			True		True	True	True
+830	Dislocation	injuries & poisonings	HP_0001373	Joint dislocation	False								True					62.07170632573101	True	True			True		True	True	True
 840	Sprains and strains	injuries & poisonings	HP_0032191	Torn meniscus	False													17.050809837468186			True	True		True		True	True
 870.1	Open wound or laceration of eye or eyelid	injuries & poisonings	HP_0025608	Cicatricial ectropion	False													35.535563932357704									True
 870.1	Open wound or laceration of eye or eyelid	injuries & poisonings	HP_0011410	Caesarian section	False													16.04203454535692									True
@@ -1160,75 +1177,75 @@ phecode1.2_code	phecode1.2_label	phecode1.2_category	hpo_code	hpo_label	hpo_chil
 427.42	Cardiac arrest	circulatory system	HP_0001663	Ventricular fibrillation	False													20.407256195667287									True
 427.42	Cardiac arrest	circulatory system	HP_0001695	Cardiac arrest	False	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	56.604644012270136	True	True	True	True	True	True	True	True	True
 427.42	Cardiac arrest	circulatory system	HP_0031628	Aborted sudden cardiac death	True	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	56.604644012270136	True	True	True	True	True	True	True	True	True
-427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0001645	Sudden cardiac death	True							True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
-427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0011704	Sick sinus syndrome	True							True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
-427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0012723	Sinoatrial block	True							True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
-427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0001649	Tachycardia	True							True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
-427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0001662	Bradycardia	True							True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
-427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0001663	Ventricular fibrillation	True							True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
-427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0001664	Torsade de pointes	True							True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
-427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0001688	Sinus bradycardia	True							True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
-427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0001692	Atrial arrhythmia	True							True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
-427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0001695	Cardiac arrest	True							True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
-427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0001716	Wolff-Parkinson-White syndrome	True							True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
-427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0001962	Palpitations	True							True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
-427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0004308	Ventricular arrhythmia	True							True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
-427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0004309	Ventricular preexcitation	True							True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
-427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0004749	Atrial flutter	True							True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
-427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0004751	Paroxysmal ventricular tachycardia	True							True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
-427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0004754	Permanent atrial fibrillation	True							True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
-427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0004755	Supraventricular tachycardia	True							True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
-427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0004756	Ventricular tachycardia	True							True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
-427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0004757	Paroxysmal atrial fibrillation	True							True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
-427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0004758	Effort-induced polymorphic ventricular tachycardia	True							True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
-427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0004763	Paroxysmal supraventricular tachycardia	True							True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
-427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0005110	Atrial fibrillation	True							True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
-427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0005115	Supraventricular arrhythmia	True							True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
-427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0005147	Bidirectional ventricular ectopy	True							True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
-427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0005155	Ventricular escape rhythm	True							True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
-427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0006671	Paroxysmal atrial tachycardia	True							True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
-427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0006682	Premature ventricular contraction	True							True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
-427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0006684	Ventricular preexcitation with multiple accessory pathways	True							True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
-427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0006688	Paroxysmal tachycardia	True							True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
-427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0006696	Polymorphic and polytopic ventricular extrasystoles	True							True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
-427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0006699	Premature atrial contractions	True							True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
-427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0011675	Arrhythmia	False							True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
-427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0011687	AV nodal tachycardia	True							True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
-427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0011688	Supraventricular tachycardia with an accessory connection mediated pathway	True							True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
-427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0011689	Supraventricular tachycardia with a concealed accessory connection	True							True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
-427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0011690	Permanent junctional reciprocating tachycardia	True							True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
-427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0011691	Supraventricular tachycardia with a concealed accessory pathway on the left free wall	True							True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
-427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0011692	Supraventricular tachycardia with a concealed accessory pathway on the right free wall	True							True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
-427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0011693	Supraventricular tachycardia with a concealed accessory pathway on the septum	True							True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
-427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0011694	Supraventricular tachycardia with a manifest accessory pathway	True							True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
-427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0011696	Supraventricular tachycardia with a manifest accessory pathway on the left free wall	True							True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
-427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0011697	Supraventricular tachycardia with a manifest accessory pathway on the right free wall	True							True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
-427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0011698	Supraventricular tachycardia with a manifest accessory pathway on the septum	True							True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
-427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0011699	Atrial reentry tachycardia	True							True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
-427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0011700	Automatic atrial tachycardia	True							True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
-427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0011701	Multifocal atrial tachycardia	True							True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
-427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0011702	Abnormal electrophysiology of sinoatrial node origin	True							True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
-427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0011703	Sinus tachycardia	True							True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
-427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0011716	Junctional ectopic tachycardia	True							True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
-427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0011717	Atrioventricular reentrant tachycardia	True							True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
-427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0011725	Chaotic multifocal atrial tachycardia	True							True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
-427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0011841	Ventricular flutter	True							True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
-427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0025478	Atrial standstill	True							True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
-427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0031628	Aborted sudden cardiac death	True							True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
-427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0031671	Typical atrial flutter	True							True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
-427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0031672	Reverse typical atrial flutter	True							True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
-427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0031673	Orthodromic atrioventricular reentrant tachycardia	True							True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
-427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0031674	Antidromic atrioventricular reentrant tachycardia	True							True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
-427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0031675	Fascicular left ventricular tachycardia	True							True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
-427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0031676	Monomorphic ventricular tachycardia	True							True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
-427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0031677	Polymorphic ventricular tachycardia	True							True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
-427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0031860	Abnormal heart rate variability	True							True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
-427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0031861	Decreased heart rate variability	True							True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
-427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0031862	Increased heart rate variability	True							True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
-427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0034039	Ventricular couplet	True							True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
-427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0034040	Bidirectional ventricular tachycardia	True							True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
-427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0034041	Ventricular ectopy	True							True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
-427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0040182	Inappropriate sinus tachycardia	True							True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
+427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0001645	Sudden cardiac death	True		True	True				True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
+427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0011704	Sick sinus syndrome	True		True	True				True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
+427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0012723	Sinoatrial block	True		True	True				True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
+427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0001649	Tachycardia	True		True	True				True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
+427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0001662	Bradycardia	True		True	True				True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
+427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0001663	Ventricular fibrillation	True		True	True				True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
+427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0001664	Torsade de pointes	True		True	True				True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
+427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0001688	Sinus bradycardia	True		True	True				True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
+427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0001692	Atrial arrhythmia	True		True	True				True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
+427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0001695	Cardiac arrest	True		True	True				True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
+427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0001716	Wolff-Parkinson-White syndrome	True		True	True				True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
+427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0001962	Palpitations	True		True	True				True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
+427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0004308	Ventricular arrhythmia	True		True	True				True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
+427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0004309	Ventricular preexcitation	True		True	True				True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
+427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0004749	Atrial flutter	True		True	True				True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
+427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0004751	Paroxysmal ventricular tachycardia	True		True	True				True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
+427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0004754	Permanent atrial fibrillation	True		True	True				True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
+427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0004755	Supraventricular tachycardia	True		True	True				True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
+427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0004756	Ventricular tachycardia	True		True	True				True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
+427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0004757	Paroxysmal atrial fibrillation	True		True	True				True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
+427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0004758	Effort-induced polymorphic ventricular tachycardia	True		True	True				True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
+427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0004763	Paroxysmal supraventricular tachycardia	True		True	True				True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
+427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0005110	Atrial fibrillation	True		True	True				True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
+427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0005115	Supraventricular arrhythmia	True		True	True				True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
+427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0005147	Bidirectional ventricular ectopy	True		True	True				True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
+427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0005155	Ventricular escape rhythm	True		True	True				True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
+427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0006671	Paroxysmal atrial tachycardia	True		True	True				True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
+427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0006682	Premature ventricular contraction	True		True	True				True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
+427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0006684	Ventricular preexcitation with multiple accessory pathways	True		True	True				True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
+427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0006688	Paroxysmal tachycardia	True		True	True				True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
+427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0006696	Polymorphic and polytopic ventricular extrasystoles	True		True	True				True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
+427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0006699	Premature atrial contractions	True		True	True				True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
+427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0011675	Arrhythmia	False		True	True				True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
+427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0011687	AV nodal tachycardia	True		True	True				True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
+427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0011688	Supraventricular tachycardia with an accessory connection mediated pathway	True		True	True				True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
+427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0011689	Supraventricular tachycardia with a concealed accessory connection	True		True	True				True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
+427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0011690	Permanent junctional reciprocating tachycardia	True		True	True				True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
+427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0011691	Supraventricular tachycardia with a concealed accessory pathway on the left free wall	True		True	True				True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
+427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0011692	Supraventricular tachycardia with a concealed accessory pathway on the right free wall	True		True	True				True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
+427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0011693	Supraventricular tachycardia with a concealed accessory pathway on the septum	True		True	True				True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
+427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0011694	Supraventricular tachycardia with a manifest accessory pathway	True		True	True				True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
+427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0011696	Supraventricular tachycardia with a manifest accessory pathway on the left free wall	True		True	True				True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
+427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0011697	Supraventricular tachycardia with a manifest accessory pathway on the right free wall	True		True	True				True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
+427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0011698	Supraventricular tachycardia with a manifest accessory pathway on the septum	True		True	True				True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
+427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0011699	Atrial reentry tachycardia	True		True	True				True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
+427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0011700	Automatic atrial tachycardia	True		True	True				True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
+427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0011701	Multifocal atrial tachycardia	True		True	True				True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
+427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0011702	Abnormal electrophysiology of sinoatrial node origin	True		True	True				True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
+427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0011703	Sinus tachycardia	True		True	True				True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
+427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0011716	Junctional ectopic tachycardia	True		True	True				True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
+427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0011717	Atrioventricular reentrant tachycardia	True		True	True				True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
+427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0011725	Chaotic multifocal atrial tachycardia	True		True	True				True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
+427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0011841	Ventricular flutter	True		True	True				True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
+427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0025478	Atrial standstill	True		True	True				True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
+427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0031628	Aborted sudden cardiac death	True		True	True				True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
+427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0031671	Typical atrial flutter	True		True	True				True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
+427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0031672	Reverse typical atrial flutter	True		True	True				True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
+427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0031673	Orthodromic atrioventricular reentrant tachycardia	True		True	True				True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
+427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0031674	Antidromic atrioventricular reentrant tachycardia	True		True	True				True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
+427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0031675	Fascicular left ventricular tachycardia	True		True	True				True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
+427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0031676	Monomorphic ventricular tachycardia	True		True	True				True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
+427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0031677	Polymorphic ventricular tachycardia	True		True	True				True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
+427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0031860	Abnormal heart rate variability	True		True	True				True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
+427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0031861	Decreased heart rate variability	True		True	True				True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
+427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0031862	Increased heart rate variability	True		True	True				True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
+427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0034039	Ventricular couplet	True		True	True				True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
+427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0034040	Bidirectional ventricular tachycardia	True		True	True				True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
+427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0034041	Ventricular ectopy	True		True	True				True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
+427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0040182	Inappropriate sinus tachycardia	True		True	True				True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
 427.8	Sinoatrial node dysfunction (Bradycardia)	circulatory system	HP_0000407	Sensorineural hearing impairment	False													37.121393590412325									True
 427.8	Sinoatrial node dysfunction (Bradycardia)	circulatory system	HP_0011675	Arrhythmia	False													16.24405462738301									True
 427.9	Palpitations	circulatory system	HP_0001962	Palpitations	True	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	90.99241496110285	True	True	True	True	True	True	True	True	True
@@ -1378,11 +1395,11 @@ phecode1.2_code	phecode1.2_label	phecode1.2_category	hpo_code	hpo_label	hpo_chil
 743.9	Osteopenia or other disorder of bone and cartilage	musculoskeletal	HP_0000939	Osteoporosis	False													26.89972910478705									True
 743.9	Osteopenia or other disorder of bone and cartilage	musculoskeletal	HP_0000938	Osteopenia	False													92.7111512670196					True		True	True	True
 800	Fracture of lower limb	injuries & poisonings	HP_0020110	Bone fracture	False													28.989244704617914	True	True						True	True
-800	Fracture of lower limb	injuries & poisonings	HP_0041081	Fractured lower leg	False										100.0		100.0	26.084021315337978	True	True					True	True	True
+800	Fracture of lower limb	injuries & poisonings	HP_0041081	Fractured lower leg	False		True							True	100.0		100.0	26.084021315337978	True	True					True	True	True
 800	Fracture of lower limb	injuries & poisonings	HP_0041153	Fractured ankle	False													46.02724375343943			True	True			True	True	True
 800.1	Fracture of neck of femur	injuries & poisonings	HP_0020110	Bone fracture	False													17.491485367483946	True	True						True	True
 800.2	Fracture of unspecified part of femur	injuries & poisonings	HP_0020110	Bone fracture	False													37.017220414785655	True	True						True	True
-800.2	Fracture of unspecified part of femur	injuries & poisonings	HP_0031846	Femur fracture	False										80.0		100.0	20.47640146817388			True	True		True		True	True
+800.2	Fracture of unspecified part of femur	injuries & poisonings	HP_0031846	Femur fracture	False								True		80.0		100.0	20.47640146817388			True	True		True		True	True
 800.3	Fracture of tibia and fibula	injuries & poisonings	HP_0020110	Bone fracture	False													35.935362759006665	True	True						True	True
 800.3	Fracture of tibia and fibula	injuries & poisonings	HP_0041081	Fractured lower leg	False													82.9906469167032	True	True					True	True	True
 800.3	Fracture of tibia and fibula	injuries & poisonings	HP_0003097	Short femur	False													15.32546393967628									True
@@ -1397,20 +1414,20 @@ phecode1.2_code	phecode1.2_label	phecode1.2_category	hpo_code	hpo_label	hpo_chil
 802	Fracture of pelvis	injuries & poisonings	HP_0020110	Bone fracture	False													18.193550764405504	True	True						True	True
 803	Fracture of upper limb	injuries & poisonings	HP_0020110	Bone fracture	False													14.398168428476412	True	True						True	True
 803	Fracture of upper limb	injuries & poisonings	HP_0002986	Radial bowing	False													26.882155908063048									True
-803	Fracture of upper limb	injuries & poisonings	HP_0003961	Fractured forearm bones	False												100.0	30.74853205927765			True	True				True	True
+803	Fracture of upper limb	injuries & poisonings	HP_0003961	Fractured forearm bones	False									True			100.0	30.74853205927765			True	True				True	True
 803.1	Fracture of humerus	injuries & poisonings	HP_0020110	Bone fracture	False													37.529934308777854	True	True						True	True
 803.1	Fracture of humerus	injuries & poisonings	HP_0041217	Fractured shoulder	False													23.47506753090435			True	True				True	True
-803.1	Fracture of humerus	injuries & poisonings	HP_0033262	Transphyseal fracture of the distal humerus	True										100.0	100.0	83.33	32.509773455362485	True	True	True	True		True	True	True	True
-803.1	Fracture of humerus	injuries & poisonings	HP_0041055	Fractured humerus	False										100.0	100.0	83.33	32.509773455362485	True	True	True	True		True	True	True	True
-803.1	Fracture of humerus	injuries & poisonings	HP_0041088	Avulsion fractured humerus	True										100.0	100.0	83.33	32.509773455362485	True	True	True	True		True	True	True	True
+803.1	Fracture of humerus	injuries & poisonings	HP_0033262	Transphyseal fracture of the distal humerus	True		True	True		True	True				100.0	100.0	83.33	32.509773455362485	True	True	True	True		True	True	True	True
+803.1	Fracture of humerus	injuries & poisonings	HP_0041055	Fractured humerus	False		True	True		True	True				100.0	100.0	83.33	32.509773455362485	True	True	True	True		True	True	True	True
+803.1	Fracture of humerus	injuries & poisonings	HP_0041088	Avulsion fractured humerus	True		True	True		True	True				100.0	100.0	83.33	32.509773455362485	True	True	True	True		True	True	True	True
 803.1	Fracture of humerus	injuries & poisonings	HP_0041219	Fractured elbow	False													23.47506753090435			True	True				True	True
 803.2	Fracture of radius and ulna	injuries & poisonings	HP_0020110	Bone fracture	False													14.398168428476412	True	True						True	True
 803.2	Fracture of radius and ulna	injuries & poisonings	HP_0002986	Radial bowing	False													26.882155908063048									True
-803.2	Fracture of radius and ulna	injuries & poisonings	HP_0003961	Fractured forearm bones	False												100.0	30.74853205927765			True	True				True	True
+803.2	Fracture of radius and ulna	injuries & poisonings	HP_0003961	Fractured forearm bones	False									True			100.0	30.74853205927765			True	True				True	True
 803.3	Fracture of clavicle or scapula	injuries & poisonings	HP_0020110	Bone fracture	False													25.139970718304358	True	True						True	True
 803.3	Fracture of clavicle or scapula	injuries & poisonings	HP_0041244	Fractured scapula	False										80.0	100.0	100.0	43.3866203286814	True	True	True	True	True	True	True	True	True
 804	Fracture of hand or wrist	injuries & poisonings	HP_0020110	Bone fracture	False													15.315506302453597	True	True						True	True
-804	Fracture of hand or wrist	injuries & poisonings	HP_0041248	Fractured carpal bone	False										84.85	100.0	84.85	22.47262234090413	True	True						True	True
+804	Fracture of hand or wrist	injuries & poisonings	HP_0041248	Fractured carpal bone	False					True					84.85	100.0	84.85	22.47262234090413	True	True						True	True
 805	Fracture of vertebral column without mention of spinal cord injury	injuries & poisonings	HP_0030207	Paradoxical respiration	False													23.10337952370986			True	True		True		True	True
 805	Fracture of vertebral column without mention of spinal cord injury	injuries & poisonings	HP_0041246	Fractured sternum	False												100.0	21.866497687852487			True	True				True	True
 807	Fracture of ribs	injuries & poisonings	HP_0020110	Bone fracture	False													17.458181394137636	True	True						True	True
@@ -1498,7 +1515,7 @@ phecode1.2_code	phecode1.2_label	phecode1.2_category	hpo_code	hpo_label	hpo_chil
 350.2	Abnormality of gait	neurological	HP_0034052	Impaired toe-walking ability	True										100.0	100.0	80.0		True	True			True		True	True	True
 741.3	Difficulty in walking	musculoskeletal	HP_0002355	Difficulty walking	True	True	True	True	True	True	True				100.0	100.0			True	True			True		True	True	True
 300.3	Obsessive-compulsive disorders	mental disorders	HP_0000722	Obsessive-compulsive behavior	False													87.32005297370439	True	True	True	True			True	True	True
-110.1	Dermatophytosis	infectious diseases	HP_0032515	Deep dermatophytosis	False			True						True	85.71	88.89	85.71		True	True					True	True	True
+110.1	Dermatophytosis	infectious diseases	HP_0032515	Deep dermatophytosis	False			True		True				True	85.71	88.89	85.71		True	True					True	True	True
 110.11	Dermatophytosis of nail	infectious diseases	HP_0012203	Onychomycosis	False													102.29188677337416		True	True	True	True	True	True	True	True
 1100	Family history		HP_0000939	Osteoporosis	False													25.90738621694027									True
 1100	Family history		HP_0032316	Family history	False	True	True	True							100.0										True	True	True
@@ -1572,9 +1589,9 @@ phecode1.2_code	phecode1.2_label	phecode1.2_category	hpo_code	hpo_label	hpo_chil
 374.1	Ectropion or entropion	sense organs	HP_0000656	Ectropion	False				True	True	True					100.0	87.18	63.10358274033707	True	True	True	True	True	True	True	True	True
 332	Parkinson's disease	neurological	HP_0001300	Parkinsonism	False													14.860915984539455					True				True
 198	Secondary malignant neoplasm	neoplasms	HP_0100634	Neuroendocrine neoplasm	False													26.235795016496745	True	True						True	True
-149.4	Cancer of larynx	neoplasms	HP_0012118	Laryngeal carcinoma	True										100.0	82.05	82.05						True	True	True	True	True
+149.4	Cancer of larynx	neoplasms	HP_0012118	Laryngeal carcinoma	True			True							100.0	82.05	82.05						True	True	True	True	True
 150	Cancer of esophagus	neoplasms	HP_0100751	Esophageal neoplasm	False													61.51714068482668					True	True	True	True	True
-151	Cancer of stomach	neoplasms	HP_0012126	Stomach cancer	True										100.0	82.93	82.93	22.346705998880893	True	True	True	True	True	True	True	True	True
+151	Cancer of stomach	neoplasms	HP_0012126	Stomach cancer	True		True								100.0	82.93	82.93	22.346705998880893	True	True	True	True	True	True	True	True	True
 153.2	Colon cancer	neoplasms	HP_0003003	Colon cancer	False	True	True	True							100.0				True	True	True	True	True	True	True	True	True
 155	Cancer of liver and intrahepatic bile duct	neoplasms	HP_0002896	Neoplasm of the liver	False													22.75068509846934	True	True	True	True	True	True		True	True
 155	Cancer of liver and intrahepatic bile duct	neoplasms	HP_0030153	Cholangiocarcinoma	False													89.07512283703596			True	True	True	True	True	True	True
@@ -1583,8 +1600,9 @@ phecode1.2_code	phecode1.2_label	phecode1.2_category	hpo_code	hpo_label	hpo_chil
 159.4	Malignant neoplasm of retroperitoneum and peritoneum	neoplasms	HP_0100001	Malignant mesothelioma	False													20.748380118999034									True
 164	Cancer of intrathoracic organs	neoplasms	HP_0002666	Pheochromocytoma	False													60.842261932781255							True	True	True
 165.1	Cancer of bronchus; lung	neoplasms	HP_0100526	Neoplasm of the lung	False													26.15174973462133			True	True				True	True
+170	Cancer of bone and connective tissue	neoplasms	HP_0100242	Sarcoma	False		True								89.36										True	True	True
 170	Cancer of bone and connective tissue	neoplasms	HP_0100246	Osteoma	False													44.045852999448414							True	True	True
-170.1	Bone cancer	neoplasms	HP_0002669	Osteosarcoma	False										82.76			35.083009802541774						True			True
+170.1	Bone cancer	neoplasms	HP_0002669	Osteosarcoma	False			True							82.76			35.083009802541774						True	True	True	True
 170.1	Bone cancer	neoplasms	HP_0006765	Chondrosarcoma	False													37.90255485513122					True				True
 170.1	Bone cancer	neoplasms	HP_0100246	Osteoma	False													14.468149290456614									True
 170.2	Cancer of connective tissue	neoplasms	HP_0200058	Angiosarcoma	True	True	True	True							100.0			30.917184350121016					True		True	True	True
@@ -1644,15 +1662,15 @@ phecode1.2_code	phecode1.2_label	phecode1.2_category	hpo_code	hpo_label	hpo_chil
 184.1	Malignant neoplasm of ovary and other uterine adnexa	neoplasms	HP_0100615	Ovarian neoplasm	False											81.08	81.08	23.792610904665647	True	True	True	True				True	True
 184.1	Malignant neoplasm of ovary and other uterine adnexa	neoplasms	HP_0100768	Choriocarcinoma	False													18.516085884176274			True	True	True	True		True	True
 184.11	Malignant neoplasm of ovary	neoplasms	HP_0100615	Ovarian neoplasm	False										81.08	81.08	81.08	29.970663776083608	True	True	True	True				True	True
-185	Cancer of prostate	neoplasms	HP_0012125	Prostate cancer	True										100.0	82.93	82.93	56.00939061240923	True	True	True	True	True	True	True	True	True
+185	Cancer of prostate	neoplasms	HP_0012125	Prostate cancer	True		True								100.0	82.93	82.93	56.00939061240923	True	True	True	True	True	True	True	True	True
 187.2	Malignant neoplasm of testis	neoplasms	HP_0010788	Testicular neoplasm	False													72.02220387514137	True	True	True	True	True	True	True	True	True
 187.8	Neoplasm of uncertain behavior of male genital organs	neoplasms	HP_0012125	Prostate cancer	False													16.360434351428726									True
 189.1	Cancer of kidney and renal pelvis	neoplasms	HP_0009726	Renal neoplasm	False													85.8690211732474							True	True	True
 189.11	Malignant neoplasm of kidney, except pelvis	neoplasms	HP_0009726	Renal neoplasm	False													34.14998517611757									True
 189.12	Malignant neoplasm of renal pelvis	neoplasms	HP_0009726	Renal neoplasm	False													85.8690211732474							True	True	True
-189.2	Cancer of bladder	neoplasms	HP_0002862	Bladder carcinoma	True										100.0	87.8	87.8	76.09606225710519					True	True	True	True	True
-189.2	Cancer of bladder	neoplasms	HP_0006740	Transitional cell carcinoma of the bladder	True										100.0	87.8	87.8	76.09606225710519					True	True	True	True	True
-189.2	Cancer of bladder	neoplasms	HP_0009725	Bladder neoplasm	False										100.0	82.93	82.93	76.09606225710519					True	True	True	True	True
+189.2	Cancer of bladder	neoplasms	HP_0002862	Bladder carcinoma	True		True								100.0	87.8	87.8	76.09606225710519					True	True	True	True	True
+189.2	Cancer of bladder	neoplasms	HP_0006740	Transitional cell carcinoma of the bladder	True		True								100.0	87.8	87.8	76.09606225710519					True	True	True	True	True
+189.2	Cancer of bladder	neoplasms	HP_0009725	Bladder neoplasm	False		True								100.0	82.93	82.93	76.09606225710519					True	True	True	True	True
 189.21	Malignant neoplasm of bladder	neoplasms	HP_0009725	Bladder neoplasm	False										82.93	82.93	82.93	71.39271815177223					True	True	True	True	True
 189.4	Malignant neoplasm of other urinary organs	neoplasms	HP_0100516	Neoplasm of the ureter	False											80.0	80.0	18.78955471731333	True	True	True	True				True	True
 189.4	Malignant neoplasm of other urinary organs	neoplasms	HP_0009726	Renal neoplasm	False													43.04690228298342									True
@@ -1715,16 +1733,16 @@ phecode1.2_code	phecode1.2_label	phecode1.2_category	hpo_code	hpo_label	hpo_chil
 204	Leukemia	neoplasms	HP_0012325	Chronic myelomonocytic leukemia	True	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	35.829569330414834	True	True	True	True	True	True	True	True	True
 204.1	Lymphoid leukemia	neoplasms	HP_0005526	Lymphoid leukemia	True	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	58.0559124744137	True	True	True	True	True	True	True	True	True
 204.1	Lymphoid leukemia	neoplasms	HP_0005539	T cell chronic lymphocytic lymphoma/leukemia	True	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	58.0559124744137	True	True	True	True	True	True	True	True	True
-204.11	Lymphoid leukemia, acute	neoplasms	HP_0004812	B Acute Lymphoblastic Leukemia	True					True			True		100.0	100.0	100.0	21.071755604627747	True	True	True	True	True	True	True	True	True
-204.11	Lymphoid leukemia, acute	neoplasms	HP_0004848	Ph-positive acute lymphoblastic leukemia	True					True			True		100.0	100.0	100.0	21.071755604627747	True	True	True	True	True	True	True	True	True
-204.11	Lymphoid leukemia, acute	neoplasms	HP_0006721	Acute lymphoblastic leukemia	True					True			True		100.0	100.0	100.0	21.071755604627747	True	True	True	True	True	True	True	True	True
-204.11	Lymphoid leukemia, acute	neoplasms	HP_0006727	T-cell acute lymphoblastic leukemias	True					True			True		100.0	100.0	100.0	21.071755604627747	True	True	True	True	True	True	True	True	True
+204.11	Lymphoid leukemia, acute	neoplasms	HP_0004812	B Acute Lymphoblastic Leukemia	True		True	True		True	True		True		100.0	100.0	100.0	21.071755604627747	True	True	True	True	True	True	True	True	True
+204.11	Lymphoid leukemia, acute	neoplasms	HP_0004848	Ph-positive acute lymphoblastic leukemia	True		True	True		True	True		True		100.0	100.0	100.0	21.071755604627747	True	True	True	True	True	True	True	True	True
+204.11	Lymphoid leukemia, acute	neoplasms	HP_0006721	Acute lymphoblastic leukemia	True		True	True		True	True		True		100.0	100.0	100.0	21.071755604627747	True	True	True	True	True	True	True	True	True
+204.11	Lymphoid leukemia, acute	neoplasms	HP_0006727	T-cell acute lymphoblastic leukemias	True		True	True		True	True		True		100.0	100.0	100.0	21.071755604627747	True	True	True	True	True	True	True	True	True
 204.2	Myeloid leukemia	neoplasms	HP_0004820	Acute myelomonocytic leukemia	True	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
 204.2	Myeloid leukemia	neoplasms	HP_0012209	Juvenile myelomonocytic leukemia	True	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
 204.2	Myeloid leukemia	neoplasms	HP_0012324	Myeloid leukemia	True	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
 204.2	Myeloid leukemia	neoplasms	HP_0012325	Chronic myelomonocytic leukemia	True	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
-204.21	Myeloid leukemia, acute	neoplasms	HP_0004808	Acute myeloid leukemia	True							True	True	True	100.0	100.0	100.0	37.44893474579969	True	True	True	True	True	True	True	True	True
-204.22	Myeloid leukemia, chronic	neoplasms	HP_0005506	Chronic myelogenous leukemia	True					True					100.0	100.0		105.47906697488057	True	True	True	True	True	True	True	True	True
+204.21	Myeloid leukemia, acute	neoplasms	HP_0004808	Acute myeloid leukemia	True		True	True		True	True	True	True	True	100.0	100.0	100.0	37.44893474579969	True	True	True	True	True	True	True	True	True
+204.22	Myeloid leukemia, chronic	neoplasms	HP_0005506	Chronic myelogenous leukemia	True		True	True		True	True				100.0	100.0		105.47906697488057	True	True	True	True	True	True	True	True	True
 204.4	Multiple myeloma	neoplasms	HP_0006775	Multiple myeloma	True	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	67.60659620001182	True	True	True	True	True	True	True	True	True
 209	Neuroendocrine tumors	neoplasms	HP_0100634	Neuroendocrine neoplasm	False													23.77620940761989	True	True	True	True				True	True
 230	Kaposi's sarcoma	neoplasms	HP_0100726	Kaposi's sarcoma	False	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	158.4797305183787	True	True	True	True			True	True	True
@@ -1790,7 +1808,7 @@ phecode1.2_code	phecode1.2_label	phecode1.2_category	hpo_code	hpo_label	hpo_chil
 751.1	Congenital anomalies of genital organs	congenital anomalies	HP_0000062	Ambiguous genitalia	False													60.35223272129709			True	True			True	True	True
 751.1	Congenital anomalies of genital organs	congenital anomalies	HP_0030869	Anorchism	False													16.30691076051853				True	True	True			True
 751.11	Congenital anomalies of female genital organs	congenital anomalies	HP_0000148	Vaginal atresia	False													23.926074570600978		True		True					True
-751.11	Congenital anomalies of female genital organs	congenital anomalies	HP_0003250	Aplasia of the vagina	False												100.0	23.926074570600978		True		True				True	True
+751.11	Congenital anomalies of female genital organs	congenital anomalies	HP_0003250	Aplasia of the vagina	False									True			100.0	23.926074570600978		True		True				True	True
 751.11	Congenital anomalies of female genital organs	congenital anomalies	HP_0030011	Imperforate hymen	False				True	True	True	True	True	True		100.0	100.0	41.126323291893726	True	True	True	True	True	True		True	True
 634	Miscarriage; stillbirth	pregnancy complications	HP_0032192	Hydatidiform mole	False				True	True	True	True	True	True		100.0	100.0	27.049006892528872	True	True	True	True	True	True		True	True
 634.1	Missed abortion/Hydatidiform mole	pregnancy complications	HP_0032192	Hydatidiform mole	False				True	True	True	True	True	True		100.0	100.0	113.26228883794843	True	True	True	True	True	True	True	True	True
@@ -1829,18 +1847,18 @@ phecode1.2_code	phecode1.2_label	phecode1.2_category	hpo_code	hpo_label	hpo_chil
 760	Back pain	symptoms	HP_0003419	Low back pain	True	True	True	True				True	True	True	100.0		100.0	36.479662341683685	True	True	True	True	True	True	True	True	True
 760	Back pain	symptoms	HP_0011868	Sciatica	True	True	True	True					True		100.0			36.479662341683685	True	True	True	True	True	True	True	True	True
 760	Back pain	symptoms	HP_0033746	Intrascapular pain	True	True	True	True					True		100.0			36.479662341683685	True	True	True	True	True	True	True	True	True
-773	Pain in limb	symptoms	HP_0009763	Limb pain	False										100.0	100.0	100.0		True	True	True	True			True	True	True
-773	Pain in limb	symptoms	HP_0012513	Upper limb pain	True										100.0	100.0	100.0		True	True	True	True			True	True	True
-773	Pain in limb	symptoms	HP_0012514	Lower limb pain	True										100.0	100.0	100.0	22.30987107033087	True	True	True	True			True	True	True
-773	Pain in limb	symptoms	HP_0025238	Foot pain	True										100.0	100.0	100.0	22.30987107033087	True	True	True	True			True	True	True
-773	Pain in limb	symptoms	HP_0030835	Elbow pain	True										100.0	100.0	100.0		True	True	True	True			True	True	True
-773	Pain in limb	symptoms	HP_0030836	Wrist pain	True										100.0	100.0	100.0		True	True	True	True			True	True	True
-773	Pain in limb	symptoms	HP_0030837	Finger pain	True										100.0	100.0	100.0		True	True	True	True			True	True	True
-773	Pain in limb	symptoms	HP_0030839	Knee pain	True										100.0	100.0	100.0	22.30987107033087	True	True	True	True			True	True	True
-773	Pain in limb	symptoms	HP_0030840	Ankle pain	True										100.0	100.0	100.0	22.30987107033087	True	True	True	True			True	True	True
-773	Pain in limb	symptoms	HP_0030841	Toe pain	True										100.0	100.0	100.0	22.30987107033087	True	True	True	True			True	True	True
-773	Pain in limb	symptoms	HP_0032102	Wilson sign	True										100.0	100.0	100.0	22.30987107033087	True	True	True	True			True	True	True
-773	Pain in limb	symptoms	HP_0046505	Hand pain	True										100.0	100.0	100.0		True	True	True	True			True	True	True
+773	Pain in limb	symptoms	HP_0009763	Limb pain	False		True			True			True		100.0	100.0	100.0		True	True	True	True			True	True	True
+773	Pain in limb	symptoms	HP_0012513	Upper limb pain	True		True			True			True		100.0	100.0	100.0		True	True	True	True			True	True	True
+773	Pain in limb	symptoms	HP_0012514	Lower limb pain	True		True			True			True		100.0	100.0	100.0	22.30987107033087	True	True	True	True			True	True	True
+773	Pain in limb	symptoms	HP_0025238	Foot pain	True		True			True			True		100.0	100.0	100.0	22.30987107033087	True	True	True	True			True	True	True
+773	Pain in limb	symptoms	HP_0030835	Elbow pain	True		True			True			True		100.0	100.0	100.0		True	True	True	True			True	True	True
+773	Pain in limb	symptoms	HP_0030836	Wrist pain	True		True			True			True		100.0	100.0	100.0		True	True	True	True			True	True	True
+773	Pain in limb	symptoms	HP_0030837	Finger pain	True		True			True			True		100.0	100.0	100.0		True	True	True	True			True	True	True
+773	Pain in limb	symptoms	HP_0030839	Knee pain	True		True			True			True		100.0	100.0	100.0	22.30987107033087	True	True	True	True			True	True	True
+773	Pain in limb	symptoms	HP_0030840	Ankle pain	True		True			True			True		100.0	100.0	100.0	22.30987107033087	True	True	True	True			True	True	True
+773	Pain in limb	symptoms	HP_0030841	Toe pain	True		True			True			True		100.0	100.0	100.0	22.30987107033087	True	True	True	True			True	True	True
+773	Pain in limb	symptoms	HP_0032102	Wilson sign	True		True			True			True		100.0	100.0	100.0	22.30987107033087	True	True	True	True			True	True	True
+773	Pain in limb	symptoms	HP_0046505	Hand pain	True		True			True			True		100.0	100.0	100.0		True	True	True	True			True	True	True
 764	Sciatica	symptoms	HP_0011868	Sciatica	False	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	93.2247835917932	True	True	True	True	True	True	True	True	True
 306.9	Tension headache	mental disorders	HP_0002315	Headache	False													75.6824835826599							True	True	True
 339	Other headache syndromes	neurological	HP_0002315	Headache	False				True	True	True	True	True	True		100.0	100.0	67.43591642782786	True	True	True	True	True	True	True	True	True
@@ -2158,6 +2176,7 @@ phecode1.2_code	phecode1.2_label	phecode1.2_category	hpo_code	hpo_label	hpo_chil
 264.1	Short stature	endocrine/metabolic	HP_0011406	Infancy onset short-trunk short stature	True	True	True	True	True	True	True		True		100.0	100.0		29.04424452721759	True	True	True	True	True		True	True	True
 264.1	Short stature	endocrine/metabolic	HP_0012106	Rhizomelic leg shortening	True	True	True	True	True	True	True		True		100.0	100.0		29.04424452721759	True	True	True	True	True		True	True	True
 264.3	Delayed milestones	endocrine/metabolic	HP_0001263	Global developmental delay	False	True	True	True	True	True	True				100.0	100.0							True	True	True	True	True
+264.3	Delayed milestones	endocrine/metabolic	HP_0001270	Motor delay	False			True			True														True	True	True
 264.3	Delayed milestones	endocrine/metabolic	HP_0011342	Mild global developmental delay	True	True	True	True	True	True	True				100.0	100.0							True	True	True	True	True
 264.3	Delayed milestones	endocrine/metabolic	HP_0011343	Moderate global developmental delay	True	True	True	True	True	True	True				100.0	100.0							True	True	True	True	True
 264.3	Delayed milestones	endocrine/metabolic	HP_0011344	Severe global developmental delay	True	True	True	True	True	True	True				100.0	100.0							True	True	True	True	True
@@ -2167,7 +2186,7 @@ phecode1.2_code	phecode1.2_label	phecode1.2_category	hpo_code	hpo_label	hpo_chil
 253.3	Diabetes insipidus	endocrine/metabolic	HP_0009806	Nephrogenic diabetes insipidus	True	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	78.15985971088904	True	True	True	True	True	True	True	True	True
 276.8	Polydipsia	endocrine/metabolic	HP_0000873	Diabetes insipidus	False													21.867786348902545									True
 276.8	Polydipsia	endocrine/metabolic	HP_0001959	Polydipsia	False	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	90.91264312962312	True	True	True	True	True	True	True	True	True
-253.7	Other disorders of neurohypophysis	endocrine/metabolic	HP_0031218	Inappropriate antidiuretic hormone secretion	False												90.0	101.48110126484848			True	True			True	True	True
+253.7	Other disorders of neurohypophysis	endocrine/metabolic	HP_0031218	Inappropriate antidiuretic hormone secretion	False								True				90.0	101.48110126484848			True	True			True	True	True
 253.7	Other disorders of neurohypophysis	endocrine/metabolic	HP_0002902	Hyponatremia	False													48.93940173054936							True	True	True
 276.12	Hyposmolality and/or hyponatremia	endocrine/metabolic	HP_0031218	Inappropriate antidiuretic hormone secretion	False													23.31618606456977									True
 276.12	Hyposmolality and/or hyponatremia	endocrine/metabolic	HP_0002902	Hyponatremia	False													128.2109524455205			True	True	True	True	True	True	True
@@ -2241,9 +2260,9 @@ phecode1.2_code	phecode1.2_label	phecode1.2_category	hpo_code	hpo_label	hpo_chil
 261.41	Rickets or osteomalacia	endocrine/metabolic	HP_0002748	Rickets	False													45.49897957287479			True	True			True	True	True
 261.41	Rickets or osteomalacia	endocrine/metabolic	HP_0100512	Low levels of vitamin D	False													20.855772092559306									True
 732	Osteochondropathies	musculoskeletal	HP_0005743	Avascular necrosis of the capital femoral epiphysis	False													19.601459842823466			True	True				True	True
-732	Osteochondropathies	musculoskeletal	HP_0010891	Morbus Scheuermann	False											100.0	100.0	14.344992412922617	True	True	True	True	True	True		True	True
+732	Osteochondropathies	musculoskeletal	HP_0010891	Morbus Scheuermann	False						True			True		100.0	100.0	14.344992412922617	True	True	True	True	True	True		True	True
 732.1	Juvenile osteochondrosis	musculoskeletal	HP_0005743	Avascular necrosis of the capital femoral epiphysis	False													40.261805955507185			True	True				True	True
-732.1	Juvenile osteochondrosis	musculoskeletal	HP_0010891	Morbus Scheuermann	False										88.46	100.0	100.0	35.75076061273605	True	True	True	True	True	True		True	True
+732.1	Juvenile osteochondrosis	musculoskeletal	HP_0010891	Morbus Scheuermann	False						True			True	88.46	100.0	100.0	35.75076061273605	True	True	True	True	True	True		True	True
 732.1	Juvenile osteochondrosis	musculoskeletal	HP_0040188	Osteochondrosis	False													22.20164567949098				True		True			True
 737	Curvature of spine	musculoskeletal	HP_0002751	Kyphoscoliosis	True	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	55.613705157654245		True	True	True	True	True	True	True	True
 737	Curvature of spine	musculoskeletal	HP_0002808	Kyphosis	True	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0			True	True	True	True	True	True	True	True
@@ -2325,7 +2344,7 @@ phecode1.2_code	phecode1.2_label	phecode1.2_category	hpo_code	hpo_label	hpo_chil
 288.11	Neutropenia	hematopoietic	HP_0410254	Cyclic neutropenia in myeloid maturation arrest in bone marrow	True	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
 288.11	Neutropenia	hematopoietic	HP_0410255	Transient neutropenia	True	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0			True		True	True	True	True	True	True
 288.11	Neutropenia	hematopoietic	HP_0410256	Infection associated neutropenia	True	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0			True		True	True	True	True	True	True
-288.2	Elevated white blood cell count	hematopoietic	HP_0001974	Leukocytosis	False				True	True	True				90.2	100.0	90.2	41.02452942941592	True	True	True	True				True	True
+288.2	Elevated white blood cell count	hematopoietic	HP_0001974	Leukocytosis	False		True		True	True	True		True		90.2	100.0	90.2	41.02452942941592	True	True	True	True			True	True	True
 964.1	Anticoagulants causing adverse effects	injuries & poisonings	HP_0001873	Thrombocytopenia	False													21.910369776057824									True
 270.2	Disorders of amino-acid metabolism	endocrine/metabolic	HP_0002912	Methylmalonic acidemia	False							True	True	True			100.0	43.591981374224645			True	True			True	True	True
 270.21	Disorders of urea cycle metabolism	endocrine/metabolic	HP_0001987	Hyperammonemia	False													35.79550613023529			True	True	True	True		True	True
@@ -2693,19 +2712,19 @@ phecode1.2_code	phecode1.2_label	phecode1.2_category	hpo_code	hpo_label	hpo_chil
 426.32	Left bundle branch block	circulatory system	HP_0011711	Left anterior fascicular block	True	True	True	True		True		True	True	True	100.0	100.0	100.0				True	True	True	True	True	True	True
 426.32	Left bundle branch block	circulatory system	HP_0011713	Left bundle branch block	True	True	True	True		True			True		100.0	100.0	100.0				True	True	True	True	True	True	True
 312.3	Impulse control disorder	mental disorders	HP_0012167	Hair-pulling	False													57.627724152279434					True		True	True	True
-313.1	Attention deficit hyperactivity disorder	mental disorders	HP_0007018	Attention deficit hyperactivity disorder	True	True	True	True							100.0	100.0	100.0	94.13891640758727	True	True	True	True	True	True	True	True	True
+313.1	Attention deficit hyperactivity disorder	mental disorders	HP_0007018	Attention deficit hyperactivity disorder	True	True	True	True		True					100.0	100.0	100.0	94.13891640758727	True	True	True	True	True	True	True	True	True
 599.8	Other symptoms involving urinary system	genitourinary	HP_0010677	Enuresis nocturna	False													49.147832946481934							True	True	True
 325	Phlebitis and thrombophlebitis of intracranial venous sinuses	neurological	HP_0000508	Ptosis	False													20.46658413768368									True
 371.21	Allergic conjunctivitis	sense organs	HP_0000508	Ptosis	False													14.095362979106117									True
 371.21	Allergic conjunctivitis	sense organs	HP_0007879	Allergic conjunctivitis	False	True	True	True							100.0	80.0	80.0	41.90606622283872					True		True	True	True
-374.3	Ptosis of eyelid	sense organs	HP_0000508	Ptosis	False										100.0	100.0	100.0	98.08856336326643	True	True	True	True	True	True	True	True	True
-374.3	Ptosis of eyelid	sense organs	HP_0001488	Bilateral ptosis	True										100.0	100.0	100.0	98.08856336326643	True	True	True	True	True	True	True	True	True
-374.3	Ptosis of eyelid	sense organs	HP_0002277	Horner syndrome	True										100.0	100.0	100.0	98.08856336326643	True	True	True	True	True	True	True	True	True
-374.3	Ptosis of eyelid	sense organs	HP_0006837	Congenital Horner syndrome	True										100.0	100.0	100.0	98.08856336326643	True	True	True	True	True	True	True	True	True
-374.3	Ptosis of eyelid	sense organs	HP_0007687	Unilateral ptosis	True										100.0	100.0	100.0	98.08856336326643	True	True	True	True	True	True	True	True	True
-374.3	Ptosis of eyelid	sense organs	HP_0007838	Progressive ptosis	True										100.0	100.0	100.0	98.08856336326643	True	True	True	True	True	True	True	True	True
-374.3	Ptosis of eyelid	sense organs	HP_0007911	Congenital bilateral ptosis	True										100.0	100.0	100.0	98.08856336326643	True	True	True	True	True	True	True	True	True
-374.3	Ptosis of eyelid	sense organs	HP_0007970	Congenital ptosis	True										100.0	100.0	100.0	98.08856336326643	True	True	True	True	True	True	True	True	True
+374.3	Ptosis of eyelid	sense organs	HP_0000508	Ptosis	False		True			True			True		100.0	100.0	100.0	98.08856336326643	True	True	True	True	True	True	True	True	True
+374.3	Ptosis of eyelid	sense organs	HP_0001488	Bilateral ptosis	True		True			True			True		100.0	100.0	100.0	98.08856336326643	True	True	True	True	True	True	True	True	True
+374.3	Ptosis of eyelid	sense organs	HP_0002277	Horner syndrome	True		True			True			True		100.0	100.0	100.0	98.08856336326643	True	True	True	True	True	True	True	True	True
+374.3	Ptosis of eyelid	sense organs	HP_0006837	Congenital Horner syndrome	True		True			True			True		100.0	100.0	100.0	98.08856336326643	True	True	True	True	True	True	True	True	True
+374.3	Ptosis of eyelid	sense organs	HP_0007687	Unilateral ptosis	True		True			True			True		100.0	100.0	100.0	98.08856336326643	True	True	True	True	True	True	True	True	True
+374.3	Ptosis of eyelid	sense organs	HP_0007838	Progressive ptosis	True		True			True			True		100.0	100.0	100.0	98.08856336326643	True	True	True	True	True	True	True	True	True
+374.3	Ptosis of eyelid	sense organs	HP_0007911	Congenital bilateral ptosis	True		True			True			True		100.0	100.0	100.0	98.08856336326643	True	True	True	True	True	True	True	True	True
+374.3	Ptosis of eyelid	sense organs	HP_0007970	Congenital ptosis	True		True			True			True		100.0	100.0	100.0	98.08856336326643	True	True	True	True	True	True	True	True	True
 374.3	Ptosis of eyelid	sense organs	HP_0000646	Amblyopia	False													23.657944175353627									True
 327.32	Obstructive sleep apnea	neurological	HP_0002870	Obstructive sleep apnea	True	True	True	True							100.0			54.104067076350134	True	True	True	True	True		True	True	True
 327.32	Obstructive sleep apnea	neurological	HP_0010535	Sleep apnea	False													19.18604357986432					True				True
@@ -3069,7 +3088,7 @@ phecode1.2_code	phecode1.2_label	phecode1.2_category	hpo_code	hpo_label	hpo_chil
 364.1	Corneal opacity	sense organs	HP_0007957	Corneal opacity	False	True	True	True	True	True	True				100.0	100.0	83.87	33.988230385130045	True	True					True	True	True
 364.1	Corneal opacity	sense organs	HP_0008011	Peripheral opacification of the cornea	True	True	True	True	True	True	True				100.0	100.0	93.02	33.988230385130045	True	True	True	True			True	True	True
 364.1	Corneal opacity	sense organs	HP_0008039	Subepithelial corneal opacities	True	True	True	True	True	True	True				100.0	100.0	83.87	33.988230385130045	True	True					True	True	True
-364.1	Corneal opacity	sense organs	HP_0008511	Central posterior corneal opacity	True	True	True	True	True	True	True				100.0	100.0	83.87	33.988230385130045	True	True					True	True	True
+364.1	Corneal opacity	sense organs	HP_0008511	Central posterior corneal opacity	True	True	True	True	True	True	True			True	100.0	100.0	83.87	33.988230385130045	True	True					True	True	True
 364.1	Corneal opacity	sense organs	HP_0011493	Central opacification of the cornea	True	True	True	True	True	True	True				100.0	100.0	83.87	33.988230385130045	True	True					True	True	True
 364.1	Corneal opacity	sense organs	HP_0011494	Generalized opacification of the cornea	True	True	True	True	True	True	True				100.0	100.0	83.87	33.988230385130045	True	True					True	True	True
 364.1	Corneal opacity	sense organs	HP_0032935	Posterior crocodile shagreen of the cornea	True	True	True	True	True	True	True				100.0	100.0	83.87	33.988230385130045	True	True					True	True	True
@@ -3259,7 +3278,7 @@ phecode1.2_code	phecode1.2_label	phecode1.2_category	hpo_code	hpo_label	hpo_chil
 427.11	Paroxysmal supraventricular tachycardia	circulatory system	HP_0004763	Paroxysmal supraventricular tachycardia	True	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	49.262989774721355	True	True	True	True	True	True	True	True	True
 427.11	Paroxysmal supraventricular tachycardia	circulatory system	HP_0006671	Paroxysmal atrial tachycardia	True	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	49.262989774721355	True	True	True	True	True	True	True	True	True
 427.6	Premature beats	circulatory system	HP_0006682	Premature ventricular contraction	False													156.00100845396852			True	True	True	True	True	True	True
-427.61	Supraventricular premature beats	circulatory system	HP_0006699	Premature atrial contractions	False										100.0	100.0			True	True	True	True	True	True	True	True	True
+427.61	Supraventricular premature beats	circulatory system	HP_0006699	Premature atrial contractions	False		True	True		True	True				100.0	100.0			True	True	True	True	True	True	True	True	True
 427.21	Atrial fibrillation	circulatory system	HP_0004749	Atrial flutter	False													28.110549469693236									True
 427.21	Atrial fibrillation	circulatory system	HP_0004754	Permanent atrial fibrillation	True	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	74.35327607696526	True	True	True	True	True	True	True	True	True
 427.21	Atrial fibrillation	circulatory system	HP_0004757	Paroxysmal atrial fibrillation	True	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	74.35327607696526	True	True	True	True	True	True	True	True	True
@@ -3275,7 +3294,8 @@ phecode1.2_code	phecode1.2_label	phecode1.2_category	hpo_code	hpo_label	hpo_chil
 428.2	Heart failure NOS	circulatory system	HP_0001635	Congestive heart failure	False	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	26.540830639911395	True	True	True	True		True	True	True	True
 428.2	Heart failure NOS	circulatory system	HP_0001722	High-output congestive heart failure	True	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	26.540830639911395	True	True	True	True		True	True	True	True
 428.2	Heart failure NOS	circulatory system	HP_0009805	Low-output congestive heart failure	True	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	26.540830639911395	True	True	True	True		True	True	True	True
-440.9	Atherosclerosis of aorta	circulatory system	HP_0012397	Aortic atherosclerotic lesion	False										100.0	100.0	100.0		True	True	True	True			True	True	True
+433.12	Cerebral atherosclerosis	circulatory system	HP_0007201	Cerebral artery atherosclerosis	False			True			True			True	86.27	86.27	86.27								True	True	True
+440.9	Atherosclerosis of aorta	circulatory system	HP_0012397	Aortic atherosclerotic lesion	False			True			True			True	100.0	100.0	100.0		True	True	True	True			True	True	True
 440.9	Atherosclerosis of aorta	circulatory system	HP_0004950	Peripheral arterial stenosis	False													29.177517070914195									True
 440.9	Atherosclerosis of aorta	circulatory system	HP_0005315	obsolete Peripheral artery occlusive disease	False													29.177517070914195									True
 415.11	Pulmonary embolism and infarction, acute	circulatory system	HP_0002204	Pulmonary embolism	False					True		True	True	True			100.0	70.1255960922912			True	True	True	True	True	True	True
@@ -3307,13 +3327,14 @@ phecode1.2_code	phecode1.2_label	phecode1.2_category	hpo_code	hpo_label	hpo_chil
 512.7	Shortness of breath	respiratory	HP_0012764	Orthopnea	True	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	55.427055880362694	True	True	True	True		True	True	True	True
 512.7	Shortness of breath	respiratory	HP_0033368	Platypnea	True	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	55.427055880362694	True	True	True	True		True	True	True	True
 512.7	Shortness of breath	respiratory	HP_0033710	Rest dyspnea	True	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	55.427055880362694	True	True	True	True		True	True	True	True
-440.1	Atherosclerosis of renal artery	circulatory system	HP_0031684	Renal artery atherosclerosis	False										100.0	100.0	100.0		True	True	True	True			True	True	True
+440.1	Atherosclerosis of renal artery	circulatory system	HP_0031684	Renal artery atherosclerosis	False		True			True			True		100.0	100.0	100.0		True	True	True	True			True	True	True
 443.7	Peripheral angiopathy in diseases classified elsewhere	circulatory system	HP_0004417	Intermittent claudication	False													23.87066127162847									True
 443.7	Peripheral angiopathy in diseases classified elsewhere	circulatory system	HP_0004950	Peripheral arterial stenosis	False													14.745056078750475									True
 443.7	Peripheral angiopathy in diseases classified elsewhere	circulatory system	HP_0005315	obsolete Peripheral artery occlusive disease	False													14.745056078750475									True
 442.4	Arterial dissection	circulatory system	HP_0004945	Extracranial internal carotid artery dissection	True	True	True	True		True			True		100.0	100.0	100.0	29.371135121535676	True	True	True	True	True		True	True	True
 442.4	Arterial dissection	circulatory system	HP_0005294	Arterial dissection	False	True	True	True		True			True		100.0	100.0	100.0						True		True	True	True
-442.4	Arterial dissection	circulatory system	HP_0012158	Carotid artery dissection	False											100.0	100.0	29.371135121535676	True	True	True	True	True			True	True
+442.4	Arterial dissection	circulatory system	HP_0012158	Carotid artery dissection	False					True			True			100.0	100.0	29.371135121535676	True	True	True	True	True			True	True
+442.2	Aneurysm of iliac artery	circulatory system	HP_4000067	Iliac artery aneurysm	False		True			True			True												True	True	True
 443.1	Raynaud's syndrome	circulatory system	HP_0030880	Raynaud phenomenon	False													65.47052375505504	True	True	True	True	True	True	True	True	True
 856	Vascular complications of surgery and medical procedures	injuries & poisonings	HP_0030880	Raynaud phenomenon	False													20.303671726471887									True
 691.1	Ichthyosis congenita	dermatologic	HP_0008064	Ichthyosis	False													15.696806219100845					True	True			True
@@ -3354,11 +3375,11 @@ phecode1.2_code	phecode1.2_label	phecode1.2_category	hpo_code	hpo_label	hpo_chil
 513.4	Hyperventilation	respiratory	HP_0005941	Intermittent hyperpnea at rest	True	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	56.51593563152095	True	True	True	True	True	True	True	True	True
 750.11	Esophageal atresia/tracheoesophageal fistula	congenital anomalies	HP_0002032	Esophageal atresia	False													43.75633464400293			True	True	True	True	True	True	True
 733.2	Cyst of bone	musculoskeletal	HP_0010734	Fibrous dysplasia of the bones	False													25.68578639986871									True
-733.2	Cyst of bone	musculoskeletal	HP_0002833	Cystic angiomatosis of bone	True										100.0	100.0	100.0		True	True	True	True			True	True	True
-733.2	Cyst of bone	musculoskeletal	HP_0012062	Bone cyst	False										100.0	100.0	100.0		True	True	True	True			True	True	True
-733.2	Cyst of bone	musculoskeletal	HP_0012063	Aneurysmal bone cyst	True				True	True	True	True	True	True	100.0	100.0	100.0	21.792346491231875	True	True	True	True	True	True	True	True	True
-733.2	Cyst of bone	musculoskeletal	HP_0012064	Unicameral bone cyst	True										100.0	100.0	100.0	16.91388266045645	True	True	True	True			True	True	True
-733.2	Cyst of bone	musculoskeletal	HP_0012065	Multiple bony cystic lesions	True										100.0	100.0	100.0		True	True	True	True			True	True	True
+733.2	Cyst of bone	musculoskeletal	HP_0002833	Cystic angiomatosis of bone	True		True			True					100.0	100.0	100.0		True	True	True	True			True	True	True
+733.2	Cyst of bone	musculoskeletal	HP_0012062	Bone cyst	False		True			True					100.0	100.0	100.0		True	True	True	True			True	True	True
+733.2	Cyst of bone	musculoskeletal	HP_0012063	Aneurysmal bone cyst	True		True		True	True	True	True	True	True	100.0	100.0	100.0	21.792346491231875	True	True	True	True	True	True	True	True	True
+733.2	Cyst of bone	musculoskeletal	HP_0012064	Unicameral bone cyst	True		True			True					100.0	100.0	100.0	16.91388266045645	True	True	True	True			True	True	True
+733.2	Cyst of bone	musculoskeletal	HP_0012065	Multiple bony cystic lesions	True		True			True					100.0	100.0	100.0		True	True	True	True			True	True	True
 750.13	Congenital anomalies of mouth/tongue	congenital anomalies	HP_0000158	Macroglossia	False				True	True	True	True	True	True		100.0	100.0	24.80601362202781		True		True	True	True		True	True
 750.13	Congenital anomalies of mouth/tongue	congenital anomalies	HP_0010296	Ankyloglossia	False							True	True	True		84.21	100.0	93.63700586835678	True	True	True	True	True	True	True	True	True
 750.13	Congenital anomalies of mouth/tongue	congenital anomalies	HP_0100267	Lip pit	False													16.33223261510058									True
@@ -3403,26 +3424,27 @@ phecode1.2_code	phecode1.2_label	phecode1.2_category	hpo_code	hpo_label	hpo_chil
 720	Spinal stenosis	musculoskeletal	HP_0004610	Lumbar spinal canal stenosis	True	True	True	True				True	True	True	100.0	81.08	100.0				True	True	True	True	True	True	True
 720	Spinal stenosis	musculoskeletal	HP_0005733	Spinal stenosis with reduced interpedicular distance	True	True	True	True				True	True	True	100.0	81.08	100.0							True	True	True	True
 720	Spinal stenosis	musculoskeletal	HP_0008445	Cervical spinal canal stenosis	True	True	True	True				True	True	True	100.0	88.0	100.0							True	True	True	True
+720.1	Spinal stenosis of lumbar region	musculoskeletal	HP_0004610	Lumbar spinal canal stenosis	False		True						True		86.27		86.27				True	True			True	True	True
 738.4	Acquired spondylolisthesis	musculoskeletal	HP_0003302	Spondylolisthesis	False								True		82.93	82.93	87.18	98.54718550546669			True	True	True		True	True	True
-722.6	Degeneration of intervertebral disc	musculoskeletal	HP_0008419	Intervertebral disc degeneration	False										100.0	91.23		48.579481440904075	True	True				True	True	True	True
+722.6	Degeneration of intervertebral disc	musculoskeletal	HP_0008419	Intervertebral disc degeneration	False		True			True					100.0	91.23		48.579481440904075	True	True				True	True	True	True
 722.3	Schmorl's nodes	musculoskeletal	HP_0030041	Schmorl's node	False	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0		True	True	True	True			True	True	True
 722.1	Displacement of intervertebral disc	musculoskeletal	HP_0008441	Herniation of intervertebral nuclei	False													80.07150021861196							True	True	True
 722.8	Postlaminectomy syndrome	musculoskeletal	HP_0008441	Herniation of intervertebral nuclei	False													41.1538459528888									True
 726.2	Synoviopathy	musculoskeletal	HP_0025232	Bursitis	False													20.778031608340964									True
 755.4	Congenital anomalies of upper limb, including shoulder girdle	congenital anomalies	HP_0004059	Radial club hand	False													14.481283523766534									True
 727.1	Synovitis and tenosynovitis	musculoskeletal	HP_0012276	Digital flexor tenosynovitis	False							True	True	True		81.08	100.0	32.93999110206		True	True	True	True	True		True	True
-727.5	Rupture of synovium	musculoskeletal	HP_0032072	Popliteal synovial cyst	False											86.36	81.97	185.74847449402594	True	True	True	True	True	True	True	True	True
+727.5	Rupture of synovium	musculoskeletal	HP_0032072	Popliteal synovial cyst	False					True						86.36	81.97	185.74847449402594	True	True	True	True	True	True	True	True	True
 727.5	Rupture of synovium	musculoskeletal	HP_0002816	Genu recurvatum	False													31.70277250655836									True
-733.4	Aseptic necrosis of bone	musculoskeletal	HP_0005743	Avascular necrosis of the capital femoral epiphysis	True							True	True	True	100.0	100.0	100.0	31.79662120283157	True	True	True	True	True	True	True	True	True
-733.4	Aseptic necrosis of bone	musculoskeletal	HP_0008478	Scheuermann-like vertebral changes	True							True	True	True	100.0	100.0	100.0	31.79662120283157	True	True	True	True	True	True	True	True	True
-733.4	Aseptic necrosis of bone	musculoskeletal	HP_0010886	Osteochondritis dissecans	True							True	True	True	100.0	100.0	100.0	31.79662120283157	True	True	True	True	True	True	True	True	True
-733.4	Aseptic necrosis of bone	musculoskeletal	HP_0010890	Morbus Osgood-Schlatter	True							True	True	True	100.0	100.0	100.0	31.79662120283157	True	True	True	True	True	True	True	True	True
-733.4	Aseptic necrosis of bone	musculoskeletal	HP_0010891	Morbus Scheuermann	True							True	True	True	100.0	100.0	100.0	31.79662120283157	True	True	True	True	True	True	True	True	True
-733.4	Aseptic necrosis of bone	musculoskeletal	HP_0040188	Osteochondrosis	True							True	True	True	100.0	100.0	100.0	31.79662120283157	True	True	True	True	True	True	True	True	True
-733.4	Aseptic necrosis of bone	musculoskeletal	HP_0010885	Avascular necrosis	False							True	True	True	100.0	100.0	100.0	31.79662120283157	True	True	True	True	True	True	True	True	True
-733.4	Aseptic necrosis of bone	musculoskeletal	HP_0010888	Morbus Koehler	True							True	True	True	100.0	100.0	100.0	31.79662120283157	True	True	True	True	True	True	True	True	True
-733.4	Aseptic necrosis of bone	musculoskeletal	HP_0010889	Morbus Kienboeck	True							True	True	True	100.0	100.0	100.0	31.79662120283157	True	True	True	True	True	True	True	True	True
-733.4	Aseptic necrosis of bone	musculoskeletal	HP_0100323	Juvenile aseptic necrosis	True							True	True	True	100.0	100.0	100.0	31.79662120283157	True	True	True	True	True	True	True	True	True
+733.4	Aseptic necrosis of bone	musculoskeletal	HP_0005743	Avascular necrosis of the capital femoral epiphysis	True		True			True		True	True	True	100.0	100.0	100.0	31.79662120283157	True	True	True	True	True	True	True	True	True
+733.4	Aseptic necrosis of bone	musculoskeletal	HP_0008478	Scheuermann-like vertebral changes	True		True			True		True	True	True	100.0	100.0	100.0	31.79662120283157	True	True	True	True	True	True	True	True	True
+733.4	Aseptic necrosis of bone	musculoskeletal	HP_0010886	Osteochondritis dissecans	True		True			True		True	True	True	100.0	100.0	100.0	31.79662120283157	True	True	True	True	True	True	True	True	True
+733.4	Aseptic necrosis of bone	musculoskeletal	HP_0010890	Morbus Osgood-Schlatter	True		True			True		True	True	True	100.0	100.0	100.0	31.79662120283157	True	True	True	True	True	True	True	True	True
+733.4	Aseptic necrosis of bone	musculoskeletal	HP_0010891	Morbus Scheuermann	True		True			True		True	True	True	100.0	100.0	100.0	31.79662120283157	True	True	True	True	True	True	True	True	True
+733.4	Aseptic necrosis of bone	musculoskeletal	HP_0040188	Osteochondrosis	True		True			True		True	True	True	100.0	100.0	100.0	31.79662120283157	True	True	True	True	True	True	True	True	True
+733.4	Aseptic necrosis of bone	musculoskeletal	HP_0010885	Avascular necrosis	False		True			True		True	True	True	100.0	100.0	100.0	31.79662120283157	True	True	True	True	True	True	True	True	True
+733.4	Aseptic necrosis of bone	musculoskeletal	HP_0010888	Morbus Koehler	True		True			True		True	True	True	100.0	100.0	100.0	31.79662120283157	True	True	True	True	True	True	True	True	True
+733.4	Aseptic necrosis of bone	musculoskeletal	HP_0010889	Morbus Kienboeck	True		True			True		True	True	True	100.0	100.0	100.0	31.79662120283157	True	True	True	True	True	True	True	True	True
+733.4	Aseptic necrosis of bone	musculoskeletal	HP_0100323	Juvenile aseptic necrosis	True		True			True		True	True	True	100.0	100.0	100.0	31.79662120283157	True	True	True	True	True	True	True	True	True
 732.7	Osteochondritis dissecans	musculoskeletal	HP_0010886	Osteochondritis dissecans	False	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	119.648332929623	True	True	True	True	True	True	True	True	True
 755.1	Congenital deformities of feet	congenital anomalies	HP_0001763	Pes planus	False													48.59829704000107						True	True	True	True
 755.1	Congenital deformities of feet	congenital anomalies	HP_0008368	Tarsal synostosis	False													15.220185144050017									True

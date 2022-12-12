@@ -86,6 +86,7 @@ HP:0031281	Sialadenitis	506.3	Sialoadenitis
 HP:0012290	Mouth neoplasm	507	Lesions of mouth
 HP:0010280	Stomatitis	507.1	Stomatitis
 HP:0002745	Oral leukoplakia	507.3	Oral leukoplakia
+HP:0025126	Oral hairy leukoplakia	507.3	Oral leukoplakia
 HP:0025126	Oral hairy leukoplakia	507.31	Hairy leukoplakia*
 HP:0000206	Glossitis	509.1	Glossitis
 HP:0025252	Geographic tongue	509.2	Geographic tongue
@@ -507,7 +508,7 @@ HP:0001746	Asplenia	795.1	Asplenia*
 HP:0025059	Splenic abscess	174.5	Abscess of spleen*
 HP:0030423	Splenic cyst	174.6	Cyst of spleen*
 HP:0002716	Lymphadenopathy	177.2	Enlargement of lymph nodes [Lymphadenopathy]
-HP:0007475	Congenital bullous ichthyosiform erythroderma	790.14	Congenital bullous ichthyosiform erythroderma*
+HP:0007431	Congenital ichthyosiform erythroderma	790.14	Congenital bullous ichthyosiform erythroderma*
 HP:0004313	Decreased circulating antibody level	179.1	Hypogammaglobulinemia NOS
 HP:0008348	Decreased circulating IgG2 level	179.4	Selective deficiency of immunoglobulin A [IgA]
 HP:0005387	Combined immunodeficiency	179.3	Combined immunity deficiency
@@ -532,6 +533,7 @@ HP:0008736	Hypoplasia of penis	771.23	Hypoplasia of penis
 HP:0001508	Failure to thrive	230.7	Adult failure to thrive
 HP:0008394	Congenital onychodystrophy	788	Congenital osteodystrophies
 HP:0001263	Global developmental delay	891.4	Delayed milestones
+HP:0001270	Motor delay	891.4	Delayed milestones
 HP:0000870	Increased circulating prolactin concentration	209.13	Hyperprolactinemia*
 HP:0031218	Inappropriate antidiuretic hormone secretion	209.12	Syndrome of inappropriate secretion of antidiuretic hormone
 HP:0003118	Increased circulating cortisol level	210	Cushing's syndrome
@@ -615,6 +617,7 @@ HP:0100786	Hypersomnia	333.3	Hypersomnia
 HP:0002360	Sleep disturbance	333.8	Sleep disturbances
 HP:0001706	Endocardial fibroelastosis	414.7	Endocardial fibroelastosis
 HP:0002487	Hyperkinetic movements	719.11	Spasm of muscle
+HP:0003394	Muscle spasm	719.11	Spasm of muscle
 HP:0100249	Calcification of muscles	719.2	Muscle calcification and ossification
 HP:0003202	Skeletal muscle atrophy	719.6	Muscle wasting and atrophy
 HP:0003201	Rhabdomyolysis	719.8	Rhabdomyolysis
@@ -628,6 +631,7 @@ HP:0031546	Cardiac conduction abnormality	893.2	Conduct disorders
 HP:0031589	Suicidal ideation	284.1	Suicidal ideations
 HP:0100716	Self-injurious behavior	284.26	Self-harm by burns
 HP:0004305	Involuntary movements	325.1	Abnormal involuntary movements
+HP:0012547	Abnormal involuntary eye movements	325.1	Abnormal involuntary movements
 HP:0012167	Hair-pulling	298.3	Trichotillomania*
 HP:0012075	Personality disorder	296	Specific personality disorders
 HP:0012075	Personality disorder	296.1	Paranoid personality disorder
@@ -679,10 +683,12 @@ HP:0011445	Athetoid cerebral palsy	341.12	Athetoid cerebral palsy
 HP:0002511	Alzheimer disease	328.1	Alzheimer's disease
 HP:0100033	Tics	324.6	Tics
 HP:0100033	Tics	893.5	Tic disorder
+HP:0000639	Nystagmus	383.1	Nystagmus
 HP:0002380	Fasciculations	325.12	Fasciculation*
 HP:0031826	Abnormal reflex	350.3	Abnormal reflex
 HP:0002186	Apraxia	894.2	Apraxia*
 HP:0002527	Falls	T915	Fall
+HP:0000570	Abnormal saccadic eye movements	383.2	Saccadic eye movements
 HP:0000238	Hydrocephalus	344.1	Hydrocephalus
 HP:0002343	Normal pressure hydrocephalus	344.13	(Idiopathic) normal pressure hydrocephalus
 HP:0033715	Hippocampal sclerosis	346.7	Temporal sclerosis
@@ -698,6 +704,7 @@ HP:0030907	Thunderclap headache	331.33	Thunderclap headache
 HP:0030050	Narcolepsy	333.7	Narcolepsy
 HP:0002094	Dyspnea	488	Abnormalities of breathing
 HP:0010536	Central sleep apnea	333.12	Central sleep apnea
+HP:0002871	Central apnea	333.12	Central sleep apnea
 HP:0025237	Confusional arousal	333.51	Confusional arousals
 HP:0025267	Snoring	488.9	Snoring*
 HP:0000975	Hyperhidrosis	685.82	Generalized hyperhidrosis
@@ -706,7 +713,6 @@ HP:0006897	Abducens palsy	334.44	Sixth [abducent] nerve palsy
 HP:0007011	Fourth cranial nerve palsy	334.42	Fourth [trochlear] nerve palsy
 HP:0000648	Optic atrophy	380.3	Optic atrophy
 HP:0001112	Leber optic atrophy	380.3	Optic atrophy
-HP:0000639	Nystagmus	383.1	Nystagmus
 HP:0012246	Oculomotor nerve palsy	334.41	Third [oculomotor] nerve palsy
 HP:0003474	Somatic sensory dysfunction	351.2	Hypoesthesia of skin*
 HP:0003401	Paresthesia	351.3	Paresthesia of skin*
@@ -795,6 +801,7 @@ HP:0000585	Band keratopathy	369.43	Band keratopathy
 HP:0008011	Peripheral opacification of the cornea	369.11	Peripheral opacity of cornea
 HP:0011496	Corneal neovascularization	369.3	Corneal neovascularization
 HP:0001131	Corneal dystrophy	369.52	Lattice corneal dystrophy
+HP:0000556	Retinal dystrophy	374.7	Retinal dystrophy
 HP:0007802	Granular corneal dystrophy	369.53	Granular corneal dystrophy
 HP:0000615	Abnormal pupil morphology	370.41	Pupillary abnormalities
 HP:0000555	Leukocoria	389.2	Leucocoria
@@ -803,13 +810,13 @@ HP:0001374	Congenital hip dislocation	753.2	Congenital lens anomalies
 HP:0007707	Congenital aphakia	753.21	Congenital aphakia
 HP:0007777	Chorioretinal scar	373.1	Chorioretinal scars
 HP:0000488	Retinopathy	373.11	Solar retinopathy
-HP:0000556	Retinal dystrophy	374.7	Retinal dystrophy
 HP:0001139	Choroideremia	373.31	Choroideremia
 HP:0007945	obsolete Choroidal degeneration	373.2	Choroidal degenerations
 HP:0000608	Macular degeneration	374.5	Macular degeneration
 HP:0007868	obsolete Age-related macular degeneration	374.51	Age-related macular degeneration
 HP:0000608	Macular degeneration	374.53	Cystoid macular degeneration
 HP:0007769	Peripheral retinal degeneration	374.6	Peripheral retinal degeneration
+HP:0007782	obsolete Peripheral retinal cone degeneration	374.6	Peripheral retinal degeneration
 HP:0025567	Central serous chorioretinopathy	374.9	Central serous chorioretinopathy
 HP:0500049	Retinopathy of prematurity	873	Retinopathy of prematurity
 HP:0000541	Retinal detachment	374.11	Serous retinal detachment
@@ -817,6 +824,7 @@ HP:0001095	Hypertensive retinopathy	374.41	Hypertensive retinopathy
 HP:0001102	Angioid streaks of the fundus	374.57	Angioid streaks of macula
 HP:0007917	Tractional retinal detachment	374.12	Traction detachment of retina
 HP:0030666	Retinal neovascularization	374.33	Retinal neovascularization
+HP:0000662	Nyctalopia	386.6	Night blindness
 HP:0000618	Blindness	388.1	Blindness of both eyes
 HP:0007898	Exudative retinopathy	374.31	Exudative retinopathy
 HP:0007992	Lattice retinal degeneration	374.61	Lattice degeneration of retina
@@ -826,7 +834,6 @@ HP:0030502	Retinoschisis	374.21	Retinoschisis
 HP:0012426	Optic disc drusen	380.22	Optic disc drusen
 HP:0012636	Retinal vein occlusion	374.38	Retinal vein occlusions
 HP:0025326	Retinal arterial occlusion	374.37	Retinal arterial occlusions
-HP:0000662	Nyctalopia	386.6	Night blindness
 HP:0100014	Epiretinal membrane	374.55	Puckering of macula
 HP:0012632	Abnormal intraocular pressure	375	Abnormal intraocular pressure
 HP:0000501	Glaucoma	375.1	Glaucoma
@@ -849,7 +856,6 @@ HP:0031717	Alternating exotropia	381.41	Alternating exotropia
 HP:0031776	Cyclotropia	381.7	Cyclotropia
 HP:0031777	Cyclophoria	381.83	Cyclophoria
 HP:0000619	Impaired convergence	382.1	Impaired convergence
-HP:0000570	Abnormal saccadic eye movements	383.2	Saccadic eye movements
 HP:0011499	Mydriasis	384.3	Mydriasis
 HP:0012074	Tonic pupil	384.4	Tonic pupil
 HP:0000551	Color vision defect	386.5	Color vision deficiencies
@@ -903,6 +909,7 @@ HP:0012397	Aortic atherosclerotic lesion	436.3	Atherosclerosis of aorta
 HP:0006510	Chronic pulmonary obstruction	406	Chronic pulmonary heart disease
 HP:0002204	Pulmonary embolism	440.3	Pulmonary embolism
 HP:0033639	Septic pulmonary embolism	440.3	Pulmonary embolism
+HP:0002092	Pulmonary arterial hypertension	406.1	Pulmonary hypertension
 HP:0030950	Pulmonary venous hypertension	406.1	Pulmonary hypertension
 HP:0002092	Pulmonary arterial hypertension	406.11	Primary pulmonary hypertension
 HP:0002092	Pulmonary arterial hypertension	406.13	Secondary pulmonary arterial hypertension*
@@ -916,8 +923,10 @@ HP:0001641	Abnormal pulmonary valve morphology	779.1	Anomalies of pulmonary valv
 HP:0001642	Pulmonic stenosis	413.41	Pulmonary valve stenosis*
 HP:0010444	Pulmonary insufficiency	413.42	Pulmonary valve insufficiency*
 HP:0001642	Pulmonic stenosis	779.12	Congenital pulmonary valve stenosis
-HP:0010444	Pulmonary insufficiency	779.13	Congenital pulmonary valve insufficiency*
+HP:0004935	Pulmonary artery atresia	778.51	Pulmonary artery coarctation and atresia
+HP:0004935	Pulmonary artery atresia	779.11	Pulmonary valve atresia
 HP:0010882	Pulmonary valve atresia	779.11	Pulmonary valve atresia
+HP:0010444	Pulmonary insufficiency	779.13	Congenital pulmonary valve insufficiency*
 HP:0001636	Tetralogy of Fallot	780.44	Tetralogy of Fallot
 HP:0011603	Congenital malformation of the great arteries	781.3	Congenital malformations of renal artery
 HP:0001695	Cardiac arrest	420	Cardiac arrest
@@ -1078,6 +1087,7 @@ HP:0002797	Osteolysis	726.6	Osteolysis*
 HP:0000939	Osteoporosis	726.1	Osteoporosis
 HP:0002756	Pathologic fracture	726.2	Pathologic fracture
 HP:0031846	Femur fracture	T820.1	Fracture of femur
+HP:0006640	Multiple rib fractures	T828	Multiple fractures
 HP:0002757	Recurrent fractures	T828	Multiple fractures
 HP:0041082	Fractured skull	T819	Skull and face fracture
 HP:0008066	Abnormal blistering of the skin	T881	Blister
@@ -1100,7 +1110,7 @@ HP:0000558	Rieger anomaly	753.52	Rieger's anomaly*
 HP:0000592	Blue sclerae	753.71	Blue sclera*
 HP:0000411	Protruding ear	755.5	Prominent ear [Protruding ear]*
 HP:0000400	Macrotia	755.2	Macrotia
-HP:0008772	Aplasia/Hypoplasia of the external ear	755.1	Aplasia/Hypoplasia of the external ear
+HP:0008771	Aplasia/Hypoplasia of the ear	755.1	Aplasia/Hypoplasia of the external ear
 HP:0008551	Microtia	755.11	Microtia
 HP:0000154	Wide mouth	756.41	Macrostomia
 HP:0000160	Narrow mouth	756.42	Microstomia
@@ -1149,7 +1159,6 @@ HP:0001660	Truncus arteriosus	778.1	Common arterial trunk [Truncus arteriosus]
 HP:0001719	Double outlet right ventricle	778.6	Double outlet right ventricle
 HP:0012020	Right aortic arch	778.47	Right aortic arch*
 HP:0004415	Pulmonary artery stenosis	778.52	Stenosis of pulmonary artery*
-HP:0004935	Pulmonary artery atresia	778.51	Pulmonary artery coarctation and atresia
 HP:0010775	Vascular ring	778.46	Vascular ring of aorta*
 HP:0011581	Double outlet left ventricle	778.7	Double outlet left ventricle
 HP:0011611	Interrupted aortic arch	778.42	Interruption of aortic arch

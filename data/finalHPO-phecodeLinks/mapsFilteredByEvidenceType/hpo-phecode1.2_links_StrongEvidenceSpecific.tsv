@@ -7,49 +7,53 @@ phecode1.2_code	phecode1.2_label	phecode1.2_category	hpo_code	hpo_label	stringMa
 070.1	Viral hepatitis A	infectious diseases	HP_0006562	Viral hepatitis		True								100.0						True	True			True	True	True
 070.2	Viral hepatitis B	infectious diseases	HP_0006562	Viral hepatitis		True						True		92.31		92.31				True	True			True	True	True
 070.3	Viral hepatitis C	infectious diseases	HP_0006562	Viral hepatitis		True			True			True		92.31	92.31	92.31				True	True			True	True	True
+070.4	Chronic hepatitis	infectious diseases	HP_0200120	Chronic active hepatitis			True			True			True						True					True	True	True
 070.4	Chronic hepatitis	infectious diseases	HP_0200123	Chronic hepatitis	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0		True	True	True	True			True	True	True
 070.9	Hepatitis NOS	infectious diseases	HP_0012115	Hepatitis	True	True	True	True	True	True				100.0	100.0		24.08329553850245	True	True	True	True	True	True	True	True	True
-078	Viral warts & HPV	infectious diseases	HP_0200043	Verrucae													96.47395006220884	True	True	True	True	True	True	True	True	True
 078	Viral warts & HPV	infectious diseases	HP_0032301	Genital warts													44.821437668653545	True	True	True	True	True	True	True	True	True
+078	Viral warts & HPV	infectious diseases	HP_0200043	Verrucae													96.47395006220884	True	True	True	True	True	True	True	True	True
 079	Viral infection	infectious diseases	HP_0031691	Severe viral infection			True			True			True	81.25	81.25	81.25								True	True	True
 079.2	Infectious mononucleosis	infectious diseases	HP_0031693	Severe Epstein Barr virus infection			True			True			True	85.71	85.71	85.71								True	True	True
 079.9	Viremia, NOS	infectious diseases	HP_0020071	Viremia	True	True	True	True	True	True				100.0	100.0			True	True	True	True	True	True	True	True	True
 1003	Sudden death		HP_0001699	Sudden death	True	True	True							100.0										True	True	True
 1005	Other symptoms		HP_0002045	Hypothermia													52.52043095465066							True	True	True
-110.1	Dermatophytosis	infectious diseases	HP_0032515	Deep dermatophytosis			True						True	85.71	88.89	85.71		True	True					True	True	True
+110.1	Dermatophytosis	infectious diseases	HP_0032515	Deep dermatophytosis			True		True				True	85.71	88.89	85.71		True	True					True	True	True
 110.11	Dermatophytosis of nail	infectious diseases	HP_0012203	Onychomycosis													102.29188677337416		True	True	True	True	True	True	True	True
 1100	Family history		HP_0032316	Family history	True	True	True							100.0										True	True	True
 117.1	Histoplasmosis	infectious diseases	HP_0032256	Histoplasmosis	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	18.82101096118217	True	True	True	True	True	True	True	True	True
 117.2	Coccidioidomycosis	infectious diseases	HP_0032249	Coccidioidomycosis	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	29.341630204527146	True	True	True	True	True	True	True	True	True
 131	Protozoan infection	infectious diseases	HP_0020104	Unusual protozoan infection			True							85.0										True	True	True
-149.4	Cancer of larynx	neoplasms	HP_0012118	Laryngeal carcinoma										100.0								True	True	True	True	True
+149.4	Cancer of larynx	neoplasms	HP_0012118	Laryngeal carcinoma			True							100.0								True	True	True	True	True
 150	Cancer of esophagus	neoplasms	HP_0100751	Esophageal neoplasm													61.51714068482668					True	True	True	True	True
-151	Cancer of stomach	neoplasms	HP_0012126	Stomach cancer										100.0			22.346705998880893	True	True	True	True	True	True	True	True	True
+151	Cancer of stomach	neoplasms	HP_0012126	Stomach cancer		True								100.0			22.346705998880893	True	True	True	True	True	True	True	True	True
 153.2	Colon cancer	neoplasms	HP_0003003	Colon cancer	True	True	True							100.0				True	True	True	True	True	True	True	True	True
 155	Cancer of liver and intrahepatic bile duct	neoplasms	HP_0030153	Cholangiocarcinoma													89.07512283703596			True	True	True	True	True	True	True
 155.1	Malignant neoplasm of liver, primary	neoplasms	HP_0001402	Hepatocellular carcinoma													58.34123248821063		True	True	True		True	True	True	True
 159.2	Malignant neoplasm of small intestine, including duodenum	neoplasms	HP_0002666	Pheochromocytoma													52.10427659993536							True	True	True
 164	Cancer of intrathoracic organs	neoplasms	HP_0002666	Pheochromocytoma													60.842261932781255							True	True	True
 170	Cancer of bone and connective tissue	neoplasms	HP_0100246	Osteoma													44.045852999448414							True	True	True
+170	Cancer of bone and connective tissue	neoplasms	HP_0100242	Sarcoma		True								89.36										True	True	True
+170.1	Bone cancer	neoplasms	HP_0002669	Osteosarcoma			True							82.76			35.083009802541774						True	True	True	True
 170.2	Cancer of connective tissue	neoplasms	HP_0100242	Sarcoma	True	True	True							100.0			30.917184350121016							True	True	True
 172.1	Melanomas of skin, dx or hx	neoplasms	HP_0002861	Melanoma					True			True			86.49	88.89	89.56927467353762	True	True	True	True	True	True	True	True	True
 172.11	Melanomas of skin	neoplasms	HP_0002861	Melanoma					True			True			86.49	88.89	89.02561267294695	True	True	True	True	True	True	True	True	True
 172.21	Basal cell carcinoma	neoplasms	HP_0002671	Basal cell carcinoma	True	True	True					True		100.0	82.35	89.36								True	True	True
-172.22	Squamous cell carcinoma	neoplasms	HP_0012142	Pancreatic squamous cell carcinoma			True																	True	True	True
 172.22	Squamous cell carcinoma	neoplasms	HP_0030417	Squamous cell carcinoma of the vulva			True																	True	True	True
-172.22	Squamous cell carcinoma	neoplasms	HP_0030438	Anal canal squamous cell carcinoma			True																	True	True	True
+172.22	Squamous cell carcinoma	neoplasms	HP_0030359	Squamous cell lung carcinoma			True																	True	True	True
 172.22	Squamous cell carcinoma	neoplasms	HP_0002860	Squamous cell carcinoma	True	True	True					True		100.0			47.46779365241967							True	True	True
+172.22	Squamous cell carcinoma	neoplasms	HP_0012142	Pancreatic squamous cell carcinoma			True																	True	True	True
+172.22	Squamous cell carcinoma	neoplasms	HP_0030438	Anal canal squamous cell carcinoma			True																	True	True	True
 174	Breast cancer	neoplasms	HP_0003002	Breast carcinoma	True	True	True							100.0	87.18	87.18	63.786433590006645					True	True	True	True	True
-174.1	Breast cancer [female]	neoplasms	HP_0030076	Lobular carcinoma in situ								True				86.79	79.58787953708745			True	True		True	True	True	True
 174.1	Breast cancer [female]	neoplasms	HP_0030075	Ductal carcinoma in situ													93.59074333769152		True	True	True		True	True	True	True
+174.1	Breast cancer [female]	neoplasms	HP_0030076	Lobular carcinoma in situ								True				86.79	79.58787953708745			True	True		True	True	True	True
 174.11	Malignant neoplasm of female breast	neoplasms	HP_0003002	Breast carcinoma													55.950612142890215					True	True	True	True	True
 174.2	Breast cancer [male]	neoplasms	HP_0003002	Breast carcinoma		True								84.85			19.929099896560174					True		True	True	True
 182	Malignant neoplasm of uterus	neoplasms	HP_0012114	Endometrial carcinoma												80.85	85.68383622247545					True	True	True	True	True
-185	Cancer of prostate	neoplasms	HP_0012125	Prostate cancer										100.0			56.00939061240923	True	True	True	True	True	True	True	True	True
+185	Cancer of prostate	neoplasms	HP_0012125	Prostate cancer		True								100.0			56.00939061240923	True	True	True	True	True	True	True	True	True
 187.2	Malignant neoplasm of testis	neoplasms	HP_0010788	Testicular neoplasm													72.02220387514137	True	True	True	True	True	True	True	True	True
 189.1	Cancer of kidney and renal pelvis	neoplasms	HP_0009726	Renal neoplasm													85.8690211732474							True	True	True
 189.12	Malignant neoplasm of renal pelvis	neoplasms	HP_0009726	Renal neoplasm													85.8690211732474							True	True	True
-189.2	Cancer of bladder	neoplasms	HP_0009725	Bladder neoplasm										100.0	82.93	82.93	76.09606225710519					True	True	True	True	True
+189.2	Cancer of bladder	neoplasms	HP_0009725	Bladder neoplasm		True								100.0	82.93	82.93	76.09606225710519					True	True	True	True	True
 189.21	Malignant neoplasm of bladder	neoplasms	HP_0009725	Bladder neoplasm										82.93	82.93	82.93	71.39271815177223					True	True	True	True	True
 191	Manlignant and unknown neoplasms of brain and nervous system	neoplasms	HP_0030692	Brain neoplasm													49.065507613629656	True	True			True	True	True	True	True
 193	Thyroid cancer	neoplasms	HP_0100031	Neoplasm of the thyroid gland											86.79	86.79	48.31180092880979							True	True	True
@@ -63,19 +67,19 @@ phecode1.2_code	phecode1.2_label	phecode1.2_category	hpo_code	hpo_label	stringMa
 202.23	Lymphosarcoma	neoplasms	HP_0012539	Non-Hodgkin lymphoma													55.376551293286184							True	True	True
 202.24	Large cell lymphoma	neoplasms	HP_0012193	Anaplastic large-cell lymphoma										80.85	100.0	87.5	45.030021643830175	True	True	True	True	True	True	True	True	True
 204	Leukemia	neoplasms	HP_0001909	Leukemia	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	35.829569330414834	True	True	True	True	True	True	True	True	True
-204.1	Lymphoid leukemia	neoplasms	HP_0006721	Acute lymphoblastic leukemia			True		True	True		True	True		100.0	100.0		True	True	True	True	True	True	True	True	True
 204.1	Lymphoid leukemia	neoplasms	HP_0001909	Leukemia													58.0559124744137		True		True		True	True	True	True
+204.1	Lymphoid leukemia	neoplasms	HP_0006721	Acute lymphoblastic leukemia			True		True	True		True	True		100.0	100.0		True	True	True	True	True	True	True	True	True
 204.1	Lymphoid leukemia	neoplasms	HP_0005526	Lymphoid leukemia	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
+204.11	Lymphoid leukemia, acute	neoplasms	HP_0006721	Acute lymphoblastic leukemia		True	True		True	True		True		100.0	100.0	100.0	21.071755604627747	True	True	True	True	True	True	True	True	True
 204.11	Lymphoid leukemia, acute	neoplasms	HP_0005526	Lymphoid leukemia		True			True															True	True	True
-204.11	Lymphoid leukemia, acute	neoplasms	HP_0006721	Acute lymphoblastic leukemia					True			True		100.0	100.0	100.0	21.071755604627747	True	True	True	True	True	True	True	True	True
 204.12	Lymphoid leukemia, chronic	neoplasms	HP_0005526	Lymphoid leukemia		True			True					81.82	81.82									True	True	True
 204.12	Lymphoid leukemia, chronic	neoplasms	HP_0005550	Chronic lymphatic leukemia												81.82	136.12319853762352	True	True	True	True	True	True	True	True	True
-204.2	Myeloid leukemia	neoplasms	HP_0004808	Acute myeloid leukemia			True			True	True	True	True		100.0	100.0		True	True	True	True	True	True	True	True	True
 204.2	Myeloid leukemia	neoplasms	HP_0002863	Myelodysplasia												100.0	79.9914287858265			True	True		True	True	True	True
 204.2	Myeloid leukemia	neoplasms	HP_0012324	Myeloid leukemia	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
-204.21	Myeloid leukemia, acute	neoplasms	HP_0004808	Acute myeloid leukemia							True	True	True	100.0	100.0	100.0	34.17954840361973	True	True	True	True	True	True	True	True	True
+204.2	Myeloid leukemia	neoplasms	HP_0004808	Acute myeloid leukemia			True		True	True	True	True	True		100.0	100.0		True	True	True	True	True	True	True	True	True
 204.21	Myeloid leukemia, acute	neoplasms	HP_0012324	Myeloid leukemia		True			True															True	True	True
-204.22	Myeloid leukemia, chronic	neoplasms	HP_0005506	Chronic myelogenous leukemia					True					100.0	100.0		105.47906697488057	True	True	True	True	True	True	True	True	True
+204.21	Myeloid leukemia, acute	neoplasms	HP_0004808	Acute myeloid leukemia		True	True		True	True	True	True	True	100.0	100.0	100.0	34.17954840361973	True	True	True	True	True	True	True	True	True
+204.22	Myeloid leukemia, chronic	neoplasms	HP_0005506	Chronic myelogenous leukemia		True	True		True	True				100.0	100.0		105.47906697488057	True	True	True	True	True	True	True	True	True
 204.3	Monocytic leukemia	neoplasms	HP_0004845	Acute monocytic leukemia			True		True	True			True	87.18	100.0	87.18		True	True	True	True	True	True	True	True	True
 204.4	Multiple myeloma	neoplasms	HP_0006775	Multiple myeloma	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	67.60659620001182	True	True	True	True	True	True	True	True	True
 209	Neuroendocrine tumors	neoplasms	HP_0100570	Carcinoid tumor													58.7489092916725			True	True	True		True	True	True
@@ -85,8 +89,8 @@ phecode1.2_code	phecode1.2_label	phecode1.2_category	hpo_code	hpo_label	stringMa
 216	Benign neoplasm of skin	neoplasms	HP_0003764	Nevus													52.205473172619456		True	True	True	True	True	True	True	True
 217	Vascular hamartomas and non-neoplastic nevi	neoplasms	HP_0005306	Capillary hemangioma													46.57233136176075			True	True	True		True	True	True
 218.1	Uterine leiomyoma	neoplasms	HP_0000131	Uterine leiomyoma	True	True	True	True	True	True				100.0	100.0	84.85	165.53279666950186	True	True	True	True	True	True	True	True	True
-225.1	Benign neoplasm of brain, cranial nerves, meninges	neoplasms	HP_0009588	Vestibular Schwannoma													54.30883652752164					True	True	True	True	True
 225.1	Benign neoplasm of brain, cranial nerves, meninges	neoplasms	HP_0002858	Meningioma													53.93987788393743			True	True	True		True	True	True
+225.1	Benign neoplasm of brain, cranial nerves, meninges	neoplasms	HP_0009588	Vestibular Schwannoma													54.30883652752164					True	True	True	True	True
 227.3	Benign neoplasm of pituitary gland and craniopharyngeal duct (pouch)	neoplasms	HP_0002893	Pituitary adenoma													49.31057321464991						True	True	True	True
 228	Hemangioma and lymphangioma, any site	neoplasms	HP_0100026	Arteriovenous malformation													54.56827167578185							True	True	True
 228	Hemangioma and lymphangioma, any site	neoplasms	HP_0001028	Hemangioma							True	True	True		81.48	100.0	62.704231138040036	True	True	True	True		True	True	True	True
@@ -98,22 +102,22 @@ phecode1.2_code	phecode1.2_label	phecode1.2_category	hpo_code	hpo_label	stringMa
 242.2	Toxic multinodular goiter	endocrine/metabolic	HP_0000853	Goiter													44.73972933503882							True	True	True
 242.2	Toxic multinodular goiter	endocrine/metabolic	HP_0005987	Multinodular goiter		True			True					86.96	86.96		19.23531912945626							True	True	True
 242.3	Exophthalmos	endocrine/metabolic	HP_0000520	Proptosis	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	66.42909834047452	True	True	True	True	True		True	True	True
-244	Hypothyroidism	endocrine/metabolic	HP_0000821	Hypothyroidism	True	True	True				True	True	True	100.0	80.0	100.0		True	True	True	True	True	True	True	True	True
 244	Hypothyroidism	endocrine/metabolic	HP_0008223	Compensated hypothyroidism			True						True									True	True	True	True	True
+244	Hypothyroidism	endocrine/metabolic	HP_0000821	Hypothyroidism	True	True	True				True	True	True	100.0	80.0	100.0		True	True	True	True	True	True	True	True	True
 244.1	Secondary hypothyroidism	endocrine/metabolic	HP_0008245	Pituitary hypothyroidism	True	True	True							100.0										True	True	True
 244.2	Acquired hypothyroidism	endocrine/metabolic	HP_0000821	Hypothyroidism													48.13504565165826							True	True	True
 244.4	Hypothyroidism NOS	endocrine/metabolic	HP_0000821	Hypothyroidism	True	True	True				True	True	True	100.0		100.0	37.238854346279204	True	True	True	True	True	True	True	True	True
 244.4	Hypothyroidism NOS	endocrine/metabolic	HP_0008223	Compensated hypothyroidism			True						True									True	True	True	True	True
 244.5	Congenital hypothyroidism	endocrine/metabolic	HP_0000851	Congenital hypothyroidism	True	True	True	True	True	True				100.0	100.0		27.44789581772399	True	True	True	True	True	True	True	True	True
-245	Thyroiditis	endocrine/metabolic	HP_0100646	Thyroiditis	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	65.15025987134138	True	True	True	True	True	True	True	True	True
 245	Thyroiditis	endocrine/metabolic	HP_0000872	Hashimoto thyroiditis				True	True	True					100.0		62.58843471319143	True	True	True	True	True	True	True	True	True
+245	Thyroiditis	endocrine/metabolic	HP_0100646	Thyroiditis	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	65.15025987134138	True	True	True	True	True	True	True	True	True
 245.2	Chronic thyroiditis	endocrine/metabolic	HP_0000872	Hashimoto thyroiditis				True	True	True					100.0		65.65675114688071	True	True	True	True	True	True	True	True	True
 245.21	Chronic lymphocytic thyroiditis	endocrine/metabolic	HP_0000872	Hashimoto thyroiditis	True	True	True	True	True	True				100.0	100.0		81.25320408828874	True	True	True	True	True	True	True	True	True
 246	Other disorders of thyroid	endocrine/metabolic	HP_0000853	Goiter													50.28710273980756							True	True	True
 249	Secondary diabetes mellitus	endocrine/metabolic	HP_0001953	Diabetic ketoacidosis													65.64800126108248							True	True	True
 250	Diabetes mellitus	endocrine/metabolic	HP_0000819	Diabetes mellitus	True	True	True	True	True	True		True		100.0	100.0		14.10161930210842	True	True	True	True	True	True	True	True	True
-250	Diabetes mellitus	endocrine/metabolic	HP_0100651	Type I diabetes mellitus			True			True						95.24				True	True	True	True	True	True	True
 250	Diabetes mellitus	endocrine/metabolic	HP_0005978	Type II diabetes mellitus			True			True										True	True	True	True	True	True	True
+250	Diabetes mellitus	endocrine/metabolic	HP_0100651	Type I diabetes mellitus			True			True						95.24				True	True	True	True	True	True	True
 250.1	Type 1 diabetes	endocrine/metabolic	HP_0100651	Type I diabetes mellitus	True	True	True							100.0		95.24	50.99080669452144			True	True	True	True	True	True	True
 250.11	Type 1 diabetes with ketoacidosis	endocrine/metabolic	HP_0100651	Type I diabetes mellitus													50.99080669452144							True	True	True
 250.12	Type 1 diabetes with renal manifestations	endocrine/metabolic	HP_0100651	Type I diabetes mellitus													50.99080669452144							True	True	True
@@ -124,17 +128,17 @@ phecode1.2_code	phecode1.2_label	phecode1.2_category	hpo_code	hpo_label	stringMa
 250.41	Impaired fasting glucose	endocrine/metabolic	HP_0025691	Impaired fasting glucose	True	True	True	True	True	True	True	True	True									True		True	True	True
 250.42	Other abnormal glucose	endocrine/metabolic	HP_0003074	Hyperglycemia							True	True	True			100.0	115.2467212728505			True	True	True	True	True	True	True
 251.1	Hypoglycemia	endocrine/metabolic	HP_0001943	Hypoglycemia	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	68.12974892613946	True	True	True	True	True	True	True	True	True
+252.1	Hyperparathyroidism	endocrine/metabolic	HP_0011770	Tertiary hyperparathyroidism			True			True			True							True	True	True		True	True	True
 252.1	Hyperparathyroidism	endocrine/metabolic	HP_0008200	Primary hyperparathyroidism			True	True	True	True	True	True	True		100.0	100.0	24.91687042945147	True	True	True	True	True	True	True	True	True
 252.1	Hyperparathyroidism	endocrine/metabolic	HP_0000843	Hyperparathyroidism	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	29.451706077404534	True	True	True	True	True		True	True	True
-252.1	Hyperparathyroidism	endocrine/metabolic	HP_0011770	Tertiary hyperparathyroidism			True			True			True							True	True	True		True	True	True
 252.2	Hypoparathyroidism	endocrine/metabolic	HP_0000829	Hypoparathyroidism	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	64.04854387487535	True	True	True	True	True	True	True	True	True
 253.1	Pituitary hyperfunction	endocrine/metabolic	HP_0033794	Acral overgrowth													44.05593114372207							True	True	True
 253.11	Acromegaly and gigantism	endocrine/metabolic	HP_0033794	Acral overgrowth													49.96853914690151							True	True	True
 253.3	Diabetes insipidus	endocrine/metabolic	HP_0000863	Central diabetes insipidus			True			True			True				33.44534494300706					True	True	True	True	True
 253.3	Diabetes insipidus	endocrine/metabolic	HP_0000873	Diabetes insipidus	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	78.15985971088904	True	True	True	True	True	True	True	True	True
 253.5	Pituitary dwarfism	endocrine/metabolic	HP_0000839	Pituitary dwarfism	True	True	True	True	True	True				100.0	100.0			True	True			True		True	True	True
+253.7	Other disorders of neurohypophysis	endocrine/metabolic	HP_0031218	Inappropriate antidiuretic hormone secretion								True				90.0	101.48110126484848			True	True			True	True	True
 253.7	Other disorders of neurohypophysis	endocrine/metabolic	HP_0002902	Hyponatremia													48.93940173054936							True	True	True
-253.7	Other disorders of neurohypophysis	endocrine/metabolic	HP_0031218	Inappropriate antidiuretic hormone secretion												90.0	101.48110126484848			True	True			True	True	True
 255.1	Adrenal hyperfunction	endocrine/metabolic	HP_0003118	Increased circulating cortisol level											100.0	100.0	56.36062287488093	True	True	True	True	True	True	True	True	True
 255.11	Cushing's syndrome	endocrine/metabolic	HP_0003118	Increased circulating cortisol level										100.0	100.0	100.0	73.89714934890087	True	True	True	True	True	True	True	True	True
 255.12	Hyperaldosteronism	endocrine/metabolic	HP_0000859	Hyperaldosteronism	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	17.35890781139058	True	True	True	True	True	True	True	True	True
@@ -147,17 +151,29 @@ phecode1.2_code	phecode1.2_label	phecode1.2_category	hpo_code	hpo_label	stringMa
 260.1	Cachexia	endocrine/metabolic	HP_0004326	Cachexia	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
 260.3	Adult failure to thrive	endocrine/metabolic	HP_0001508	Failure to thrive		True			True			True		82.35	82.35	82.35						True		True	True	True
 260.6	Anorexia	endocrine/metabolic	HP_0002039	Anorexia	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	57.100847721732606	True	True	True	True			True	True	True
-260.7	Polyphagia	endocrine/metabolic	HP_0100739	Bulimia													54.23679908643571							True	True	True
 260.7	Polyphagia	endocrine/metabolic	HP_0002591	Polyphagia	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	19.061199012706364	True	True	True	True	True	True	True	True	True
-261	Vitamin deficiency	endocrine/metabolic	HP_0004905	Low levels of vitamin A				True	True	True	True	True	True	100.0	100.0	100.0		True	True	True	True			True	True	True
+260.7	Polyphagia	endocrine/metabolic	HP_0100739	Bulimia													54.23679908643571							True	True	True
+261	Vitamin deficiency	endocrine/metabolic	HP_0008326	Reduced circulating vitamin B6 level			True	True	True	True			True		100.0			True	True	True	True			True	True	True
+261	Vitamin deficiency	endocrine/metabolic	HP_0100503	Low levels of vitamin B1			True			True			True						True	True	True			True	True	True
+261	Vitamin deficiency	endocrine/metabolic	HP_0100497	Vitamin B3 deficiency			True			True			True							True	True			True	True	True
+261	Vitamin deficiency	endocrine/metabolic	HP_0100512	Low levels of vitamin D			True	True	True	True	True	True	True		100.0	100.0		True	True	True	True			True	True	True
+261	Vitamin deficiency	endocrine/metabolic	HP_0004905	Low levels of vitamin A			True	True	True	True	True	True	True	100.0	100.0	100.0		True	True	True	True			True	True	True
+261	Vitamin deficiency	endocrine/metabolic	HP_0100505	Low levels of vitamin B5			True			True			True											True	True	True
+261	Vitamin deficiency	endocrine/metabolic	HP_0100513	Low levels of vitamin E			True			True		True	True			100.0				True	True	True	True	True	True	True
+261	Vitamin deficiency	endocrine/metabolic	HP_0100504	Low levels of vitamin B2			True			True	True	True	True			100.0		True	True	True	True			True	True	True
+261	Vitamin deficiency	endocrine/metabolic	HP_0100507	Reduced blood folate concentration			True			True			True							True	True	True	True	True	True	True
+261	Vitamin deficiency	endocrine/metabolic	HP_0100502	Vitamin B12 deficiency			True			True			True							True	True			True	True	True
+261	Vitamin deficiency	endocrine/metabolic	HP_0100510	Low levels of vitamin C			True			True			True			80.95		True	True	True	True			True	True	True
+261	Vitamin deficiency	endocrine/metabolic	HP_0100506	Low levels of vitamin B8			True			True			True											True	True	True
 261.1	Vitamin A deficiency	endocrine/metabolic	HP_0004905	Low levels of vitamin A	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0		True	True	True	True			True	True	True
 261.3	Vitamin C deficiencies	endocrine/metabolic	HP_0100510	Low levels of vitamin C										100.0		80.95	15.339874898672102	True	True	True	True			True	True	True
 261.4	Vitamin D deficiency	endocrine/metabolic	HP_0002748	Rickets													45.49897957287479			True	True	True	True	True	True	True
 261.4	Vitamin D deficiency	endocrine/metabolic	HP_0100512	Low levels of vitamin D	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	20.855772092559306	True	True	True	True			True	True	True
 261.41	Rickets or osteomalacia	endocrine/metabolic	HP_0002748	Rickets													45.49897957287479			True	True			True	True	True
-264.1	Short stature	endocrine/metabolic	HP_0003510	Severe short stature													54.36838350282387		True		True			True	True	True
 264.1	Short stature	endocrine/metabolic	HP_0003502	Mild short stature			True			True						86.49								True	True	True
+264.1	Short stature	endocrine/metabolic	HP_0003510	Severe short stature													54.36838350282387		True		True			True	True	True
 264.1	Short stature	endocrine/metabolic	HP_0004322	Short stature	True	True	True	True	True	True		True		100.0	100.0		29.04424452721759	True	True	True	True	True		True	True	True
+264.3	Delayed milestones	endocrine/metabolic	HP_0001270	Motor delay			True			True														True	True	True
 264.3	Delayed milestones	endocrine/metabolic	HP_0001263	Global developmental delay	True	True	True	True	True	True				100.0	100.0							True	True	True	True	True
 269	Proteinuria	endocrine/metabolic	HP_0000093	Proteinuria	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	57.32692341579606	True	True	True	True	True	True	True	True	True
 269	Proteinuria	endocrine/metabolic	HP_0012595	Mild proteinuria			True			True			True											True	True	True
@@ -165,8 +181,8 @@ phecode1.2_code	phecode1.2_label	phecode1.2_category	hpo_code	hpo_label	stringMa
 270.12	Phenylketonuria [PKU]	endocrine/metabolic	HP_0005982	Reduced phenylalanine hydroxylase level													85.81175326924641		True	True	True			True	True	True
 270.2	Disorders of amino-acid metabolism	endocrine/metabolic	HP_0002912	Methylmalonic acidemia							True	True	True			100.0	43.591981374224645			True	True			True	True	True
 270.21	Disorders of urea cycle metabolism	endocrine/metabolic	HP_0032397	Citrullinuria													48.729566439406526			True	True	True	True	True	True	True
-270.32	Paraproteinemia	endocrine/metabolic	HP_0031047	Paraproteinemia	True	True	True							100.0	100.0							True	True	True	True	True
 270.32	Paraproteinemia	endocrine/metabolic	HP_0100778	Cryoglobulinemia							True	True	True			100.0	75.65796864093494			True	True	True	True	True	True	True
+270.32	Paraproteinemia	endocrine/metabolic	HP_0031047	Paraproteinemia	True	True	True							100.0	100.0							True	True	True	True	True
 270.33	Amyloidosis	endocrine/metabolic	HP_4000041	AA amyloidosis			True			True			True											True	True	True
 270.33	Amyloidosis	endocrine/metabolic	HP_0011034	Amyloidosis	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	35.96792625291911	True	True	True	True	True	True	True	True	True
 270.35	Macroglobulinemia	endocrine/metabolic	HP_0005508	Monoclonal immunoglobulin M proteinemia													83.27798867188038	True	True	True	True			True	True	True
@@ -210,17 +226,18 @@ phecode1.2_code	phecode1.2_label	phecode1.2_category	hpo_code	hpo_label	stringMa
 285.3	Sideroblastic anemia	hematopoietic	HP_0001924	Sideroblastic anemia	True	True	True	True	True	True				100.0	100.0	100.0	120.18622349468141	True	True	True	True	True	True	True	True	True
 285.8	Hemoglobinuria	hematopoietic	HP_0004818	Paroxysmal nocturnal hemoglobinuria													73.32519385934036			True	True	True	True	True	True	True
 285.8	Hemoglobinuria	hematopoietic	HP_0003641	Hemoglobinuria	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
-287.3	Thrombocytopenia	hematopoietic	HP_0001973	Autoimmune thrombocytopenia			True			True			True		80.77	80.77	32.98983282371348	True	True	True	True	True	True	True	True	True
 287.3	Thrombocytopenia	hematopoietic	HP_0001873	Thrombocytopenia	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	46.50488991740031	True	True	True	True	True	True	True	True	True
+287.3	Thrombocytopenia	hematopoietic	HP_0001973	Autoimmune thrombocytopenia			True			True			True		80.77	80.77	32.98983282371348	True	True	True	True	True	True	True	True	True
 287.31	Primary thrombocytopenia	hematopoietic	HP_0001973	Autoimmune thrombocytopenia											80.77	80.77	99.73144200333854	True	True	True	True	True	True	True	True	True
 288.11	Neutropenia	hematopoietic	HP_0001875	Neutropenia	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0			True		True	True	True	True	True	True
+288.2	Elevated white blood cell count	hematopoietic	HP_0001974	Leukocytosis		True		True	True	True		True		90.2	100.0	90.2	41.02452942941592	True	True	True	True			True	True	True
 288.3	Eosinophilia	hematopoietic	HP_0032064	Gastrointestinal eosinophilia			True			True			True											True	True	True
 288.3	Eosinophilia	hematopoietic	HP_0001880	Eosinophilia	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	44.56485815977956	True	True	True	True	True	True	True	True	True
 289.1	Myelofibrosis	hematopoietic	HP_0011974	Myelofibrosis	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
 289.4	Lymphadenitis	hematopoietic	HP_0002840	Lymphadenitis	True	True	True		True			True		100.0	80.0	80.0	36.47035817073992			True	True	True	True	True	True	True
 289.8	Polycythemia, secondary	hematopoietic	HP_0001901	Polycythemia													79.82787619282233			True	True	True	True	True	True	True
-289.9	Abnormality of red blood cells	hematopoietic	HP_0001877	Abnormal erythrocyte morphology	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0		True	True	True	True			True	True	True
 289.9	Abnormality of red blood cells	hematopoietic	HP_0012119	Methemoglobinemia				True	True	True	True	True	True		100.0	100.0	70.31488468778544	True	True	True	True	True	True	True	True	True
+289.9	Abnormality of red blood cells	hematopoietic	HP_0001877	Abnormal erythrocyte morphology	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0		True	True	True	True			True	True	True
 290	Delirium dementia and amnestic and other cognitive disorders	mental disorders	HP_0000726	Dementia				True	True	True	True	True	True		100.0	100.0	71.71163980064898	True	True	True	True	True	True	True	True	True
 290.1	Dementias	mental disorders	HP_0000726	Dementia				True	True	True	True	True	True	100.0	100.0	100.0	50.52752803711364	True	True	True	True		True	True	True	True
 290.11	Alzheimer's disease	mental disorders	HP_0002511	Alzheimer disease										100.0	100.0	100.0	22.42271657474269	True	True	True	True	True	True	True	True	True
@@ -241,37 +258,39 @@ phecode1.2_code	phecode1.2_label	phecode1.2_category	hpo_code	hpo_label	stringMa
 295.3	Psychosis	mental disorders	HP_0000709	Psychosis	True	True	True	True	True	True				100.0	100.0		48.5828220164	True	True				True	True	True	True
 296	Mood disorders	mental disorders	HP_0007302	Bipolar affective disorder				True	True	True	True	True	True		100.0	100.0	57.47356477670285	True	True	True	True	True	True	True	True	True
 296.1	Bipolar	mental disorders	HP_0007302	Bipolar affective disorder				True	True	True	True	True	True		100.0	100.0	55.548404812966034	True	True	True	True	True	True	True	True	True
-296.2	Depression	mental disorders	HP_0000716	Depression	True	True	True							100.0							True			True	True	True
 296.2	Depression	mental disorders	HP_0031594	PR segment depression			True																	True	True	True
+296.2	Depression	mental disorders	HP_0000716	Depression	True	True	True							100.0							True			True	True	True
 297.1	Suicidal ideation	mental disorders	HP_0031589	Suicidal ideation	True	True	True	True	True	True				100.0	100.0	100.0	136.98400525901738	True	True	True	True	True		True	True	True
 300.3	Obsessive-compulsive disorders	mental disorders	HP_0000722	Obsessive-compulsive behavior													87.32005297370439	True	True	True	True			True	True	True
 300.9	Posttraumatic stress disorder	mental disorders	HP_0033676	Posttraumatic stress symptom													90.23361988458242	True	True	True	True			True	True	True
 301	Personality disorders	mental disorders	HP_0012075	Personality disorder				True	True	True	True	True	True	100.0	100.0	100.0	27.492090275899077	True	True	True	True	True		True	True	True
 301.1	Schizoid personality disorder	mental disorders	HP_0012075	Personality disorder		True			True			True					18.030421126571305							True	True	True
 301.2	Antisocial/borderline personality disorder	mental disorders	HP_0012076	Borderline personality disorder				True	True	True	True	True	True		100.0	100.0	47.64400264478829	True	True	True	True	True	True	True	True	True
-302.1	Decreased libido	mental disorders	HP_0012878	Retarded ejaculation													67.53321035049083			True	True			True	True	True
 302.1	Decreased libido	mental disorders	HP_0046504	Decreased libido	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
+302.1	Decreased libido	mental disorders	HP_0030018	Decreased female libido			True			True			True											True	True	True
+302.1	Decreased libido	mental disorders	HP_0040306	Decreased male libido			True			True			True											True	True	True
+302.1	Decreased libido	mental disorders	HP_0012878	Retarded ejaculation													67.53321035049083			True	True			True	True	True
 303	Psychogenic and somatoform disorders	mental disorders	HP_0032940	Dissociative reaction													52.336259337688		True	True	True			True	True	True
 303.1	Dissociative disorder	mental disorders	HP_0032940	Dissociative reaction											82.93		47.042542594611035	True	True	True	True			True	True	True
-306.9	Tension headache	mental disorders	HP_0012228	Tension-type headache							True	True	True	86.49	86.49	100.0	130.470708076303	True	True	True	True	True	True	True	True	True
 306.9	Tension headache	mental disorders	HP_0002315	Headache													75.6824835826599							True	True	True
+306.9	Tension headache	mental disorders	HP_0012228	Tension-type headache							True	True	True	86.49	86.49	100.0	130.470708076303	True	True	True	True	True	True	True	True	True
 312.3	Impulse control disorder	mental disorders	HP_0012167	Hair-pulling													57.627724152279434					True		True	True	True
 313	Pervasive developmental disorders	mental disorders	HP_0010677	Enuresis nocturna													48.0457750104097		True			True	True	True	True	True
 313	Pervasive developmental disorders	mental disorders	HP_0000729	Autistic behavior				True	True	True	True	True	True	100.0	100.0	100.0			True	True	True	True	True	True	True	True
-313.1	Attention deficit hyperactivity disorder	mental disorders	HP_0007018	Attention deficit hyperactivity disorder	True	True	True							100.0	100.0	100.0	94.13891640758727	True	True	True	True	True	True	True	True	True
+313.1	Attention deficit hyperactivity disorder	mental disorders	HP_0007018	Attention deficit hyperactivity disorder	True	True	True		True					100.0	100.0	100.0	94.13891640758727	True	True	True	True	True	True	True	True	True
 313.3	Autism	mental disorders	HP_0000717	Autism	True	True	True							100.0			51.02423049951053	True	True	True	True	True	True	True	True	True
 315	Develomental delays and disorders	mental disorders	HP_0012167	Hair-pulling							True	True	True			100.0	50.318553705912			True	True		True	True	True	True
 315.3	Mental retardation	mental disorders	HP_0010864	Intellectual disability, severe			True								100.0	100.0		True	True	True	True	True		True	True	True
 315.3	Mental retardation	mental disorders	HP_0001256	Intellectual disability, mild			True								100.0	100.0		True	True	True	True	True		True	True	True
 315.3	Mental retardation	mental disorders	HP_0001249	Intellectual disability	True	True	True							100.0	100.0	100.0	27.974313535413252	True	True	True	True	True		True	True	True
 317.1	Alcoholism	mental disorders	HP_0030955	Alcoholism	True	True	True							100.0			20.712449322610322		True		True			True	True	True
-320	Meningitis	neurological	HP_0033508	EBV meningitis			True			True			True											True	True	True
 320	Meningitis	neurological	HP_0001287	Meningitis	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	29.66140465159091	True	True	True	True	True	True	True	True	True
-323	Encephalitis	neurological	HP_0033509	EBV encephalitis			True																	True	True	True
+320	Meningitis	neurological	HP_0033508	EBV meningitis			True			True			True											True	True	True
 323	Encephalitis	neurological	HP_0002383	Infectious encephalitis										100.0								True	True	True	True	True
+323	Encephalitis	neurological	HP_0033509	EBV encephalitis			True																	True	True	True
 327.1	Hypersomnia	neurological	HP_0100786	Hypersomnia	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	19.802262325428234	True	True	True	True	True	True	True	True	True
-327.3	Sleep apnea	neurological	HP_0010535	Sleep apnea	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	17.30150266384054	True	True	True	True	True	True	True	True	True
 327.3	Sleep apnea	neurological	HP_0002870	Obstructive sleep apnea													51.51287000036727	True	True	True	True			True	True	True
+327.3	Sleep apnea	neurological	HP_0010535	Sleep apnea	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	17.30150266384054	True	True	True	True	True	True	True	True	True
 327.31	Central/nonobstroctive sleep apnea	neurological	HP_0010536	Central sleep apnea					True			True			83.33	83.33	127.715501159841							True	True	True
 327.32	Obstructive sleep apnea	neurological	HP_0002870	Obstructive sleep apnea	True	True	True							100.0			54.104067076350134	True	True	True	True			True	True	True
 327.4	Insomnia	neurological	HP_0100785	Insomnia	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	27.503719778737196	True	True	True	True	True	True	True	True	True
@@ -284,18 +303,19 @@ phecode1.2_code	phecode1.2_label	phecode1.2_category	hpo_code	hpo_label	stringMa
 331.1	Hydrocephalus	neurological	HP_0000238	Hydrocephalus	True	True	True				True	True	True	100.0		100.0	81.57269717098545			True	True	True	True	True	True	True
 331.9	Cerebral degeneration, unspecified	neurological	HP_0007313	Cerebral degeneration	True	True	True	True	True	True				100.0	100.0			True	True					True	True	True
 333	Extrapyramidal disease and abnormal movement disorders	neurological	HP_0012452	Restless legs													58.88681055612852							True	True	True
-333.1	Essential tremor	neurological	HP_0001337	Tremor													86.99885228597391							True	True	True
 333.1	Essential tremor	neurological	HP_0030186	Kinetic tremor	True	True	True				True	True	True	100.0		100.0	67.17684123127836			True	True	True	True	True	True	True
+333.1	Essential tremor	neurological	HP_0001337	Tremor													86.99885228597391							True	True	True
 333.2	Myoclonus	neurological	HP_0000643	Blepharospasm													44.12337909814521							True	True	True
 333.2	Myoclonus	neurological	HP_0001336	Myoclonus	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	63.74826293139528	True	True	True	True	True	True	True	True	True
 333.4	Torsion dystonia	neurological	HP_0001332	Dystonia							True	True	True			100.0	48.06422308211451			True	True		True	True	True	True
 333.4	Torsion dystonia	neurological	HP_0001304	Torsion dystonia	True	True	True							100.0	85.0	85.0		True	True	True	True	True	True	True	True	True
 334	Degenerative disease of the spinal cord	neurological	HP_0003396	Syringomyelia													92.90970194991849					True	True	True	True	True
-334.2	Anterior horn cell disease	neurological	HP_0006802	Abnormal anterior horn cell morphology	True	True	True	True	True	True				100.0	100.0			True	True			True	True	True	True	True
 334.2	Anterior horn cell disease	neurological	HP_0007269	Spinal muscular atrophy				True	True	True	True	True	True		100.0	100.0	75.19487417647224	True	True	True	True	True	True	True	True	True
+334.2	Anterior horn cell disease	neurological	HP_0006802	Abnormal anterior horn cell morphology	True	True	True	True	True	True				100.0	100.0			True	True			True	True	True	True	True
 334.21	Amyotrophic Lateral Sclerosis	neurological	HP_0007354	Amyotrophic lateral sclerosis	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	113.41599201097132	True	True	True	True	True		True	True	True
 337	Disorders of the autonomic nervous system	neurological	HP_0002277	Horner syndrome							True	True	True			100.0	78.80791589858823			True	True	True	True	True	True	True
 337.1	Peripheral autonomic neuropathy	neurological	HP_0002277	Horner syndrome													104.97695589267734							True	True	True
+337.1	Peripheral autonomic neuropathy	neurological	HP_0009830	Peripheral neuropathy		True								83.33									True	True	True	True
 338	Pain	neurological	HP_0012531	Pain	True	True	True				True	True	True	100.0		100.0		True	True	True	True	True	True	True	True	True
 338.2	Chronic pain	neurological	HP_0012532	Chronic pain	True	True	True	True	True	True				100.0	100.0	100.0	16.617783082662424	True	True			True		True	True	True
 339	Other headache syndromes	neurological	HP_0002315	Headache				True	True	True	True	True	True		100.0	100.0	67.43591642782786	True	True	True	True	True	True	True	True	True
@@ -315,6 +335,9 @@ phecode1.2_code	phecode1.2_label	phecode1.2_category	hpo_code	hpo_label	stringMa
 348.7	Coma	neurological	HP_0001259	Coma	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	59.64750597991197	True	True	True	True	True	True	True	True	True
 348.8	Encephalopathy, not elsewhere classified	neurological	HP_0001298	Encephalopathy				True	True	True	True	True	True		100.0	100.0	50.01536242668164	True	True	True	True		True	True	True	True
 350	Abnormal movement	neurological	HP_0100022	Abnormality of movement										100.0								True	True	True	True	True
+350	Abnormal movement	neurological	HP_0000496	Abnormality of eye movement			True																	True	True	True
+350	Abnormal movement	neurological	HP_0031785	Abnormal eyelid movement			True																	True	True	True
+350.1	Abnormal involuntary movements	neurological	HP_0012547	Abnormal involuntary eye movements			True			True			True											True	True	True
 350.1	Abnormal involuntary movements	neurological	HP_0004305	Involuntary movements		True			True			True		85.71	85.71	85.71								True	True	True
 350.2	Abnormality of gait	neurological	HP_0001288	Gait disturbance										100.0	100.0	80.0		True	True			True		True	True	True
 350.3	Lack of coordination	neurological	HP_0001332	Dystonia							True	True	True			100.0	65.66920482282582			True	True			True	True	True
@@ -328,22 +351,22 @@ phecode1.2_code	phecode1.2_label	phecode1.2_category	hpo_code	hpo_label	stringMa
 361	Retinal detachments and defects	sense organs	HP_0000541	Retinal detachment				True	True	True		True			100.0	100.0	44.45550534452681	True	True	True	True	True		True	True	True
 361.1	Retinal detachment with retinal defect	sense organs	HP_0000541	Retinal detachment								True				81.25	73.74299917672765							True	True	True
 361.2	Retinoschisis and retinal cysts	sense organs	HP_0030502	Retinoschisis				True	True	True	True	True	True		100.0	100.0	187.6681916416853	True	True	True	True	True	True	True	True	True
-362.1	Retinopathy of prematurity	sense organs	HP_0500054	Retinopathy of prematurity stage 4a			True			True			True											True	True	True
-362.1	Retinopathy of prematurity	sense organs	HP_0500051	Retinopathy of prematurity stage 2			True	True	True	True	True	True	True		100.0	100.0		True	True	True	True			True	True	True
-362.1	Retinopathy of prematurity	sense organs	HP_0500055	Retinopathy of prematurity stage 4b			True			True			True											True	True	True
-362.1	Retinopathy of prematurity	sense organs	HP_0500056	Retinopathy of prematurity stage 5			True	True	True	True	True	True	True		100.0	100.0		True	True	True	True			True	True	True
-362.1	Retinopathy of prematurity	sense organs	HP_0500053	Retinopathy of prematurity stage 4			True	True	True	True	True	True	True		100.0	100.0		True	True	True	True			True	True	True
-362.1	Retinopathy of prematurity	sense organs	HP_0500057	Retinopathy of prematurity stage 5a			True			True			True											True	True	True
-362.1	Retinopathy of prematurity	sense organs	HP_0500058	Retinopathy of prematurity stage 5b			True			True			True											True	True	True
-362.1	Retinopathy of prematurity	sense organs	HP_0500059	Retinopathy of prematurity zone I			True			True			True											True	True	True
-362.1	Retinopathy of prematurity	sense organs	HP_0500060	Retinopathy of prematurity zone II			True			True			True											True	True	True
-362.1	Retinopathy of prematurity	sense organs	HP_0500052	Retinopathy of prematurity stage 3			True	True	True	True	True	True	True		100.0	100.0		True	True	True	True			True	True	True
-362.1	Retinopathy of prematurity	sense organs	HP_0500061	Retinopathy of prematurity zone III			True			True			True											True	True	True
-362.1	Retinopathy of prematurity	sense organs	HP_0500062	Retinopathy of prematurity plus			True			True			True											True	True	True
 362.1	Retinopathy of prematurity	sense organs	HP_0500064	Retinopathy of prematurity threshold			True			True			True											True	True	True
-362.1	Retinopathy of prematurity	sense organs	HP_0500050	Retinopathy of prematurity stage 1			True	True	True	True	True	True	True		100.0	100.0		True	True	True	True			True	True	True
-362.1	Retinopathy of prematurity	sense organs	HP_0500049	Retinopathy of prematurity	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	102.50862610811213	True	True	True	True	True	True	True	True	True
+362.1	Retinopathy of prematurity	sense organs	HP_0500055	Retinopathy of prematurity stage 4b			True			True			True											True	True	True
 362.1	Retinopathy of prematurity	sense organs	HP_0500063	Retinopathy of prematurity pre-plus			True			True			True											True	True	True
+362.1	Retinopathy of prematurity	sense organs	HP_0500054	Retinopathy of prematurity stage 4a			True			True			True											True	True	True
+362.1	Retinopathy of prematurity	sense organs	HP_0500060	Retinopathy of prematurity zone II			True			True			True											True	True	True
+362.1	Retinopathy of prematurity	sense organs	HP_0500059	Retinopathy of prematurity zone I			True			True			True											True	True	True
+362.1	Retinopathy of prematurity	sense organs	HP_0500058	Retinopathy of prematurity stage 5b			True			True			True											True	True	True
+362.1	Retinopathy of prematurity	sense organs	HP_0500057	Retinopathy of prematurity stage 5a			True			True			True											True	True	True
+362.1	Retinopathy of prematurity	sense organs	HP_0500056	Retinopathy of prematurity stage 5			True	True	True	True	True	True	True		100.0	100.0		True	True	True	True			True	True	True
+362.1	Retinopathy of prematurity	sense organs	HP_0500062	Retinopathy of prematurity plus			True			True			True											True	True	True
+362.1	Retinopathy of prematurity	sense organs	HP_0500061	Retinopathy of prematurity zone III			True			True			True											True	True	True
+362.1	Retinopathy of prematurity	sense organs	HP_0500049	Retinopathy of prematurity	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	102.50862610811213	True	True	True	True	True	True	True	True	True
+362.1	Retinopathy of prematurity	sense organs	HP_0500050	Retinopathy of prematurity stage 1			True	True	True	True	True	True	True		100.0	100.0		True	True	True	True			True	True	True
+362.1	Retinopathy of prematurity	sense organs	HP_0500051	Retinopathy of prematurity stage 2			True	True	True	True	True	True	True		100.0	100.0		True	True	True	True			True	True	True
+362.1	Retinopathy of prematurity	sense organs	HP_0500052	Retinopathy of prematurity stage 3			True	True	True	True	True	True	True		100.0	100.0		True	True	True	True			True	True	True
+362.1	Retinopathy of prematurity	sense organs	HP_0500053	Retinopathy of prematurity stage 4			True	True	True	True	True	True	True		100.0	100.0		True	True	True	True			True	True	True
 362.21	Macular degeneration, dry	sense organs	HP_0000608	Macular degeneration		True								88.89										True	True	True
 362.22	Macular degeneration, wet	sense organs	HP_0000608	Macular degeneration		True								88.89										True	True	True
 362.23	Cystoid macular degeneration of retina	sense organs	HP_0008028	Cystoid macular degeneration		True		True	True	True	True	True	True	87.27	100.0	100.0		True	True	True	True			True	True	True
@@ -352,25 +375,25 @@ phecode1.2_code	phecode1.2_label	phecode1.2_category	hpo_code	hpo_label	stringMa
 362.26	Macular puckering of retina	sense organs	HP_0100014	Epiretinal membrane										81.08	100.0	89.66	128.96116608395283	True	True			True		True	True	True
 362.29	Macular degeneration (senile) of retina NOS	sense organs	HP_0007868	obsolete Age-related macular degeneration													120.60805854792028	True	True	True	True			True	True	True
 362.31	Separation of retinal layers	sense organs	HP_0000541	Retinal detachment								True					58.76371206559233		True	True	True			True	True	True
+362.6	Peripheral retinal degenerations	sense organs	HP_0007992	Lattice retinal degeneration						True					83.33	93.02	230.46551091262558	True	True	True	True			True	True	True
 362.6	Peripheral retinal degenerations	sense organs	HP_0000541	Retinal detachment													88.13254771496817							True	True	True
 362.6	Peripheral retinal degenerations	sense organs	HP_0007769	Peripheral retinal degeneration				True	True	True	True	True	True	100.0	100.0	100.0		True	True	True	True			True	True	True
-362.6	Peripheral retinal degenerations	sense organs	HP_0007992	Lattice retinal degeneration											83.33	93.02	230.46551091262558	True	True	True	True			True	True	True
-362.7	Hereditary retinal dystrophies	sense organs	HP_0000547	obsolete Tapetoretinal degeneration													81.52689118443962			True	True			True	True	True
 362.7	Hereditary retinal dystrophies	sense organs	HP_0000510	Rod-cone dystrophy													81.52689118443962			True	True	True	True	True	True	True
+362.7	Hereditary retinal dystrophies	sense organs	HP_0000547	obsolete Tapetoretinal degeneration													81.52689118443962			True	True			True	True	True
 363.3	Chorioretinal scars	sense organs	HP_0007777	Chorioretinal scar				True	True	True				100.0	100.0	100.0		True	True	True	True			True	True	True
 364	Corneal opacity and other disorders of cornea	sense organs	HP_0000563	Keratoconus				True	True	True	True	True	True		100.0	100.0	69.73527286353796	True	True	True	True	True	True	True	True	True
 364.1	Corneal opacity	sense organs	HP_0007957	Corneal opacity	True	True	True	True	True	True				100.0	100.0	83.87	33.988230385130045	True	True					True	True	True
 364.4	Corneal degenerations	sense organs	HP_0007705	Corneal degeneration				True	True	True	True	True	True	100.0	100.0	100.0		True	True	True	True			True	True	True
 364.41	Keratoconus	sense organs	HP_0000563	Keratoconus	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	95.84318557644501	True	True	True	True	True	True	True	True	True
-364.5	Corneal dystrophy	sense organs	HP_0007827	Nodular corneal dystrophy			True								84.62	84.62								True	True	True
-364.5	Corneal dystrophy	sense organs	HP_0001149	Lattice corneal dystrophy			True	True	True	True	True	True	True		100.0	100.0	19.166908214176505	True	True	True	True	True	True	True	True	True
-364.5	Corneal dystrophy	sense organs	HP_0007836	Mosaic corneal dystrophy			True																	True	True	True
 364.5	Corneal dystrophy	sense organs	HP_0007881	Central corneal dystrophy			True																	True	True	True
+364.5	Corneal dystrophy	sense organs	HP_0007836	Mosaic corneal dystrophy			True																	True	True	True
+364.5	Corneal dystrophy	sense organs	HP_0001149	Lattice corneal dystrophy			True	True	True	True	True	True	True		100.0	100.0	19.166908214176505	True	True	True	True	True	True	True	True	True
+364.5	Corneal dystrophy	sense organs	HP_0007827	Nodular corneal dystrophy			True								84.62	84.62								True	True	True
 364.5	Corneal dystrophy	sense organs	HP_0001131	Corneal dystrophy	True	True	True		True			True		100.0	81.82		49.783761080563075		True		True			True	True	True
 365	Glaucoma	sense organs	HP_0000501	Glaucoma	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	69.748425011656	True	True	True	True	True	True	True	True	True
 365.1	Open-angle glaucoma	sense organs	HP_0012108	Open angle glaucoma					True					100.0	100.0	100.0	53.11437209471895	True	True	True	True			True	True	True
-365.11	Primary open angle glaucoma	sense organs	HP_0012108	Open angle glaucoma		True			True					82.61	82.61	82.61	51.88832445948724	True	True	True	True			True	True	True
 365.11	Primary open angle glaucoma	sense organs	HP_0000501	Glaucoma													80.16337580464682			True	True			True	True	True
+365.11	Primary open angle glaucoma	sense organs	HP_0012108	Open angle glaucoma		True			True					82.61	82.61	82.61	51.88832445948724	True	True	True	True			True	True	True
 366	Cataract	sense organs	HP_0000518	Cataract	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	45.675533128197316	True	True	True	True	True	True	True	True	True
 366.2	Senile cataract	sense organs	HP_0011141	Age-related cataract							True	True	True			100.0	53.1619445111076	True	True	True	True			True	True	True
 367.1	Myopia	sense organs	HP_0000545	Myopia	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	156.58848324889806	True	True	True	True	True	True	True	True	True
@@ -389,24 +412,24 @@ phecode1.2_code	phecode1.2_label	phecode1.2_category	hpo_code	hpo_label	stringMa
 369.5	Conjunctivitis, infectious	sense organs	HP_0000509	Conjunctivitis				True	True	True	True	True	True		100.0	100.0	46.27209812115311	True	True	True	True	True	True	True	True	True
 370	Keratitis	sense organs	HP_0000491	Keratitis	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	55.654988754897865	True	True	True	True	True	True	True	True	True
 370.1	Corneal ulcer	sense organs	HP_0012804	Corneal ulceration	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	86.09807304480692	True	True	True	True	True	True	True	True	True
+370.3	Keratoconjunctivitis	sense organs	HP_0001096	Keratoconjunctivitis	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0		True	True	True	True	True		True	True	True
 370.3	Keratoconjunctivitis	sense organs	HP_0001097	Keratoconjunctivitis sicca			True			True			True									True		True	True	True
 370.3	Keratoconjunctivitis	sense organs	HP_0000491	Keratitis													78.31453803685623							True	True	True
-370.3	Keratoconjunctivitis	sense organs	HP_0001096	Keratoconjunctivitis	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0		True	True	True	True	True		True	True	True
-370.31	Keratoconjunctivitis sicca	sense organs	HP_0001097	Keratoconjunctivitis sicca	True	True	True							100.0			59.73862935664264					True		True	True	True
 370.31	Keratoconjunctivitis sicca	sense organs	HP_0001096	Keratoconjunctivitis		True																		True	True	True
+370.31	Keratoconjunctivitis sicca	sense organs	HP_0001097	Keratoconjunctivitis sicca	True	True	True							100.0			59.73862935664264					True		True	True	True
 371	Inflammation of the eye	sense organs	HP_0031830	Pinguecula													225.8922372192185							True	True	True
 371.1	Uveitis, noninfectious or NOS	sense organs	HP_0000554	Uveitis													67.99754727473555			True	True		True	True	True	True
 371.21	Allergic conjunctivitis	sense organs	HP_0007879	Allergic conjunctivitis	True	True	True							100.0	80.0	80.0	41.90606622283872					True		True	True	True
+371.3	Inflammation of eyelids	sense organs	HP_0000498	Blepharitis	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	52.39672076086721	True	True	True	True	True	True	True	True	True
 371.3	Inflammation of eyelids	sense organs	HP_0010605	Chalazion				True	True	True	True	True	True		100.0	100.0	89.04535208475686	True	True	True	True	True	True	True	True	True
 371.3	Inflammation of eyelids	sense organs	HP_0010606	Hordeolum													78.99410862152136		True	True	True	True	True	True	True	True
-371.3	Inflammation of eyelids	sense organs	HP_0000498	Blepharitis	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	52.39672076086721	True	True	True	True	True	True	True	True	True
-372	Disorders of conjunctiva	sense organs	HP_0001059	Pterygium				True	True	True					100.0	86.96	154.41877166530685	True	True	True	True			True	True	True
 372	Disorders of conjunctiva	sense organs	HP_0031830	Pinguecula				True	True	True	True	True	True		100.0	100.0	117.43410027111601	True	True	True	True	True	True	True	True	True
-374.1	Ectropion or entropion	sense organs	HP_0000621	Entropion				True	True	True					100.0	87.18	67.4562453290245	True	True			True	True	True	True	True
+372	Disorders of conjunctiva	sense organs	HP_0001059	Pterygium				True	True	True					100.0	86.96	154.41877166530685	True	True	True	True			True	True	True
 374.1	Ectropion or entropion	sense organs	HP_0000656	Ectropion				True	True	True					100.0	87.18	63.10358274033707	True	True	True	True	True	True	True	True	True
-374.3	Ptosis of eyelid	sense organs	HP_0000508	Ptosis										100.0	100.0	100.0	98.08856336326643	True	True	True	True	True	True	True	True	True
-374.6	Dermatochalasis	sense organs	HP_0000973	Cutis laxa													171.35166337013547							True	True	True
+374.1	Ectropion or entropion	sense organs	HP_0000621	Entropion				True	True	True					100.0	87.18	67.4562453290245	True	True			True	True	True	True	True
+374.3	Ptosis of eyelid	sense organs	HP_0000508	Ptosis		True			True			True		100.0	100.0	100.0	98.08856336326643	True	True	True	True	True	True	True	True	True
 374.6	Dermatochalasis	sense organs	HP_0010750	Dermatochalasis	True	True	True	True	True	True				100.0	100.0	93.33		True	True			True		True	True	True
+374.6	Dermatochalasis	sense organs	HP_0000973	Cutis laxa													171.35166337013547							True	True	True
 375.1	Dry eyes	sense organs	HP_0001097	Keratoconjunctivitis sicca	True	True	True							100.0			103.34150567101824	True	True	True	True			True	True	True
 375.2	Epiphora	sense organs	HP_0009926	Epiphora	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	100.27775166449348	True	True	True	True			True	True	True
 376	Disorders of the orbit	sense organs	HP_0000520	Proptosis													66.42909834047452							True	True	True
@@ -419,11 +442,11 @@ phecode1.2_code	phecode1.2_label	phecode1.2_category	hpo_code	hpo_label	stringMa
 378.1	Strabismus (not specified as paralytic)	sense organs	HP_0000486	Strabismus													83.98899986868064	True	True	True	True	True	True	True	True	True
 378.1	Strabismus (not specified as paralytic)	sense organs	HP_0032012	Heterotropia				True	True	True	True	True	True		100.0	100.0	83.98899986868064	True	True	True	True			True	True	True
 378.2	Nystagmus and other irregular eye movements	sense organs	HP_0000639	Nystagmus				True	True	True	True	True	True		100.0	100.0	84.19025828164244	True	True	True	True	True	True	True	True	True
-378.5	Paralytic strabismus	sense organs	HP_0007011	Fourth cranial nerve palsy					True			True			85.71	85.71	68.81229924071036	True	True	True	True	True	True	True	True	True
 378.5	Paralytic strabismus	sense organs	HP_0025592	Superior oblique muscle weakness													68.81229924071036	True	True	True	True	True	True	True	True	True
 378.5	Paralytic strabismus	sense organs	HP_0031775	Neurogenic strabismus	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0		True	True	True	True		True	True	True	True
-379.1	Scleritis and episcleritis	sense organs	HP_0100534	Episcleritis							True	True	True			100.0	66.71293789149962			True	True	True	True	True	True	True
+378.5	Paralytic strabismus	sense organs	HP_0007011	Fourth cranial nerve palsy					True			True			85.71	85.71	68.81229924071036	True	True	True	True	True	True	True	True	True
 379.1	Scleritis and episcleritis	sense organs	HP_0100532	Scleritis				True	True	True	True	True	True		100.0	100.0	159.36424951507	True	True	True	True	True	True	True	True	True
+379.1	Scleritis and episcleritis	sense organs	HP_0100534	Episcleritis							True	True	True			100.0	66.71293789149962			True	True	True	True	True	True	True
 379.2	Disorders of vitreous body	sense organs	HP_0100832	Vitreous floaters					True			True			100.0	100.0	158.2131467985657			True	True			True	True	True
 379.4	Anomalies of pupillary function	sense organs	HP_0009916	Anisocoria				True	True	True	True	True	True		100.0	100.0	106.11022504837672	True	True	True	True	True	True	True	True	True
 379.5	Disorders of iris and ciliary body	sense organs	HP_0000554	Uveitis													47.02020002894064					True		True	True	True
@@ -433,10 +456,10 @@ phecode1.2_code	phecode1.2_label	phecode1.2_category	hpo_code	hpo_label	stringMa
 380	Disorders of external ear	sense organs	HP_0410017	Otitis externa							True	True	True			100.0	93.2966623336868			True	True		True	True	True	True
 380.1	Otitis externa	sense organs	HP_0410017	Otitis externa	True	True	True		True		True	True	True	100.0	100.0	100.0	99.38704720553206			True	True	True	True	True	True	True
 380.4	Impacted cerumen	sense organs	HP_0030788	Impacted cerumen	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0		True	True	True	True			True	True	True
-381.1	Otitis media	sense organs	HP_0040262	Glue ear													68.20691439718438		True	True	True	True	True	True	True	True
-381.1	Otitis media	sense organs	HP_0000371	Acute otitis media											85.0	85.0	43.30165964656843			True	True	True	True	True	True	True
-381.1	Otitis media	sense organs	HP_0000388	Otitis media	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	47.57025877353684	True	True	True	True	True	True	True	True	True
 381.1	Otitis media	sense organs	HP_0031353	Otitis media with effusion													68.20691439718438		True	True	True	True	True	True	True	True
+381.1	Otitis media	sense organs	HP_0000388	Otitis media	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	47.57025877353684	True	True	True	True	True	True	True	True	True
+381.1	Otitis media	sense organs	HP_0000371	Acute otitis media					True			True			85.0	85.0	43.30165964656843			True	True	True	True	True	True	True
+381.1	Otitis media	sense organs	HP_0040262	Glue ear													68.20691439718438		True	True	True	True	True	True	True	True
 381.11	Suppurative and unspecified otitis media	sense organs	HP_0000371	Acute otitis media											82.93	82.93	48.08063922191349			True	True	True	True	True	True	True
 381.3	Mastoiditis & related conditions	sense organs	HP_0000265	Mastoiditis				True	True	True	True	True	True		100.0	100.0	88.03497598941743	True	True	True	True	True	True	True	True	True
 382	Otalgia	sense organs	HP_0030766	Ear pain	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	74.22162770510431	True	True	True	True	True	True	True	True	True
@@ -444,24 +467,24 @@ phecode1.2_code	phecode1.2_label	phecode1.2_category	hpo_code	hpo_label	stringMa
 385.3	Cholesteatoma	sense organs	HP_0009797	Cholesteatoma	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	145.87097173109063	True	True	True	True	True	True	True	True	True
 386.9	Dizziness and giddiness (Light-headedness and vertigo)	sense organs	HP_0002321	Vertigo													49.66914190270769			True	True	True	True	True	True	True
 388	Other disorders of ear	sense organs	HP_0000360	Tinnitus													57.38432515048874							True	True	True
-389.1	Sensorineural hearing loss	sense organs	HP_0008615	Adult onset sensorineural hearing impairment			True			True			True											True	True	True
 389.1	Sensorineural hearing loss	sense organs	HP_0000407	Sensorineural hearing impairment	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	25.275926651675864	True	True	True	True	True	True	True	True	True
 389.1	Sensorineural hearing loss	sense organs	HP_0000408	Progressive sensorineural hearing impairment			True			True			True											True	True	True
+389.1	Sensorineural hearing loss	sense organs	HP_0008625	Severe sensorineural hearing impairment			True			True			True											True	True	True
 389.1	Sensorineural hearing loss	sense organs	HP_0008527	Congenital sensorineural hearing impairment			True			True			True									True	True	True	True	True
 389.1	Sensorineural hearing loss	sense organs	HP_0008610	Infantile sensorineural hearing impairment			True			True			True											True	True	True
-389.1	Sensorineural hearing loss	sense organs	HP_0008619	Bilateral sensorineural hearing impairment			True			True			True		100.0	100.0		True	True	True	True			True	True	True
-389.1	Sensorineural hearing loss	sense organs	HP_0008625	Severe sensorineural hearing impairment			True			True			True											True	True	True
+389.1	Sensorineural hearing loss	sense organs	HP_0008619	Bilateral sensorineural hearing impairment			True		True	True		True	True		100.0	100.0		True	True	True	True			True	True	True
+389.1	Sensorineural hearing loss	sense organs	HP_0008615	Adult onset sensorineural hearing impairment			True			True			True											True	True	True
+389.2	Conductive hearing loss	sense organs	HP_0008513	Bilateral conductive hearing impairment			True		True	True		True	True		100.0	100.0		True	True	True	True			True	True	True
 389.2	Conductive hearing loss	sense organs	HP_0008591	Congenital conductive hearing impairment			True			True			True											True	True	True
-389.2	Conductive hearing loss	sense organs	HP_0008598	Mild conductive hearing impairment			True			True			True											True	True	True
-389.2	Conductive hearing loss	sense organs	HP_0012716	Moderate conductive hearing impairment			True			True			True											True	True	True
-389.2	Conductive hearing loss	sense organs	HP_0012717	Severe conductive hearing impairment			True			True			True											True	True	True
-389.2	Conductive hearing loss	sense organs	HP_0008513	Bilateral conductive hearing impairment			True			True			True		100.0	100.0		True	True	True	True			True	True	True
 389.2	Conductive hearing loss	sense organs	HP_0000405	Conductive hearing impairment	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
+389.2	Conductive hearing loss	sense organs	HP_0012716	Moderate conductive hearing impairment			True			True			True											True	True	True
+389.2	Conductive hearing loss	sense organs	HP_0008598	Mild conductive hearing impairment			True			True			True											True	True	True
+389.2	Conductive hearing loss	sense organs	HP_0012717	Severe conductive hearing impairment			True			True			True											True	True	True
 389.3	Degenerative and vascular disorders of ear	sense organs	HP_0040113	Old-aged sensorineural hearing impairment							True	True	True		86.96	100.0	47.08680299563567	True	True	True	True		True	True	True	True
 389.4	Tinnitus	sense organs	HP_0000360	Tinnitus	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	164.5939086617051	True	True	True	True	True	True	True	True	True
 394.2	Mitral valve disease	circulatory system	HP_0001718	Mitral stenosis				True	True	True					100.0		85.71553750007389					True	True	True	True	True
-394.7	Disease of tricuspid valve	circulatory system	HP_0010316	Ebstein anomaly of the tricuspid valve													44.78846375426299							True	True	True
 394.7	Disease of tricuspid valve	circulatory system	HP_0011662	Tricuspid atresia													51.3114526949467							True	True	True
+394.7	Disease of tricuspid valve	circulatory system	HP_0010316	Ebstein anomaly of the tricuspid valve													44.78846375426299							True	True	True
 395.4	Nonrheumatic pulmonary valve disorders	circulatory system	HP_0010444	Pulmonary insufficiency													154.52534848545508			True	True	True	True	True	True	True
 396	Abnormal heart sounds	circulatory system	HP_0030148	Heart murmur							True	True	True			100.0	96.10369454166236			True	True	True	True	True	True	True
 396	Abnormal heart sounds	circulatory system	HP_0031657	Abnormal heart sound										100.0	100.0									True	True	True
@@ -469,8 +492,8 @@ phecode1.2_code	phecode1.2_label	phecode1.2_category	hpo_code	hpo_label	stringMa
 402	Elevated blood pressure reading without diagnosis of hypertension	circulatory system	HP_0032263	Increased blood pressure													74.25485668902742							True	True	True
 411.2	Myocardial infarction	circulatory system	HP_0001658	Myocardial infarction	True	True	True		True			True		100.0	89.47	89.47	50.18581231663988			True	True	True	True	True	True	True
 411.3	Angina pectoris	circulatory system	HP_0001681	Angina pectoris	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	46.474339630299404	True	True	True	True	True	True	True	True	True
-411.4	Coronary atherosclerosis	circulatory system	HP_0004929	obsolete Coronary atherosclerosis			True			True								True	True	True	True			True	True	True
 411.4	Coronary atherosclerosis	circulatory system	HP_0001677	Coronary artery atherosclerosis	True	True	True	True	True	True				100.0	100.0		20.09077483892345	True	True	True	True	True	True	True	True	True
+411.4	Coronary atherosclerosis	circulatory system	HP_0004929	obsolete Coronary atherosclerosis			True			True								True	True	True	True			True	True	True
 411.41	Aneurysm and dissection of heart	circulatory system	HP_0011641	Coronary artery fistula													104.35747437845328							True	True	True
 415.11	Pulmonary embolism and infarction, acute	circulatory system	HP_0002204	Pulmonary embolism					True		True	True	True			100.0	70.1255960922912			True	True	True	True	True	True	True
 416	Cardiomegaly	circulatory system	HP_0001640	Cardiomegaly	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	75.53324225138985	True	True	True	True	True	True	True	True	True
@@ -481,70 +504,78 @@ phecode1.2_code	phecode1.2_label	phecode1.2_category	hpo_code	hpo_label	stringMa
 420.22	Chronic pericarditis	circulatory system	HP_0002563	Constrictive pericarditis				True	True	True		True			100.0	82.61	122.72839366522145	True	True			True	True	True	True	True
 420.3	Endocarditis	circulatory system	HP_0100584	Endocarditis	True	True	True							100.0			25.089043633458136					True	True	True	True	True
 425	Cardiomyopathy	circulatory system	HP_0001638	Cardiomyopathy	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	46.3402803636533	True	True	True	True	True	True	True	True	True
-425.11	Hypertrophic obstructive cardiomyopathy	circulatory system	HP_0001639	Hypertrophic cardiomyopathy				True	True	True		True		85.25	100.0	85.25	61.02210342019265	True	True			True	True	True	True	True
+425.11	Hypertrophic obstructive cardiomyopathy	circulatory system	HP_0001639	Hypertrophic cardiomyopathy		True		True	True	True		True		85.25	100.0	85.25	61.02210342019265	True	True			True	True	True	True	True
 425.12	Other hypertrophic cardiomyopathy	circulatory system	HP_0001639	Hypertrophic cardiomyopathy		True			True			True		100.0	100.0	100.0	109.73650929856814						True	True	True	True
-425.8	Other cardiomyopathy	circulatory system	HP_0011665	Takotsubo cardiomyopathy													75.31049772948904	True	True	True	True	True		True	True	True
 425.8	Other cardiomyopathy	circulatory system	HP_0001638	Cardiomyopathy		True								100.0										True	True	True
+425.8	Other cardiomyopathy	circulatory system	HP_0011665	Takotsubo cardiomyopathy													75.31049772948904	True	True	True	True	True		True	True	True
+426.2	Atrioventricular [AV] block	circulatory system	HP_0001678	Atrioventricular block		True		True	True	True	True	True	True	93.88	100.0	100.0	24.06708958075336	True	True	True	True	True	True	True	True	True
 426.2	Atrioventricular [AV] block	circulatory system	HP_0012722	Heart block											100.0		61.51879024165071							True	True	True
-426.21	First degree AV block	circulatory system	HP_0011705	First degree atrioventricular block				True	True	True					100.0	100.0	126.51572784620402	True	True	True	True	True	True	True	True	True
-426.23	Second degree AV block	circulatory system	HP_0001678	Atrioventricular block													44.68356276081353							True	True	True
+426.21	First degree AV block	circulatory system	HP_0011705	First degree atrioventricular block				True	True	True		True	True		100.0	100.0	126.51572784620402	True	True	True	True	True	True	True	True	True
 426.23	Second degree AV block	circulatory system	HP_0011708	Mobitz II atrioventricular block													46.552285734822576							True	True	True
 426.23	Second degree AV block	circulatory system	HP_0011707	Mobitz I atrioventricular block													68.27668574440645			True	True			True	True	True
+426.23	Second degree AV block	circulatory system	HP_0001678	Atrioventricular block													44.68356276081353							True	True	True
 426.24	Atrioventricular block, complete	circulatory system	HP_0001678	Atrioventricular block		True			True			True		85.19	85.19	85.19						True		True	True	True
 426.25	Other heart block	circulatory system	HP_0012722	Heart block										100.0	100.0		77.58064555084533							True	True	True
 426.3	Bundle branch block	circulatory system	HP_0011710	Bundle branch block	True	True	True	True	True	True		True		100.0	100.0			True	True	True	True	True	True	True	True	True
-426.3	Bundle branch block	circulatory system	HP_0011713	Left bundle branch block			True		True	True					100.0	100.0				True	True		True	True	True	True
 426.3	Bundle branch block	circulatory system	HP_0011712	Right bundle branch block			True	True	True	True	True	True	True		100.0	100.0		True	True	True	True	True	True	True	True	True
+426.3	Bundle branch block	circulatory system	HP_0011713	Left bundle branch block			True		True	True					100.0	100.0				True	True		True	True	True	True
 426.31	Right bundle branch block	circulatory system	HP_0011710	Bundle branch block		True			True			True												True	True	True
 426.31	Right bundle branch block	circulatory system	HP_0011712	Right bundle branch block	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
-426.32	Left bundle branch block	circulatory system	HP_0011710	Bundle branch block		True						True										True	True	True	True	True
 426.32	Left bundle branch block	circulatory system	HP_0011713	Left bundle branch block	True	True	True		True					100.0	100.0	100.0				True	True		True	True	True	True
+426.32	Left bundle branch block	circulatory system	HP_0011710	Bundle branch block		True						True										True	True	True	True	True
 426.4	Anomalous atrioventricular excitation	circulatory system	HP_0001716	Wolff-Parkinson-White syndrome													71.34827972268748			True	True	True	True	True	True	True
 426.7	Abnormal electrocardiogram [ECG] [EKG]	circulatory system	HP_0003115	Abnormal EKG		True						True		86.21		86.21								True	True	True
 427.1	Paroxysmal tachycardia, unspecified	circulatory system	HP_0006688	Paroxysmal tachycardia	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
-427.11	Paroxysmal supraventricular tachycardia	circulatory system	HP_0004763	Paroxysmal supraventricular tachycardia	True	True	True	True	True	True			True	100.0	100.0		16.123866007692282	True	True			True	True	True	True	True
+427.1	Paroxysmal tachycardia, unspecified	circulatory system	HP_0006671	Paroxysmal atrial tachycardia			True			True			True							True	True		True	True	True	True
 427.11	Paroxysmal supraventricular tachycardia	circulatory system	HP_0004755	Supraventricular tachycardia		True			True		True	True	True			100.0	49.262989774721355			True	True	True	True	True	True	True
-427.12	Paroxysmal ventricular tachycardia	circulatory system	HP_0004756	Ventricular tachycardia		True			True		True	True	True			100.0	103.9490066430155			True	True	True	True	True	True	True
+427.11	Paroxysmal supraventricular tachycardia	circulatory system	HP_0004763	Paroxysmal supraventricular tachycardia	True	True	True	True	True	True			True	100.0	100.0		16.123866007692282	True	True			True	True	True	True	True
 427.12	Paroxysmal ventricular tachycardia	circulatory system	HP_0004751	Paroxysmal ventricular tachycardia	True	True	True	True	True	True			True	100.0	100.0			True	True					True	True	True
+427.12	Paroxysmal ventricular tachycardia	circulatory system	HP_0004756	Ventricular tachycardia		True			True		True	True	True			100.0	103.9490066430155			True	True	True	True	True	True	True
 427.21	Atrial fibrillation	circulatory system	HP_0005110	Atrial fibrillation	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	74.35327607696526	True	True			True	True	True	True	True
-427.22	Atrial flutter	circulatory system	HP_0004749	Atrial flutter	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	28.110549469693236	True	True			True	True	True	True	True
 427.22	Atrial flutter	circulatory system	HP_0005110	Atrial fibrillation													74.35327607696526						True	True	True	True
+427.22	Atrial flutter	circulatory system	HP_0004749	Atrial flutter	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	28.110549469693236	True	True			True	True	True	True	True
 427.41	Ventricular fibrillation and flutter	circulatory system	HP_0001663	Ventricular fibrillation				True	True	True	True	True	True		100.0	100.0	95.06034078641842	True	True	True	True	True	True	True	True	True
 427.42	Cardiac arrest	circulatory system	HP_0001695	Cardiac arrest	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	56.604644012270136	True	True	True	True	True	True	True	True	True
-427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0011675	Arrhythmia							True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
-427.6	Premature beats	circulatory system	HP_0034041	Ventricular ectopy													156.00100845396852			True	True			True	True	True
+427.5	Arrhythmia (cardiac) NOS	circulatory system	HP_0011675	Arrhythmia		True	True				True	True	True	100.0	82.05	100.0	45.616033936882346	True	True	True	True			True	True	True
 427.6	Premature beats	circulatory system	HP_0006682	Premature ventricular contraction													156.00100845396852			True	True	True	True	True	True	True
-427.61	Supraventricular premature beats	circulatory system	HP_0006699	Premature atrial contractions										100.0	100.0			True	True	True	True	True	True	True	True	True
+427.6	Premature beats	circulatory system	HP_0034041	Ventricular ectopy													156.00100845396852			True	True			True	True	True
+427.61	Supraventricular premature beats	circulatory system	HP_0006699	Premature atrial contractions		True	True		True	True				100.0	100.0			True	True	True	True	True	True	True	True	True
 427.7	Tachycardia NOS	circulatory system	HP_0001649	Tachycardia	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	51.72578553439765	True	True	True	True	True	True	True	True	True
 427.8	Sinoatrial node dysfunction (Bradycardia)	circulatory system	HP_0011704	Sick sinus syndrome							True	True	True			100.0	75.2890966757291			True	True	True	True	True	True	True
 427.9	Palpitations	circulatory system	HP_0001962	Palpitations	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	90.99241496110285	True	True	True	True	True	True	True	True	True
 428.1	Congestive heart failure (CHF) NOS	circulatory system	HP_0001635	Congestive heart failure		True		True	True	True	True	True	True	100.0	100.0	100.0	26.540830639911395	True	True	True	True	True		True	True	True
 428.2	Heart failure NOS	circulatory system	HP_0001635	Congestive heart failure	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	26.540830639911395	True	True	True	True		True	True	True	True
 430	Intracranial hemorrhage	circulatory system	HP_0034208	Fetal intracranial hemorrhage			True			True														True	True	True
-430	Intracranial hemorrhage	circulatory system	HP_0002170	Intracranial hemorrhage	True	True	True	True	True	True				100.0	100.0		17.492328926185234	True	True					True	True	True
 430	Intracranial hemorrhage	circulatory system	HP_0001342	Cerebral hemorrhage				True	True	True					100.0	80.0	52.208879920147325	True	True	True	True	True	True	True	True	True
+430	Intracranial hemorrhage	circulatory system	HP_0002170	Intracranial hemorrhage	True	True	True	True	True	True				100.0	100.0		17.492328926185234	True	True					True	True	True
 430.1	Subarachnoid hemorrhage	circulatory system	HP_0002138	Subarachnoid hemorrhage	True	True	True	True	True	True				100.0	100.0	80.7	64.42986370737327	True	True	True	True	True		True	True	True
 430.2	Intracerebral hemorrhage	circulatory system	HP_0007023	Antenatal intracerebral hemorrhage			True			True														True	True	True
 430.2	Intracerebral hemorrhage	circulatory system	HP_0001342	Cerebral hemorrhage	True	True	True	True	True	True				100.0	100.0	80.0	33.365055256103766	True	True	True	True	True	True	True	True	True
 430.3	Subdural hemorrhage	circulatory system	HP_0100309	Subdural hemorrhage	True	True	True	True	True	True				100.0	100.0		81.5853807365423	True	True			True	True	True	True	True
 433.1	Occlusion and stenosis of precerebral arteries	circulatory system	HP_0100546	Carotid artery stenosis													48.942611506357615					True	True	True	True	True
+433.12	Cerebral atherosclerosis	circulatory system	HP_0007201	Cerebral artery atherosclerosis			True			True			True	86.27	86.27	86.27								True	True	True
+433.3	Cerebral ischemia	circulatory system	HP_0002326	Transient ischemic attack								True				87.27	115.93102489881107		True	True	True	True	True	True	True	True
 433.3	Cerebral ischemia	circulatory system	HP_0002637	Cerebral ischemia	True	True	True				True	True	True	100.0		100.0				True	True			True	True	True
-433.3	Cerebral ischemia	circulatory system	HP_0002326	Transient ischemic attack												87.27	115.93102489881107		True	True	True	True	True	True	True	True
-433.31	Transient cerebral ischemia	circulatory system	HP_0002326	Transient ischemic attack												87.27	87.71003163113183		True	True	True	True	True	True	True	True
-433.5	Cerebral aneurysm	circulatory system	HP_0004944	Dilatation of the cerebral artery													47.661286994694926		True	True	True			True	True	True
+433.31	Transient cerebral ischemia	circulatory system	HP_0002326	Transient ischemic attack								True				87.27	87.71003163113183		True	True	True	True	True	True	True	True
 433.5	Cerebral aneurysm	circulatory system	HP_0002617	Vascular dilatation													59.82790162079654							True	True	True
+433.5	Cerebral aneurysm	circulatory system	HP_0007029	Cerebral berry aneurysm			True							84.21										True	True	True
+433.5	Cerebral aneurysm	circulatory system	HP_0004944	Dilatation of the cerebral artery													47.661286994694926		True	True	True			True	True	True
 433.6	Acute, but ill-defined cerebrovascular disease	circulatory system	HP_0001297	Stroke													48.5604117805885							True	True	True
 440	Atherosclerosis	circulatory system	HP_0002621	Atherosclerosis	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	18.03361331200194	True	True	True	True	True	True	True	True	True
-440.1	Atherosclerosis of renal artery	circulatory system	HP_0031684	Renal artery atherosclerosis										100.0	100.0	100.0		True	True	True	True			True	True	True
-440.9	Atherosclerosis of aorta	circulatory system	HP_0012397	Aortic atherosclerotic lesion										100.0	100.0	100.0		True	True	True	True			True	True	True
+440.1	Atherosclerosis of renal artery	circulatory system	HP_0031684	Renal artery atherosclerosis		True			True			True		100.0	100.0	100.0		True	True	True	True			True	True	True
+440.9	Atherosclerosis of aorta	circulatory system	HP_0012397	Aortic atherosclerotic lesion			True			True			True	100.0	100.0	100.0		True	True	True	True			True	True	True
 442	Other aneurysm	circulatory system	HP_0002617	Vascular dilatation													95.2922293394264	True	True	True	True			True	True	True
 442.1	Aortic aneurysm	circulatory system	HP_0004942	Aortic aneurysm	True	True	True							100.0	80.0		18.65612862292616			True	True	True		True	True	True
 442.1	Aortic aneurysm	circulatory system	HP_0002647	Aortic dissection												82.76	49.07666725957265	True	True	True	True	True	True	True	True	True
+442.1	Aortic aneurysm	circulatory system	HP_0011645	Dilatation of the sinus of Valsalva			True																	True	True	True
+442.1	Aortic aneurysm	circulatory system	HP_0005113	Aortic arch aneurysm			True																	True	True	True
+442.1	Aortic aneurysm	circulatory system	HP_0002616	Aortic root aneurysm			True																	True	True	True
+442.11	Abdominal aortic aneurysm	circulatory system	HP_0031711	Asymmetric abdominal aortic aneurysm			True																	True	True	True
 442.11	Abdominal aortic aneurysm	circulatory system	HP_0031645	Saccular abdominal aortic aneurysm			True																	True	True	True
 442.11	Abdominal aortic aneurysm	circulatory system	HP_0002617	Vascular dilatation													47.45447103805729							True	True	True
-442.11	Abdominal aortic aneurysm	circulatory system	HP_0005112	Abdominal aortic aneurysm	True	True	True					True		100.0		87.27	115.66646940133002					True	True	True	True	True
 442.11	Abdominal aortic aneurysm	circulatory system	HP_0031644	Fusiform abdominal aortic aneurysm			True																	True	True	True
-442.11	Abdominal aortic aneurysm	circulatory system	HP_0031711	Asymmetric abdominal aortic aneurysm			True																	True	True	True
+442.11	Abdominal aortic aneurysm	circulatory system	HP_0005112	Abdominal aortic aneurysm	True	True	True					True		100.0		87.27	115.66646940133002					True	True	True	True	True
+442.2	Aneurysm of iliac artery	circulatory system	HP_4000067	Iliac artery aneurysm		True			True			True												True	True	True
 442.4	Arterial dissection	circulatory system	HP_0005294	Arterial dissection	True	True	True		True			True		100.0	100.0	100.0						True		True	True	True
 443.1	Raynaud's syndrome	circulatory system	HP_0030880	Raynaud phenomenon													65.47052375505504	True	True	True	True	True	True	True	True	True
 443.9	Peripheral vascular disease, unspecified	circulatory system	HP_0004417	Intermittent claudication													52.75834475499338			True	True		True	True	True	True
@@ -553,8 +584,8 @@ phecode1.2_code	phecode1.2_label	phecode1.2_category	hpo_code	hpo_label	stringMa
 451	Phlebitis and thrombophlebitis	circulatory system	HP_0004418	Thrombophlebitis													45.99284313001935		True		True	True	True	True	True	True
 451.2	Phlebitis and thrombophlebitis of lower extremities	circulatory system	HP_0002625	Deep venous thrombosis													54.66361170235134							True	True	True
 452.2	Deep vein thrombosis [DVT]	circulatory system	HP_0002625	Deep venous thrombosis		True								90.91			52.1581626632231			True	True	True		True	True	True
-454	Varicose veins	circulatory system	HP_0012871	Varicocele													76.60068505807533	True	True	True	True	True	True	True	True	True
 454	Varicose veins	circulatory system	HP_0002619	Varicose veins	True	True	True							100.0	83.87	83.87	57.32974897102519			True	True	True	True	True	True	True
+454	Varicose veins	circulatory system	HP_0012871	Varicocele													76.60068505807533	True	True	True	True	True	True	True	True	True
 454.1	Varicose veins of lower extremity	circulatory system	HP_0002619	Varicose veins													79.37593553893483			True	True	True	True	True	True	True
 455	Hemorrhoids	circulatory system	HP_0032551	Hemorrhoids	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	89.40586761862184	True	True	True	True	True	True	True	True	True
 456	Chronic venous insufficiency [CVI]	circulatory system	HP_0005293	Venous insufficiency													53.21907262562958	True	True		True			True	True	True
@@ -563,29 +594,29 @@ phecode1.2_code	phecode1.2_label	phecode1.2_category	hpo_code	hpo_label	stringMa
 458.2	Iatrogenic hypotension	circulatory system	HP_0002615	Hypotension													56.268233313940804							True	True	True
 458.9	Hypotension NOS	circulatory system	HP_0002615	Hypotension	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	56.268233313940804	True	True	True	True		True	True	True	True
 459.1	Hemorrhage NOS	circulatory system	HP_0002239	Gastrointestinal hemorrhage			True			True				86.96	86.96									True	True	True
-464	Acute sinusitis	respiratory	HP_0000255	Acute sinusitis	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	33.52806569183719	True	True	True	True	True	True	True	True	True
 464	Acute sinusitis	respiratory	HP_0000246	Sinusitis													54.68630034238889					True	True	True	True	True
+464	Acute sinusitis	respiratory	HP_0000255	Acute sinusitis	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	33.52806569183719	True	True	True	True	True	True	True	True	True
 465.2	Acute pharyngitis	respiratory	HP_0025439	Pharyngitis													55.08223389481528					True	True	True	True	True
 471	Nasal polyps	respiratory	HP_0100582	Nasal polyposis	True	True	True	True	True	True				100.0	100.0	100.0	106.79452903788084	True	True	True	True	True	True	True	True	True
 472	Chronic pharyngitis and nasopharyngitis	respiratory	HP_0025439	Pharyngitis													54.51066919981901					True	True	True	True	True
-475	Chronic sinusitis	respiratory	HP_0011109	Chronic sinusitis	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	44.36012481081158	True	True	True	True	True	True	True	True	True
 475	Chronic sinusitis	respiratory	HP_0000246	Sinusitis													65.26217839665568			True	True	True	True	True	True	True
+475	Chronic sinusitis	respiratory	HP_0011109	Chronic sinusitis	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	44.36012481081158	True	True	True	True	True	True	True	True	True
 476	Allergic rhinitis	respiratory	HP_0003193	Allergic rhinitis	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	41.135810133925645	True	True	True	True	True	True	True	True	True
 477	Epistaxis or throat hemorrhage	respiratory	HP_0000421	Epistaxis				True	True	True	True	True	True		100.0	100.0	96.82515603258236	True	True	True	True	True	True	True	True	True
-478	Throat pain	respiratory	HP_0033050	Pharyngalgia	True	True	True	True	True	True				100.0	100.0	100.0								True	True	True
 478	Throat pain	respiratory	HP_0025439	Pharyngitis													80.05425555017909		True		True			True	True	True
+478	Throat pain	respiratory	HP_0033050	Pharyngalgia	True	True	True	True	True	True		True		100.0	100.0	100.0								True	True	True
 480	Pneumonia	respiratory	HP_0002090	Pneumonia	True	True	True							100.0			20.93455018117669		True	True	True	True	True	True	True	True
-480.3	Pneumonia due to fungus (mycoses)	respiratory	HP_0020102	Pneumocystis jirovecii pneumonia													78.98876635695764	True	True	True	True	True	True	True	True	True
 480.3	Pneumonia due to fungus (mycoses)	respiratory	HP_0032249	Coccidioidomycosis													52.61034355846724							True	True	True
+480.3	Pneumonia due to fungus (mycoses)	respiratory	HP_0020102	Pneumocystis jirovecii pneumonia													78.98876635695764	True	True	True	True	True	True	True	True	True
 495	Asthma	respiratory	HP_0002099	Asthma	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	53.369588427688534	True	True	True	True	True	True	True	True	True
 495.2	Asthma with exacerbation	respiratory	HP_0012652	Exercise-induced asthma													54.26923607537837					True		True	True	True
 496	Chronic airway obstruction	respiratory	HP_0006536	Airway obstruction		True								80.0										True	True	True
 496.1	Emphysema	respiratory	HP_0002097	Emphysema	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	59.118138448263466	True	True	True	True			True	True	True
 496.2	Chronic bronchitis	respiratory	HP_0004469	Chronic bronchitis	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	106.72876358692137	True	True	True	True	True	True	True	True	True
 496.3	Bronchiectasis	respiratory	HP_0002110	Bronchiectasis	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	92.19187959938965	True	True	True	True	True	True	True	True	True
-497	Bronchitis	respiratory	HP_0012387	Bronchitis	True	True	True							100.0			43.04758251089138	True	True	True	True	True	True	True	True	True
 497	Bronchitis	respiratory	HP_0012388	Acute bronchitis													58.00427860571247							True	True	True
 497	Bronchitis	respiratory	HP_0004469	Chronic bronchitis													76.68047147864466				True	True	True	True	True	True
+497	Bronchitis	respiratory	HP_0012387	Bronchitis	True	True	True							100.0			43.04758251089138	True	True	True	True	True	True	True	True	True
 500.1	Extrinsic allergic alveolitis	respiratory	HP_0006516	Hypersensitivity pneumonitis													83.64902826223545	True	True	True	True	True	True	True	True	True
 501	Pneumonitis due to inhalation of food or vomitus	respiratory	HP_0011951	Aspiration pneumonia													48.858151135339405			True	True		True	True	True	True
 502	Postinflammatory pulmonary fibrosis	respiratory	HP_0002206	Pulmonary fibrosis							True	True	True			100.0	88.4519543397212						True	True	True	True
@@ -594,8 +625,8 @@ phecode1.2_code	phecode1.2_label	phecode1.2_category	hpo_code	hpo_label	stringMa
 507	Pleurisy; pleural effusion	respiratory	HP_0012151	Hemothorax							True	True	True			100.0	52.76240468953683			True	True	True	True	True	True	True
 508	Pulmonary collapse; interstitial and compensatory emphysema	respiratory	HP_0100750	Atelectasis							True	True	True			100.0	53.004853480047856	True	True	True	True	True	True	True	True	True
 509.1	Respiratory failure	respiratory	HP_0002878	Respiratory failure	True	True	True		True		True	True	True	100.0	88.37	100.0	39.1366470798862			True	True	True		True	True	True
-509.2	Respiratory insufficiency	respiratory	HP_0002091	Restrictive ventilatory defect			True																	True	True	True
 509.2	Respiratory insufficiency	respiratory	HP_0002093	Respiratory insufficiency	True	True	True							100.0										True	True	True
+509.2	Respiratory insufficiency	respiratory	HP_0002091	Restrictive ventilatory defect			True																	True	True	True
 509.5	Respiratory arrest	respiratory	HP_0005943	Respiratory arrest	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
 512.1	Wheezing	respiratory	HP_0030828	Wheezing	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	28.59222891737991	True	True	True	True	True	True	True	True	True
 512.2	Painful respiration	respiratory	HP_0033771	Pleuritic chest pain													81.7306754868263			True	True			True	True	True
@@ -613,12 +644,13 @@ phecode1.2_code	phecode1.2_label	phecode1.2_category	hpo_code	hpo_label	stringMa
 516	Abnormal sputum	respiratory	HP_0032016	Abnormal sputum	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
 516.1	Hemoptysis	respiratory	HP_0002105	Hemoptysis	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	74.10655768809538	True	True	True	True	True	True	True	True	True
 519.9	Symptoms involving respiratory system and other chest symptoms	respiratory	HP_0030864	Intercostal retractions													115.34268722678728							True	True	True
-520.1	Hereditary disturbances in tooth structure	digestive	HP_0011067	Mesiodens													71.36558983288356	True	True	True	True	True	True	True	True	True
-520.1	Hereditary disturbances in tooth structure	digestive	HP_0000705	Amelogenesis imperfecta													67.17463810730882			True	True	True	True	True	True	True
 520.1	Hereditary disturbances in tooth structure	digestive	HP_0011069	Supernumerary tooth				True	True	True	True	True	True		100.0	100.0	71.36558983288356	True	True	True	True	True	True	True	True	True
+520.1	Hereditary disturbances in tooth structure	digestive	HP_0000705	Amelogenesis imperfecta													67.17463810730882			True	True	True	True	True	True	True
+520.1	Hereditary disturbances in tooth structure	digestive	HP_0011067	Mesiodens													71.36558983288356	True	True	True	True	True	True	True	True	True
 520.2	Disturbances in tooth eruption	digestive	HP_0000695	Natal tooth													53.86467333710351			True	True			True	True	True
 520.2	Disturbances in tooth eruption	digestive	HP_0011079	Impacted tooth													132.0966988981348			True	True			True	True	True
 521.1	Dental caries	digestive	HP_0000670	Carious teeth	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	72.25180236053508	True	True	True	True	True	True	True	True	True
+522.5	Periapical abscess	digestive	HP_0030758	Periapical tooth abscess			True							83.33										True	True	True
 523.1	Gingivitis	digestive	HP_0000230	Gingivitis	True	True	True							100.0			62.33716002203688			True	True	True	True	True	True	True
 523.3	Periodontitis (acute or chronic)	digestive	HP_0000704	Periodontitis					True						80.0		57.21588538100793			True	True		True	True	True	True
 523.31	Acute periodontitis	digestive	HP_0000704	Periodontitis		True			True					80.0	80.0									True	True	True
@@ -630,24 +662,25 @@ phecode1.2_code	phecode1.2_label	phecode1.2_category	hpo_code	hpo_label	stringMa
 527.7	Disturbance of salivary secretion	digestive	HP_0000217	Xerostomia							True	True	True			100.0	100.47901496800631			True	True	True	True	True	True	True
 528.11	Stomatitis and mucositis (ulcerative)	digestive	HP_0010280	Stomatitis													65.5048123465956			True	True	True		True	True	True
 528.12	Oral aphthae	digestive	HP_0032154	Aphthous ulcer													82.55214380919242	True	True			True	True	True	True	True
-528.12	Oral aphthae	digestive	HP_0011107	Recurrent aphthous stomatitis							True	True	True			100.0	82.55214380919242	True	True	True	True	True	True	True	True	True
 528.12	Oral aphthae	digestive	HP_0000155	Oral ulcer													52.60851685782038		True					True	True	True
+528.12	Oral aphthae	digestive	HP_0011107	Recurrent aphthous stomatitis							True	True	True			100.0	82.55214380919242	True	True	True	True	True	True	True	True	True
 528.5	Diseases of lips	digestive	HP_0100825	Cheilitis													52.62565471809562			True	True	True	True	True	True	True
 528.6	Leukoplakia of oral mucosa	digestive	HP_0025126	Oral hairy leukoplakia									True			87.8	146.3942044506873			True	True	True	True	True	True	True
 529	Diseases and other conditions of the tongue	digestive	HP_0025252	Geographic tongue				True	True	True	True	True	True		100.0	100.0	52.77933623949517	True	True	True	True	True	True	True	True	True
-529.1	Glossitis	digestive	HP_0000206	Glossitis	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	44.72251057827725	True	True	True	True	True	True	True	True	True
 529.1	Glossitis	digestive	HP_0025252	Geographic tongue				True	True	True	True	True	True		100.0	100.0	78.72846470663191	True	True	True	True	True	True	True	True	True
+529.1	Glossitis	digestive	HP_0000206	Glossitis	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	44.72251057827725	True	True	True	True	True	True	True	True	True
 530.1	Esophagitis, GERD and related diseases	digestive	HP_0002020	Gastroesophageal reflux								True				94.74	44.3018152442815	True	True	True	True	True	True	True	True	True
 530.11	GERD	digestive	HP_0002020	Gastroesophageal reflux	True	True	True					True		100.0		94.74	44.310417390150974	True	True	True	True	True	True	True	True	True
-530.12	Ulcer of esophagus	digestive	HP_0004791	Esophageal ulceration										100.0	100.0	100.0		True	True	True	True			True	True	True
+530.12	Ulcer of esophagus	digestive	HP_0004791	Esophageal ulceration		True			True			True		100.0	100.0	100.0		True	True	True	True			True	True	True
 530.13	Barrett's esophagus	digestive	HP_0100580	Barrett esophagus	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	107.67508555579624	True	True	True	True	True	True	True	True	True
 530.14	Reflux esophagitis	digestive	HP_0002020	Gastroesophageal reflux												83.08	44.3018152442815							True	True	True
 530.15	Eosinophilic esophagitis	digestive	HP_0410151	Eosinophilic infiltration of the esophagus	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0						True		True	True	True
 530.2	Esophageal bleeding (varices/hemorrhage)	digestive	HP_0002040	Esophageal varix												85.71	62.45873592335475			True	True			True	True	True
-530.5	Disorders of esophageal motility	digestive	HP_0002571	Achalasia													77.07730308668809	True	True	True	True	True	True	True	True	True
 530.5	Disorders of esophageal motility	digestive	HP_0025271	Esophageal spasms													45.90576378575507		True	True	True	True	True	True	True	True
+530.5	Disorders of esophageal motility	digestive	HP_0002571	Achalasia													77.07730308668809	True	True	True	True	True	True	True	True	True
 530.9	Heartburn	digestive	HP_0002020	Gastroesophageal reflux	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	57.30285884280557	True	True	True	True	True	True	True	True	True
 531	Peptic ulcer (excl. esophageal)	digestive	HP_0004398	Peptic ulcer					True			True			83.87	83.87	50.07072386844314	True	True	True	True	True	True	True	True	True
+531.1	Hemorrhage from gastrointestinal ulcer	digestive	HP_0002239	Gastrointestinal hemorrhage		True								89.29										True	True	True
 531.2	Gastric ulcer	digestive	HP_0004398	Peptic ulcer													51.96631590900217				True		True	True	True	True
 531.2	Gastric ulcer	digestive	HP_0002592	Gastric ulcer	True	True	True				True	True	True	100.0		100.0	17.12867675438683			True	True		True	True	True	True
 531.3	Duodenal ulcer	digestive	HP_0002588	Duodenal ulcer	True	True	True				True	True	True	100.0		100.0				True	True			True	True	True
@@ -665,14 +698,14 @@ phecode1.2_code	phecode1.2_label	phecode1.2_category	hpo_code	hpo_label	stringMa
 536.8	Dyspepsia and other specified disorders of function of stomach	digestive	HP_0410281	Dyspepsia													66.58533561100464			True	True	True	True	True	True	True
 537	Other disorders of stomach and duodenum	digestive	HP_0002021	Pyloric stenosis													53.9531355038996			True	True	True		True	True	True
 550	Abdominal hernia	digestive	HP_0100790	Hernia													60.44982218184059		True	True	True	True	True	True	True	True
-550.1	Inguinal hernia	digestive	HP_0000023	Inguinal hernia	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	55.902850393722154	True	True	True	True	True	True	True	True	True
 550.1	Inguinal hernia	digestive	HP_0100790	Hernia													58.04253076232232		True	True	True	True	True	True	True	True
-550.2	Diaphragmatic hernia	digestive	HP_0000776	Congenital diaphragmatic hernia	True	True	True				True	True	True	100.0	82.61	100.0						True		True	True	True
-550.2	Diaphragmatic hernia	digestive	HP_0002036	Hiatus hernia													76.16853274371515					True	True	True	True	True
-550.2	Diaphragmatic hernia	digestive	HP_0009112	Aplasia of the left hemidiaphragm			True						True											True	True	True
+550.1	Inguinal hernia	digestive	HP_0000023	Inguinal hernia	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	55.902850393722154	True	True	True	True	True	True	True	True	True
 550.2	Diaphragmatic hernia	digestive	HP_0032592	Aplasia of the right hemidiaphragm			True						True											True	True	True
 550.2	Diaphragmatic hernia	digestive	HP_0025195	Central diaphragmatic hernia			True						True											True	True	True
 550.2	Diaphragmatic hernia	digestive	HP_0025194	Morgagni diaphragmatic hernia			True						True											True	True	True
+550.2	Diaphragmatic hernia	digestive	HP_0009112	Aplasia of the left hemidiaphragm			True						True											True	True	True
+550.2	Diaphragmatic hernia	digestive	HP_0000776	Congenital diaphragmatic hernia	True	True	True				True	True	True	100.0	82.61	100.0						True		True	True	True
+550.2	Diaphragmatic hernia	digestive	HP_0002036	Hiatus hernia													76.16853274371515					True	True	True	True	True
 550.3	Femoral hernia	digestive	HP_0100790	Hernia													75.31283964393836		True	True	True			True	True	True
 550.3	Femoral hernia	digestive	HP_0100541	Femoral hernia	True	True	True				True	True	True	100.0		100.0	159.44162344808208			True	True	True	True	True	True	True
 550.4	Umbilical hernia	digestive	HP_0001539	Omphalocele													83.34012040828874				True			True	True	True
@@ -698,8 +731,8 @@ phecode1.2_code	phecode1.2_label	phecode1.2_category	hpo_code	hpo_label	stringMa
 571.81	Portal hypertension	digestive	HP_0001409	Portal hypertension	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	45.981183732739275	True	True	True	True	True	True	True	True	True
 572	Ascites (non malignant)	digestive	HP_0001541	Ascites				True	True	True	True	True	True		100.0	100.0	92.18647758561598	True	True	True	True	True	True	True	True	True
 573.3	Hepatomegaly	digestive	HP_0002240	Hepatomegaly	True	True	True	True	True	True				100.0	100.0		44.230142147397395	True	True	True	True	True		True	True	True
-573.4	Acute and subacute necrosis of liver	digestive	HP_0006554	Acute hepatic failure													110.38204561549485					True		True	True	True
 573.4	Acute and subacute necrosis of liver	digestive	HP_0004448	Fulminant hepatic failure													110.38204561549485					True		True	True	True
+573.4	Acute and subacute necrosis of liver	digestive	HP_0006554	Acute hepatic failure													110.38204561549485					True		True	True	True
 573.5	Jaundice (not of newborn)	digestive	HP_0000952	Jaundice							True	True	True			100.0	60.67155454886004			True	True	True	True	True	True	True
 574.1	Cholelithiasis	digestive	HP_0001081	Cholelithiasis	True	True	True				True	True	True	100.0		100.0	37.9664878196293			True	True		True	True	True	True
 574.3	Cholecystitis without cholelithiasis	digestive	HP_0001082	Cholecystitis				True	True	True	True	True	True		100.0	100.0	58.93527013278443	True	True	True	True	True	True	True	True	True
@@ -713,7 +746,7 @@ phecode1.2_code	phecode1.2_label	phecode1.2_category	hpo_code	hpo_label	stringMa
 578.1	Hematemesis	digestive	HP_0002248	Hematemesis	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	58.90844240439087	True	True	True	True	True	True	True	True	True
 578.2	Blood in stool	digestive	HP_0002573	Hematochezia													58.82807099996453		True			True		True	True	True
 578.8	Hemorrhage of rectum and anus	digestive	HP_0002573	Hematochezia													68.55201191595735							True	True	True
-578.9	Hemorrhage of gastrointestinal tract	digestive	HP_0002239	Gastrointestinal hemorrhage							True	True	True	89.29	89.29	100.0	54.75586432005685	True	True	True	True	True	True	True	True	True
+578.9	Hemorrhage of gastrointestinal tract	digestive	HP_0002239	Gastrointestinal hemorrhage		True			True		True	True	True	89.29	89.29	100.0	54.75586432005685	True	True	True	True	True	True	True	True	True
 579	Other symptoms involving abdomen and pelvis	digestive	HP_0031500	Abdominal mass													50.131270167382404					True	True	True	True	True
 579.2	Splenomegaly	digestive	HP_0001744	Splenomegaly	True	True	True	True	True	True				100.0	100.0		87.1030423679488	True	True	True	True	True	True	True	True	True
 580.1	Glomerulonephritis	genitourinary	HP_0000099	Glomerulonephritis	True	True	True		True					100.0								True		True	True	True
@@ -725,8 +758,8 @@ phecode1.2_code	phecode1.2_label	phecode1.2_category	hpo_code	hpo_label	stringMa
 580.3	Nephritis and nephropathy without mention of glomerulonephritis	genitourinary	HP_0025418	Renal cortical necrosis													131.01502226564529			True	True	True	True	True	True	True
 585	Renal failure	genitourinary	HP_0001919	Acute kidney injury			True	True	True	True	True	True	True		100.0	100.0		True	True	True	True	True	True	True	True	True
 585	Renal failure	genitourinary	HP_0000083	Renal insufficiency	True	True	True	True	True	True				100.0	100.0			True	True	True	True	True	True	True	True	True
-585.1	Acute renal failure	genitourinary	HP_0000083	Renal insufficiency		True														True	True		True	True	True	True
 585.1	Acute renal failure	genitourinary	HP_0001919	Acute kidney injury	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	21.596619486850532	True	True	True	True		True	True	True	True
+585.1	Acute renal failure	genitourinary	HP_0000083	Renal insufficiency		True														True	True		True	True	True	True
 585.2	Renal failure NOS	genitourinary	HP_0000083	Renal insufficiency	True	True	True	True	True	True				100.0	100.0		14.55712086403316	True	True	True	True		True	True	True	True
 585.2	Renal failure NOS	genitourinary	HP_0001919	Acute kidney injury			True			True			True			84.85								True	True	True
 585.3	Chronic renal failure [CKD]	genitourinary	HP_0003774	Stage 5 chronic kidney disease		True		True	True	True	True	True	True	91.3	100.0	100.0				True	True	True	True	True	True	True
@@ -736,15 +769,15 @@ phecode1.2_code	phecode1.2_label	phecode1.2_category	hpo_code	hpo_label	stringMa
 586	Other disorders of the kidney and ureters	genitourinary	HP_0000070	Ureterocele													163.45466042144906					True	True	True	True	True
 586.1	Anatomical abnormatilies of kidney and ureters	genitourinary	HP_0011126	Nephroptosis				True	True	True	True	True	True		100.0	100.0	153.93388363863326	True	True	True	True	True		True	True	True
 586.11	Small kidney	genitourinary	HP_0000089	Renal hypoplasia										100.0	100.0	100.0								True	True	True
+586.12	Vesicoureteral reflux	genitourinary	HP_0000076	Vesicoureteral reflux	True	True	True	True	True	True				100.0	100.0	100.0	66.8985482604685	True	True	True	True	True	True	True	True	True
+586.12	Vesicoureteral reflux	genitourinary	HP_0033739	Secondary vesicoureteral reflux			True			True														True	True	True
+586.12	Vesicoureteral reflux	genitourinary	HP_0033735	Grade I vesicoureteral reflux			True			True														True	True	True
 586.12	Vesicoureteral reflux	genitourinary	HP_0033740	Grade V vesicoureteral reflux			True			True														True	True	True
 586.12	Vesicoureteral reflux	genitourinary	HP_0033736	Grade II vesicoureteral reflux			True			True														True	True	True
-586.12	Vesicoureteral reflux	genitourinary	HP_0033738	Primary vesicoureteral reflux			True			True														True	True	True
-586.12	Vesicoureteral reflux	genitourinary	HP_0033735	Grade I vesicoureteral reflux			True			True														True	True	True
-586.12	Vesicoureteral reflux	genitourinary	HP_0033739	Secondary vesicoureteral reflux			True			True														True	True	True
-586.12	Vesicoureteral reflux	genitourinary	HP_0033741	Grade IV vesicoureteral reflux			True			True														True	True	True
 586.12	Vesicoureteral reflux	genitourinary	HP_0033737	Grade III vesicoureteral reflux			True			True														True	True	True
+586.12	Vesicoureteral reflux	genitourinary	HP_0033738	Primary vesicoureteral reflux			True			True														True	True	True
 586.12	Vesicoureteral reflux	genitourinary	HP_0033733	Low-grade vesicoureteral reflux			True			True														True	True	True
-586.12	Vesicoureteral reflux	genitourinary	HP_0000076	Vesicoureteral reflux	True	True	True	True	True	True				100.0	100.0	100.0	66.8985482604685	True	True	True	True	True	True	True	True	True
+586.12	Vesicoureteral reflux	genitourinary	HP_0033741	Grade IV vesicoureteral reflux			True			True														True	True	True
 586.2	Cyst of kidney, acquired	genitourinary	HP_0012581	Simple renal cyst													304.0412345416983							True	True	True
 586.4	Stricture/obstruction of ureter	genitourinary	HP_0005200	Retroperitoneal fibrosis													49.131615864850644					True		True	True	True
 588.1	Renal osteodystrophy	genitourinary	HP_0000096	Glomerular sclerosis													43.95037290731893							True	True	True
@@ -763,28 +796,28 @@ phecode1.2_code	phecode1.2_label	phecode1.2_category	hpo_code	hpo_label	stringMa
 597	Other disorders of urethra and urinary tract	genitourinary	HP_0100821	Urethrocele													70.29937037611195		True					True	True	True
 598	Abnormal findings on examination of urine	genitourinary	HP_0002913	Myoglobinuria				True	True	True	True	True	True		100.0	100.0	74.78097001919069	True	True	True	True	True	True	True	True	True
 599.3	Dysuria	genitourinary	HP_0100518	Dysuria	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	84.55258164340674	True	True	True	True	True	True	True	True	True
-599.4	Urinary incontinence	genitourinary	HP_0000020	Urinary incontinence	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	20.94024495775568	True	True	True	True	True	True	True	True	True
 599.4	Urinary incontinence	genitourinary	HP_0010992	Stress urinary incontinence			True			True			True				21.741319258120928					True		True	True	True
+599.4	Urinary incontinence	genitourinary	HP_0000020	Urinary incontinence	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	20.94024495775568	True	True	True	True	True	True	True	True	True
 599.5	Frequency of urination and polyuria	genitourinary	HP_0000017	Nocturia				True	True	True	True	True	True		100.0	100.0	52.76198885159659	True	True	True	True	True	True	True	True	True
 599.6	Oliguria and anuria	genitourinary	HP_0100520	Oliguria													53.278553654157506					True	True	True	True	True
 599.8	Other symptoms involving urinary system	genitourinary	HP_0010677	Enuresis nocturna													49.147832946481934							True	True	True
 600	Hyperplasia of prostate	genitourinary	HP_0008711	Benign prostatic hyperplasia							True	True	True		100.0	100.0	69.22401459655643	True	True	True	True	True	True	True	True	True
 601.1	Prostatitis	genitourinary	HP_0000024	Prostatitis	True	True	True	True	True	True				100.0	100.0		117.61246998035759	True	True	True	True		True	True	True	True
 601.11	Acute prostatitis	genitourinary	HP_0000024	Prostatitis													109.52165552157172							True	True	True
-601.3	Orchitis and epididymitis	genitourinary	HP_0100796	Orchitis							True	True	True			100.0	46.1433387989009			True	True	True	True	True	True	True
 601.3	Orchitis and epididymitis	genitourinary	HP_0000031	Epididymitis							True	True	True			100.0	58.32575138524686			True	True	True		True	True	True
+601.3	Orchitis and epididymitis	genitourinary	HP_0100796	Orchitis							True	True	True			100.0	46.1433387989009			True	True	True	True	True	True	True
 603	Other disorders of testis	genitourinary	HP_0100813	Testicular torsion													126.5827604366174	True	True	True	True	True		True	True	True
-603.1	Hydrocele	genitourinary	HP_0100673	Vaginal hydrocele													194.57663029792252	True	True	True	True			True	True	True
 603.1	Hydrocele	genitourinary	HP_0000034	Hydrocele testis													194.57663029792252	True	True	True	True	True	True	True	True	True
+603.1	Hydrocele	genitourinary	HP_0100673	Vaginal hydrocele													194.57663029792252	True	True	True	True			True	True	True
 603.2	Spermatocele	genitourinary	HP_0033808	Spermatocele	True	True	True	True	True	True							250.6912853753414	True	True	True	True	True	True	True	True	True
 604	Disorders of penis	genitourinary	HP_0200023	Priapism				True	True	True	True	True	True		100.0	100.0	111.08365124904829	True	True	True	True	True	True	True	True	True
 604.1	Redundant prepuce and phimosis/BXO	genitourinary	HP_0100588	Paraphimosis							True	True	True			100.0	51.2083771777499			True	True	True	True	True	True	True
 605	Erectile dysfunction [ED]	genitourinary	HP_0100639	Erectile dysfunction		True						True		91.89		87.18	34.35236028773741		True	True	True	True	True	True	True	True
 609.1	Infertility, male	genitourinary	HP_0000789	Infertility		True			True			True					16.350351697513087						True	True	True	True
-609.1	Infertility, male	genitourinary	HP_0003251	Male infertility				True	True	True	True	True	True	100.0	100.0	100.0	19.50157176375164	True	True	True	True		True	True	True	True
+609.1	Infertility, male	genitourinary	HP_0003251	Male infertility		True	True	True	True	True	True	True	True	100.0	100.0	100.0	19.50157176375164	True	True	True	True		True	True	True	True
 609.11	Azoospermia and oligospermia	genitourinary	HP_0000798	Oligospermia				True	True	True	True	True	True		100.0	100.0	53.33966491397344	True	True	True	True	True		True	True	True
 610.2	Fibroadenosis of breast	genitourinary	HP_0010619	Fibroadenoma of the breast	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0								True	True	True
-611.3	Lump or mass in breast	genitourinary	HP_0032408	Breast mass										82.93	82.93	100.0	44.334785958366965	True	True	True	True	True	True	True	True	True
+611.3	Lump or mass in breast	genitourinary	HP_0032408	Breast mass								True		82.93	82.93	100.0	44.334785958366965	True	True	True	True	True	True	True	True	True
 612.1	Galactorrhea	genitourinary	HP_0100829	Galactorrhea	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
 612.2	Hypertrophy of breast (Gynecomastia)	genitourinary	HP_0000771	Gynecomastia													87.48304626849855			True	True	True	True	True	True	True
 612.3	Congenital anomalies of breast	genitourinary	HP_0002558	Supernumerary nipple							True	True	True			100.0	251.7035054787121			True	True	True	True	True	True	True
@@ -816,7 +849,7 @@ phecode1.2_code	phecode1.2_label	phecode1.2_category	hpo_code	hpo_label	stringMa
 626.13	Irregular menstrual cycle	genitourinary	HP_0000876	Oligomenorrhea													110.51981319224664							True	True	True
 626.14	Irregular menstrual bleeding	genitourinary	HP_0100608	Metrorrhagia				True	True	True					100.0		71.14172609794137	True	True	True	True	True	True	True	True	True
 626.2	Dysmenorrhea	genitourinary	HP_0100607	Dysmenorrhea	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	96.10814015722788	True	True	True	True	True	True	True	True	True
-626.8	Infertility, female	genitourinary	HP_0008222	Female infertility							True	True	True	100.0	100.0	100.0	22.898165104594106	True	True	True	True	True		True	True	True
+626.8	Infertility, female	genitourinary	HP_0008222	Female infertility		True	True		True	True	True	True	True	100.0	100.0	100.0	22.898165104594106	True	True	True	True	True		True	True	True
 627.1	Postmenopausal bleeding	genitourinary	HP_0033840	Postmenopausal bleeding	True	True	True	True	True	True	True	True	True					True	True	True	True			True	True	True
 628	Ovarian cyst	genitourinary	HP_0000138	Ovarian cyst	True	True	True							100.0	82.76	100.0	73.00444256985428			True	True	True	True	True	True	True
 634.1	Missed abortion/Hydatidiform mole	pregnancy complications	HP_0032192	Hydatidiform mole				True	True	True	True	True	True		100.0	100.0	113.26228883794843	True	True	True	True	True	True	True	True	True
@@ -842,8 +875,8 @@ phecode1.2_code	phecode1.2_label	phecode1.2_category	hpo_code	hpo_label	stringMa
 686.1	Carbuncle and furuncle	dermatologic	HP_0020084	Carbuncle							True	True	True			100.0	182.96399857150882					True		True	True	True
 686.1	Carbuncle and furuncle	dermatologic	HP_0020083	Furuncle							True	True	True			100.0	96.27314946663653			True	True	True		True	True	True
 686.3	Pilonidal cyst	dermatologic	HP_0010769	Pilonidal sinus	True	True	True	True	True	True				100.0	100.0	83.87	118.4647396963425	True	True	True	True	True	True	True	True	True
-686.5	Pyoderma	dermatologic	HP_0025452	Pyoderma gangrenosum				True	True	True	True	True	True		100.0	100.0	58.98236183270746	True	True	True	True	True	True	True	True	True
 686.5	Pyoderma	dermatologic	HP_0000999	Pyoderma	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0		True	True	True	True	True		True	True	True
+686.5	Pyoderma	dermatologic	HP_0025452	Pyoderma gangrenosum				True	True	True	True	True	True		100.0	100.0	58.98236183270746	True	True	True	True	True	True	True	True	True
 690	Erythematosquamous dermatosis	dermatologic	HP_0011123	Inflammatory abnormality of the skin													47.68988148353041							True	True	True
 690.1	Seborrheic dermatitis	dermatologic	HP_0001051	Seborrheic dermatitis	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	51.62773900653058	True	True	True	True	True	True	True	True	True
 694.1	Vitiligo	dermatologic	HP_0001045	Vitiligo	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	145.0522493716297	True	True	True	True	True	True	True	True	True
@@ -870,8 +903,8 @@ phecode1.2_code	phecode1.2_label	phecode1.2_category	hpo_code	hpo_label	stringMa
 703	Diseases of nail, NOS	dermatologic	HP_0100644	Melanonychia													44.39104641651616							True	True	True
 703.1	Ingrowing nail	dermatologic	HP_0012710	Ingrown nail										88.0	88.0	88.0	125.65975192294724	True	True	True	True	True	True	True	True	True
 704	Diseases of hair and hair follicles	dermatologic	HP_0200040	Epidermoid cyst													77.52484390981455							True	True	True
-704.1	Alopecia	dermatologic	HP_0002293	Alopecia of scalp													102.9111358040766	True	True	True	True		True	True	True	True
 704.1	Alopecia	dermatologic	HP_0001596	Alopecia	True	True	True	True	True	True				100.0	100.0		102.9111358040766	True	True	True	True	True	True	True	True	True
+704.1	Alopecia	dermatologic	HP_0002293	Alopecia of scalp													102.9111358040766	True	True	True	True		True	True	True	True
 704.11	Alopecia Areata	dermatologic	HP_0002232	Patchy alopecia	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0						True	True	True	True	True
 704.11	Alopecia Areata	dermatologic	HP_0001596	Alopecia													135.64609155878077							True	True	True
 704.11	Alopecia Areata	dermatologic	HP_0002293	Alopecia of scalp													135.64609155878077							True	True	True
@@ -899,20 +932,21 @@ phecode1.2_code	phecode1.2_label	phecode1.2_category	hpo_code	hpo_label	stringMa
 714	Rheumatoid arthritis and other inflammatory polyarthropathies	musculoskeletal	HP_0001369	Arthritis													53.026677254140644							True	True	True
 714.1	Rheumatoid arthritis	musculoskeletal	HP_0001370	Rheumatoid arthritis	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	41.13798109846178	True	True	True	True			True	True	True
 714.1	Rheumatoid arthritis	musculoskeletal	HP_0005681	Juvenile rheumatoid arthritis			True			True			True											True	True	True
-714.2	Juvenile rheumatoid arthritis	musculoskeletal	HP_0005681	Juvenile rheumatoid arthritis	True	True	True		True		True	True	True	100.0	80.0	100.0	143.96127614395252			True	True	True	True	True	True	True
 714.2	Juvenile rheumatoid arthritis	musculoskeletal	HP_0001370	Rheumatoid arthritis		True						True												True	True	True
+714.2	Juvenile rheumatoid arthritis	musculoskeletal	HP_0005681	Juvenile rheumatoid arthritis	True	True	True		True		True	True	True	100.0	80.0	100.0	143.96127614395252			True	True	True	True	True	True	True
 715.1	Sacroiliitis NEC	musculoskeletal	HP_0012317	Sacroiliac arthritis		True								81.82			122.29088327843277					True	True	True	True	True
 716	Other arthropathies	musculoskeletal	HP_0003040	Arthropathy				True	True	True	True	True	True	100.0	100.0	100.0		True	True	True	True	True		True	True	True
 716.2	Unspecified monoarthritis	musculoskeletal	HP_0001369	Arthritis													63.27604287171329							True	True	True
 716.9	Arthropathy NOS	musculoskeletal	HP_0001369	Arthritis													48.61418989937846							True	True	True
 716.9	Arthropathy NOS	musculoskeletal	HP_0003040	Arthropathy	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0		True	True	True	True	True		True	True	True
-720	Spinal stenosis	musculoskeletal	HP_0004610	Lumbar spinal canal stenosis			True						True			86.27				True	True	True	True	True	True	True
+720	Spinal stenosis	musculoskeletal	HP_0004610	Lumbar spinal canal stenosis			True					True	True			86.27				True	True	True	True	True	True	True
 720	Spinal stenosis	musculoskeletal	HP_0003416	Spinal canal stenosis	True	True	True				True	True	True	100.0	81.08	100.0							True	True	True	True
+720.1	Spinal stenosis of lumbar region	musculoskeletal	HP_0004610	Lumbar spinal canal stenosis		True						True		86.27		86.27				True	True			True	True	True
 721	Spondylosis and allied disorders	musculoskeletal	HP_0008480	Cervical spondylosis												83.72	58.72051343972008		True			True	True	True	True	True
 721.1	Spondylosis without myelopathy	musculoskeletal	HP_0008480	Cervical spondylosis												83.72	58.72051343972008		True					True	True	True
 722.1	Displacement of intervertebral disc	musculoskeletal	HP_0008441	Herniation of intervertebral nuclei													80.07150021861196							True	True	True
 722.3	Schmorl's nodes	musculoskeletal	HP_0030041	Schmorl's node	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0		True	True	True	True			True	True	True
-722.6	Degeneration of intervertebral disc	musculoskeletal	HP_0008419	Intervertebral disc degeneration										100.0	91.23		48.579481440904075	True	True				True	True	True	True
+722.6	Degeneration of intervertebral disc	musculoskeletal	HP_0008419	Intervertebral disc degeneration		True			True					100.0	91.23		48.579481440904075	True	True				True	True	True	True
 723.1	Torticollis	musculoskeletal	HP_0000473	Torticollis	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	97.29428438042775	True	True	True	True	True	True	True	True	True
 724.8	Other symptoms referable to back	musculoskeletal	HP_0002196	Myelopathy													64.17682013438466							True	True	True
 724.8	Other symptoms referable to back	musculoskeletal	HP_0002143	Abnormality of the spinal cord													64.17682013438466							True	True	True
@@ -920,14 +954,14 @@ phecode1.2_code	phecode1.2_label	phecode1.2_category	hpo_code	hpo_label	stringMa
 726.4	Calcaneal spur; Exostosis NOS	musculoskeletal	HP_0025230	Tendonitis													51.23096598890895							True	True	True
 727	Other disorders of synovium, tendon, and bursa	musculoskeletal	HP_0025232	Bursitis											100.0		85.6363832394533			True	True	True		True	True	True
 727.2	Bursitis disorders	musculoskeletal	HP_0025232	Bursitis											100.0		109.85000895956308					True		True	True	True
-727.5	Rupture of synovium	musculoskeletal	HP_0032072	Popliteal synovial cyst											86.36	81.97	185.74847449402594	True	True	True	True	True	True	True	True	True
+727.5	Rupture of synovium	musculoskeletal	HP_0032072	Popliteal synovial cyst					True						86.36	81.97	185.74847449402594	True	True	True	True	True	True	True	True	True
 728	Disorders of muscle, ligament, and fascia	musculoskeletal	HP_0003201	Rhabdomyolysis													46.128459246079494						True	True	True	True
 728.7	Fasciitis	musculoskeletal	HP_0100537	Fasciitis	True	True	True	True	True	True				100.0	100.0		15.275834992278964	True	True	True	True	True	True	True	True	True
 728.71	Contracture of palmar fascia [Dupuytren's disease]	musculoskeletal	HP_0005679	Dupuytren contracture													84.55302351537729	True	True	True	True	True	True	True	True	True
 729.3	Panniculitis	musculoskeletal	HP_0012490	Panniculitis	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	107.84646105451559	True	True	True	True	True	True	True	True	True
 732.7	Osteochondritis dissecans	musculoskeletal	HP_0010886	Osteochondritis dissecans	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	119.648332929623	True	True	True	True	True	True	True	True	True
-733.2	Cyst of bone	musculoskeletal	HP_0012062	Bone cyst										100.0	100.0	100.0		True	True	True	True			True	True	True
-733.4	Aseptic necrosis of bone	musculoskeletal	HP_0010885	Avascular necrosis							True	True	True	100.0	100.0	100.0	31.79662120283157	True	True	True	True	True	True	True	True	True
+733.2	Cyst of bone	musculoskeletal	HP_0012062	Bone cyst		True			True					100.0	100.0	100.0		True	True	True	True			True	True	True
+733.4	Aseptic necrosis of bone	musculoskeletal	HP_0010885	Avascular necrosis		True			True		True	True	True	100.0	100.0	100.0	31.79662120283157	True	True	True	True	True	True	True	True	True
 735.1	Flat foot	musculoskeletal	HP_0001763	Pes planus	True	True	True	True	True	True				100.0	100.0	84.44	130.28205284390222	True	True	True	True	True	True	True	True	True
 735.2	Acquired toe deformities	musculoskeletal	HP_0008080	Hallux varus													97.74886244299013		True		True	True	True	True	True	True
 735.21	Hammer toe (acquired)	musculoskeletal	HP_0001840	Metatarsus adductus													65.22414689135773							True	True	True
@@ -936,22 +970,24 @@ phecode1.2_code	phecode1.2_label	phecode1.2_category	hpo_code	hpo_label	stringMa
 736.1	Acquired deformities of forearm	musculoskeletal	HP_0031189	Wrist drop													47.1754910242721	True	True	True	True	True		True	True	True
 736.2	Acquired deformities of finger	musculoskeletal	HP_0030771	Mallet finger				True	True	True	True	True	True		100.0	100.0	99.76515826320231	True	True	True	True	True	True	True	True	True
 736.3	Acquired deformities of hip	musculoskeletal	HP_0005743	Avascular necrosis of the capital femoral epiphysis													95.0269277601575							True	True	True
+736.4	Genu valgum or varum (acquired)	musculoskeletal	HP_0002979	Bowing of the legs													113.72325640011644			True	True	True		True	True	True
 736.4	Genu valgum or varum (acquired)	musculoskeletal	HP_0002970	Genu varum													113.72325640011644			True	True	True		True	True	True
 736.4	Genu valgum or varum (acquired)	musculoskeletal	HP_0002857	Genu valgum													100.64994009093672			True	True	True		True	True	True
-736.4	Genu valgum or varum (acquired)	musculoskeletal	HP_0002979	Bowing of the legs													113.72325640011644			True	True	True		True	True	True
+736.5	Acquired deformities of knee	musculoskeletal	HP_0002857	Genu valgum													100.64994009093672							True	True	True
 736.5	Acquired deformities of knee	musculoskeletal	HP_0002979	Bowing of the legs													113.72325640011644			True	True			True	True	True
 736.5	Acquired deformities of knee	musculoskeletal	HP_0002970	Genu varum													113.72325640011644			True	True			True	True	True
-736.5	Acquired deformities of knee	musculoskeletal	HP_0002857	Genu valgum													100.64994009093672							True	True	True
-737	Curvature of spine	musculoskeletal	HP_0002650	Scoliosis							True	True	True			100.0	55.613705157654245			True	True	True	True	True	True	True
 737	Curvature of spine	musculoskeletal	HP_0010674	Abnormality of the curvature of the vertebral column	True	True	True	True	True	True				100.0	100.0									True	True	True
+737	Curvature of spine	musculoskeletal	HP_0002650	Scoliosis							True	True	True			100.0	55.613705157654245			True	True	True	True	True	True	True
 737.1	Kyphosis (acquired)	musculoskeletal	HP_0002808	Kyphosis							True	True	True			100.0	138.95076743819214		True	True	True	True	True	True	True	True
 737.2	Lordosis (acquired)	musculoskeletal	HP_0002650	Scoliosis													68.06477080817032							True	True	True
 737.3	Kyphoscoliosis and scoliosis	musculoskeletal	HP_0002650	Scoliosis							True	True	True			100.0	73.63144920320322			True	True		True	True	True	True
 738.4	Acquired spondylolisthesis	musculoskeletal	HP_0003302	Spondylolisthesis								True		82.93	82.93	87.18	98.54718550546669			True	True	True		True	True	True
-739	Contracture of joint	musculoskeletal	HP_0001371	Flexion contracture								True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
+739	Contracture of joint	musculoskeletal	HP_0009473	Joint contracture of the hand			True			True			True		100.0	100.0		True	True	True	True			True	True	True
+739	Contracture of joint	musculoskeletal	HP_0002987	Elbow flexion contracture			True			True		True	True			100.0				True	True			True	True	True
+739	Contracture of joint	musculoskeletal	HP_0001371	Flexion contracture		True			True			True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
 740.9	Osteoarthrosis NOS	musculoskeletal	HP_0002758	Osteoarthritis										80.0			55.092730946160536	True	True	True	True			True	True	True
 741	Symptoms and disorders of the joints	musculoskeletal	HP_0001369	Arthritis													53.026677254140644					True		True	True	True
-741.2	Stiffness of joint	musculoskeletal	HP_0001387	Joint stiffness										100.0								True	True	True	True	True
+741.2	Stiffness of joint	musculoskeletal	HP_0001387	Joint stiffness		True								100.0								True	True	True	True	True
 741.3	Difficulty in walking	musculoskeletal	HP_0002355	Difficulty walking	True	True	True	True	True	True				100.0	100.0			True	True					True	True	True
 741.5	Hemarthrosis	musculoskeletal	HP_0005261	Joint hemorrhage	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
 742	Derangement of joint, non-traumatic	musculoskeletal	HP_0001373	Joint dislocation												81.82	114.46747245150831							True	True	True
@@ -964,10 +1000,12 @@ phecode1.2_code	phecode1.2_label	phecode1.2_category	hpo_code	hpo_label	stringMa
 743.21	Pathologic fracture of vertebrae	musculoskeletal	HP_0002756	Pathologic fracture													69.08180258319548							True	True	True
 743.22	Pathologic fracture of femur	musculoskeletal	HP_0002756	Pathologic fracture		True								85.0										True	True	True
 743.9	Osteopenia or other disorder of bone and cartilage	musculoskeletal	HP_0000938	Osteopenia													92.7111512670196					True		True	True	True
-745	Pain in joint	musculoskeletal	HP_0002829	Arthralgia										100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
-747.2	Congenital anomalies of peripheral vascular system	congenital anomalies	HP_0002408	Cerebral arteriovenous malformation												88.14	89.26197652432583			True	True	True	True	True	True	True
-749.1	Cleft palate	congenital anomalies	HP_0000175	Cleft palate	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0				True	True	True	True	True	True	True
+745	Pain in joint	musculoskeletal	HP_0002829	Arthralgia		True			True			True		100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
+747.2	Congenital anomalies of peripheral vascular system	congenital anomalies	HP_0002408	Cerebral arteriovenous malformation								True				88.14	89.26197652432583			True	True	True	True	True	True	True
+749.1	Cleft palate	congenital anomalies	HP_0000185	Cleft soft palate			True			True	True	True	True			100.0				True	True			True	True	True
 749.1	Cleft palate	congenital anomalies	HP_0000204	Cleft upper lip													77.2174595427152	True	True	True	True	True	True	True	True	True
+749.1	Cleft palate	congenital anomalies	HP_0410005	Cleft hard palate			True			True	True	True	True			100.0				True	True			True	True	True
+749.1	Cleft palate	congenital anomalies	HP_0000175	Cleft palate	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0				True	True	True	True	True	True	True
 750.11	Esophageal atresia/tracheoesophageal fistula	congenital anomalies	HP_0002032	Esophageal atresia													43.75633464400293			True	True	True	True	True	True	True
 750.13	Congenital anomalies of mouth/tongue	congenital anomalies	HP_0010296	Ankyloglossia							True	True	True		84.21	100.0	93.63700586835678	True	True	True	True	True	True	True	True	True
 750.14	Congenital anomalies of esophagus	congenital anomalies	HP_0100628	Esophageal diverticulum													98.80773652048228				True			True	True	True
@@ -977,64 +1015,65 @@ phecode1.2_code	phecode1.2_label	phecode1.2_category	hpo_code	hpo_label	stringMa
 751.21	Cystic kidney disease	congenital anomalies	HP_0000113	Polycystic kidney dysplasia											80.0	100.0	45.97076250574767	True	True	True	True	True	True	True	True	True
 751.22	Other specified congenital anomalies of kidney	congenital anomalies	HP_0000085	Horseshoe kidney													47.55038600652112					True	True	True	True	True
 751.3	Obstructive genitourinary defect	congenital anomalies	HP_0000070	Ureterocele													151.06383801131742					True		True	True	True
-752.1	Neural tube defects	congenital anomalies	HP_0002323	Anencephaly							True	True	True		83.33	100.0	47.15718781565337	True	True	True	True	True	True	True	True	True
 752.1	Neural tube defects	congenital anomalies	HP_0045005	Neural tube defect										100.0			16.26928517591429					True	True	True	True	True
-752.11	Spina bifida	congenital anomalies	HP_0002475	Myelomeningocele													43.990968106471826			True	True	True	True	True	True	True
+752.1	Neural tube defects	congenital anomalies	HP_0002323	Anencephaly							True	True	True		83.33	100.0	47.15718781565337	True	True	True	True	True	True	True	True	True
 752.11	Spina bifida	congenital anomalies	HP_0002414	Spina bifida	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	36.97194350779958	True	True	True	True	True	True	True	True	True
+752.11	Spina bifida	congenital anomalies	HP_0002475	Myelomeningocele													43.990968106471826			True	True	True	True	True	True	True
 753	Congenital anomalies of the eye	congenital anomalies	HP_0000528	Anophthalmia											87.18		83.64807565143471	True	True	True	True	True	True	True	True	True
 753.1	Congenital cataract and lens anomalies	congenital anomalies	HP_0000519	Developmental cataract				True	True	True	True	True	True		100.0	100.0	71.44874198968328	True	True	True	True	True	True	True	True	True
 753.2	Congenital anomalies of posterior segment of eye	congenital anomalies	HP_0025104	Capillary malformation													47.63398829636986							True	True	True
 753.2	Congenital anomalies of posterior segment of eye	congenital anomalies	HP_0007973	Retinal dysplasia													93.8471708778013							True	True	True
 754	Congenital musculoskeletal deformities of spine	congenital anomalies	HP_0002808	Kyphosis													48.95261704924877				True	True		True	True	True
 754.2	Spondylolisthesis, congenital	congenital anomalies	HP_0003302	Spondylolisthesis				True	True	True					100.0		98.54718550546669					True	True	True	True	True
-755.1	Congenital deformities of feet	congenital anomalies	HP_0001762	Talipes equinovarus				True	True	True					100.0		44.113839802408044	True	True	True	True	True	True	True	True	True
 755.1	Congenital deformities of feet	congenital anomalies	HP_0001763	Pes planus													48.59829704000107						True	True	True	True
+755.1	Congenital deformities of feet	congenital anomalies	HP_0001762	Talipes equinovarus				True	True	True					100.0		44.113839802408044	True	True	True	True	True	True	True	True	True
 755.6	Other congenital anomalies of lower limb, including pelvic girdle	congenital anomalies	HP_0002857	Genu valgum													115.88844836339187					True	True	True	True	True
 755.6	Other congenital anomalies of lower limb, including pelvic girdle	congenital anomalies	HP_0030772	Proximal femoral focal deficiency													69.60950559412352			True	True		True	True	True	True
 755.61	Congenital hip dysplasia and deformity	congenital anomalies	HP_0001385	Hip dysplasia										86.79			84.36487803916356				True	True	True	True	True	True
-756.21	Pectus excavatum	congenital anomalies	HP_0000768	Pectus carinatum													55.88976332344725							True	True	True
 756.21	Pectus excavatum	congenital anomalies	HP_0000767	Pectus excavatum	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0			True		True	True	True	True	True	True
+756.21	Pectus excavatum	congenital anomalies	HP_0000768	Pectus carinatum													55.88976332344725							True	True	True
 756.22	Pectus carinatum	congenital anomalies	HP_0000768	Pectus carinatum	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	55.88976332344725	True	True	True	True	True	True	True	True	True
-760	Back pain	symptoms	HP_0003419	Low back pain			True				True	True	True			100.0	25.297709065109714	True	True	True	True	True	True	True	True	True
 760	Back pain	symptoms	HP_0003418	Back pain	True	True	True					True		100.0			36.479662341683685	True	True	True	True	True	True	True	True	True
+760	Back pain	symptoms	HP_0003419	Low back pain			True				True	True	True			100.0	25.297709065109714	True	True	True	True	True	True	True	True	True
 761	Cervicalgia	symptoms	HP_0030833	Neck pain													80.72017929031382	True	True	True	True	True	True	True	True	True
 764	Sciatica	symptoms	HP_0011868	Sciatica	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	93.2247835917932	True	True	True	True	True	True	True	True	True
 766	Neuralgia, neuritis, and radiculitis NOS	symptoms	HP_0033345	Neuralgia													72.61743919262884					True	True	True	True	True
 772	Symptoms of the muscles	symptoms	HP_0045029	Eosinophilic fasciitis								True				85.11	64.94523340140178					True	True	True	True	True
-772.2	Spasm of muscle	symptoms	HP_0002487	Hyperkinetic movements										100.0	100.0	100.0						True		True	True	True
+772.2	Spasm of muscle	symptoms	HP_0003394	Muscle spasm		True			True		True	True	True				37.91806893884997	True	True	True	True	True		True	True	True
 772.2	Spasm of muscle	symptoms	HP_0001257	Spasticity													62.41717598412786							True	True	True
+772.2	Spasm of muscle	symptoms	HP_0002487	Hyperkinetic movements										100.0	100.0	100.0						True		True	True	True
 772.3	Muscle weakness	symptoms	HP_0001324	Muscle weakness	True	True	True							100.0			17.149725115567936					True		True	True	True
-772.3	Muscle weakness	symptoms	HP_0030319	Weakness of facial musculature			True																	True	True	True
-772.3	Muscle weakness	symptoms	HP_0003427	Thenar muscle weakness			True																	True	True	True
 772.3	Muscle weakness	symptoms	HP_0001283	Bulbar palsy			True																	True	True	True
 772.3	Muscle weakness	symptoms	HP_0030237	Hand muscle weakness			True																	True	True	True
 772.3	Muscle weakness	symptoms	HP_0000467	Neck muscle weakness			True																	True	True	True
+772.3	Muscle weakness	symptoms	HP_0002460	Distal muscle weakness			True															True		True	True	True
+772.3	Muscle weakness	symptoms	HP_0030319	Weakness of facial musculature			True																	True	True	True
 772.3	Muscle weakness	symptoms	HP_0003690	Limb muscle weakness			True																	True	True	True
 772.3	Muscle weakness	symptoms	HP_0003327	Axial muscle weakness			True																	True	True	True
-772.3	Muscle weakness	symptoms	HP_0002460	Distal muscle weakness			True															True		True	True	True
+772.3	Muscle weakness	symptoms	HP_0003427	Thenar muscle weakness			True																	True	True	True
 772.4	Rhabdomyolysis	symptoms	HP_0003201	Rhabdomyolysis	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	74.84959311846927	True	True	True	True	True		True	True	True
 772.4	Rhabdomyolysis	symptoms	HP_0008942	Acute rhabdomyolysis			True			True			True											True	True	True
 772.6	Facial weakness	symptoms	HP_0030319	Weakness of facial musculature	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0		True	True	True	True	True		True	True	True
-773	Pain in limb	symptoms	HP_0009763	Limb pain										100.0	100.0	100.0		True	True	True	True			True	True	True
+773	Pain in limb	symptoms	HP_0009763	Limb pain		True			True			True		100.0	100.0	100.0		True	True	True	True			True	True	True
 780	Hypothermia/Chills	symptoms	HP_0002045	Hypothermia				True	True	True	True	True	True		100.0	100.0	80.05712156192104		True	True	True	True	True	True	True	True
 781.2	Abnormal posture	symptoms	HP_0002533	Abnormal posturing										100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
 782.3	Edema	symptoms	HP_0000969	Edema	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0		True	True	True	True	True	True	True	True	True
 782.6	Pallor and flushing	symptoms	HP_0000980	Pallor				True	True	True	True	True	True		100.0	100.0	152.44396222356232	True	True	True	True	True	True	True	True	True
 783	Fever of unknown origin	symptoms	HP_0002047	Malignant hyperthermia				True	True	True					100.0		75.6016088432321	True	True			True		True	True	True
-785	Abdominal pain	symptoms	HP_0033400	Acute abdomen			True			True	True	True	True			100.0				True	True	True	True	True	True	True
 785	Abdominal pain	symptoms	HP_0410281	Dyspepsia													58.307465007153596			True	True			True	True	True
+785	Abdominal pain	symptoms	HP_0033400	Acute abdomen			True			True	True	True	True			100.0				True	True	True	True	True	True	True
 785	Abdominal pain	symptoms	HP_0002027	Abdominal pain	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0		True	True	True	True	True		True	True	True
 789	Nausea and vomiting	symptoms	HP_0002017	Nausea and vomiting	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0		True	True	True	True			True	True	True
 790.1	Elevated sedimentation rate	symptoms	HP_0003565	Elevated erythrocyte sedimentation rate	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0		True	True	True	True			True	True	True
 791	Gangrene	symptoms	HP_0100758	Gangrene	True	True	True	True	True	True				100.0	100.0		129.54050511974512	True	True			True		True	True	True
 797	Shock	symptoms	HP_0031273	Shock	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	24.230399311178108	True	True	True	True			True	True	True
 797.1	Cardiogenic shock	symptoms	HP_0030149	Cardiogenic shock	True	True	True	True	True	True	True	True	True	100.0	100.0	100.0	87.66655873694367	True	True	True	True	True	True	True	True	True
+800	Fracture of lower limb	injuries & poisonings	HP_0041081	Fractured lower leg		True							True	100.0		100.0	26.084021315337978	True	True					True	True	True
 800	Fracture of lower limb	injuries & poisonings	HP_0041153	Fractured ankle													46.02724375343943			True	True			True	True	True
-800	Fracture of lower limb	injuries & poisonings	HP_0041081	Fractured lower leg										100.0		100.0	26.084021315337978	True	True					True	True	True
 800.3	Fracture of tibia and fibula	injuries & poisonings	HP_0041081	Fractured lower leg													82.9906469167032	True	True					True	True	True
 800.4	Fracture of patella	injuries & poisonings	HP_0041061	Fractured calcaneus											85.0		61.13754488991803							True	True	True
 800.4	Fracture of patella	injuries & poisonings	HP_0041237	Fractured patella										100.0	100.0	100.0	14.584114627490745	True	True	True	True			True	True	True
-803.1	Fracture of humerus	injuries & poisonings	HP_0041055	Fractured humerus										100.0	100.0	83.33	32.509773455362485	True	True	True	True		True	True	True	True
+803.1	Fracture of humerus	injuries & poisonings	HP_0041055	Fractured humerus		True	True		True	True				100.0	100.0	83.33	32.509773455362485	True	True	True	True		True	True	True	True
 803.3	Fracture of clavicle or scapula	injuries & poisonings	HP_0041244	Fractured scapula										80.0	100.0	100.0	43.3866203286814	True	True	True	True	True	True	True	True	True
 807	Fracture of ribs	injuries & poisonings	HP_0041246	Fractured sternum													73.79016937595853							True	True	True
 807	Fracture of ribs	injuries & poisonings	HP_0041159	Fractured rib										100.0	82.76	88.89	82.25051416134536			True	True	True	True	True	True	True
@@ -1043,10 +1082,10 @@ phecode1.2_code	phecode1.2_label	phecode1.2_category	hpo_code	hpo_label	stringMa
 818	Intracranial hemorrhage (injury)	injuries & poisonings	HP_0002170	Intracranial hemorrhage		True								85.71										True	True	True
 818.1	Subdural hemorrhage (injury)	injuries & poisonings	HP_0100309	Subdural hemorrhage		True								82.93								True		True	True	True
 818.2	Subarachnoid hemorrhage (injury)	injuries & poisonings	HP_0002138	Subarachnoid hemorrhage		True								86.79								True		True	True	True
-830	Dislocation	injuries & poisonings	HP_0001373	Joint dislocation													62.07170632573101	True	True			True		True	True	True
-830	Dislocation	injuries & poisonings	HP_0002827	Hip dislocation			True	True	True	True					100.0	83.33		True	True	True	True	True	True	True	True	True
+830	Dislocation	injuries & poisonings	HP_0001373	Joint dislocation								True					62.07170632573101	True	True			True		True	True	True
+830	Dislocation	injuries & poisonings	HP_0004976	Knee dislocation			True		True						100.0	82.76		True	True	True	True			True	True	True
 830	Dislocation	injuries & poisonings	HP_0001083	Ectopia lentis			True																	True	True	True
-830	Dislocation	injuries & poisonings	HP_0004976	Knee dislocation			True								100.0	82.76		True	True	True	True			True	True	True
+830	Dislocation	injuries & poisonings	HP_0002827	Hip dislocation			True	True	True	True		True			100.0	83.33		True	True	True	True	True	True	True	True	True
 835	Internal derangement of knee	injuries & poisonings	HP_0032191	Torn meniscus													63.81229632466359						True	True	True	True
 911	Blister	injuries & poisonings	HP_0008066	Abnormal blistering of the skin	True	True	True							100.0								True		True	True	True
 938	Dermatitis due to solar radiation	dermatologic	HP_0025127	Actinic keratosis													86.82302594773331							True	True	True

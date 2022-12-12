@@ -374,6 +374,7 @@ HP:0011069	Supernumerary tooth	500.3	Supernumerary teeth
 HP:0001571	Multiple impacted teeth	500.41	Impacted teeth*
 HP:0000670	Carious teeth	501	Dental caries
 HP:0033788	Cementum overgrowth	502.5	Hypercementosis
+HP:0030758	Periapical tooth abscess	503.5	Periapical abscess
 HP:0000230	Gingivitis	504.1	Gingivitis
 HP:0030816	Gingival recession	504.2	Gingival recession
 HP:0000166	Severe periodontitis	504.3	Periodontitis
@@ -387,6 +388,7 @@ HP:0010280	Stomatitis	507.1	Stomatitis
 HP:0011107	Recurrent aphthous stomatitis	507.1	Stomatitis
 HP:0011107	Recurrent aphthous stomatitis	507.11	Recurrent oral aphthae [Recurrent aphthous stomatitis]
 HP:0002745	Oral leukoplakia	507.3	Oral leukoplakia
+HP:0025126	Oral hairy leukoplakia	507.3	Oral leukoplakia
 HP:0025126	Oral hairy leukoplakia	507.31	Hairy leukoplakia*
 HP:0000206	Glossitis	509.1	Glossitis
 HP:0025252	Geographic tongue	509.2	Geographic tongue
@@ -1311,6 +1313,7 @@ HP:0001096	Keratoconjunctivitis	367.31	Keratoconjunctivitis sicca
 HP:0001097	Keratoconjunctivitis sicca	367.31	Keratoconjunctivitis sicca
 HP:0004905	Low levels of vitamin A	232	Vitamin deficiencies
 HP:0004905	Low levels of vitamin A	232.1	Vitamin A deficiency
+HP:0006980	Progressive leukoencephalopathy	322.2	Progressive multifocal leukoencephalopathy
 HP:0032161	Coccidioidal meningitis	320	Meningitis
 HP:0032160	Cryptococcal meningitis	320	Meningitis
 HP:0001287	Meningitis	320	Meningitis
@@ -1368,6 +1371,7 @@ HP:0011714	Libman-Sacks lesions	410.2	Endocarditis
 HP:0100584	Endocarditis	410.2	Endocarditis
 HP:0007812	Herpetiform corneal ulceration	367.21	Corneal ulcer
 HP:0012804	Corneal ulceration	367.21	Corneal ulcer
+HP:0007879	Allergic conjunctivitis	367.12	Allergic [atopic] conjunctivitis
 HP:0410335	Insect allergy	840.2	Allergy to insects
 HP:0410336	Venom allergy	840.2	Allergy to insects
 HP:0410339	Insect bite allergy	840.2	Allergy to insects
@@ -1485,6 +1489,7 @@ HP:0012587	Macroscopic hematuria	593.1	Gross hematuria
 HP:0002907	Microscopic hematuria	593.2	Microscopic hematuria
 HP:0000020	Urinary incontinence	594.3	Urinary incontinence
 HP:0010992	Stress urinary incontinence	594.3	Urinary incontinence
+HP:0010992	Stress urinary incontinence	594.32	Stress incontinence
 HP:0010677	Enuresis nocturna	594.33	Nocturnal enuresis
 HP:0000012	Urinary urgency	596.2	Overactive bladder
 HP:0000015	Bladder diverticulum	596.3	Diverticulum of bladder
@@ -1746,6 +1751,10 @@ HP:0005550	Chronic lymphatic leukemia	121.2	Chronic leukemia
 HP:0005558	Chronic leukemia	121.2	Chronic leukemia
 HP:0005526	Lymphoid leukemia	121.21	Chronic lymphoid leukemia
 HP:0005539	T cell chronic lymphocytic lymphoma/leukemia	121.21	Chronic lymphoid leukemia
+HP:0005506	Chronic myelogenous leukemia	121.22	Chronic myloid leukemia
+HP:0005550	Chronic lymphatic leukemia	121.22	Chronic myloid leukemia
+HP:0005558	Chronic leukemia	121.22	Chronic myloid leukemia
+HP:0012325	Chronic myelomonocytic leukemia	121.23	Chronic myelomonocytic (monocytic) leukemia
 HP:0002665	Lymphoma	122	Lymphoma
 HP:0005517	T-cell lymphoma/leukemia	122	Lymphoma
 HP:0011953	Pulmonary lymphoma	122	Lymphoma
@@ -1906,6 +1915,18 @@ HP:0012148	Multiple lineage myelodysplasia	124.6	Myelodysplastic syndrome
 HP:0012149	Bilineage myelodysplasia	124.6	Myelodysplastic syndrome
 HP:0012150	Single lineage myelodysplasia	124.6	Myelodysplastic syndrome
 HP:0200151	Cutaneous mastocytosis	125.1	Cutaneous mastocytosis*
+HP:0011459	Esophageal carcinoma	135	Benign neoplasm of the head and neck
+HP:0012288	Neoplasm of head and neck	135	Benign neoplasm of the head and neck
+HP:0012289	Facial neoplasm	135	Benign neoplasm of the head and neck
+HP:0012290	Mouth neoplasm	135	Benign neoplasm of the head and neck
+HP:0012720	Neoplasm of the nose	135	Benign neoplasm of the head and neck
+HP:0030072	Paranasal sinus neoplasm	135	Benign neoplasm of the head and neck
+HP:0030427	Ossifying fibroma of the jaw	135	Benign neoplasm of the head and neck
+HP:0030429	Juvenile nasopharyngeal angiofibroma	135	Benign neoplasm of the head and neck
+HP:0030792	Jaw neoplasm	135	Benign neoplasm of the head and neck
+HP:0031463	Esophageal squamous papilloma	135	Benign neoplasm of the head and neck
+HP:0100580	Barrett esophagus	135	Benign neoplasm of the head and neck
+HP:0100751	Esophageal neoplasm	135	Benign neoplasm of the head and neck
 HP:0031523	Salivary gland oncocytoma	135.1	Benign neoplasm of the oral cavity
 HP:0100684	Salivary gland neoplasm	135.1	Benign neoplasm of the oral cavity
 HP:0010603	Odontogenic keratocysts of the jaw	135.1	Benign neoplasm of the oral cavity
@@ -2271,6 +2292,7 @@ HP:0001744	Splenomegaly	174.2	Splenomegaly
 HP:0006268	Fluctuating splenomegaly	174.2	Splenomegaly
 HP:0001971	Hypersplenism	174.21	Hypersplenism
 HP:0100502	Vitamin B12 deficiency	232.27	Vitamin B12 deficiency
+HP:0100507	Reduced blood folate concentration	232.29	Folate deficiency [Vitamin B9]
 HP:0001022	Albinism	240.13	Albinism*
 HP:0001891	Iron deficiency anemia	247.72	Iron deficiency
 HP:0011874	Heparin-induced thrombocytopenia	962.11	Heparin-induced thrombocytopenia (HIT)
@@ -2436,6 +2458,8 @@ HP:0011886	Hyphema	377.8	Hyphema
 HP:0012175	Resistance to activated protein C	168.211	Activated protein C resistance*
 HP:0025328	Antepartum hemorrhage	904.3	Antepartum hemorrhage
 HP:0025343	Lupus anticoagulant	168.213	Lupus anticoagulant syndrome*
+HP:0410255	Transient neutropenia	860.4	Transient neonatal neutropenia
+HP:0410256	Infection associated neutropenia	860.4	Transient neonatal neutropenia
 HP:0001433	Hepatosplenomegaly	546.3	Hepatomegaly
 HP:0002240	Hepatomegaly	546.3	Hepatomegaly
 HP:0006564	Fluctuating hepatomegaly	546.3	Hepatomegaly
@@ -2445,7 +2469,9 @@ HP:0030423	Splenic cyst	174.6	Cyst of spleen*
 HP:0007431	Congenital ichthyosiform erythroderma	790.1	Congenital ichthyosis
 HP:0007475	Congenital bullous ichthyosiform erythroderma	790.1	Congenital ichthyosis
 HP:0007479	Congenital nonbullous ichthyosiform erythroderma	790.1	Congenital ichthyosis
+HP:0007431	Congenital ichthyosiform erythroderma	790.14	Congenital bullous ichthyosiform erythroderma*
 HP:0007475	Congenital bullous ichthyosiform erythroderma	790.14	Congenital bullous ichthyosiform erythroderma*
+HP:0007479	Congenital nonbullous ichthyosiform erythroderma	790.14	Congenital bullous ichthyosiform erythroderma*
 HP:0002720	Decreased circulating IgA level	179.1	Hypogammaglobulinemia NOS
 HP:0002848	Decreased specific anti-polysaccharide antibody level	179.1	Hypogammaglobulinemia NOS
 HP:0002850	Decreased circulating total IgM	179.1	Hypogammaglobulinemia NOS
@@ -2588,7 +2614,18 @@ HP:0011342	Mild global developmental delay	891.4	Delayed milestones
 HP:0011343	Moderate global developmental delay	891.4	Delayed milestones
 HP:0011344	Severe global developmental delay	891.4	Delayed milestones
 HP:0012736	Profound global developmental delay	891.4	Delayed milestones
+HP:0001270	Motor delay	891.4	Delayed milestones
+HP:0002194	Delayed gross motor development	891.4	Delayed milestones
+HP:0010862	Delayed fine motor development	891.4	Delayed milestones
+HP:0025335	Delayed ability to stand	891.4	Delayed milestones
+HP:0025336	Delayed ability to sit	891.4	Delayed milestones
+HP:0031936	Delayed ability to walk	891.4	Delayed milestones
+HP:0032988	Persistent head lag	891.4	Delayed milestones
+HP:0032989	Delayed ability to roll over	891.4	Delayed milestones
+HP:0033128	Delayed ability to crawl	891.4	Delayed milestones
+HP:0033257	Delayed ability to walk with support	891.4	Delayed milestones
 HP:0000870	Increased circulating prolactin concentration	209.13	Hyperprolactinemia*
+HP:0031218	Inappropriate antidiuretic hormone secretion	209.12	Syndrome of inappropriate secretion of antidiuretic hormone
 HP:0001579	Primary hypercortisolism	210	Cushing's syndrome
 HP:0003118	Increased circulating cortisol level	210	Cushing's syndrome
 HP:0011744	Secondary hypercortisolism	210	Cushing's syndrome
@@ -2627,6 +2664,8 @@ HP:0004326	Cachexia	230.4	Cachexia
 HP:0033842	Early satiety	230.5	Early satiety
 HP:0100512	Low levels of vitamin D	232.4	Vitamin D deficiency
 HP:0002749	Osteomalacia	726.5	Osteomalacia
+HP:0100497	Vitamin B3 deficiency	232.23	Niacin deficiency [Vitamin B3]
+HP:0100503	Low levels of vitamin B1	232.21	Thiamine deficiency [Vitamin B1]
 HP:0100513	Low levels of vitamin E	232.5	Vitamin E deficiency*
 HP:0001513	Obesity	236.1	Obesity
 HP:0001956	Truncal obesity	236.1	Obesity
@@ -2675,6 +2714,7 @@ HP:0002917	Hypomagnesemia	247.42	Hypomagnesemia*
 HP:0002918	Hypermagnesemia	247.41	Hypermagnesemia*
 HP:0003072	Hypercalcemia	247.52	Hypercalcemia
 HP:0008250	Infantile hypercalcemia	247.52	Hypercalcemia
+HP:0003570	Molybdenum cofactor deficiency	247.84	Molybdenum deficiency*
 HP:0011967	Decreased circulating copper concentration	247.12	Copper deficiency*
 HP:0200032	Kayser-Fleischer ring	247.13	Kayser-Fleischer ring
 HP:0011970	Cerebral amyloid angiopathy	249.1	Cerebral amyloid angiopathy*
@@ -2779,6 +2819,13 @@ HP:0033063	Shortened sleep cycle	333.8	Sleep disturbances
 HP:0100785	Insomnia	333.8	Sleep disturbances
 HP:0001706	Endocardial fibroelastosis	414.7	Endocardial fibroelastosis
 HP:0002487	Hyperkinetic movements	719.11	Spasm of muscle
+HP:0003394	Muscle spasm	719.11	Spasm of muscle
+HP:0003435	Cold-induced hand cramps	719.11	Spasm of muscle
+HP:0003449	Cold-induced muscle cramps	719.11	Spasm of muscle
+HP:0003710	Exercise-induced muscle cramps	719.11	Spasm of muscle
+HP:0008991	Exercise-induced leg cramps	719.11	Spasm of muscle
+HP:0011964	Intermittent painful muscle spasms	719.11	Spasm of muscle
+HP:0031989	Perioral spasm	719.11	Spasm of muscle
 HP:0003201	Rhabdomyolysis	719.8	Rhabdomyolysis
 HP:0003558	Viral infection-induced rhabdomyolysis	719.8	Rhabdomyolysis
 HP:0008942	Acute rhabdomyolysis	719.8	Rhabdomyolysis
@@ -2846,23 +2893,50 @@ HP:0200085	Limb tremor	325.1	Abnormal involuntary movements
 HP:0100033	Tics	325.1	Abnormal involuntary movements
 HP:0100034	Motor tics	325.1	Abnormal involuntary movements
 HP:0100035	Phonic tics	325.1	Abnormal involuntary movements
+HP:0000639	Nystagmus	325.1	Abnormal involuntary movements
+HP:0000640	Gaze-evoked nystagmus	325.1	Abnormal involuntary movements
+HP:0000666	Horizontal nystagmus	325.1	Abnormal involuntary movements
 HP:0000733	Motor stereotypy	325.1	Abnormal involuntary movements
 HP:0001308	Tongue fasciculations	325.1	Abnormal involuntary movements
+HP:0001361	Nystagmus-induced head nodding	325.1	Abnormal involuntary movements
 HP:0001483	Eye poking	325.1	Abnormal involuntary movements
+HP:0001583	Rotary nystagmus	325.1	Abnormal involuntary movements
 HP:0002169	Clonus	325.1	Abnormal involuntary movements
 HP:0002305	Athetosis	325.1	Abnormal involuntary movements
 HP:0002380	Fasciculations	325.1	Abnormal involuntary movements
 HP:0004305	Involuntary movements	325.1	Abnormal involuntary movements
+HP:0006934	Congenital nystagmus	325.1	Abnormal involuntary movements
 HP:0007089	Facial-lingual fasciculations	325.1	Abnormal involuntary movements
 HP:0007166	Paroxysmal dyskinesia	325.1	Abnormal involuntary movements
+HP:0007286	Horizontal jerk nystagmus	325.1	Abnormal involuntary movements
 HP:0007289	Limb fasciculations	325.1	Abnormal involuntary movements
+HP:0007295	Chaotic rapid conjugate ocular movements	325.1	Abnormal involuntary movements
+HP:0007704	Paroxysmal involuntary eye movements	325.1	Abnormal involuntary movements
+HP:0007738	Uncontrolled eye movements	325.1	Abnormal involuntary movements
+HP:0007747	Monocular horizontal nystagmus	325.1	Abnormal involuntary movements
+HP:0007811	Horizontal pendular nystagmus	325.1	Abnormal involuntary movements
+HP:0007859	Congenital horizontal nystagmus	325.1	Abnormal involuntary movements
+HP:0007979	Gaze-evoked horizontal nystagmus	325.1	Abnormal involuntary movements
+HP:0008026	Horizontal opticokinetic nystagmus	325.1	Abnormal involuntary movements
 HP:0008762	Repetitive compulsive behavior	325.1	Abnormal involuntary movements
+HP:0010533	Spasmus nutans	325.1	Abnormal involuntary movements
+HP:0010542	Vestibular nystagmus	325.1	Abnormal involuntary movements
+HP:0010543	Opsoclonus	325.1	Abnormal involuntary movements
+HP:0010544	Vertical nystagmus	325.1	Abnormal involuntary movements
+HP:0010545	Downbeat nystagmus	325.1	Abnormal involuntary movements
 HP:0011448	Ankle clonus	325.1	Abnormal involuntary movements
 HP:0011449	Knee clonus	325.1	Abnormal involuntary movements
+HP:0011477	Upbeat nystagmus	325.1	Abnormal involuntary movements
 HP:0011728	Elbow clonus	325.1	Abnormal involuntary movements
+HP:0012043	Pendular nystagmus	325.1	Abnormal involuntary movements
+HP:0012044	Seesaw nystagmus	325.1	Abnormal involuntary movements
 HP:0012171	Stereotypical hand wringing	325.1	Abnormal involuntary movements
 HP:0012172	Stereotypical body rocking	325.1	Abnormal involuntary movements
+HP:0012547	Abnormal involuntary eye movements	325.1	Abnormal involuntary movements
+HP:0025711	Convergence-retraction nystagmus	325.1	Abnormal involuntary movements
 HP:0030218	Punding	325.1	Abnormal involuntary movements
+HP:0030691	Divergence nystagmus	325.1	Abnormal involuntary movements
+HP:0031931	Ocular flutter	325.1	Abnormal involuntary movements
 HP:0031990	Chvostek sign	325.1	Abnormal involuntary movements
 HP:0032506	Alien limb phenomenon	325.1	Abnormal involuntary movements
 HP:0032507	Labiomental fasciculations	325.1	Abnormal involuntary movements
@@ -3173,6 +3247,27 @@ HP:0100035	Phonic tics	324.6	Tics
 HP:0100033	Tics	893.5	Tic disorder
 HP:0100034	Motor tics	893.5	Tic disorder
 HP:0100035	Phonic tics	893.5	Tic disorder
+HP:0000639	Nystagmus	383.1	Nystagmus
+HP:0000640	Gaze-evoked nystagmus	383.1	Nystagmus
+HP:0000666	Horizontal nystagmus	383.1	Nystagmus
+HP:0001361	Nystagmus-induced head nodding	383.1	Nystagmus
+HP:0001583	Rotary nystagmus	383.1	Nystagmus
+HP:0006934	Congenital nystagmus	383.1	Nystagmus
+HP:0007286	Horizontal jerk nystagmus	383.1	Nystagmus
+HP:0007747	Monocular horizontal nystagmus	383.1	Nystagmus
+HP:0007811	Horizontal pendular nystagmus	383.1	Nystagmus
+HP:0007859	Congenital horizontal nystagmus	383.1	Nystagmus
+HP:0007979	Gaze-evoked horizontal nystagmus	383.1	Nystagmus
+HP:0008026	Horizontal opticokinetic nystagmus	383.1	Nystagmus
+HP:0010533	Spasmus nutans	383.1	Nystagmus
+HP:0010542	Vestibular nystagmus	383.1	Nystagmus
+HP:0010544	Vertical nystagmus	383.1	Nystagmus
+HP:0010545	Downbeat nystagmus	383.1	Nystagmus
+HP:0011477	Upbeat nystagmus	383.1	Nystagmus
+HP:0012043	Pendular nystagmus	383.1	Nystagmus
+HP:0012044	Seesaw nystagmus	383.1	Nystagmus
+HP:0025711	Convergence-retraction nystagmus	383.1	Nystagmus
+HP:0030691	Divergence nystagmus	383.1	Nystagmus
 HP:0001308	Tongue fasciculations	325.12	Fasciculation*
 HP:0002380	Fasciculations	325.12	Fasciculation*
 HP:0007089	Facial-lingual fasciculations	325.12	Fasciculation*
@@ -3238,6 +3333,25 @@ HP:0011098	Speech apraxia	894.2	Apraxia*
 HP:0030217	Limb apraxia	894.2	Apraxia*
 HP:0032588	Hand apraxia	894.2	Apraxia*
 HP:0002527	Falls	T915	Fall
+HP:0010543	Opsoclonus	383.2	Saccadic eye movements
+HP:0031931	Ocular flutter	383.2	Saccadic eye movements
+HP:0000514	Slow saccadic eye movements	383.2	Saccadic eye movements
+HP:0000570	Abnormal saccadic eye movements	383.2	Saccadic eye movements
+HP:0000571	Hypometric saccades	383.2	Saccadic eye movements
+HP:0000641	Dysmetric saccades	383.2	Saccadic eye movements
+HP:0007338	Hypermetric saccades	383.2	Saccadic eye movements
+HP:0007885	Slowed horizontal saccades	383.2	Saccadic eye movements
+HP:0007975	Hypometric horizontal saccades	383.2	Saccadic eye movements
+HP:0025402	Square-wave jerks	383.2	Saccadic eye movements
+HP:0031832	Hypermetric downward saccades	383.2	Saccadic eye movements
+HP:0031833	Hypometric upward saccades	383.2	Saccadic eye movements
+HP:0032013	Hypermetric horizontal saccades	383.2	Saccadic eye movements
+HP:0032014	Dysmetric vertical saccades	383.2	Saccadic eye movements
+HP:0032015	Dysmetric horizontal saccades	383.2	Saccadic eye movements
+HP:0032104	Saccadic oscillation	383.2	Saccadic eye movements
+HP:0032105	Macrosaccadic oscillations	383.2	Saccadic eye movements
+HP:0032114	Saccadic intrusion	383.2	Saccadic eye movements
+HP:0032116	Macrosquare-wave jerks	383.2	Saccadic eye movements
 HP:0001334	Communicating hydrocephalus	344.1	Hydrocephalus
 HP:0002343	Normal pressure hydrocephalus	344.1	Hydrocephalus
 HP:0000238	Hydrocephalus	344.1	Hydrocephalus
@@ -3281,6 +3395,7 @@ HP:0030864	Intercostal retractions	488	Abnormalities of breathing
 HP:0033368	Platypnea	488	Abnormalities of breathing
 HP:0033710	Rest dyspnea	488	Abnormalities of breathing
 HP:0010536	Central sleep apnea	333.12	Central sleep apnea
+HP:0002871	Central apnea	333.12	Central sleep apnea
 HP:0030765	Sleep terror	333.55	Sleep terrors [night terrors]*
 HP:0025237	Confusional arousal	333.51	Confusional arousals
 HP:0025267	Snoring	488.9	Snoring*
@@ -3299,27 +3414,6 @@ HP:0007011	Fourth cranial nerve palsy	334.42	Fourth [trochlear] nerve palsy
 HP:0007958	Optic atrophy from cranial nerve compression	380.3	Optic atrophy
 HP:0000648	Optic atrophy	380.3	Optic atrophy
 HP:0001112	Leber optic atrophy	380.3	Optic atrophy
-HP:0010542	Vestibular nystagmus	383.1	Nystagmus
-HP:0000639	Nystagmus	383.1	Nystagmus
-HP:0000640	Gaze-evoked nystagmus	383.1	Nystagmus
-HP:0000666	Horizontal nystagmus	383.1	Nystagmus
-HP:0001361	Nystagmus-induced head nodding	383.1	Nystagmus
-HP:0001583	Rotary nystagmus	383.1	Nystagmus
-HP:0006934	Congenital nystagmus	383.1	Nystagmus
-HP:0007286	Horizontal jerk nystagmus	383.1	Nystagmus
-HP:0007747	Monocular horizontal nystagmus	383.1	Nystagmus
-HP:0007811	Horizontal pendular nystagmus	383.1	Nystagmus
-HP:0007859	Congenital horizontal nystagmus	383.1	Nystagmus
-HP:0007979	Gaze-evoked horizontal nystagmus	383.1	Nystagmus
-HP:0008026	Horizontal opticokinetic nystagmus	383.1	Nystagmus
-HP:0010533	Spasmus nutans	383.1	Nystagmus
-HP:0010544	Vertical nystagmus	383.1	Nystagmus
-HP:0010545	Downbeat nystagmus	383.1	Nystagmus
-HP:0011477	Upbeat nystagmus	383.1	Nystagmus
-HP:0012043	Pendular nystagmus	383.1	Nystagmus
-HP:0012044	Seesaw nystagmus	383.1	Nystagmus
-HP:0025711	Convergence-retraction nystagmus	383.1	Nystagmus
-HP:0030691	Divergence nystagmus	383.1	Nystagmus
 HP:0012246	Oculomotor nerve palsy	334.41	Third [oculomotor] nerve palsy
 HP:0002533	Abnormal posturing	350.4	Abnormal posture
 HP:0002878	Respiratory failure	479.3	Respiratory failure
@@ -3621,6 +3715,10 @@ HP:0000612	Iris coloboma	753.4	Coloboma
 HP:0001116	Macular coloboma	753.4	Coloboma
 HP:0020006	Ciliary body coloboma	753.4	Coloboma
 HP:0031614	Inferior retinal coloboma	753.4	Coloboma
+HP:0000579	Nasolacrimal duct obstruction	874	Neonatal obstruction of nasolacrimal duct
+HP:0007678	Lacrimal duct stenosis	874	Neonatal obstruction of nasolacrimal duct
+HP:0030752	Dacryocystocele	874	Neonatal obstruction of nasolacrimal duct
+HP:0500048	Delayed canalization of nasolacrimal duct	874	Neonatal obstruction of nasolacrimal duct
 HP:0000620	Dacryocystitis	363.61	Dacryocystitis
 HP:0009926	Epiphora	363.5	Epiphora
 HP:0031731	Increased tear production	363.5	Epiphora
@@ -3697,6 +3795,24 @@ HP:0007880	Marginal corneal dystrophy	369.52	Lattice corneal dystrophy
 HP:0007962	Speckled corneal dystrophy	369.52	Lattice corneal dystrophy
 HP:0008005	Congenital corneal dystrophy	369.52	Lattice corneal dystrophy
 HP:0100690	Mosaic central corneal dystrophy	369.52	Lattice corneal dystrophy
+HP:0007754	Macular dystrophy	374.7	Retinal dystrophy
+HP:0030636	Occult macular dystrophy	374.7	Retinal dystrophy
+HP:0001135	Chorioretinal dystrophy	374.7	Retinal dystrophy
+HP:0000510	Rod-cone dystrophy	374.7	Retinal dystrophy
+HP:0007947	Pericentral retinitis pigmentosa	374.7	Retinal dystrophy
+HP:0008020	Cone dystrophy	374.7	Retinal dystrophy
+HP:0030642	Fundus albipunctatus	374.7	Retinal dystrophy
+HP:0031172	Sectoral retinitis pigmentosa	374.7	Retinal dystrophy
+HP:0000548	Cone/cone-rod dystrophy	374.7	Retinal dystrophy
+HP:0000556	Retinal dystrophy	374.7	Retinal dystrophy
+HP:0007642	Congenital stationary night blindness	374.7	Retinal dystrophy
+HP:0007913	Reticular retinal dystrophy	374.7	Retinal dystrophy
+HP:0007963	Pattern dystrophy of the retina	374.7	Retinal dystrophy
+HP:0030635	Retinal dystrophy with early macular involvement	374.7	Retinal dystrophy
+HP:0030638	Congenital stationary night blindness with normal fundus	374.7	Retinal dystrophy
+HP:0030639	Congenital stationary night blindness with abnormal fundus	374.7	Retinal dystrophy
+HP:0030640	Complete congenital stationary night blindness	374.7	Retinal dystrophy
+HP:0030641	Incomplete congenital stationary night blindness	374.7	Retinal dystrophy
 HP:0007802	Granular corneal dystrophy	369.53	Granular corneal dystrophy
 HP:0000555	Leukocoria	370.41	Pupillary abnormalities
 HP:0000615	Abnormal pupil morphology	370.41	Pupillary abnormalities
@@ -3717,13 +3833,20 @@ HP:0007787	Posterior subcapsular cataract	371.2	Subcapsular cataract
 HP:0007889	Iridescent posterior subcapsular cataract	371.2	Subcapsular cataract
 HP:0007935	Juvenile posterior subcapsular lenticular opacities	371.2	Subcapsular cataract
 HP:0010923	Anterior subcapsular cataract	371.2	Subcapsular cataract
+HP:0010923	Anterior subcapsular cataract	371.21	Anterior subcapsular polar cataract
+HP:0007787	Posterior subcapsular cataract	371.22	Posterior subcapsular polar cataract
+HP:0007889	Iridescent posterior subcapsular cataract	371.22	Posterior subcapsular polar cataract
+HP:0007935	Juvenile posterior subcapsular lenticular opacities	371.22	Posterior subcapsular polar cataract
 HP:0007657	Diffuse nuclear cataract	371.3	Nuclear cataract
 HP:0010698	Nuclear pulverulent cataract	371.3	Nuclear cataract
 HP:0010699	Triangular nuclear cataract	371.3	Nuclear cataract
 HP:0010925	Nuclear punctate cataract	371.3	Nuclear cataract
 HP:0010926	Aculeiform cataract	371.3	Nuclear cataract
 HP:0100018	Nuclear cataract	371.3	Nuclear cataract
+HP:0011141	Age-related cataract	371.31	Age-related nuclear cataract
 HP:0011142	Age-related nuclear cataract	371.31	Age-related nuclear cataract
+HP:0011143	Age-related cortical cataract	371.31	Age-related nuclear cataract
+HP:0011144	Age-related posterior subcapsular cataract	371.31	Age-related nuclear cataract
 HP:0001083	Ectopia lentis	372.2	Dislocation of lens
 HP:0001132	Lens subluxation	372.2	Dislocation of lens
 HP:0008019	Superior lens subluxation	372.2	Dislocation of lens
@@ -3732,24 +3855,6 @@ HP:0012019	Lens luxation	372.2	Dislocation of lens
 HP:0000519	Developmental cataract	753.23	Congenital cataract
 HP:0007707	Congenital aphakia	753.21	Congenital aphakia
 HP:0007777	Chorioretinal scar	373.1	Chorioretinal scars
-HP:0001135	Chorioretinal dystrophy	374.7	Retinal dystrophy
-HP:0000510	Rod-cone dystrophy	374.7	Retinal dystrophy
-HP:0007947	Pericentral retinitis pigmentosa	374.7	Retinal dystrophy
-HP:0008020	Cone dystrophy	374.7	Retinal dystrophy
-HP:0030642	Fundus albipunctatus	374.7	Retinal dystrophy
-HP:0031172	Sectoral retinitis pigmentosa	374.7	Retinal dystrophy
-HP:0000548	Cone/cone-rod dystrophy	374.7	Retinal dystrophy
-HP:0000556	Retinal dystrophy	374.7	Retinal dystrophy
-HP:0007642	Congenital stationary night blindness	374.7	Retinal dystrophy
-HP:0007754	Macular dystrophy	374.7	Retinal dystrophy
-HP:0007913	Reticular retinal dystrophy	374.7	Retinal dystrophy
-HP:0007963	Pattern dystrophy of the retina	374.7	Retinal dystrophy
-HP:0030635	Retinal dystrophy with early macular involvement	374.7	Retinal dystrophy
-HP:0030636	Occult macular dystrophy	374.7	Retinal dystrophy
-HP:0030638	Congenital stationary night blindness with normal fundus	374.7	Retinal dystrophy
-HP:0030639	Congenital stationary night blindness with abnormal fundus	374.7	Retinal dystrophy
-HP:0030640	Complete congenital stationary night blindness	374.7	Retinal dystrophy
-HP:0030641	Incomplete congenital stationary night blindness	374.7	Retinal dystrophy
 HP:0001139	Choroideremia	373.31	Choroideremia
 HP:0025094	Disciform macular scar	374.5	Macular degeneration
 HP:0200056	Macular scar	374.5	Macular degeneration
@@ -3766,6 +3871,7 @@ HP:0008028	Cystoid macular degeneration	374.53	Cystoid macular degeneration
 HP:0025146	Foveal degeneration	374.53	Cystoid macular degeneration
 HP:0007667	Peripheral cystoid retinal degeneration	374.6	Peripheral retinal degeneration
 HP:0007769	Peripheral retinal degeneration	374.6	Peripheral retinal degeneration
+HP:0007782	obsolete Peripheral retinal cone degeneration	374.6	Peripheral retinal degeneration
 HP:0007937	Reticular pigmentary degeneration	374.6	Peripheral retinal degeneration
 HP:0007992	Lattice retinal degeneration	374.6	Peripheral retinal degeneration
 HP:0011533	Snowflake vitreoretinal degeneration	374.6	Peripheral retinal degeneration
@@ -3798,6 +3904,15 @@ HP:0001095	Hypertensive retinopathy	374.41	Hypertensive retinopathy
 HP:0007778	Posterior retinal neovascularization	374.33	Retinal neovascularization
 HP:0030666	Retinal neovascularization	374.33	Retinal neovascularization
 HP:0030667	Peripheral retinal neovascularization	374.33	Retinal neovascularization
+HP:0030642	Fundus albipunctatus	386.6	Night blindness
+HP:0007642	Congenital stationary night blindness	386.6	Night blindness
+HP:0030638	Congenital stationary night blindness with normal fundus	386.6	Night blindness
+HP:0030639	Congenital stationary night blindness with abnormal fundus	386.6	Night blindness
+HP:0030640	Complete congenital stationary night blindness	386.6	Night blindness
+HP:0030641	Incomplete congenital stationary night blindness	386.6	Night blindness
+HP:0000662	Nyctalopia	386.6	Night blindness
+HP:0007675	Progressive night blindness	386.6	Night blindness
+HP:0007830	Adult-onset night blindness	386.6	Night blindness
 HP:0007898	Exudative retinopathy	374.31	Exudative retinopathy
 HP:0008014	Central fundal arteriolar microaneurysms	374.32	Retinal microaneurysms
 HP:0030494	Macular microaneurysm/hemorrhage	374.32	Retinal microaneurysms
@@ -3816,15 +3931,6 @@ HP:0020163	Cilioretinal artery occlusion	374.37	Retinal arterial occlusions
 HP:0020164	Ophthalmic artery occlusion	374.37	Retinal arterial occlusions
 HP:0025326	Retinal arterial occlusion	374.37	Retinal arterial occlusions
 HP:0025342	Central retinal artery occlusion	374.37	Retinal arterial occlusions
-HP:0030642	Fundus albipunctatus	386.6	Night blindness
-HP:0007642	Congenital stationary night blindness	386.6	Night blindness
-HP:0030638	Congenital stationary night blindness with normal fundus	386.6	Night blindness
-HP:0030639	Congenital stationary night blindness with abnormal fundus	386.6	Night blindness
-HP:0030640	Complete congenital stationary night blindness	386.6	Night blindness
-HP:0030641	Incomplete congenital stationary night blindness	386.6	Night blindness
-HP:0000662	Nyctalopia	386.6	Night blindness
-HP:0007675	Progressive night blindness	386.6	Night blindness
-HP:0007830	Adult-onset night blindness	386.6	Night blindness
 HP:0007906	Ocular hypertension	375	Abnormal intraocular pressure
 HP:0012632	Abnormal intraocular pressure	375	Abnormal intraocular pressure
 HP:0012633	Asymmetry of intraocular pressure	375	Abnormal intraocular pressure
@@ -3886,25 +3992,6 @@ HP:0031777	Cyclophoria	381.83	Cyclophoria
 HP:0031778	Incyclophoria	381.83	Cyclophoria
 HP:0031779	Excyclophoria	381.83	Cyclophoria
 HP:0000619	Impaired convergence	382.1	Impaired convergence
-HP:0010543	Opsoclonus	383.2	Saccadic eye movements
-HP:0000514	Slow saccadic eye movements	383.2	Saccadic eye movements
-HP:0000570	Abnormal saccadic eye movements	383.2	Saccadic eye movements
-HP:0000571	Hypometric saccades	383.2	Saccadic eye movements
-HP:0000641	Dysmetric saccades	383.2	Saccadic eye movements
-HP:0007338	Hypermetric saccades	383.2	Saccadic eye movements
-HP:0007885	Slowed horizontal saccades	383.2	Saccadic eye movements
-HP:0007975	Hypometric horizontal saccades	383.2	Saccadic eye movements
-HP:0025402	Square-wave jerks	383.2	Saccadic eye movements
-HP:0031832	Hypermetric downward saccades	383.2	Saccadic eye movements
-HP:0031833	Hypometric upward saccades	383.2	Saccadic eye movements
-HP:0031931	Ocular flutter	383.2	Saccadic eye movements
-HP:0032013	Hypermetric horizontal saccades	383.2	Saccadic eye movements
-HP:0032014	Dysmetric vertical saccades	383.2	Saccadic eye movements
-HP:0032015	Dysmetric horizontal saccades	383.2	Saccadic eye movements
-HP:0032104	Saccadic oscillation	383.2	Saccadic eye movements
-HP:0032105	Macrosaccadic oscillations	383.2	Saccadic eye movements
-HP:0032114	Saccadic intrusion	383.2	Saccadic eye movements
-HP:0032116	Macrosquare-wave jerks	383.2	Saccadic eye movements
 HP:0007932	Bilateral congenital mydriasis	384.3	Mydriasis
 HP:0011499	Mydriasis	384.3	Mydriasis
 HP:0012074	Tonic pupil	384.4	Tonic pupil
@@ -4150,6 +4237,8 @@ HP:0031054	Long segment coarctation of the aorta	778.41	Coarctation of aorta
 HP:0001653	Mitral regurgitation	413.11	Mitral valve insufficiency
 HP:0001659	Aortic regurgitation	413.22	Aortic insufficiency
 HP:0011570	Congenital mitral stenosis	779.33	Congenital mitral stenosis
+HP:0005180	Tricuspid regurgitation	413.32	Tricuspid value insufficiency*
+HP:0010446	Tricuspid stenosis	413.31	Tricuspid value stenosis*
 HP:0031599	P mitrale	418.1	Abnormal electrocardiogram [ECG] [EKG]
 HP:0001657	Prolonged QT interval	418.1	Abnormal electrocardiogram [ECG] [EKG]
 HP:0005184	Prolonged QTc interval	418.1	Abnormal electrocardiogram [ECG] [EKG]
@@ -4195,12 +4284,17 @@ HP:0033569	Extreme axis deviation	418.1	Abnormal electrocardiogram [ECG] [EKG]
 HP:0033570	Indeterminate ventricular axis	418.1	Abnormal electrocardiogram [ECG] [EKG]
 HP:0100817	Renovascular hypertension	401.61	Renovascular hypertension
 HP:0100735	Hypertensive crisis	401.7	Hypertensive crisis*
+HP:0007201	Cerebral artery atherosclerosis	436.5	Cerebral atherosclerosis
 HP:0011851	Hemopericardium	411.1	Hemopericardium NEC
 HP:0012397	Aortic atherosclerotic lesion	436.3	Atherosclerosis of aorta
 HP:0002204	Pulmonary embolism	440.3	Pulmonary embolism
 HP:0032008	Pulmonary fat embolism	440.3	Pulmonary embolism
 HP:0033426	Pulmonary air embolism	440.3	Pulmonary embolism
 HP:0033639	Septic pulmonary embolism	440.3	Pulmonary embolism
+HP:0002092	Pulmonary arterial hypertension	406.1	Pulmonary hypertension
+HP:0030950	Pulmonary venous hypertension	406.1	Pulmonary hypertension
+HP:0033423	Pulmonary arterial hypertension with positive acute response to NO challenge	406.1	Pulmonary hypertension
+HP:0033424	Pulmonary arterial hypertension with lack of acute response to NO challenge	406.1	Pulmonary hypertension
 HP:0002092	Pulmonary arterial hypertension	406.13	Secondary pulmonary arterial hypertension*
 HP:0033423	Pulmonary arterial hypertension with positive acute response to NO challenge	406.13	Secondary pulmonary arterial hypertension*
 HP:0033424	Pulmonary arterial hypertension with lack of acute response to NO challenge	406.13	Secondary pulmonary arterial hypertension*
@@ -4222,7 +4316,9 @@ HP:0033415	Cardiac tamponade	411.3	Cardiac tamponade
 HP:0001634	Mitral valve prolapse	413.12	Mitral valve prolapse*
 HP:0004764	Myxomatous mitral valve degeneration	413.12	Mitral valve prolapse*
 HP:0001642	Pulmonic stenosis	413.41	Pulmonary valve stenosis*
+HP:0010444	Pulmonary insufficiency	413.42	Pulmonary valve insufficiency*
 HP:0001642	Pulmonic stenosis	779.12	Congenital pulmonary valve stenosis
+HP:0004935	Pulmonary artery atresia	779.11	Pulmonary valve atresia
 HP:0010882	Pulmonary valve atresia	779.11	Pulmonary valve atresia
 HP:0001669	Transposition of the great arteries	778.2	Transposition of great vessels
 HP:0031348	Dextrotransposition of the great arteries	778.2	Transposition of great vessels
@@ -4234,6 +4330,7 @@ HP:0011677	Tetralogy of Fallot with atrioventricular canal defect	780.44	Tetralo
 HP:0011678	Tetralogy of Fallot with pulmonary atresia and major aortopulmonary collateral arteries	780.44	Tetralogy of Fallot
 HP:0011679	Tetralogy of Fallot with pulmonary stenosis	780.44	Tetralogy of Fallot
 HP:0012516	Tetralogy of Fallot with pulmonary atresia	780.44	Tetralogy of Fallot
+HP:0006671	Paroxysmal atrial tachycardia	416.1	Paroxysmal tachycardia
 HP:0006688	Paroxysmal tachycardia	416.1	Paroxysmal tachycardia
 HP:0001645	Sudden cardiac death	420	Cardiac arrest
 HP:0001695	Cardiac arrest	420	Cardiac arrest
@@ -4413,13 +4510,28 @@ HP:0030864	Intercostal retractions	488.1	Dyspnea [Shortness of breath]
 HP:0033368	Platypnea	488.1	Dyspnea [Shortness of breath]
 HP:0033710	Rest dyspnea	488.1	Dyspnea [Shortness of breath]
 HP:0001640	Cardiomegaly	425	Cardiomegaly
+HP:0002326	Transient ischemic attack	431.2	Transient cerebral ischemic attacks
+HP:0005305	Cerebral venous thrombosis	440.15	Cerebral venous sinus thrombosis
+HP:0200136	Oral-pharyngeal dysphagia	512.1	Dysphagia, oropharyngeal phase
 HP:0100546	Carotid artery stenosis	433.21	Carotid artery stenosis
 HP:0031684	Renal artery atherosclerosis	436.1	Atherosclerosis of renal artery
+HP:0002616	Aortic root aneurysm	438.12	Thoracic aneurysm
+HP:0004959	Descending thoracic aorta aneurysm	438.12	Thoracic aneurysm
+HP:0004970	Ascending tubular aorta aneurysm	438.12	Thoracic aneurysm
+HP:0005113	Aortic arch aneurysm	438.12	Thoracic aneurysm
+HP:0011645	Dilatation of the sinus of Valsalva	438.12	Thoracic aneurysm
+HP:0012727	Thoracic aortic aneurysm	438.12	Thoracic aneurysm
+HP:0012728	Fusiform descending thoracic aortic aneurysm	438.12	Thoracic aneurysm
+HP:0012729	Saccular descending thoracic aortic aneurysm	438.12	Thoracic aneurysm
+HP:0031643	Fusiform ascending tubular aorta aneurysm	438.12	Thoracic aneurysm
+HP:0031646	Fusiform aortic arch aneurysm	438.12	Thoracic aneurysm
+HP:0031647	Saccular aortic arch aneurysm	438.12	Thoracic aneurysm
 HP:0002647	Aortic dissection	438.41	Aortic dissection
 HP:0004933	Ascending aortic dissection	438.41	Aortic dissection
 HP:0012499	Descending aortic dissection	438.41	Aortic dissection
 HP:0033311	Abdominal aortic dissection	438.41	Aortic dissection
 HP:0004937	Pulmonary artery aneurysm	438.9	Aneurysm of pulmonary artery
+HP:0007029	Cerebral berry aneurysm	438.6	Cerebral aneurysm
 HP:0004945	Extracranial internal carotid artery dissection	438.42	Carotid artery dissection
 HP:0012158	Carotid artery dissection	438.42	Carotid artery dissection
 HP:0012159	Internal carotid artery dissection	438.42	Carotid artery dissection
@@ -4483,12 +4595,18 @@ HP:0100598	Pulmonary edema	480.1	Acute pulmonary edema
 HP:0002643	Neonatal respiratory distress	854.1	Respiratory distress of newborn
 HP:0004875	Neonatal inspiratory stridor	854.1	Respiratory distress of newborn
 HP:0012768	Neonatal asphyxia	854.1	Respiratory distress of newborn
+HP:0002643	Neonatal respiratory distress	854.11	Respiratory distress syndrome of newborn
+HP:0004875	Neonatal inspiratory stridor	854.11	Respiratory distress syndrome of newborn
+HP:0012768	Neonatal asphyxia	854.11	Respiratory distress syndrome of newborn
 HP:0002878	Respiratory failure	485	Chronic respiratory failure
 HP:0004875	Neonatal inspiratory stridor	488.5	Stridor
 HP:0004886	Congenital laryngeal stridor	488.5	Stridor
 HP:0005348	Inspiratory stridor	488.5	Stridor
 HP:0005951	Progressive inspiratory stridor	488.5	Stridor
 HP:0010307	Stridor	488.5	Stridor
+HP:0033657	Linear atelectasis	479.6	Pulmonary collapse [Atelectasis]
+HP:0033658	Rounded atelectasis	479.6	Pulmonary collapse [Atelectasis]
+HP:0100750	Atelectasis	479.6	Pulmonary collapse [Atelectasis]
 HP:0033677	Acute respiratory distress syndrome	479.1	Acute respiratory distress syndrome [ARDS]*
 HP:0006515	Interstitial pneumonitis	481.43	Interstitial pneumonitis
 HP:0006527	Lymphocytic interstitial pneumonia	481.43	Interstitial pneumonitis
@@ -4511,6 +4629,7 @@ HP:0002876	Episodic tachypnea	488.4	Tachypnea
 HP:0002883	Hyperventilation	488.2	Hyperventilation
 HP:0004879	Intermittent hyperventilation	488.2	Hyperventilation
 HP:0005941	Intermittent hyperpnea at rest	488.2	Hyperventilation
+HP:0012196	Cheyne-Stokes respiration	488.3	Periodic breathing [Cheyne-Stokes]
 HP:0012416	Hypercapnia	829.1	Abnormal blood-gas level
 HP:0012418	Hypoxemia	829.1	Abnormal blood-gas level
 HP:0030874	Oxygen desaturation on exertion	829.1	Abnormal blood-gas level
@@ -4752,6 +4871,7 @@ HP:0031846	Femur fracture	T820.1	Fracture of femur
 HP:0033262	Transphyseal fracture of the distal humerus	T828	Multiple fractures
 HP:0041055	Fractured humerus	T828	Multiple fractures
 HP:0041088	Avulsion fractured humerus	T828	Multiple fractures
+HP:0006640	Multiple rib fractures	T828	Multiple fractures
 HP:0041159	Fractured rib	T828	Multiple fractures
 HP:0041221	Fractured head of femur	T828	Multiple fractures
 HP:0041089	Avulsion fractured tibia	T828	Multiple fractures
@@ -4919,11 +5039,18 @@ HP:0000400	Macrotia	755.2	Macrotia
 HP:0002265	Large fleshy ears	755.2	Macrotia
 HP:0008551	Microtia	755.1	Aplasia/Hypoplasia of the external ear
 HP:0008569	Microtia, second degree	755.1	Aplasia/Hypoplasia of the external ear
+HP:0008773	Aplasia/Hypoplasia of the middle ear	755.1	Aplasia/Hypoplasia of the external ear
 HP:0009892	Anotia	755.1	Aplasia/Hypoplasia of the external ear
 HP:0011266	Microtia, first degree	755.1	Aplasia/Hypoplasia of the external ear
 HP:0011267	Microtia, third degree	755.1	Aplasia/Hypoplasia of the external ear
 HP:0400003	Focal absence of the external ear	755.1	Aplasia/Hypoplasia of the external ear
+HP:0008586	Hypoplasia of the cochlea	755.1	Aplasia/Hypoplasia of the external ear
+HP:0008771	Aplasia/Hypoplasia of the ear	755.1	Aplasia/Hypoplasia of the external ear
 HP:0008772	Aplasia/Hypoplasia of the external ear	755.1	Aplasia/Hypoplasia of the external ear
+HP:0008774	Aplasia/Hypoplasia of the inner ear	755.1	Aplasia/Hypoplasia of the external ear
+HP:0011372	Aplasia of the inner ear	755.1	Aplasia/Hypoplasia of the external ear
+HP:0011375	Cochlear aplasia	755.1	Aplasia/Hypoplasia of the external ear
+HP:0011395	Aplasia/Hypoplasia of the cochlea	755.1	Aplasia/Hypoplasia of the external ear
 HP:0008551	Microtia	755.11	Microtia
 HP:0008569	Microtia, second degree	755.11	Microtia
 HP:0011266	Microtia, first degree	755.11	Microtia
@@ -5116,6 +5243,8 @@ HP:0010954	Hypoplastic right heart	780.5	Hypoplastic heart
 HP:0001961	Hypoplastic heart	780.5	Hypoplastic heart
 HP:0004383	Hypoplastic left heart	780.52	Hypoplastic left heart syndrome
 HP:0010316	Ebstein anomaly of the tricuspid valve	779.22	Ebstein anomaly of the tricuspid valve
+HP:0011555	Double inlet left ventricle	780.3	Double inlet ventricle
+HP:0011556	Double inlet right ventricle	780.3	Double inlet ventricle
 HP:0001629	Ventricular septal defect	780.41	Ventricular septal defect
 HP:0011621	Gerbode ventricular septal defect	780.41	Ventricular septal defect
 HP:0011622	Inlet ventricular septal defect	780.41	Ventricular septal defect
