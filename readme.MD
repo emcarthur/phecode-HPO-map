@@ -6,7 +6,7 @@ Created: April 20, 2022
 
 Created By: Evonne McArthur
 
-Last Edited: Oct 14, 2022
+Last Edited: Dec 12, 2022
 
 
 # About
@@ -21,7 +21,7 @@ Last Edited: Oct 14, 2022
 - Final mappings (including unfiltered links) are in `./data/finalHPO-phecodeLinks/`. See below in the manifest for more details about each file.
 - The mappings have been filtered for diverse needs. Please use this flowchart (Fig 2 in the paper) as reference:
 
-    <img src="https://raw.githubusercontent.com/emcarthur/phecode-HPO-map/main/flowchart.png" width="800" >
+    <img src="https://raw.githubusercontent.com/emcarthur/phecode-HPO-map/main/flowchart_full.png" width="800" >
 
 - Each of these files are in `./data/finalHPO-phecodeLinks/mapsFromFlowchart/`
 - These have also been formatted for use in the PheRS R package here `./data/finalHPO-phecodeLinks/mapsFromFlowchart/pheRSpackage/`
