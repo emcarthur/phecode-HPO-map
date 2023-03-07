@@ -11,8 +11,7 @@ Last Edited: Dec 12, 2022
 
 # About
 
-- Code and data for McArthur, Bastarache & Capra. “Linking rare and common disease vocabularies by mapping between the Human Phenotype Ontology and phecodes”
-- Manuscript preprint: [TBD]
+- Code and data for Evonne McArthur, Lisa Bastarache, John A Capra, Linking rare and common disease vocabularies by mapping between the human phenotype ontology and phecodes, JAMIA Open, Volume 6, Issue 1, April 2023, ooad007, https://doi.org/10.1093/jamiaopen/ooad007
 - Most of the analysis was done in the was done in the `bin/format_data_and_extract_phecodeHPO_mapping.ipynb` and figure-generation was done in the `bin/explore_phecodeHPO_mapping_make_figures.ipynb` with python 3.6.3 (see dependencies in `bin/environment.yml`). It is not recommended to run this notebook from start-to-finish, but to run individual sections for the analysis you want to replicate. All resources are all linked and cited in the methods section of the paper (section “Data availability”)
 
 
