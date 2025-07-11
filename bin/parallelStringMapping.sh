@@ -19,11 +19,13 @@ python mapping.py -f hpo -t ICD9 -m string -i "$start"-"$end" -o ./intermediate/
 python mapping.py -f hpo -t ICD10 -m string -i "$start"-"$end" -o ./intermediate/
 python mapping.py -f hpo -t phecode1.2 -m string -i "$start"-"$end" -o ./intermediate/
 python mapping.py -f hpo -t phecodeX -m string -i "$start"-"$end" -o ./intermediate/
+python mapping.py -f hpo -t phecodeXupdated -m string -i "$start"-"$end" -o ./intermediate/
 
 python mapping.py -f hpo -t ICD9 -m substring -i "$start"-"$end" -o ./intermediate/
 python mapping.py -f hpo -t ICD10 -m substring -i "$start"-"$end" -o ./intermediate/
 python mapping.py -f hpo -t phecode1.2 -m substring -i "$start"-"$end" -o ./intermediate/
 python mapping.py -f hpo -t phecodeX -m substring -i "$start"-"$end" -o ./intermediate/
+python mapping.py -f hpo -t phecodeXupdated -m substring -i "$start"-"$end" -o ./intermediate/
 
 python mapping.py -f hpo -m wikimed -i "$start"-"$end" -o ./intermediate/ 
 
@@ -31,4 +33,4 @@ python mapping.py -f ICD9 -t hpo -m substring -i "$start"-"$end" -o ./intermedia
 python mapping.py -f ICD10 -t hpo -m substring -i "$start"-"$end" -o ./intermediate/
 python mapping.py -f phecode1.2 -t hpo -m substring -i "$start"-"$end" -o ./intermediate/
 python mapping.py -f phecodeX -t hpo -m substring -i "$start"-"$end" -o ./intermediate/
-
+python mapping.py -f phecodeXupdated -t hpo -m substring -i "$start"-"$end" -o ./intermediate/

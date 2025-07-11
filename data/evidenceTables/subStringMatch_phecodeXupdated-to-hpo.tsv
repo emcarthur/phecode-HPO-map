@@ -1,0 +1,1014 @@
+phecodeXupdated_code	phecodeXupdated_label	phecodeXupdated_simpleLabel	phecodeXupdated_category	hpo_code	hpo_label	hpo_simpleLabel	hpo_original
+ID_015.2	Clostridium difficile	clostridium difficile	Infections	HP_0032167	Clostridium difficile enteritis	clostridium difficile enteritis	True
+ID_015.2	Clostridium difficile	clostridium difficile	Infections	HP_0032168	Clostridium difficile colitis	clostridium difficile colitis	True
+ID_052.4	Infectious mononucleosis	infectious mononucleosis	Infections	HP_0031693	Fulminant infectious mononucleosis	fulminant infectious mononucleosis	False
+ID_055.1	Molluscum contagiosum	molluscum contagiosum	Infections	HP_0032163	Molluscum contagiosum	molluscum contagiosum	True
+ID_072	Histoplasmosis	histoplasmosis	Infections	HP_0032256	Histoplasmosis	histoplasmosis	True
+ID_089.1	Bacterial infections	bacterial infections	Infections	HP_0002718	Frequent bacterial infections	frequent bacterial infections	False
+ID_091	Gangrene	gangrene	Infections	HP_0100758	Gangrene	gangrene	True
+ID_092.2	Sepsis	sepsis	Infections	HP_0100806	Sepsis	sepsis	True
+ID_092.8	Bacteremia	bacteremia	Infections	HP_0031864	Bacteremia	bacteremia	True
+CA_103.21	Basal cell carcinoma	basal cell carcinoma	Neoplasms	HP_0002671	Basal cell carcinoma	basal cell carcinoma	True
+CA_103.22	Squamous cell carcinoma of the skin	squamous cell carcinoma of the skin	Neoplasms	HP_0006739	Squamous cell carcinoma of the skin	squamous cell carcinoma of the skin	True
+CA_104.5	Gastrointestinal stromal tumor*	gastrointestinal stromal tumor	Neoplasms	HP_0100723	Gastrointestinal stromal tumor	gastrointestinal stromal tumor	False
+CA_104.5	Gastrointestinal stromal tumor*	gastrointestinal stromal tumor	Neoplasms	HP_0100723	Gastrointestinal stromal tumour	gastrointestinal stromal tumor	False
+CA_104.6	Kaposi's sarcoma	kaposis sarcoma	Neoplasms	HP_0100726	Kaposi's sarcoma	kaposis sarcoma	True
+CA_114.41	Intestinal carcinoid	intestinal carcinoid	Neoplasms	HP_0006723	Intestinal carcinoid	intestinal carcinoid	True
+CA_114.5	Paraganglioma	paraganglioma	Neoplasms	HP_0002668	Paraganglioma	paraganglioma	True
+CA_114.5	Paraganglioma	paraganglioma	Neoplasms	HP_0002886	Vagal paraganglioma	vagal paraganglioma	True
+CA_114.6	Pheochromocytoma	pheochromocytoma	Neoplasms	HP_0002666	Pheochromocytoma	pheochromocytoma	True
+CA_121	Leukemia	leukemia	Neoplasms	HP_0001909	Leukemia	leukemia	True
+CA_121	Leukemia	leukemia	Neoplasms	HP_0001909	Leukaemia	leukemia	False
+CA_121.1	Acute leukemia	acute leukemia	Neoplasms	HP_0002488	Acute leukemia	acute leukemia	True
+CA_121.1	Acute leukemia	acute leukemia	Neoplasms	HP_0002488	Acute leukaemia	acute leukemia	False
+CA_121.11	Acute lymphoid leukemia	acute lymphoid leukemia	Neoplasms	HP_0006721	Acute lymphoid leukaemia	acute lymphoid leukemia	False
+CA_121.11	Acute lymphoid leukemia	acute lymphoid leukemia	Neoplasms	HP_0006721	Acute lymphoid leukemia	acute lymphoid leukemia	False
+CA_121.12	Acute myeloid leukemia	acute myeloid leukemia	Neoplasms	HP_0004808	Acute myeloid leukemia	acute myeloid leukemia	True
+CA_121.12	Acute myeloid leukemia	acute myeloid leukemia	Neoplasms	HP_0004808	Acute myeloid leukaemia	acute myeloid leukemia	False
+CA_121.2	Chronic leukemia	chronic leukemia	Neoplasms	HP_0005558	Chronic leukemia	chronic leukemia	True
+CA_121.2	Chronic leukemia	chronic leukemia	Neoplasms	HP_0005558	Chronic leukaemia	chronic leukemia	False
+CA_122	Lymphoma	lymphoma	Neoplasms	HP_0002665	Lymphoma	lymphoma	True
+CA_122.1	Hodgkin lymphoma	hodgkin lymphoma	Neoplasms	HP_0012189	Hodgkin lymphoma	hodgkin lymphoma	True
+CA_122.2	Non-Hodgkin lymphoma	non-hodgkin lymphoma	Neoplasms	HP_0012539	Non-Hodgkin lymphoma	non-hodgkin lymphoma	True
+CA_122.21	Follicular lymphoma	follicular lymphoma	Neoplasms	HP_0033125	Follicular lymphoma	follicular lymphoma	True
+CA_122.23	Burkitt lymphoma	burkitt lymphoma	Neoplasms	HP_0030080	Burkitt lymphoma	burkitt lymphoma	True
+CA_122.24	T-cell lymphoma	t-cell lymphoma	Neoplasms	HP_0012190	T-cell lymphoma	t-cell lymphoma	True
+CA_123.1	Multiple myeloma	multiple myeloma	Neoplasms	HP_0006775	Multiple myeloma	multiple myeloma	True
+CA_124	Myeloproliferative disorder	myeloproliferative disorder	Neoplasms	HP_0005534	Transient myeloproliferative disorder	transient myeloproliferative disorder	False
+CA_124	Myeloproliferative disorder	myeloproliferative disorder	Neoplasms	HP_0005547	Myeloproliferative disorder	myeloproliferative disorder	True
+CA_124.6	Myelodysplastic syndrome	myelodysplastic syndrome	Neoplasms	HP_0002863	Myelodysplastic syndrome	myelodysplastic syndrome	False
+CA_124.8	Myelofibrosis	myelofibrosis	Neoplasms	HP_0011974	Myelofibrosis	myelofibrosis	True
+CA_125.1	Cutaneous mastocytosis*	cutaneous mastocytosis	Neoplasms	HP_0200151	Cutaneous mastocytosis	cutaneous mastocytosis	True
+CA_138.2	Melanocytic nevi*	melanocytic nevi	Neoplasms	HP_0000995	Melanocytic nevi	melanocytic nevi	False
+CA_139.5	Lipoma	lipoma	Neoplasms	HP_0012032	Lipoma	lipoma	True
+CA_139.61	Hemangioma	hemangioma	Neoplasms	HP_0001028	Hemangioma	hemangioma	True
+CA_139.62	Lymphangioma	lymphangioma	Neoplasms	HP_0100764	Lymphangioma	lymphangioma	True
+BI_160.1	Iron deficiency anemia	iron deficiency anemia	Blood/Immune	HP_0001891	Iron deficiency anemia	iron deficiency anemia	True
+BI_160.1	Iron deficiency anemia	iron deficiency anemia	Blood/Immune	HP_0001891	Iron deficiency anaemia	iron deficiency anemia	False
+BI_160.2	Megaloblastic anemia	megaloblastic anemia	Blood/Immune	HP_0001889	Megaloblastic anemia	megaloblastic anemia	True
+BI_160.2	Megaloblastic anemia	megaloblastic anemia	Blood/Immune	HP_0001889	Megaloblastic anaemia	megaloblastic anemia	False
+BI_161.22	Hemolytic-uremic syndrome	hemolytic-uremic syndrome	Blood/Immune	HP_0005575	Hemolytic-uremic syndrome	hemolytic-uremic syndrome	True
+BI_162	Aplastic anemia	aplastic anemia	Blood/Immune	HP_0001915	Aplastic anemia	aplastic anemia	True
+BI_162	Aplastic anemia	aplastic anemia	Blood/Immune	HP_0001915	Aplastic anaemia	aplastic anemia	False
+BI_162.8	Pancytopenia	pancytopenia	Blood/Immune	HP_0001876	Pancytopenia	pancytopenia	True
+BI_164	Anemia	anemia	Blood/Immune	HP_0001903	Anemia	anemia	True
+BI_164	Anemia	anemia	Blood/Immune	HP_0001903	Anaemia	anemia	False
+BI_164.1	Microcytic anemia	microcytic anemia	Blood/Immune	HP_0001935	Microcytic anemia	microcytic anemia	True
+BI_164.1	Microcytic anemia	microcytic anemia	Blood/Immune	HP_0001935	Microcytic anaemia	microcytic anemia	False
+BI_164.2	Macrocytic anemia	macrocytic anemia	Blood/Immune	HP_0001972	Macrocytic anemia	macrocytic anemia	True
+BI_164.2	Macrocytic anemia	macrocytic anemia	Blood/Immune	HP_0001972	Macrocytic anaemia	macrocytic anemia	False
+BI_164.8	Sideroblastic anemia	sideroblastic anemia	Blood/Immune	HP_0001924	Sideroblastic anemia	sideroblastic anemia	True
+BI_164.8	Sideroblastic anemia	sideroblastic anemia	Blood/Immune	HP_0001924	Sideroblastic anaemia	sideroblastic anemia	False
+BI_168.211	Activated protein C resistance*	activated protein c resistance	Blood/Immune	HP_0012175	Activated protein C resistance	activated protein c resistance	False
+BI_169.1	Thrombocytopenia	thrombocytopenia	Blood/Immune	HP_0001873	Thrombocytopenia	thrombocytopenia	True
+BI_169.1	Thrombocytopenia	thrombocytopenia	Blood/Immune	HP_0001973	Immune thrombocytopenia	immune thrombocytopenia	False
+BI_170.1	Neutropenia	neutropenia	Blood/Immune	HP_0001875	Neutropenia	neutropenia	True
+BI_170.14	Cyclic neutropenia	cyclic neutropenia	Blood/Immune	HP_0040289	Cyclic neutropenia	cyclic neutropenia	True
+BI_170.2	Lymphocytopenia	lymphocytopenia	Blood/Immune	HP_0001888	Lymphocytopenia	lymphocytopenia	False
+BI_170.2	Lymphocytopenia	lymphocytopenia	Blood/Immune	HP_0010976	B lymphocytopenia	b lymphocytopenia	True
+BI_170.2	Lymphocytopenia	lymphocytopenia	Blood/Immune	HP_0005403	T lymphocytopenia	t lymphocytopenia	True
+BI_171.3	Plasmacytosis	plasmacytosis	Blood/Immune	HP_0030150	Plasmacytosis	plasmacytosis	True
+BI_171.5	Basophilia	basophilia	Blood/Immune	HP_0031807	Basophilia	basophilia	False
+BI_171.7	Eosinophilia	eosinophilia	Blood/Immune	HP_0001880	Eosinophilia	eosinophilia	True
+BI_171.7	Eosinophilia	eosinophilia	Blood/Immune	HP_0032064	GI eosinophilia	gi eosinophilia	False
+BI_174.2	Splenomegaly	splenomegaly	Blood/Immune	HP_0001744	Splenomegaly	splenomegaly	True
+BI_174.21	Hypersplenism	hypersplenism	Blood/Immune	HP_0001971	Hypersplenism	hypersplenism	True
+BI_176.1	Thrombocytosis*	thrombocytosis	Blood/Immune	HP_0001894	Thrombocytosis	thrombocytosis	True
+BI_177	Abnormality of the lymph nodes	abnormality of the lymph nodes	Blood/Immune	HP_0002733	Abnormality of the lymph nodes	abnormality of the lymph nodes	True
+BI_177.1	Lymphadenitis	lymphadenitis	Blood/Immune	HP_0002840	Lymphadenitis	lymphadenitis	True
+BI_177.4	Lymphedema	lymphedema	Blood/Immune	HP_0001004	Lymphedema	lymphedema	True
+BI_179.1	Hypogammaglobulinemia NOS	hypogammaglobulinemia	Blood/Immune	HP_0004313	Hypogammaglobulinemia	hypogammaglobulinemia	False
+BI_179.9	Immunodeficiency NOS	immunodeficiency	Blood/Immune	HP_0002721	Immunodeficiency	immunodeficiency	True
+BI_180.4	Cryoglobulinemia*	cryoglobulinemia	Blood/Immune	HP_0100778	Cryoglobulinemia	cryoglobulinemia	True
+BI_181	Autoimmune disease	autoimmune disease	Blood/Immune	HP_0002960	Autoimmune disease	autoimmune disease	False
+EM_200.1	Hypothyroidism	hypothyroidism	Endocrine/Metab	HP_0000821	Hypothyroidism	hypothyroidism	True
+EM_200.1	Hypothyroidism	hypothyroidism	Endocrine/Metab	HP_0008223	Mild hypothyroidism	mild hypothyroidism	False
+EM_200.11	Secondary hypothyroidism	secondary hypothyroidism	Endocrine/Metab	HP_0008245	Secondary hypothyroidism	secondary hypothyroidism	False
+EM_200.2	Goiter	goiter	Endocrine/Metab	HP_0000853	Goiter	goiter	True
+EM_200.2	Goiter	goiter	Endocrine/Metab	HP_0000853	Goitre	goiter	False
+EM_200.23	Multinodular goiter	multinodular goiter	Endocrine/Metab	HP_0005987	Multinodular goiter	multinodular goiter	True
+EM_200.23	Multinodular goiter	multinodular goiter	Endocrine/Metab	HP_0005987	Multinodular goitre	multinodular goiter	False
+EM_200.4	Thyroiditis	thyroiditis	Endocrine/Metab	HP_0100646	Thyroiditis	thyroiditis	True
+EM_202	Diabetes mellitus	diabetes mellitus	Endocrine/Metab	HP_0000819	Diabetes mellitus	diabetes mellitus	True
+EM_202	Diabetes mellitus	diabetes mellitus	Endocrine/Metab	HP_0005978	Type II diabetes mellitus	type ii diabetes mellitus	True
+EM_202	Diabetes mellitus	diabetes mellitus	Endocrine/Metab	HP_0005978	Diabetes mellitus Type II	diabetes mellitus type ii	False
+EM_202	Diabetes mellitus	diabetes mellitus	Endocrine/Metab	HP_0005978	NIDDM diabetes mellitus	niddm diabetes mellitus	False
+EM_202	Diabetes mellitus	diabetes mellitus	Endocrine/Metab	HP_0100651	Type I diabetes mellitus	type i diabetes mellitus	True
+EM_202	Diabetes mellitus	diabetes mellitus	Endocrine/Metab	HP_0100651	Diabetes mellitus Type I	diabetes mellitus type i	False
+EM_202.1	Type 1 diabetes	type 1 diabetes	Endocrine/Metab	HP_0100651	Type 1 diabetes	type 1 diabetes	False
+EM_202.2	Type 2 diabetes	type 2 diabetes	Endocrine/Metab	HP_0005978	Type 2 diabetes	type 2 diabetes	False
+EM_204.1	Impaired fasting glucose	impaired fasting glucose	Endocrine/Metab	HP_0025691	Impaired fasting glucose	impaired fasting glucose	True
+EM_204.3	Hypoglycemia	hypoglycemia	Endocrine/Metab	HP_0001943	Hypoglycemia	hypoglycemia	True
+EM_204.31	Hypoglycemic coma	hypoglycemic coma	Endocrine/Metab	HP_0001325	Hypoglycemic coma	hypoglycemic coma	True
+EM_204.4	Hyperglycemia	hyperglycemia	Endocrine/Metab	HP_0003074	Hyperglycemia	hyperglycemia	True
+EM_208.1	Hypoparathyroidism	hypoparathyroidism	Endocrine/Metab	HP_0000829	Hypoparathyroidism	hypoparathyroidism	True
+EM_208.2	Hyperparathyroidism	hyperparathyroidism	Endocrine/Metab	HP_0000843	Hyperparathyroidism	hyperparathyroidism	True
+EM_208.2	Hyperparathyroidism	hyperparathyroidism	Endocrine/Metab	HP_0008200	Primary hyperparathyroidism	primary hyperparathyroidism	True
+EM_208.2	Hyperparathyroidism	hyperparathyroidism	Endocrine/Metab	HP_0011770	Tertiary hyperparathyroidism	tertiary hyperparathyroidism	True
+EM_208.22	Secondary hyperparathyroidism	secondary hyperparathyroidism	Endocrine/Metab	HP_0000867	Secondary hyperparathyroidism	secondary hyperparathyroidism	True
+EM_209.13	Hyperprolactinemia*	hyperprolactinemia	Endocrine/Metab	HP_0000870	Hyperprolactinemia	hyperprolactinemia	False
+EM_209.2	Hypopituitarism	hypopituitarism	Endocrine/Metab	HP_0040075	Hypopituitarism	hypopituitarism	True
+EM_209.4	Diabetes insipidus	diabetes insipidus	Endocrine/Metab	HP_0000863	Central diabetes insipidus	central diabetes insipidus	True
+EM_209.4	Diabetes insipidus	diabetes insipidus	Endocrine/Metab	HP_0000873	Diabetes insipidus	diabetes insipidus	True
+EM_211.11	Hyperaldosteronism	hyperaldosteronism	Endocrine/Metab	HP_0000859	Hyperaldosteronism	hyperaldosteronism	True
+EM_211.11	Hyperaldosteronism	hyperaldosteronism	Endocrine/Metab	HP_0011736	Primary hyperaldosteronism	primary hyperaldosteronism	True
+EM_211.2	Adrenocortical insufficiency	adrenocortical insufficiency	Endocrine/Metab	HP_0008207	Adrenocortical insufficiency	adrenocortical insufficiency	False
+EM_214.11	Premature menopause	premature menopause	Endocrine/Metab	HP_0008209	Premature menopause	premature menopause	False
+EM_217.1	Delayed puberty	delayed puberty	Endocrine/Metab	HP_0000823	Delayed puberty	delayed puberty	True
+EM_217.2	Precocious puberty	precocious puberty	Endocrine/Metab	HP_0000826	Precocious puberty	precocious puberty	True
+EM_217.2	Precocious puberty	precocious puberty	Endocrine/Metab	HP_0008185	Male precocious puberty	male precocious puberty	False
+EM_230.3	Anorexia	anorexia	Endocrine/Metab	HP_0002039	Anorexia	anorexia	True
+EM_230.4	Cachexia	cachexia	Endocrine/Metab	HP_0004326	Cachexia	cachexia	True
+EM_230.5	Early satiety	early satiety	Endocrine/Metab	HP_0033842	Early satiety	early satiety	True
+EM_230.7	Failure to thrive	failure to thrive	Endocrine/Metab	HP_0001508	Failure to thrive	failure to thrive	True
+EM_230.7	Failure to thrive	failure to thrive	Endocrine/Metab	HP_0001525	Severe failure to thrive	severe failure to thrive	True
+EM_230.7	Failure to thrive	failure to thrive	Endocrine/Metab	HP_0001525	Marked failure to thrive	marked failure to thrive	False
+EM_232.1	Vitamin A deficiency	vitamin a deficiency	Endocrine/Metab	HP_0004905	Vitamin A deficiency	vitamin a deficiency	False
+EM_232.27	Vitamin B12 deficiency	vitamin b12 deficiency	Endocrine/Metab	HP_0100502	Vitamin B12 deficiency	vitamin b12 deficiency	True
+EM_232.4	Vitamin D deficiency	vitamin d deficiency	Endocrine/Metab	HP_0100512	Vitamin D deficiency	vitamin d deficiency	False
+EM_232.5	Vitamin E deficiency*	vitamin e deficiency	Endocrine/Metab	HP_0100513	Vitamin E deficiency	vitamin e deficiency	False
+EM_236.1	Obesity	obesity	Endocrine/Metab	HP_0001513	Obesity	obesity	True
+EM_239	Hyperlipidemia	hyperlipidemia	Endocrine/Metab	HP_0003077	Hyperlipidemia	hyperlipidemia	True
+EM_239.1	Hypercholesterolemia	hypercholesterolemia	Endocrine/Metab	HP_0003124	Hypercholesterolemia	hypercholesterolemia	True
+EM_239.4	Hyperchylomicronemia	hyperchylomicronemia	Endocrine/Metab	HP_0012238	Hyperchylomicronemia	hyperchylomicronemia	False
+EM_247.41	Hypermagnesemia*	hypermagnesemia	Endocrine/Metab	HP_0002918	Hypermagnesemia	hypermagnesemia	True
+EM_247.42	Hypomagnesemia*	hypomagnesemia	Endocrine/Metab	HP_0002917	Hypomagnesemia	hypomagnesemia	True
+EM_247.51	Hypocalcemia	hypocalcemia	Endocrine/Metab	HP_0002901	Hypocalcemia	hypocalcemia	True
+EM_247.52	Hypercalcemia	hypercalcemia	Endocrine/Metab	HP_0003072	Hypercalcemia	hypercalcemia	True
+EM_247.53	Calcinosis cutis*	calcinosis cutis	Endocrine/Metab	HP_0025520	Calcinosis cutis	calcinosis cutis	True
+EM_247.87	Copper deficiency*	copper deficiency	Endocrine/Metab	HP_0011967	Copper deficiency	copper deficiency	False
+EM_247.88	Iron deficiency	iron deficiency	Endocrine/Metab	HP_0001891	Iron deficiency anemia	iron deficiency anemia	True
+EM_247.88	Iron deficiency	iron deficiency	Endocrine/Metab	HP_0001891	Iron deficiency anaemia	iron deficiency anemia	False
+EM_249	Amyloidosis	amyloidosis	Endocrine/Metab	HP_0011034	Amyloidosis	amyloidosis	True
+EM_249	Amyloidosis	amyloidosis	Endocrine/Metab	HP_4000041	AA amyloidosis	aa amyloidosis	True
+EM_249.1	Cerebral amyloid angiopathy*	cerebral amyloid angiopathy	Endocrine/Metab	HP_0011970	Cerebral amyloid angiopathy	cerebral amyloid angiopathy	True
+EM_252.2	Hyperphenylalaninemia	hyperphenylalaninemia	Endocrine/Metab	HP_0004922	Atypical hyperphenylalaninemia	atypical hyperphenylalaninemia	True
+EM_252.2	Hyperphenylalaninemia	hyperphenylalaninemia	Endocrine/Metab	HP_0004923	Hyperphenylalaninemia	hyperphenylalaninemia	True
+EM_252.2	Hyperphenylalaninemia	hyperphenylalaninemia	Endocrine/Metab	HP_0008297	Transient hyperphenylalaninemia	transient hyperphenylalaninemia	True
+EM_252.2	Hyperphenylalaninemia	hyperphenylalaninemia	Endocrine/Metab	HP_0100610	Maternal hyperphenylalaninemia	maternal hyperphenylalaninemia	True
+EM_256.31	Acidosis	acidosis	Endocrine/Metab	HP_0001941	Acidosis	acidosis	True
+EM_256.32	Alkalosis	alkalosis	Endocrine/Metab	HP_0001948	Alkalosis	alkalosis	True
+EM_256.71	Dehydration	dehydration	Endocrine/Metab	HP_0001944	Dehydration	dehydration	True
+EM_256.72	Hypovolemia	hypovolemia	Endocrine/Metab	HP_0011106	Hypovolemia	hypovolemia	True
+EM_257	Polydipsia	polydipsia	Endocrine/Metab	HP_0001959	Polydipsia	polydipsia	True
+MB_286.1	Bipolar disorder	bipolar disorder	Mental	HP_0007302	Bipolar disorder	bipolar disorder	False
+MB_287.1	Schizophrenia	schizophrenia	Mental	HP_0100753	Schizophrenia	schizophrenia	True
+MB_288.41	Agoraphobia	agoraphobia	Mental	HP_0000756	Agoraphobia	agoraphobia	True
+MB_293.4	Polyphagia	polyphagia	Mental	HP_0002591	Polyphagia	polyphagia	True
+MB_293.5	Pica	pica	Mental	HP_0011856	Pica	pica	True
+MB_296.4	Borderline personality disorder	borderline personality disorder	Mental	HP_0012076	Borderline personality disorder	borderline personality disorder	True
+MB_296.5	Histrionic personality disorder	histrionic personality disorder	Mental	HP_0012077	Histrionic personality disorder	histrionic personality disorder	True
+MB_298.3	Trichotillomania*	trichotillomania	Mental	HP_0012167	Trichotillomania	trichotillomania	False
+MB_301.1	Autism	autism	Mental	HP_0000717	Autism	autism	True
+MB_302.4	Delayed milestones	delayed milestones	Mental	HP_0001263	Delayed milestones	delayed milestones	False
+MB_308.1	Delirium	delirium	Mental	HP_0031258	Delirium	delirium	True
+MB_308.2	Delusions	delusions	Mental	HP_0000746	Delusions	delusions	True
+MB_308.3	Hallucinations	hallucinations	Mental	HP_0000738	Hallucinations	hallucinations	True
+MB_308.3	Hallucinations	hallucinations	Mental	HP_0006803	Vivid hallucinations	vivid hallucinations	True
+MB_308.3	Hallucinations	hallucinations	Mental	HP_0011160	Taste hallucinations	taste hallucinations	False
+MB_308.31	Visual hallucinations	visual hallucinations	Mental	HP_0002367	Visual hallucinations	visual hallucinations	True
+MB_308.32	Auditory hallucinations*	auditory hallucinations	Mental	HP_0008765	Auditory hallucinations	auditory hallucinations	True
+MB_309.1	Irritability	irritability	Mental	HP_0000737	Irritability	irritability	True
+MB_309.3	Emotional lability	emotional lability	Mental	HP_0000712	Emotional lability	emotional lability	True
+NS_320	Meningitis	meningitis	Neurological	HP_0001287	Meningitis	meningitis	True
+NS_320	Meningitis	meningitis	Neurological	HP_0033508	EBV meningitis	ebv meningitis	True
+NS_321.1	Encephalitis	encephalitis	Neurological	HP_0033509	EBV encephalitis	ebv encephalitis	True
+NS_321.12	Viral encephalitis	viral encephalitis	Neurological	HP_0033993	Viral encephalitis	viral encephalitis	True
+NS_321.2	Myelitis	myelitis	Neurological	HP_0012486	Myelitis	myelitis	True
+NS_323.3	Motor neuron disease	motor neuron disease	Neurological	HP_0002366	Lower motor neuron disease	lower motor neuron disease	False
+NS_324.1	Parkinsonism	parkinsonism	Neurological	HP_0001300	Parkinsonism	parkinsonism	True
+NS_324.31	Dystonia	dystonia	Neurological	HP_0001332	Dystonia	dystonia	True
+NS_324.314	Torticollis	torticollis	Neurological	HP_0000473	Torticollis	torticollis	True
+NS_324.316	Blepharospasm	blepharospasm	Neurological	HP_0000643	Blepharospasm	blepharospasm	True
+NS_324.32	Abnormal head movements*	abnormal head movements	Neurological	HP_0002457	Abnormal head movements	abnormal head movements	True
+NS_324.33	Fasciculation*	fasciculation	Neurological	HP_0002380	Fasciculation	fasciculation	False
+NS_324.33	Fasciculation*	fasciculation	Neurological	HP_0007289	Limb fasciculation	limb fasciculation	False
+NS_324.34	Tremor	tremor	Neurological	HP_0001337	Tremor	tremor	True
+NS_324.341	Essential tremor*	essential tremor	Neurological	HP_0030186	Essential tremor	essential tremor	False
+NS_324.35	Myoclonus	myoclonus	Neurological	HP_0001336	Myoclonus	myoclonus	True
+NS_324.6	Tetany	tetany	Neurological	HP_0001281	Tetany	tetany	True
+NS_324.9	Chorea	chorea	Neurological	HP_0002072	Chorea	chorea	True
+NS_325.2	Difficulty walking	difficulty walking	Neurological	HP_0002355	Difficulty walking	difficulty walking	True
+NS_328.3	Cerebral degeneration	cerebral degeneration	Neurological	HP_0007313	Cerebral degeneration	cerebral degeneration	True
+NS_329.1	Memory loss	memory loss	Neurological	HP_0002354	Memory loss	memory loss	False
+NS_329.6	Transient global amnesia	transient global amnesia	Neurological	HP_0010534	Transient global amnesia	transient global amnesia	True
+NS_331	Headache	headache	Neurological	HP_0002315	Headache	headache	True
+NS_331.32	Hypnic headache	hypnic headache	Neurological	HP_0012459	Hypnic headache	hypnic headache	True
+NS_331.33	Thunderclap headache	thunderclap headache	Neurological	HP_0030907	Thunderclap headache	thunderclap headache	True
+NS_331.6	Migraine	migraine	Neurological	HP_0002076	Migraine	migraine	True
+NS_331.61	Migraine with aura	migraine with aura	Neurological	HP_0002077	Migraine with aura	migraine with aura	True
+NS_333.1	Sleep apnea	sleep apnea	Neurological	HP_0010535	Sleep apnea	sleep apnea	True
+NS_333.11	Obstructive sleep apnea	obstructive sleep apnea	Neurological	HP_0002870	Obstructive sleep apnea	obstructive sleep apnea	True
+NS_333.12	Central sleep apnea	central sleep apnea	Neurological	HP_0010536	Central sleep apnea	central sleep apnea	True
+NS_333.2	Insomnia	insomnia	Neurological	HP_0100785	Insomnia	insomnia	True
+NS_333.3	Hypersomnia	hypersomnia	Neurological	HP_0100786	Hypersomnia	hypersomnia	True
+NS_333.7	Narcolepsy	narcolepsy	Neurological	HP_0030050	Narcolepsy	narcolepsy	True
+NS_333.8	Sleep disturbances	sleep disturbances	Neurological	HP_0002360	Sleep disturbances	sleep disturbances	False
+NS_334.11	Trigeminal neuralgia	trigeminal neuralgia	Neurological	HP_0100661	Trigeminal neuralgia	trigeminal neuralgia	True
+NS_334.21	Bell's palsy	bells palsy	Neurological	HP_0010628	Bell's palsy	bells palsy	False
+NS_334.23	Facial weakness	facial weakness	Neurological	HP_0030319	Facial weakness	facial weakness	False
+NS_334.25	Facial myokymia*	facial myokymia	Neurological	HP_0000317	Facial myokymia	facial myokymia	True
+NS_339.4	Periodic paralysis	periodic paralysis	Neurological	HP_0003768	Periodic paralysis	periodic paralysis	True
+NS_341.1	Cerebral palsy	cerebral palsy	Neurological	HP_0100021	Cerebral palsy	cerebral palsy	True
+NS_341.12	Athetoid cerebral palsy	athetoid cerebral palsy	Neurological	HP_0011445	Athetoid cerebral palsy	athetoid cerebral palsy	True
+NS_341.22	Spastic hemiplegia	spastic hemiplegia	Neurological	HP_0011099	Spastic hemiplegia	spastic hemiplegia	False
+NS_342.2	Quadriplegia	quadriplegia	Neurological	HP_0002445	Quadriplegia	quadriplegia	False
+NS_343.5	Horner's syndrome*	horners syndrome	Neurological	HP_0002277	Horner's syndrome	horners syndrome	False
+NS_344.1	Hydrocephalus	hydrocephalus	Neurological	HP_0000238	Hydrocephalus	hydrocephalus	True
+NS_344.11	Communicating hydrocephalus	communicating hydrocephalus	Neurological	HP_0001334	Communicating hydrocephalus	communicating hydrocephalus	True
+NS_345	Encephalopathy	encephalopathy	Neurological	HP_0001298	Encephalopathy	encephalopathy	True
+NS_345	Encephalopathy	encephalopathy	Neurological	HP_0006846	Acute encephalopathy	acute encephalopathy	True
+NS_346.6	Cerebral edema	cerebral edema	Neurological	HP_0002181	Cerebral edema	cerebral edema	True
+NS_347.3	Temporal sclerosis	temporal sclerosis	Neurological	HP_0033715	Mesial temporal sclerosis	mesial temporal sclerosis	False
+NS_348.4	Spinal cord compression*	spinal cord compression	Neurological	HP_0002176	Spinal cord compression	spinal cord compression	True
+NS_350.3	Abnormal reflex	abnormal reflex	Neurological	HP_0031826	Abnormal reflex	abnormal reflex	True
+NS_351.4	Hyperesthesia*	hyperesthesia	Neurological	HP_0100963	Hyperesthesia	hyperesthesia	True
+NS_352.2	Parageusia*	parageusia	Neurological	HP_0031249	Parageusia	parageusia	True
+NS_355.1	Coma	coma	Neurological	HP_0001259	Coma	coma	True
+NS_356.1	Dysarthria	dysarthria	Neurological	HP_0001260	Dysarthria	dysarthria	True
+NS_356.4	Slurred speech*	slurred speech	Neurological	HP_0001350	Slurred speech	slurred speech	True
+SO_360	Inflammation of eyelids	inflammation of eyelids	Sense organs	HP_0000498	Inflammation of eyelids	inflammation of eyelids	False
+SO_360.1	Hordeolum	hordeolum	Sense organs	HP_0010606	Hordeolum	hordeolum	True
+SO_360.2	Chalazion	chalazion	Sense organs	HP_0010605	Chalazion	chalazion	True
+SO_360.4	Blepharitis	blepharitis	Sense organs	HP_0000498	Blepharitis	blepharitis	True
+SO_361.12	Mechanical entropion	mechanical entropion	Sense organs	HP_0031738	Mechanical entropion	mechanical entropion	True
+SO_361.14	Cicatricial entropion	cicatricial entropion	Sense organs	HP_0031737	Cicatricial entropion	cicatricial entropion	True
+SO_361.24	Cicatricial lagophthalmos	cicatricial lagophthalmos	Sense organs	HP_0030004	Cicatricial lagophthalmos	cicatricial lagophthalmos	True
+SO_361.25	Paralytic lagophthalmos	paralytic lagophthalmos	Sense organs	HP_0030003	Paralytic lagophthalmos	paralytic lagophthalmos	True
+SO_361.36	Brow ptosis*	brow ptosis	Sense organs	HP_0031623	Brow ptosis	brow ptosis	True
+SO_361.4	Blepharochalasis	blepharochalasis	Sense organs	HP_0010749	Blepharochalasis	blepharochalasis	True
+SO_361.5	Eyelid retraction	eyelid retraction	Sense organs	HP_0030802	Lower eyelid retraction	lower eyelid retraction	True
+SO_361.5	Eyelid retraction	eyelid retraction	Sense organs	HP_0500043	Eyelid retraction	eyelid retraction	True
+SO_361.5	Eyelid retraction	eyelid retraction	Sense organs	HP_0500044	Upper eyelid retraction	upper eyelid retraction	True
+SO_361.8	Blepharophimosis	blepharophimosis	Sense organs	HP_0000581	Blepharophimosis	blepharophimosis	True
+SO_361.94	Cicatricial ectropion	cicatricial ectropion	Sense organs	HP_0025608	Cicatricial ectropion	cicatricial ectropion	True
+SO_363.5	Epiphora	epiphora	Sense organs	HP_0009926	Epiphora	epiphora	True
+SO_363.61	Dacryocystitis	dacryocystitis	Sense organs	HP_0000620	Dacryocystitis	dacryocystitis	True
+SO_365.1	Enophthalmos	enophthalmos	Sense organs	HP_0000490	Enophthalmos	enophthalmos	False
+SO_365.4	Orbital cysts	orbital cysts	Sense organs	HP_0001144	Orbital cysts	orbital cysts	False
+SO_366.21	Pinguecula	pinguecula	Sense organs	HP_0031830	Pinguecula	pinguecula	True
+SO_366.42	Conjunctival hyperemia	conjunctival hyperemia	Sense organs	HP_0030953	Conjunctival hyperemia	conjunctival hyperemia	True
+SO_367.1	Conjunctivitis	conjunctivitis	Sense organs	HP_0000509	Conjunctivitis	conjunctivitis	True
+SO_367.12	Allergic conjunctivitis	allergic conjunctivitis	Sense organs	HP_0007879	Allergic conjunctivitis	allergic conjunctivitis	True
+SO_367.2	Keratitis	keratitis	Sense organs	HP_0000491	Keratitis	keratitis	True
+SO_367.21	Corneal ulcer	corneal ulcer	Sense organs	HP_0012804	Corneal ulcer	corneal ulcer	False
+SO_367.22	Punctate keratitis	punctate keratitis	Sense organs	HP_0011859	Punctate keratitis	punctate keratitis	True
+SO_367.3	Keratoconjunctivitis	keratoconjunctivitis	Sense organs	HP_0001096	Keratoconjunctivitis	keratoconjunctivitis	True
+SO_367.3	Keratoconjunctivitis	keratoconjunctivitis	Sense organs	HP_0001097	Keratoconjunctivitis sicca	keratoconjunctivitis sicca	True
+SO_367.31	Keratoconjunctivitis sicca	keratoconjunctivitis sicca	Sense organs	HP_0001097	Keratoconjunctivitis sicca	keratoconjunctivitis sicca	True
+SO_367.5	Uveitis	uveitis	Sense organs	HP_0000554	Uveitis	uveitis	True
+SO_367.51	Panuveitis	panuveitis	Sense organs	HP_0012121	Panuveitis	panuveitis	True
+SO_367.52	Iridocyclitis	iridocyclitis	Sense organs	HP_0001094	Iridocyclitis	iridocyclitis	True
+SO_367.53	Chorioretinitis	chorioretinitis	Sense organs	HP_0012424	Chorioretinitis	chorioretinitis	True
+SO_367.6	Episcleritis	episcleritis	Sense organs	HP_0100534	Episcleritis	episcleritis	True
+SO_367.7	Scleritis	scleritis	Sense organs	HP_0100532	Scleritis	scleritis	True
+SO_367.8	Hypopyon	hypopyon	Sense organs	HP_0031615	Hypopyon	hypopyon	True
+SO_368.1	Scleral staphyloma	scleral staphyloma	Sense organs	HP_0030854	Scleral staphyloma	scleral staphyloma	True
+SO_369.15	Corneal deposits	corneal deposits	Sense organs	HP_0000531	Corneal deposits	corneal deposits	False
+SO_369.3	Corneal neovascularization	corneal neovascularization	Sense organs	HP_0011496	Corneal neovascularization	corneal neovascularization	True
+SO_369.43	Band keratopathy	band keratopathy	Sense organs	HP_0000585	Band keratopathy	band keratopathy	True
+SO_369.62	Keratoconus	keratoconus	Sense organs	HP_0000563	Keratoconus	keratoconus	True
+SO_370.41	Pupillary abnormalities	pupillary abnormalities	Sense organs	HP_0000615	Pupillary abnormalities	pupillary abnormalities	False
+SO_371	Cataract	cataract	Sense organs	HP_0000518	Cataract	cataract	True
+SO_371.3	Nuclear cataract	nuclear cataract	Sense organs	HP_0100018	Nuclear cataract	nuclear cataract	True
+SO_374.11	Serous retinal detachment	serous retinal detachment	Sense organs	HP_0012231	Serous retinal detachment	serous retinal detachment	False
+SO_374.21	Retinoschisis	retinoschisis	Sense organs	HP_0030502	Retinoschisis	retinoschisis	True
+SO_374.33	Retinal neovascularization	retinal neovascularization	Sense organs	HP_0007778	Posterior retinal neovascularization	posterior retinal neovascularization	True
+SO_374.33	Retinal neovascularization	retinal neovascularization	Sense organs	HP_0030666	Retinal neovascularization	retinal neovascularization	True
+SO_374.33	Retinal neovascularization	retinal neovascularization	Sense organs	HP_0030667	Peripheral retinal neovascularization	peripheral retinal neovascularization	True
+SO_374.34	Retinal vasculitis	retinal vasculitis	Sense organs	HP_0025188	Retinal vasculitis	retinal vasculitis	True
+SO_374.4	Retinopathy	retinopathy	Sense organs	HP_0000488	Retinopathy	retinopathy	True
+SO_374.41	Hypertensive retinopathy	hypertensive retinopathy	Sense organs	HP_0001095	Hypertensive retinopathy	hypertensive retinopathy	True
+SO_374.43	Exudative retinopathy	exudative retinopathy	Sense organs	HP_0007898	Exudative retinopathy	exudative retinopathy	True
+SO_374.44	Central serous chorioretinopathy	central serous chorioretinopathy	Sense organs	HP_0025567	Central serous chorioretinopathy	central serous chorioretinopathy	True
+SO_374.5	Macular degeneration	macular degeneration	Sense organs	HP_0000608	Macular degeneration	macular degeneration	True
+SO_374.5	Macular degeneration	macular degeneration	Sense organs	HP_0008028	Cystoid macular degeneration	cystoid macular degeneration	True
+SO_374.5	Macular degeneration	macular degeneration	Sense organs	HP_0008028	Cystic macular degeneration	cystic macular degeneration	False
+SO_374.51	Age-related macular degeneration	age-related macular degeneration	Sense organs	HP_0007868	obsolete Age-related macular degeneration	obsolete age-related macular degeneration	True
+SO_374.53	Cystoid macular degeneration	cystoid macular degeneration	Sense organs	HP_0008028	Cystoid macular degeneration	cystoid macular degeneration	True
+SO_374.6	Peripheral retinal degeneration	peripheral retinal degeneration	Sense organs	HP_0007769	Peripheral retinal degeneration	peripheral retinal degeneration	True
+SO_375	Abnormal intraocular pressure	abnormal intraocular pressure	Sense organs	HP_0012632	Abnormal intraocular pressure	abnormal intraocular pressure	True
+SO_375.1	Glaucoma	glaucoma	Sense organs	HP_0000501	Glaucoma	glaucoma	True
+SO_375.11	Open angle glaucoma	open angle glaucoma	Sense organs	HP_0012108	Open angle glaucoma	open angle glaucoma	True
+SO_375.6	Ocular hypertension	ocular hypertension	Sense organs	HP_0007906	Ocular hypertension	ocular hypertension	True
+SO_376.2	Vitreous opacities	vitreous opacities	Sense organs	HP_0100832	Vitreous opacities	vitreous opacities	False
+SO_376.4	Vitreomacular adhesion	vitreomacular adhesion	Sense organs	HP_0031150	Vitreomacular adhesion	vitreomacular adhesion	True
+SO_377	Hemorrhage of the eye	hemorrhage of the eye	Sense organs	HP_0011885	Hemorrhage of the eye	hemorrhage of the eye	True
+SO_377	Hemorrhage of the eye	hemorrhage of the eye	Sense organs	HP_0011885	Haemorrhage of the eye	hemorrhage of the eye	False
+SO_377.4	Retinal hemorrhage	retinal hemorrhage	Sense organs	HP_0000573	Retinal hemorrhage	retinal hemorrhage	True
+SO_377.4	Retinal hemorrhage	retinal hemorrhage	Sense organs	HP_0000573	Retinal haemorrhage	retinal hemorrhage	False
+SO_377.5	Vitreous hemorrhage	vitreous hemorrhage	Sense organs	HP_0007902	Vitreous hemorrhage	vitreous hemorrhage	True
+SO_377.5	Vitreous hemorrhage	vitreous hemorrhage	Sense organs	HP_0007902	Vitreous haemorrhage	vitreous hemorrhage	False
+SO_377.8	Hyphema	hyphema	Sense organs	HP_0011886	Hyphema	hyphema	True
+SO_380.1	Optic neuropathy	optic neuropathy	Sense organs	HP_0001138	Optic neuropathy	optic neuropathy	True
+SO_380.11	Optic neuritis	optic neuritis	Sense organs	HP_0100653	Optic neuritis	optic neuritis	True
+SO_380.21	Papilledema	papilledema	Sense organs	HP_0001085	Papilledema	papilledema	True
+SO_380.22	Optic disc drusen	optic disk drusen	Sense organs	HP_0012426	Optic disc drusen	optic disk drusen	True
+SO_380.23	Optic nerve hypoplasia	optic nerve hypoplasia	Sense organs	HP_0000609	Optic nerve hypoplasia	optic nerve hypoplasia	True
+SO_380.3	Optic atrophy	optic atrophy	Sense organs	HP_0000648	Optic atrophy	optic atrophy	True
+SO_380.3	Optic atrophy	optic atrophy	Sense organs	HP_0001112	Leber optic atrophy	leber optic atrophy	True
+SO_380.51	Cortical blindness	cortical blindness	Sense organs	HP_0100704	Cortical blindness	cortical blindness	False
+SO_381	Strabismus	strabismus	Sense organs	HP_0000486	Strabismus	strabismus	True
+SO_381.11	Ophthalmoplegia	ophthalmoplegia	Sense organs	HP_0000602	Ophthalmoplegia	ophthalmoplegia	True
+SO_381.11	Ophthalmoplegia	ophthalmoplegia	Sense organs	HP_0007824	Total ophthalmoplegia	total ophthalmoplegia	True
+SO_381.3	Esotropia	esotropia	Sense organs	HP_0000565	Esotropia	esotropia	True
+SO_381.31	Alternating esotropia	alternating esotropia	Sense organs	HP_0001137	Alternating esotropia	alternating esotropia	True
+SO_381.32	Accommodative esotropia	accommodative esotropia	Sense organs	HP_0020046	Accommodative esotropia	accommodative esotropia	True
+SO_381.4	Exotropia	exotropia	Sense organs	HP_0000577	Exotropia	exotropia	True
+SO_381.41	Alternating exotropia	alternating exotropia	Sense organs	HP_0031717	Alternating exotropia	alternating exotropia	True
+SO_381.7	Cyclotropia	cyclotropia	Sense organs	HP_0031776	Cyclotropia	cyclotropia	True
+SO_381.8	Heterophoria	heterophoria	Sense organs	HP_0032011	Heterophoria	heterophoria	True
+SO_381.81	Esophoria	esophoria	Sense organs	HP_0025312	Esophoria	esophoria	True
+SO_381.82	Exophoria	exophoria	Sense organs	HP_0025313	Exophoria	exophoria	True
+SO_381.83	Cyclophoria	cyclophoria	Sense organs	HP_0031777	Cyclophoria	cyclophoria	True
+SO_382.1	Impaired convergence	impaired convergence	Sense organs	HP_0000619	Impaired convergence	impaired convergence	True
+SO_383.1	Nystagmus	nystagmus	Sense organs	HP_0000639	Nystagmus	nystagmus	True
+SO_383.2	Saccadic eye movements	saccadic eye movements	Sense organs	HP_0000514	Slow saccadic eye movements	slow saccadic eye movements	True
+SO_383.2	Saccadic eye movements	saccadic eye movements	Sense organs	HP_0000570	Abnormal saccadic eye movements	abnormal saccadic eye movements	True
+SO_384.1	Anisocoria	anisocoria	Sense organs	HP_0009916	Anisocoria	anisocoria	True
+SO_384.2	Miosis	miosis	Sense organs	HP_0000616	Miosis	miosis	True
+SO_384.3	Mydriasis	mydriasis	Sense organs	HP_0011499	Mydriasis	mydriasis	True
+SO_384.4	Tonic pupil	tonic pupil	Sense organs	HP_0012074	Tonic pupil	tonic pupil	True
+SO_386.1	Amblyopia	amblyopia	Sense organs	HP_0000646	Amblyopia	amblyopia	True
+SO_386.2	Diplopia	diplopia	Sense organs	HP_0000651	Diplopia	diplopia	True
+SO_386.4	Visual field defects	visual field defects	Sense organs	HP_0001123	Visual field defects	visual field defects	False
+SO_386.41	Scotoma	scotoma	Sense organs	HP_0000575	Scotoma	scotoma	True
+SO_386.42	Hemianopia	hemianopia	Sense organs	HP_0012377	Hemianopia	hemianopia	True
+SO_386.6	Night blindness	night blindness	Sense organs	HP_0000662	Night blindness	night blindness	False
+SO_387.1	Hypermetropia	hypermetropia	Sense organs	HP_0000540	Hypermetropia	hypermetropia	True
+SO_387.1	Hypermetropia	hypermetropia	Sense organs	HP_0008499	High hypermetropia	high hypermetropia	True
+SO_387.1	Hypermetropia	hypermetropia	Sense organs	HP_0031728	Mild hypermetropia	mild hypermetropia	True
+SO_387.2	Myopia	myopia	Sense organs	HP_0000545	Myopia	myopia	True
+SO_387.3	Astigmatism	astigmatism	Sense organs	HP_0000483	Astigmatism	astigmatism	True
+SO_387.5	Anisometropia	anisometropia	Sense organs	HP_0012803	Anisometropia	anisometropia	True
+SO_389.1	Ocular pain	ocular pain	Sense organs	HP_0200026	Ocular pain	ocular pain	True
+SO_390.1	Otitis externa	otitis externa	Sense organs	HP_0410017	Otitis externa	otitis externa	True
+SO_390.4	Impacted cerumen	impacted cerumen	Sense organs	HP_0030788	Impacted cerumen	impacted cerumen	True
+SO_391.1	Otitis media	otitis media	Sense organs	HP_0000388	Otitis media	otitis media	True
+SO_391.22	Obstruction of Eustachian tube	obstruction of eustachian tube	Sense organs	HP_0040269	Obstruction of Eustachian tube	obstruction of eustachian tube	False
+SO_391.4	Tympanosclerosis	tympanosclerosis	Sense organs	HP_0020123	Tympanosclerosis	tympanosclerosis	True
+SO_391.8	Otosclerosis	otosclerosis	Sense organs	HP_0000362	Otosclerosis	otosclerosis	True
+SO_394.2	Vertigo	vertigo	Sense organs	HP_0002321	Vertigo	vertigo	True
+SO_394.21	Paroxysmal vertigo	paroxysmal vertigo	Sense organs	HP_0010532	Paroxysmal vertigo	paroxysmal vertigo	True
+SO_396	Hearing impairment	hearing impairment	Sense organs	HP_0000365	Hearing impairment	hearing impairment	True
+SO_396	Hearing impairment	hearing impairment	Sense organs	HP_0000410	Mixed hearing impairment	mixed hearing impairment	True
+SO_396	Hearing impairment	hearing impairment	Sense organs	HP_0012712	Mild hearing impairment	mild hearing impairment	True
+SO_396	Hearing impairment	hearing impairment	Sense organs	HP_0012714	Severe hearing impairment	severe hearing impairment	True
+SO_396.1	Conductive hearing loss	conductive hearing loss	Sense organs	HP_0000405	Conductive hearing loss	conductive hearing loss	False
+SO_396.1	Conductive hearing loss	conductive hearing loss	Sense organs	HP_0008513	Bilateral conductive hearing loss	bilateral conductive hearing loss	False
+SO_396.1	Conductive hearing loss	conductive hearing loss	Sense organs	HP_0008591	Congenital conductive hearing loss	congenital conductive hearing loss	False
+SO_396.1	Conductive hearing loss	conductive hearing loss	Sense organs	HP_0008598	Conductive hearing loss, mild	conductive hearing loss mild	False
+SO_396.1	Conductive hearing loss	conductive hearing loss	Sense organs	HP_0012716	Conductive hearing loss, moderate	conductive hearing loss moderate	False
+SO_396.1	Conductive hearing loss	conductive hearing loss	Sense organs	HP_0012717	Conductive hearing loss, severe	conductive hearing loss severe	False
+SO_396.2	Sensorineural hearing loss	sensorineural hearing loss	Sense organs	HP_0000407	Sensorineural hearing loss	sensorineural hearing loss	False
+SO_396.2	Sensorineural hearing loss	sensorineural hearing loss	Sense organs	HP_0000408	Sensorineural hearing loss, progressive	sensorineural hearing loss progressive	False
+SO_396.2	Sensorineural hearing loss	sensorineural hearing loss	Sense organs	HP_0008527	Congenital sensorineural hearing loss	congenital sensorineural hearing loss	False
+SO_396.2	Sensorineural hearing loss	sensorineural hearing loss	Sense organs	HP_0008610	Infantile sensorineural hearing loss	infantile sensorineural hearing loss	False
+SO_396.2	Sensorineural hearing loss	sensorineural hearing loss	Sense organs	HP_0008615	Late sensorineural hearing loss	late sensorineural hearing loss	False
+SO_396.2	Sensorineural hearing loss	sensorineural hearing loss	Sense organs	HP_0008619	Bilateral sensorineural hearing loss	bilateral sensorineural hearing loss	False
+SO_396.2	Sensorineural hearing loss	sensorineural hearing loss	Sense organs	HP_0008625	Severe sensorineural hearing loss	severe sensorineural hearing loss	False
+SO_397.1	Tinnitus	tinnitus	Sense organs	HP_0000360	Tinnitus	tinnitus	True
+SO_397.11	Pulsatile tinnitus*	pulsatile tinnitus	Sense organs	HP_0008629	Pulsatile tinnitus	pulsatile tinnitus	True
+SO_397.3	Hyperacusis	hyperacusis	Sense organs	HP_0010780	Hyperacusis	hyperacusis	True
+CV_401	Hypertension	hypertension	Cardiovascular	HP_0000822	Hypertension	hypertension	True
+CV_401.61	Renovascular hypertension	renovascular hypertension	Cardiovascular	HP_0100817	Renovascular hypertension	renovascular hypertension	True
+CV_401.7	Hypertensive crisis*	hypertensive crisis	Cardiovascular	HP_0100735	Hypertensive crisis	hypertensive crisis	True
+CV_403	Angina pectoris	angina pectoris	Cardiovascular	HP_0001681	Angina pectoris	angina pectoris	True
+CV_410.1	Pericarditis	pericarditis	Cardiovascular	HP_0001701	Pericarditis	pericarditis	True
+CV_410.2	Endocarditis	endocarditis	Cardiovascular	HP_0100584	Endocarditis	endocarditis	True
+CV_410.3	Myocarditis	myocarditis	Cardiovascular	HP_0012819	Myocarditis	myocarditis	True
+CV_411.3	Cardiac tamponade	cardiac tamponade	Cardiovascular	HP_0033415	Cardiac tamponade	cardiac tamponade	True
+CV_413.11	Mitral valve insufficiency	mitral valve insufficiency	Cardiovascular	HP_0001653	Mitral valve insufficiency	mitral valve insufficiency	False
+CV_413.12	Mitral valve prolapse*	mitral valve prolapse	Cardiovascular	HP_0001634	Mitral valve prolapse	mitral valve prolapse	True
+CV_413.13	Mitral valve stenosis	mitral valve stenosis	Cardiovascular	HP_0001718	Mitral valve stenosis	mitral valve stenosis	False
+CV_413.21	Aortic stenosis	aortic stenosis	Cardiovascular	HP_0001650	Aortic stenosis	aortic stenosis	False
+CV_413.22	Aortic insufficiency	aortic insufficiency	Cardiovascular	HP_0001659	Aortic insufficiency	aortic insufficiency	False
+CV_413.41	Pulmonary valve stenosis	pulmonary valve stenosis	Cardiovascular	HP_0001642	Pulmonary valve stenosis	pulmonary valve stenosis	False
+CV_414	Cardiomyopathy	cardiomyopathy	Cardiovascular	HP_0001638	Cardiomyopathy	cardiomyopathy	True
+CV_414.1	Hypertrophic cardiomyopathy	hypertrophic cardiomyopathy	Cardiovascular	HP_0001639	Hypertrophic cardiomyopathy	hypertrophic cardiomyopathy	True
+CV_414.1	Hypertrophic cardiomyopathy	hypertrophic cardiomyopathy	Cardiovascular	HP_0005157	Concentric hypertrophic cardiomyopathy	concentric hypertrophic cardiomyopathy	True
+CV_414.1	Hypertrophic cardiomyopathy	hypertrophic cardiomyopathy	Cardiovascular	HP_0031992	Apical hypertrophic cardiomyopathy	apical hypertrophic cardiomyopathy	True
+CV_414.2	Dilated cardiomyopathy*	dilated cardiomyopathy	Cardiovascular	HP_0001644	Dilated cardiomyopathy	dilated cardiomyopathy	True
+CV_414.7	Endocardial fibroelastosis	endocardial fibroelastosis	Cardiovascular	HP_0001706	Endocardial fibroelastosis	endocardial fibroelastosis	True
+CV_414.8	Restrictive cardiomyopathy*	restrictive cardiomyopathy	Cardiovascular	HP_0001723	Restrictive cardiomyopathy	restrictive cardiomyopathy	True
+CV_416.1	Paroxysmal tachycardia	paroxysmal tachycardia	Cardiovascular	HP_0006688	Paroxysmal tachycardia	paroxysmal tachycardia	True
+CV_416.11	Supraventricular tachycardia	supraventricular tachycardia	Cardiovascular	HP_0004755	Supraventricular tachycardia	supraventricular tachycardia	True
+CV_416.11	Supraventricular tachycardia	supraventricular tachycardia	Cardiovascular	HP_0004763	Paroxysmal supraventricular tachycardia	paroxysmal supraventricular tachycardia	True
+CV_416.11	Supraventricular tachycardia	supraventricular tachycardia	Cardiovascular	HP_0004763	Episodic supraventricular tachycardia	episodic supraventricular tachycardia	False
+CV_416.12	Ventricular tachycardia	ventricular tachycardia	Cardiovascular	HP_0004751	Paroxysmal ventricular tachycardia	paroxysmal ventricular tachycardia	True
+CV_416.12	Ventricular tachycardia	ventricular tachycardia	Cardiovascular	HP_0004756	Ventricular tachycardia	ventricular tachycardia	True
+CV_416.121	Torsades de pointes*	torsades de pointes	Cardiovascular	HP_0001664	Torsades de pointes	torsades de pointes	False
+CV_416.21	Atrial fibrillation	atrial fibrillation	Cardiovascular	HP_0005110	Atrial fibrillation	atrial fibrillation	True
+CV_416.211	Paroxysmal atrial fibrillation*	paroxysmal atrial fibrillation	Cardiovascular	HP_0004757	Paroxysmal atrial fibrillation	paroxysmal atrial fibrillation	True
+CV_416.214	Permanent atrial fibrillation*	permanent atrial fibrillation	Cardiovascular	HP_0004754	Permanent atrial fibrillation	permanent atrial fibrillation	True
+CV_416.22	Atrial flutter	atrial flutter	Cardiovascular	HP_0004749	Atrial flutter	atrial flutter	True
+CV_416.221	Typical atrial flutter*	typical atrial flutter	Cardiovascular	HP_0031671	Typical atrial flutter	typical atrial flutter	True
+CV_416.221	Typical atrial flutter*	typical atrial flutter	Cardiovascular	HP_0031672	Reverse typical atrial flutter	reverse typical atrial flutter	True
+CV_416.31	Ventricular fibrillation	ventricular fibrillation	Cardiovascular	HP_0001663	Ventricular fibrillation	ventricular fibrillation	True
+CV_416.32	Ventricular flutter	ventricular flutter	Cardiovascular	HP_0011841	Ventricular flutter	ventricular flutter	True
+CV_416.4	Heart block	heart block	Cardiovascular	HP_0012722	Heart block	heart block	True
+CV_416.41	Atrioventricular block	atrioventricular block	Cardiovascular	HP_0001678	Atrioventricular block	atrioventricular block	True
+CV_416.41	Atrioventricular block	atrioventricular block	Cardiovascular	HP_0011707	Mobitz I atrioventricular block	mobitz i atrioventricular block	True
+CV_416.41	Atrioventricular block	atrioventricular block	Cardiovascular	HP_0011708	Mobitz II atrioventricular block	mobitz ii atrioventricular block	True
+CV_416.42	Left bundle branch block	left bundle branch block	Cardiovascular	HP_0011713	Left bundle branch block	left bundle branch block	True
+CV_416.43	Right bundle branch block	right bundle branch block	Cardiovascular	HP_0011712	Right bundle branch block	right bundle branch block	True
+CV_416.6	Long QT syndrome	long qt syndrome	Cardiovascular	HP_0001657	Long QT syndrome	long qt syndrome	False
+CV_416.71	Sick sinus syndrome*	sick sinus syndrome	Cardiovascular	HP_0011704	Sick sinus syndrome	sick sinus syndrome	True
+CV_417.1	Palpitations	palpitations	Cardiovascular	HP_0001962	Palpitations	palpitations	True
+CV_417.2	Tachycardia	tachycardia	Cardiovascular	HP_0001649	Tachycardia	tachycardia	True
+CV_417.3	Bradycardia	bradycardia	Cardiovascular	HP_0001662	Bradycardia	bradycardia	True
+CV_420	Cardiac arrest	cardiac arrest	Cardiovascular	HP_0001695	Cardiac arrest	cardiac arrest	True
+CV_423.1	Cardiac murmurs	cardiac murmurs	Cardiovascular	HP_0030148	Cardiac murmurs	cardiac murmurs	False
+CV_424	Heart failure	heart failure	Cardiovascular	HP_0001635	Heart failure	heart failure	False
+CV_425	Cardiomegaly	cardiomegaly	Cardiovascular	HP_0001640	Cardiomegaly	cardiomegaly	True
+CV_433.21	Carotid artery stenosis	carotid artery stenosis	Cardiovascular	HP_0100546	Carotid artery stenosis	carotid artery stenosis	True
+CV_438.11	Abdominal aortic aneurysm	abdominal aortic aneurysm	Cardiovascular	HP_0005112	Abdominal aortic aneurysm	abdominal aortic aneurysm	True
+CV_438.11	Abdominal aortic aneurysm	abdominal aortic aneurysm	Cardiovascular	HP_0031644	Fusiform abdominal aortic aneurysm	fusiform abdominal aortic aneurysm	True
+CV_438.11	Abdominal aortic aneurysm	abdominal aortic aneurysm	Cardiovascular	HP_0031645	Saccular abdominal aortic aneurysm	saccular abdominal aortic aneurysm	True
+CV_438.11	Abdominal aortic aneurysm	abdominal aortic aneurysm	Cardiovascular	HP_0031711	Asymmetric abdominal aortic aneurysm	asymmetric abdominal aortic aneurysm	True
+CV_438.4	Arterial dissection	arterial dissection	Cardiovascular	HP_0005294	Arterial dissection	arterial dissection	True
+CV_438.41	Aortic dissection	aortic dissection	Cardiovascular	HP_0002647	Aortic dissection	aortic dissection	True
+CV_438.41	Aortic dissection	aortic dissection	Cardiovascular	HP_0004933	Type A aortic dissection	type a aortic dissection	False
+CV_438.41	Aortic dissection	aortic dissection	Cardiovascular	HP_0012499	Type B aortic dissection	type b aortic dissection	False
+CV_438.42	Carotid artery dissection	carotid artery dissection	Cardiovascular	HP_0012159	Internal carotid artery dissection	internal carotid artery dissection	True
+CV_438.42	Carotid artery dissection	carotid artery dissection	Cardiovascular	HP_0012158	Carotid artery dissection	carotid artery dissection	True
+CV_438.42	Carotid artery dissection	carotid artery dissection	Cardiovascular	HP_0012161	External carotid artery dissection	external carotid artery dissection	True
+CV_438.42	Carotid artery dissection	carotid artery dissection	Cardiovascular	HP_0012162	Common carotid artery dissection	common carotid artery dissection	True
+CV_438.43	Coronary artery dissection	coronary artery dissection	Cardiovascular	HP_0006702	Coronary artery dissection	coronary artery dissection	True
+CV_438.5	Coronary artery aneurysm	coronary artery aneurysm	Cardiovascular	HP_0030882	Coronary artery aneurysm	coronary artery aneurysm	True
+CV_439	Hemorrhoids	hemorrhoids	Cardiovascular	HP_0032551	Hemorrhoids	hemorrhoids	True
+CV_439	Hemorrhoids	hemorrhoids	Cardiovascular	HP_0032551	Haemorrhoids	hemorrhoids	False
+CV_440.12	Portal vein thrombosis	portal vein thrombosis	Cardiovascular	HP_0030242	Portal vein thrombosis	portal vein thrombosis	True
+CV_440.14	Budd-Chiari syndrome	budd-chiari syndrome	Cardiovascular	HP_0002639	Budd-Chiari syndrome	budd-chiari syndrome	True
+CV_440.3	Pulmonary embolism	pulmonary embolism	Cardiovascular	HP_0002204	Pulmonary embolism	pulmonary embolism	True
+CV_440.3	Pulmonary embolism	pulmonary embolism	Cardiovascular	HP_0033639	Septic pulmonary embolism	septic pulmonary embolism	True
+CV_440.4	Septic embolism	septic embolism	Cardiovascular	HP_0033553	Septic embolism	septic embolism	True
+CV_441	Arteriovenous malformation	arteriovenous malformation	Cardiovascular	HP_0002390	Spinal arteriovenous malformation	spinal arteriovenous malformation	True
+CV_441	Arteriovenous malformation	arteriovenous malformation	Cardiovascular	HP_0100026	Arteriovenous malformation	arteriovenous malformation	True
+CV_441	Arteriovenous malformation	arteriovenous malformation	Cardiovascular	HP_0002408	Cerebral arteriovenous malformation	cerebral arteriovenous malformation	True
+CV_441	Arteriovenous malformation	arteriovenous malformation	Cardiovascular	HP_0002629	GI arteriovenous malformation	gi arteriovenous malformation	False
+CV_441	Arteriovenous malformation	arteriovenous malformation	Cardiovascular	HP_0006548	Pulmonary arteriovenous malformation	pulmonary arteriovenous malformation	True
+CV_441	Arteriovenous malformation	arteriovenous malformation	Cardiovascular	HP_0006574	Hepatic arteriovenous malformation	hepatic arteriovenous malformation	True
+CV_441	Arteriovenous malformation	arteriovenous malformation	Cardiovascular	HP_0006574	Liver arteriovenous malformation	liver arteriovenous malformation	False
+CV_441	Arteriovenous malformation	arteriovenous malformation	Cardiovascular	HP_0031254	Thalamic arteriovenous malformation	thalamic arteriovenous malformation	True
+CV_441	Arteriovenous malformation	arteriovenous malformation	Cardiovascular	HP_0031256	Optic nerve arteriovenous malformation	optic nerve arteriovenous malformation	True
+CV_441	Arteriovenous malformation	arteriovenous malformation	Cardiovascular	HP_0031341	Gastric arteriovenous malformation	gastric arteriovenous malformation	True
+CV_441	Arteriovenous malformation	arteriovenous malformation	Cardiovascular	HP_0031342	Duodenal arteriovenous malformation	duodenal arteriovenous malformation	True
+CV_441	Arteriovenous malformation	arteriovenous malformation	Cardiovascular	HP_0031343	Jejunal arteriovenous malformation	jejunal arteriovenous malformation	True
+CV_441	Arteriovenous malformation	arteriovenous malformation	Cardiovascular	HP_0031344	Pelvic arteriovenous malformation	pelvic arteriovenous malformation	True
+CV_441	Arteriovenous malformation	arteriovenous malformation	Cardiovascular	HP_0031345	Colonic arteriovenous malformation	colonic arteriovenous malformation	True
+CV_441	Arteriovenous malformation	arteriovenous malformation	Cardiovascular	HP_0031346	Rectal arteriovenous malformation	rectal arteriovenous malformation	True
+CV_441	Arteriovenous malformation	arteriovenous malformation	Cardiovascular	HP_0031347	Uterine arteriovenous malformation	uterine arteriovenous malformation	True
+CV_441	Arteriovenous malformation	arteriovenous malformation	Cardiovascular	HP_0031488	Arteriovenous malformation of the lip	arteriovenous malformation of the lip	True
+CV_441.1	Arteriovenous fistula	arteriovenous fistula	Cardiovascular	HP_0004947	Arteriovenous fistula	arteriovenous fistula	True
+CV_441.1	Arteriovenous fistula	arteriovenous fistula	Cardiovascular	HP_0031563	Coronary arteriovenous fistula	coronary arteriovenous fistula	True
+CV_441.2	Pulmonary arteriovenous malformation	pulmonary arteriovenous malformation	Cardiovascular	HP_0006548	Pulmonary arteriovenous malformation	pulmonary arteriovenous malformation	True
+CV_443.3	Arterial fibromuscular dysplasia*	arterial fibromuscular dysplasia	Cardiovascular	HP_0005313	Arterial fibromuscular dysplasia	arterial fibromuscular dysplasia	True
+CV_444.1	Varicose veins	varicose veins	Cardiovascular	HP_0002619	Varicose veins	varicose veins	True
+CV_446	Hypotension	hypotension	Cardiovascular	HP_0002615	Hypotension	hypotension	True
+CV_446.2	Orthostatic hypotension	orthostatic hypotension	Cardiovascular	HP_0001278	Orthostatic hypotension	orthostatic hypotension	True
+CV_448.2	Erythromelalgia	erythromelalgia	Cardiovascular	HP_0032147	Erythromelalgia	erythromelalgia	True
+CV_452	Hemorrhage, NOS	hemorrhage	Cardiovascular	HP_0002239	GI haemorrhage	gi hemorrhage	False
+CV_452	Hemorrhage, NOS	hemorrhage	Cardiovascular	HP_0002239	GI hemorrhage	gi hemorrhage	False
+RE_460	Respiratory infection	respiratory infection	Respiratory	HP_0011947	Respiratory infection	respiratory infection	False
+RE_460.3	Pulmonary tuberculosis	pulmonary tuberculosis	Respiratory	HP_0032262	Pulmonary tuberculosis	pulmonary tuberculosis	True
+RE_462.1	Acute sinusitis	acute sinusitis	Respiratory	HP_0000255	Acute sinusitis	acute sinusitis	True
+RE_462.2	Chronic sinusitis	chronic sinusitis	Respiratory	HP_0011109	Chronic sinusitis	chronic sinusitis	True
+RE_463.1	Chronic rhinitis	chronic rhinitis	Respiratory	HP_0002257	Chronic rhinitis	chronic rhinitis	True
+RE_463.2	Allergic rhinitis	allergic rhinitis	Respiratory	HP_0003193	Allergic rhinitis	allergic rhinitis	True
+RE_463.4	Nasal congestion*	nasal congestion	Respiratory	HP_0001742	Nasal congestion	nasal congestion	True
+RE_465	Pharyngitis	pharyngitis	Respiratory	HP_0025439	Pharyngitis	pharyngitis	True
+RE_468	Pneumonia	pneumonia	Respiratory	HP_0002090	Pneumonia	pneumonia	True
+RE_469	Bronchitis	bronchitis	Respiratory	HP_0012387	Bronchitis	bronchitis	True
+RE_469.1	Acute bronchitis	acute bronchitis	Respiratory	HP_0012388	Acute bronchitis	acute bronchitis	True
+RE_469.2	Chronic bronchitis	chronic bronchitis	Respiratory	HP_0004469	Chronic bronchitis	chronic bronchitis	True
+RE_471.2	Deviated nasal septum	deviated nasal septum	Respiratory	HP_0004411	Deviated nasal septum	deviated nasal septum	True
+RE_471.5	Nasal polyps	nasal polyps	Respiratory	HP_0100582	Nasal polyps	nasal polyps	False
+RE_474.1	Emphysema	emphysema	Respiratory	HP_0002097	Emphysema	emphysema	True
+RE_474.13	Centrilobular emphysema*	centrilobular emphysema	Respiratory	HP_0032966	Centrilobular emphysema	centrilobular emphysema	True
+RE_475	Asthma	asthma	Respiratory	HP_0002099	Asthma	asthma	True
+RE_476	Bronchiectasis	bronchiectasis	Respiratory	HP_0002110	Bronchiectasis	bronchiectasis	True
+RE_477.2	Hypersensitivity pneumonitis	hypersensitivity pneumonitis	Respiratory	HP_0006516	Hypersensitivity pneumonitis	hypersensitivity pneumonitis	True
+RE_478	Aspiration pneumonia	aspiration pneumonia	Respiratory	HP_0011951	Aspiration pneumonia	aspiration pneumonia	True
+RE_478	Aspiration pneumonia	aspiration pneumonia	Respiratory	HP_0011952	Acute aspiration pneumonia	acute aspiration pneumonia	True
+RE_479.3	Respiratory failure	respiratory failure	Respiratory	HP_0002878	Respiratory failure	respiratory failure	True
+RE_480	Pulmonary edema	pulmonary edema	Respiratory	HP_0100598	Pulmonary edema	pulmonary edema	True
+RE_481.2	Alveolar proteinosis	alveolar proteinosis	Respiratory	HP_0006517	Alveolar proteinosis	alveolar proteinosis	False
+RE_481.4	Pulmonary fibrosis	pulmonary fibrosis	Respiratory	HP_0002206	Pulmonary fibrosis	pulmonary fibrosis	True
+RE_481.43	Interstitial pneumonitis	interstitial pneumonitis	Respiratory	HP_0006515	Interstitial pneumonitis	interstitial pneumonitis	True
+RE_481.43	Interstitial pneumonitis	interstitial pneumonitis	Respiratory	HP_0006527	Lymphoid interstitial pneumonitis	lymphoid interstitial pneumonitis	False
+RE_481.45	Cryptogenic organizing pneumonia	cryptogenic organizing pneumonia	Respiratory	HP_0011945	Cryptogenic organising pneumonia	cryptogenic organizing pneumonia	False
+RE_481.45	Cryptogenic organizing pneumonia	cryptogenic organizing pneumonia	Respiratory	HP_0011945	Cryptogenic organizing pneumonia	cryptogenic organizing pneumonia	False
+RE_481.6	Lymphoid interstitial pneumonia	lymphoid interstitial pneumonia	Respiratory	HP_0006527	Lymphoid interstitial pneumonia	lymphoid interstitial pneumonia	False
+RE_483	Pleural effusion	pleural effusion	Respiratory	HP_0002202	Pleural effusion	pleural effusion	True
+RE_483	Pleural effusion	pleural effusion	Respiratory	HP_0025676	Fetal pleural effusion	fetal pleural effusion	True
+RE_484.1	Spontaneous pneumothorax	spontaneous pneumothorax	Respiratory	HP_0002108	Spontaneous pneumothorax	spontaneous pneumothorax	True
+RE_487.1	Epistaxis	epistaxis	Respiratory	HP_0000421	Epistaxis	epistaxis	True
+RE_487.3	Hemoptysis	hemoptysis	Respiratory	HP_0002105	Hemoptysis	hemoptysis	True
+RE_488.11	Orthopnea	orthopnea	Respiratory	HP_0012764	Orthopnea	orthopnea	True
+RE_488.2	Hyperventilation	hyperventilation	Respiratory	HP_0002883	Hyperventilation	hyperventilation	True
+RE_488.4	Tachypnea	tachypnea	Respiratory	HP_0002789	Tachypnea	tachypnea	True
+RE_488.5	Stridor	stridor	Respiratory	HP_0010307	Stridor	stridor	True
+RE_488.6	Wheezing	wheezing	Respiratory	HP_0030828	Wheezing	wheezing	True
+RE_488.7	Apnea	apnea	Respiratory	HP_0002104	Apnea	apnea	True
+RE_488.9	Snoring*	snoring	Respiratory	HP_0025267	Snoring	snoring	True
+RE_491	Pleurisy	pleurisy	Respiratory	HP_0002102	Pleurisy	pleurisy	False
+RE_492	Tracheoesophageal fistula	tracheoesophageal fistula	Respiratory	HP_0002575	Tracheoesophageal fistula	tracheoesophageal fistula	True
+RE_494.1	Dysphonia	dysphonia	Respiratory	HP_0001618	Dysphonia	dysphonia	True
+RE_494.2	Aphonia	aphonia	Respiratory	HP_0001686	Aphonia	aphonia	False
+RE_497	Respiratory arrest	respiratory arrest	Respiratory	HP_0005943	Respiratory arrest	respiratory arrest	True
+RE_498.1	Hypoxemia	hypoxemia	Respiratory	HP_0012418	Hypoxemia	hypoxemia	True
+RE_498.2	Cyanosis	cyanosis	Respiratory	HP_0000961	Cyanosis	cyanosis	True
+RE_499.1	Cough	cough	Respiratory	HP_0012735	Cough	cough	True
+RE_499.2	Abnormal sputum	abnormal sputum	Respiratory	HP_0032016	Abnormal sputum	abnormal sputum	True
+RE_499.3	Bronchospasm	bronchospasm	Respiratory	HP_0025428	Bronchospasm	bronchospasm	True
+RE_499.4	Throat pain	throat pain	Respiratory	HP_0033050	Throat pain	throat pain	False
+GI_500.1	Anodontia	anodontia	Gastrointestinal	HP_0000674	Anodontia	anodontia	True
+GI_500.3	Supernumerary teeth	supernumerary teeth	Gastrointestinal	HP_0011069	Supernumerary teeth	supernumerary teeth	False
+GI_500.41	Impacted teeth*	impacted teeth	Gastrointestinal	HP_0001571	Impacted teeth	impacted teeth	False
+GI_502.11	Dental caries	dental caries	Gastrointestinal	HP_0000670	Dental caries	dental caries	False
+GI_502.11	Dental caries	dental caries	Gastrointestinal	HP_0000670	Early dental caries	early dental caries	False
+GI_502.17	Hypercementosis	hypercementosis	Gastrointestinal	HP_0033788	Hypercementosis	hypercementosis	False
+GI_504.1	Gingivitis	gingivitis	Gastrointestinal	HP_0000230	Gingivitis	gingivitis	True
+GI_504.2	Gingival recession	gingival recession	Gastrointestinal	HP_0030816	Gingival recession	gingival recession	True
+GI_504.3	Periodontitis	periodontitis	Gastrointestinal	HP_0000704	Periodontitis	periodontitis	True
+GI_504.4	Gingival enlargement*	gingival enlargement	Gastrointestinal	HP_0000212	Gingival enlargement	gingival enlargement	False
+GI_506.51	Dry mouth*	dry mouth	Gastrointestinal	HP_0000217	Dry mouth	dry mouth	False
+GI_507.1	Stomatitis	stomatitis	Gastrointestinal	HP_0010280	Stomatitis	stomatitis	True
+GI_507.3	Oral leukoplakia	oral leukoplakia	Gastrointestinal	HP_0002745	Oral leukoplakia	oral leukoplakia	True
+GI_507.31	Hairy leukoplakia*	hairy leukoplakia	Gastrointestinal	HP_0025126	Oral hairy leukoplakia	oral hairy leukoplakia	True
+GI_509.1	Glossitis	glossitis	Gastrointestinal	HP_0000206	Glossitis	glossitis	True
+GI_509.12	Geographic tongue	geographic tongue	Gastrointestinal	HP_0025252	Geographic tongue	geographic tongue	True
+GI_509.5	Plicated tongue	plicated tongue	Gastrointestinal	HP_0000221	Plicated tongue	plicated tongue	False
+GI_510.2	Esophagitis	esophagitis	Gastrointestinal	HP_0100633	Esophagitis	esophagitis	True
+GI_510.8	Barrett's esophagus	barretts esophagus	Gastrointestinal	HP_0100580	Barrett's esophagus	barretts esophagus	False
+GI_510.8	Barrett's esophagus	barretts esophagus	Gastrointestinal	HP_0100580	Barrett's oesophagus	barretts esophagus	False
+GI_513	Peptic ulcer	peptic ulcer	Gastrointestinal	HP_0004398	Peptic ulcer	peptic ulcer	True
+GI_513.2	Gastric ulcer	gastric ulcer	Gastrointestinal	HP_0002592	Gastric ulcer	gastric ulcer	True
+GI_513.3	Duodenal ulcer	duodenal ulcer	Gastrointestinal	HP_0002588	Duodenal ulcer	duodenal ulcer	True
+GI_514	Gastrointestinal obstruction	gastrointestinal obstruction	Gastrointestinal	HP_0004796	Gastrointestinal obstruction	gastrointestinal obstruction	True
+GI_514.2	Intestinal obstruction	intestinal obstruction	Gastrointestinal	HP_0005214	Intestinal obstruction	intestinal obstruction	True
+GI_514.2	Intestinal obstruction	intestinal obstruction	Gastrointestinal	HP_0005234	Neonatal intestinal obstruction	neonatal intestinal obstruction	True
+GI_514.2	Intestinal obstruction	intestinal obstruction	Gastrointestinal	HP_0005250	High intestinal obstruction	high intestinal obstruction	True
+GI_514.3	Ileus	ileus	Gastrointestinal	HP_0002595	Ileus	ileus	True
+GI_514.31	Paralytic ileus	paralytic ileus	Gastrointestinal	HP_0002590	Paralytic ileus	paralytic ileus	True
+GI_515	Heartburn	heartburn	Gastrointestinal	HP_0002020	Heartburn	heartburn	False
+GI_516.1	Pyloric stenosis	pyloric stenosis	Gastrointestinal	HP_0002021	Pyloric stenosis	pyloric stenosis	True
+GI_516.4	Gastroparesis	gastroparesis	Gastrointestinal	HP_0002578	Gastroparesis	gastroparesis	True
+GI_516.6	Achlorhydria	achlorhydria	Gastrointestinal	HP_0032448	Achlorhydria	achlorhydria	True
+GI_517.4	Gastrointestinal angiodysplasia	gastrointestinal angiodysplasia	Gastrointestinal	HP_0000471	Gastrointestinal angiodysplasia	gastrointestinal angiodysplasia	True
+GI_520	Hernia	hernia	Gastrointestinal	HP_0100790	Hernia	hernia	True
+GI_520.1	Hernia of the abdominal wall	hernia of the abdominal wall	Gastrointestinal	HP_0004299	Hernia of the abdominal wall	hernia of the abdominal wall	True
+GI_520.11	Inguinal hernia	inguinal hernia	Gastrointestinal	HP_0000023	Inguinal hernia	inguinal hernia	True
+GI_520.12	Femoral hernia	femoral hernia	Gastrointestinal	HP_0100541	Femoral hernia	femoral hernia	True
+GI_520.13	Umbilical hernia	umbilical hernia	Gastrointestinal	HP_0001537	Umbilical hernia	umbilical hernia	True
+GI_520.14	Ventral hernia	ventral hernia	Gastrointestinal	HP_0002933	Ventral hernia	ventral hernia	True
+GI_520.2	Diaphragmatic hernia	diaphragmatic hernia	Gastrointestinal	HP_0000776	Diaphragmatic hernia	diaphragmatic hernia	False
+GI_520.2	Diaphragmatic hernia	diaphragmatic hernia	Gastrointestinal	HP_0009112	Left diaphragmatic hernia	left diaphragmatic hernia	False
+GI_520.2	Diaphragmatic hernia	diaphragmatic hernia	Gastrointestinal	HP_0025194	Morgagni diaphragmatic hernia	morgagni diaphragmatic hernia	True
+GI_520.2	Diaphragmatic hernia	diaphragmatic hernia	Gastrointestinal	HP_0025195	Central diaphragmatic hernia	central diaphragmatic hernia	True
+GI_520.2	Diaphragmatic hernia	diaphragmatic hernia	Gastrointestinal	HP_0032592	Right diaphragmatic hernia	right diaphragmatic hernia	False
+GI_522	Gastrointestinal inflammation	gastrointestinal inflammation	Gastrointestinal	HP_0004386	Gastrointestinal inflammation	gastrointestinal inflammation	True
+GI_522.11	Crohn's disease	crohns disease	Gastrointestinal	HP_0100280	Crohn's disease	crohns disease	True
+GI_522.12	Ulcerative colitis	ulcerative colitis	Gastrointestinal	HP_0100279	Ulcerative colitis	ulcerative colitis	True
+GI_522.61	Eosinophilic esophagitis	eosinophilic esophagitis	Gastrointestinal	HP_0410151	Eosinophilic esophagitis	eosinophilic esophagitis	False
+GI_522.62	Eosinophilic gastroenteritis	eosinophilic gastroenteritis	Gastrointestinal	HP_0032064	Eosinophilic gastroenteritis	eosinophilic gastroenteritis	False
+GI_522.63	Eosinophilic colitis	eosinophilic colitis	Gastrointestinal	HP_0031813	Eosinophilic colitis	eosinophilic colitis	False
+GI_522.8	Duodenitis	duodenitis	Gastrointestinal	HP_0033117	Duodenitis	duodenitis	True
+GI_522.9	Gastritis	gastritis	Gastrointestinal	HP_0005263	Gastritis	gastritis	True
+GI_522.92	Atrophic gastritis	atrophic gastritis	Gastrointestinal	HP_0002582	Atrophic gastritis	atrophic gastritis	True
+GI_522.92	Atrophic gastritis	atrophic gastritis	Gastrointestinal	HP_0002582	Chronic atrophic gastritis	chronic atrophic gastritis	False
+GI_523.3	Gastric diverticulum	gastric diverticulum	Gastrointestinal	HP_0100808	Gastric diverticulum	gastric diverticulum	True
+GI_525	Intestinal malabsorption	intestinal malabsorption	Gastrointestinal	HP_0002024	Intestinal malabsorption	intestinal malabsorption	False
+GI_525.1	Celiac disease	celiac disease	Gastrointestinal	HP_0002608	Celiac disease	celiac disease	True
+GI_527	Abdominal pain	abdominal pain	Gastrointestinal	HP_0002027	Abdominal pain	abdominal pain	True
+GI_527	Abdominal pain	abdominal pain	Gastrointestinal	HP_0033400	Acute abdominal pain	acute abdominal pain	False
+GI_528.1	Nausea	nausea	Gastrointestinal	HP_0002018	Nausea	nausea	True
+GI_528.2	Vomiting	vomiting	Gastrointestinal	HP_0002013	Vomiting	vomiting	True
+GI_529.1	Diarrhea	diarrhea	Gastrointestinal	HP_0002014	Diarrhea	diarrhea	True
+GI_529.1	Diarrhea	diarrhea	Gastrointestinal	HP_0002014	Diarrhoea	diarrhea	False
+GI_529.5	Constipation	constipation	Gastrointestinal	HP_0002019	Constipation	constipation	True
+GI_529.6	Halitosis*	halitosis	Gastrointestinal	HP_0100812	Halitosis	halitosis	True
+GI_530.1	Anal fissure	anal fissure	Gastrointestinal	HP_0012390	Anal fissure	anal fissure	True
+GI_530.2	Anorectal abscess	anorectal abscess	Gastrointestinal	HP_0033150	Anorectal abscess	anorectal abscess	True
+GI_530.3	Rectal prolapse	rectal prolapse	Gastrointestinal	HP_0002035	Rectal prolapse	rectal prolapse	True
+GI_532.1	Intestinal fistula	intestinal fistula	Gastrointestinal	HP_0100819	Intestinal fistula	intestinal fistula	True
+GI_532.2	Intestinal perforation	intestinal perforation	Gastrointestinal	HP_0031368	Intestinal perforation	intestinal perforation	True
+GI_532.2	Intestinal perforation	intestinal perforation	Gastrointestinal	HP_0031370	Small intestinal perforation	small intestinal perforation	True
+GI_532.3	Intussusception	intussusception	Gastrointestinal	HP_0002576	Intussusception	intussusception	True
+GI_532.4	Volvulus	volvulus	Gastrointestinal	HP_0002580	Volvulus	volvulus	True
+GI_537	Abnormality of the peritoneum	abnormality of the peritoneum	Gastrointestinal	HP_0002585	Abnormality of the peritoneum	abnormality of the peritoneum	True
+GI_537.1	Peritonitis	peritonitis	Gastrointestinal	HP_0002586	Peritonitis	peritonitis	True
+GI_537.2	Hemoperitoneum	hemoperitoneum	Gastrointestinal	HP_0011854	Hemoperitoneum	hemoperitoneum	True
+GI_537.3	Peritoneal abscess	peritoneal abscess	Gastrointestinal	HP_0100592	Peritoneal abscess	peritoneal abscess	True
+GI_540	Hepatitis	hepatitis	Gastrointestinal	HP_0012115	Hepatitis	hepatitis	True
+GI_540.1	Chronic hepatitis	chronic hepatitis	Gastrointestinal	HP_0200123	Chronic hepatitis	chronic hepatitis	True
+GI_540.2	Acute hepatitis	acute hepatitis	Gastrointestinal	HP_0200119	Acute hepatitis	acute hepatitis	True
+GI_542.3	Hepatic failure	hepatic failure	Gastrointestinal	HP_0001399	Hepatic failure	hepatic failure	True
+GI_542.3	Hepatic failure	hepatic failure	Gastrointestinal	HP_0006554	Acute hepatic failure	acute hepatic failure	True
+GI_542.4	Portal hypertension	portal hypertension	Gastrointestinal	HP_0001409	Portal hypertension	portal hypertension	True
+GI_542.8	Biliary cirrhosis	biliary cirrhosis	Gastrointestinal	HP_0002613	Biliary cirrhosis	biliary cirrhosis	True
+GI_542.9	Hepatic necrosis	hepatic necrosis	Gastrointestinal	HP_0002605	Hepatic necrosis	hepatic necrosis	True
+GI_546.3	Hepatomegaly	hepatomegaly	Gastrointestinal	HP_0002240	Hepatomegaly	hepatomegaly	True
+GI_546.31	Hepatosplenomegaly*	hepatosplenomegaly	Gastrointestinal	HP_0001433	Hepatosplenomegaly	hepatosplenomegaly	True
+GI_550.2	Cholecystitis	cholecystitis	Gastrointestinal	HP_0001082	Cholecystitis	cholecystitis	True
+GI_550.3	Gallbladder perforation	gallbladder perforation	Gastrointestinal	HP_0030154	Gallbladder perforation	gallbladder perforation	True
+GI_552.1	Cholangitis	cholangitis	Gastrointestinal	HP_0030151	Cholangitis	cholangitis	True
+GI_554.11	Acute pancreatitis	acute pancreatitis	Gastrointestinal	HP_0001735	Acute pancreatitis	acute pancreatitis	True
+GI_554.12	Chronic pancreatitis	chronic pancreatitis	Gastrointestinal	HP_0006280	Chronic pancreatitis	chronic pancreatitis	True
+GI_554.3	Exocrine pancreatic insufficiency*	exocrine pancreatic insufficiency	Gastrointestinal	HP_0001738	Exocrine pancreatic insufficiency	exocrine pancreatic insufficiency	True
+GI_555	Ascites	ascites	Gastrointestinal	HP_0001541	Ascites	ascites	True
+GI_556.4	Abdominal rigidity	abdominal rigidity	Gastrointestinal	HP_0032545	Abdominal rigidity	abdominal rigidity	True
+GI_557	Gastrointestinal hemorrhage	gastrointestinal hemorrhage	Gastrointestinal	HP_0002239	Gastrointestinal hemorrhage	gastrointestinal hemorrhage	True
+GI_557	Gastrointestinal hemorrhage	gastrointestinal hemorrhage	Gastrointestinal	HP_0002239	Gastrointestinal haemorrhage	gastrointestinal hemorrhage	False
+GI_557.1	Hematemesis	hematemesis	Gastrointestinal	HP_0002248	Hematemesis	hematemesis	True
+GU_581.31	Hydronephrosis	hydronephrosis	Genitourinary	HP_0000126	Hydronephrosis	hydronephrosis	True
+GU_581.32	Hydroureter	hydroureter	Genitourinary	HP_0000072	Hydroureter	hydroureter	True
+GU_581.34	Vesicoureteral reflux	vesicoureteral reflux	Genitourinary	HP_0000076	Vesicoureteral reflux	vesicoureteral reflux	True
+GU_581.34	Vesicoureteral reflux	vesicoureteral reflux	Genitourinary	HP_0033733	Low-grade vesicoureteral reflux	low-grade vesicoureteral reflux	True
+GU_581.34	Vesicoureteral reflux	vesicoureteral reflux	Genitourinary	HP_0033735	Grade I vesicoureteral reflux	grade i vesicoureteral reflux	True
+GU_581.34	Vesicoureteral reflux	vesicoureteral reflux	Genitourinary	HP_0033736	Grade II vesicoureteral reflux	grade ii vesicoureteral reflux	True
+GU_581.34	Vesicoureteral reflux	vesicoureteral reflux	Genitourinary	HP_0033737	Grade III vesicoureteral reflux	grade iii vesicoureteral reflux	True
+GU_581.34	Vesicoureteral reflux	vesicoureteral reflux	Genitourinary	HP_0033738	Primary vesicoureteral reflux	primary vesicoureteral reflux	True
+GU_581.34	Vesicoureteral reflux	vesicoureteral reflux	Genitourinary	HP_0033739	Secondary vesicoureteral reflux	secondary vesicoureteral reflux	True
+GU_581.34	Vesicoureteral reflux	vesicoureteral reflux	Genitourinary	HP_0033740	Grade V vesicoureteral reflux	grade v vesicoureteral reflux	True
+GU_581.34	Vesicoureteral reflux	vesicoureteral reflux	Genitourinary	HP_0033741	Grade IV vesicoureteral reflux	grade iv vesicoureteral reflux	True
+GU_582	Renal failure	renal failure	Genitourinary	HP_0000083	Renal failure	renal failure	False
+GU_582	Renal failure	renal failure	Genitourinary	HP_0001919	Acute renal failure	acute renal failure	False
+GU_582.1	Acute kidney failure	acute kidney failure	Genitourinary	HP_0001919	Acute kidney failure	acute kidney failure	False
+GU_582.2	Chronic kidney disease	chronic kidney disease	Genitourinary	HP_0003774	Stage 5 chronic kidney disease	stage 5 chronic kidney disease	True
+GU_582.2	Chronic kidney disease	chronic kidney disease	Genitourinary	HP_0012622	Chronic kidney disease	chronic kidney disease	True
+GU_582.2	Chronic kidney disease	chronic kidney disease	Genitourinary	HP_0012623	Stage 1 chronic kidney disease	stage 1 chronic kidney disease	True
+GU_582.2	Chronic kidney disease	chronic kidney disease	Genitourinary	HP_0012624	Stage 2 chronic kidney disease	stage 2 chronic kidney disease	True
+GU_582.2	Chronic kidney disease	chronic kidney disease	Genitourinary	HP_0012625	Stage 3 chronic kidney disease	stage 3 chronic kidney disease	True
+GU_582.2	Chronic kidney disease	chronic kidney disease	Genitourinary	HP_0012626	Stage 4 chronic kidney disease	stage 4 chronic kidney disease	True
+GU_586.6	Nephroptosis	nephroptosis	Genitourinary	HP_0011126	Nephroptosis	nephroptosis	True
+GU_588.12	Nephrogenic diabetes insipidus	nephrogenic diabetes insipidus	Genitourinary	HP_0009806	Nephrogenic diabetes insipidus	nephrogenic diabetes insipidus	True
+GU_592.2	Urethritis	urethritis	Genitourinary	HP_0500006	Urethritis	urethritis	True
+GU_593	Hematuria	hematuria	Genitourinary	HP_0000790	Hematuria	hematuria	True
+GU_593.1	Gross hematuria	gross hematuria	Genitourinary	HP_0012587	Gross hematuria	gross hematuria	False
+GU_593.2	Microscopic hematuria	microscopic hematuria	Genitourinary	HP_0002907	Microscopic hematuria	microscopic hematuria	True
+GU_594.2	Dysuria	dysuria	Genitourinary	HP_0100518	Dysuria	dysuria	True
+GU_594.33	Nocturnal enuresis	nocturnal enuresis	Genitourinary	HP_0010677	Nocturnal enuresis	nocturnal enuresis	False
+GU_594.41	Nocturia	nocturia	Genitourinary	HP_0000017	Nocturia	nocturia	True
+GU_594.6	Urinary urgency	urinary urgency	Genitourinary	HP_0000012	Urinary urgency	urinary urgency	True
+GU_596.2	Overactive bladder	overactive bladder	Genitourinary	HP_0000012	Overactive bladder	overactive bladder	False
+GU_597.1	Urethral stricture	urethral stricture	Genitourinary	HP_0012227	Urethral stricture	urethral stricture	True
+GU_597.1	Urethral stricture	urethral stricture	Genitourinary	HP_0025415	Bulbar urethral stricture	bulbar urethral stricture	True
+GU_597.3	Urethral fistula	urethral fistula	Genitourinary	HP_0010480	Urethral fistula	urethral fistula	True
+GU_597.4	Urethral diverticulum	urethral diverticulum	Genitourinary	HP_0008722	Urethral diverticulum	urethral diverticulum	True
+GU_602.1	Benign prostatic hyperplasia	benign prostatic hyperplasia	Genitourinary	HP_0008711	Benign prostatic hyperplasia	benign prostatic hyperplasia	True
+GU_602.51	Prostatitis	prostatitis	Genitourinary	HP_0000024	Prostatitis	prostatitis	True
+GU_603.2	Spermatocele	spermatocele	Genitourinary	HP_0033808	Spermatocele	spermatocele	True
+GU_603.6	Scrotal pain*	scrotal pain	Genitourinary	HP_0030155	Scrotal pain	scrotal pain	True
+GU_604.4	Priapism	priapism	Genitourinary	HP_0200023	Priapism	priapism	True
+GU_609	Male infertility	male infertility	Genitourinary	HP_0003251	Male infertility	male infertility	True
+GU_609.1	Azoospermia	azoospermia	Genitourinary	HP_0000027	Azoospermia	azoospermia	True
+GU_609.2	Oligospermia	oligospermia	Genitourinary	HP_0000798	Oligospermia	oligospermia	True
+GU_610.2	Fibroadenosis of breast	fibroadenosis of breast	Genitourinary	HP_0010619	Fibroadenosis of breast	fibroadenosis of breast	False
+GU_612.21	Galactorrhea	galactorrhea	Genitourinary	HP_0100829	Galactorrhea	galactorrhea	True
+GU_612.23	Breast hypoplasia	breast hypoplasia	Genitourinary	HP_0003187	Breast hypoplasia	breast hypoplasia	True
+GU_615	Endometriosis	endometriosis	Genitourinary	HP_0030127	Endometriosis	endometriosis	True
+GU_619.2	Ovarian cyst	ovarian cyst	Genitourinary	HP_0000138	Ovarian cyst	ovarian cyst	True
+GU_625.1	Dyspareunia	dyspareunia	Genitourinary	HP_0030016	Dyspareunia	dyspareunia	True
+GU_625.3	Vulvodynia	vulvodynia	Genitourinary	HP_0030943	Vulvodynia	vulvodynia	True
+GU_625.4	Vaginismus	vaginismus	Genitourinary	HP_0030017	Vaginismus	vaginismus	True
+GU_626.11	Oligomenorrhea	oligomenorrhea	Genitourinary	HP_0000876	Oligomenorrhea	oligomenorrhea	True
+GU_626.111	Amenorrhea	amenorrhea	Genitourinary	HP_0000141	Amenorrhea	amenorrhea	True
+GU_626.2	Dysmenorrhea	dysmenorrhea	Genitourinary	HP_0100607	Dysmenorrhea	dysmenorrhea	True
+GU_627.1	Postmenopausal bleeding	postmenopausal bleeding	Genitourinary	HP_0033840	Postmenopausal bleeding	postmenopausal bleeding	True
+GU_629	Female infertility	female infertility	Genitourinary	HP_0008222	Female infertility	female infertility	True
+DE_660.12	Dermatophytosis	dermatophytosis	Dermatological	HP_0032515	Deep dermatophytosis	deep dermatophytosis	True
+DE_664.4	Psoriasis	psoriasis	Dermatological	HP_0003765	Psoriasis	psoriasis	False
+DE_665	Erythema nodosum	erythema nodosum	Dermatological	HP_0012219	Erythema nodosum	erythema nodosum	True
+DE_666	Urticaria	urticaria	Dermatological	HP_0001025	Urticaria	urticaria	True
+DE_666.2	Idiopathic urticaria	idiopathic urticaria	Dermatological	HP_0410133	Chronic idiopathic urticaria	chronic idiopathic urticaria	True
+DE_666.4	Dermatographic urticaria	dermatographic urticaria	Dermatological	HP_0011971	Dermatographic urticaria	dermatographic urticaria	True
+DE_666.5	Vibratory urticaria	vibratory urticaria	Dermatological	HP_0410138	Vibratory urticaria	vibratory urticaria	True
+DE_668.1	Atopic dermatitis	atopic dermatitis	Dermatological	HP_0001047	Atopic dermatitis	atopic dermatitis	True
+DE_668.1	Atopic dermatitis	atopic dermatitis	Dermatological	HP_0001047	Atopic dermatitis, chronic	atopic dermatitis chronic	False
+DE_668.2	Seborrheic dermatitis	seborrheic dermatitis	Dermatological	HP_0001051	Seborrheic dermatitis	seborrheic dermatitis	True
+DE_668.3	Contact dermatitis	contact dermatitis	Dermatological	HP_0032282	Contact dermatitis	contact dermatitis	True
+DE_669.1	Pyoderma gangrenosum	pyoderma gangrenosum	Dermatological	HP_0025452	Pyoderma gangrenosum	pyoderma gangrenosum	True
+DE_669.3	Hidradenitis suppurativa	hidradenitis suppurativa	Dermatological	HP_0040154	Hidradenitis suppurativa	hidradenitis suppurativa	False
+DE_670	Seborrheic keratosis	seborrheic keratosis	Dermatological	HP_0031287	Seborrheic keratosis	seborrheic keratosis	True
+DE_672.21	Actinic keratosis	actinic keratosis	Dermatological	HP_0025127	Actinic keratosis	actinic keratosis	True
+DE_674.1	Hypopigmentation	hypopigmentation	Dermatological	HP_0001010	Hypopigmentation	hypopigmentation	False
+DE_674.1	Hypopigmentation	hypopigmentation	Dermatological	HP_0005599	Hair hypopigmentation	hair hypopigmentation	False
+DE_674.1	Hypopigmentation	hypopigmentation	Dermatological	HP_0007730	Iris hypopigmentation	iris hypopigmentation	True
+DE_674.1	Hypopigmentation	hypopigmentation	Dermatological	HP_0005590	Spotty hypopigmentation	spotty hypopigmentation	True
+DE_674.1	Hypopigmentation	hypopigmentation	Dermatological	HP_0005590	Patchy hypopigmentation	patchy hypopigmentation	False
+DE_674.1	Hypopigmentation	hypopigmentation	Dermatological	HP_0007894	Fundus hypopigmentation	fundus hypopigmentation	False
+DE_674.1	Hypopigmentation	hypopigmentation	Dermatological	HP_0012643	Foveal hypopigmentation	foveal hypopigmentation	True
+DE_674.11	Vitiligo	vitiligo	Dermatological	HP_0001045	Vitiligo	vitiligo	True
+DE_674.21	Cafe au lait spots*	cafe au lait spots	Dermatological	HP_0000957	Cafe au lait spots	cafe au lait spots	False
+DE_675.2	Striae atrophicae	striae atrophicae	Dermatological	HP_0001065	Striae atrophicae	striae atrophicae	False
+DE_677	Chilblains	chilblains	Dermatological	HP_0009710	Chilblains	chilblains	True
+DE_679.2	Pallor	pallor	Dermatological	HP_0000980	Pallor	pallor	True
+DE_679.3	Flushing	flushing	Dermatological	HP_0031284	Flushing	flushing	True
+DE_679.4	Pruritus	pruritus	Dermatological	HP_0000989	Pruritus	pruritus	True
+DE_679.5	Pyoderma	pyoderma	Dermatological	HP_0000999	Pyoderma	pyoderma	True
+DE_680	Epidermal thickening	epidermal thickening	Dermatological	HP_0011368	Epidermal thickening	epidermal thickening	True
+DE_680.4	Ainhum	ainhum	Dermatological	HP_0031009	Ainhum	ainhum	True
+DE_680.5	Acanthosis nigricans	acanthosis nigricans	Dermatological	HP_0000956	Acanthosis nigricans	acanthosis nigricans	True
+DE_682.2	Pilonidal cyst	pilonidal cyst	Dermatological	HP_0010769	Pilonidal cyst	pilonidal cyst	False
+DE_682.4	Acne	acne	Dermatological	HP_0001061	Acne	acne	True
+DE_683.2	Nail dystrophy*	nail dystrophy	Dermatological	HP_0008404	Nail dystrophy	nail dystrophy	True
+DE_683.4	Onycholysis*	onycholysis	Dermatological	HP_0001806	Onycholysis	onycholysis	True
+DE_684.1	Alopecia	alopecia	Dermatological	HP_0001596	Alopecia	alopecia	True
+DE_684.11	Alopecia Areata	alopecia areata	Dermatological	HP_0002232	Alopecia areata	alopecia areata	False
+DE_684.12	Telogen effluvium	telogen effluvium	Dermatological	HP_0025470	Telogen effluvium	telogen effluvium	True
+DE_684.21	Hirsutism*	hirsutism	Dermatological	HP_0001007	Hirsutism	hirsutism	True
+DE_685.5	Anhidrosis	anhidrosis	Dermatological	HP_0000970	Anhidrosis	anhidrosis	True
+DE_685.8	Hyperhidrosis	hyperhidrosis	Dermatological	HP_0000975	Hyperhidrosis	hyperhidrosis	True
+DE_686.1	Pressure ulcer	pressure ulcer	Dermatological	HP_0012399	Pressure ulcer	pressure ulcer	True
+MS_700.4	Inflammatory myopathy	inflammatory myopathy	Muscloskeletal	HP_0009071	Inflammatory myopathy	inflammatory myopathy	True
+MS_700.41	Myositis	myositis	Muscloskeletal	HP_0100614	Myositis	myositis	True
+MS_701.1	Osteomyelitis	osteomyelitis	Muscloskeletal	HP_0001886	Foot osteomyelitis	foot osteomyelitis	True
+MS_701.1	Osteomyelitis	osteomyelitis	Muscloskeletal	HP_0002754	Osteomyelitis	osteomyelitis	True
+MS_703.1	Gout	gout	Muscloskeletal	HP_0001997	Gout	gout	True
+MS_703.2	Chondrocalcinosis	chondrocalcinosis	Muscloskeletal	HP_0000934	Chondrocalcinosis	chondrocalcinosis	True
+MS_705.1	Rheumatoid arthritis	rheumatoid arthritis	Muscloskeletal	HP_0001370	Rheumatoid arthritis	rheumatoid arthritis	True
+MS_705.1	Rheumatoid arthritis	rheumatoid arthritis	Muscloskeletal	HP_0005681	Juvenile rheumatoid arthritis	juvenile rheumatoid arthritis	True
+MS_705.1	Rheumatoid arthritis	rheumatoid arthritis	Muscloskeletal	HP_0005681	Rheumatoid arthritis, juvenile	rheumatoid arthritis juvenile	False
+MS_706.1	Sacroiliitis	sacroiliitis	Muscloskeletal	HP_0012317	Sacroiliitis	sacroiliitis	False
+MS_708	Osteoarthritis	osteoarthritis	Muscloskeletal	HP_0002758	Osteoarthritis	osteoarthritis	True
+MS_708	Osteoarthritis	osteoarthritis	Muscloskeletal	HP_0005086	Knee osteoarthritis	knee osteoarthritis	True
+MS_708	Osteoarthritis	osteoarthritis	Muscloskeletal	HP_0008843	Hip osteoarthritis	hip osteoarthritis	True
+MS_709.11	Mallet finger	mallet finger	Muscloskeletal	HP_0030771	Mallet finger	mallet finger	True
+MS_709.22	Hallux rigidus	hallux rigidus	Muscloskeletal	HP_0025004	Hallux rigidus	hallux rigidus	True
+MS_709.23	Hallux varus	hallux varus	Muscloskeletal	HP_0008080	Hallux varus	hallux varus	True
+MS_709.24	Hammer toe	hammer toe	Muscloskeletal	HP_0001765	Hammer toe	hammer toe	False
+MS_710.11	Wrist drop	wrist drop	Muscloskeletal	HP_0031189	Wrist drop	wrist drop	True
+MS_710.21	Coxa valga	coxa valga	Muscloskeletal	HP_0002673	Coxa valga	coxa valga	True
+MS_710.22	Coxa vara	coxa vara	Muscloskeletal	HP_0002812	Coxa vara	coxa vara	True
+MS_710.23	Protrusio acetabuli	protrusio acetabuli	Muscloskeletal	HP_0003179	Protrusio acetabuli	protrusio acetabuli	True
+MS_710.42	Club foot	club foot	Muscloskeletal	HP_0001762	Club foot	club foot	False
+MS_713.1	Hemarthrosis	hemarthrosis	Muscloskeletal	HP_0005261	Hemarthrosis	hemarthrosis	False
+MS_714.1	Kyphosis	kyphosis	Muscloskeletal	HP_0002808	Kyphosis	kyphosis	True
+MS_714.2	Lordosis	lordosis	Muscloskeletal	HP_0003307	Lordosis	lordosis	False
+MS_714.3	Scoliosis	scoliosis	Muscloskeletal	HP_0002650	Scoliosis	scoliosis	True
+MS_714.5	Spondylolysis	spondylolysis	Muscloskeletal	HP_0003304	Spondylolysis	spondylolysis	True
+MS_714.6	Spondylolisthesis	spondylolisthesis	Muscloskeletal	HP_0003302	Spondylolisthesis	spondylolisthesis	True
+MS_715.4	Spinal stenosis	spinal stenosis	Muscloskeletal	HP_0003416	Spinal stenosis	spinal stenosis	False
+MS_715.4	Spinal stenosis	spinal stenosis	Muscloskeletal	HP_0004610	Lumbar spinal stenosis	lumbar spinal stenosis	False
+MS_716.1	Schmorl's nodes	schmorls nodes	Muscloskeletal	HP_0030041	Schmorl's nodes	schmorls nodes	False
+MS_716.2	Degenerative disc disease	degenerative disk disease	Muscloskeletal	HP_0008419	Degenerative disc disease	degenerative disk disease	False
+MS_717.3	Occipital neuralgia*	occipital neuralgia	Muscloskeletal	HP_0012318	Occipital neuralgia	occipital neuralgia	True
+MS_718	Back pain	back pain	Muscloskeletal	HP_0003418	Back pain	back pain	True
+MS_718	Back pain	back pain	Muscloskeletal	HP_0003419	Low back pain	low back pain	True
+MS_718.4	Low back pain	low back pain	Muscloskeletal	HP_0003419	Low back pain	low back pain	True
+MS_718.5	Sciatica	sciatica	Muscloskeletal	HP_0011868	Sciatica	sciatica	True
+MS_719.8	Rhabdomyolysis	rhabdomyolysis	Muscloskeletal	HP_0003201	Rhabdomyolysis	rhabdomyolysis	True
+MS_719.8	Rhabdomyolysis	rhabdomyolysis	Muscloskeletal	HP_0008942	Acute rhabdomyolysis	acute rhabdomyolysis	True
+MS_719.8	Rhabdomyolysis	rhabdomyolysis	Muscloskeletal	HP_0008942	Rhabdomyolysis, acute	rhabdomyolysis acute	False
+MS_721.11	Trigger finger	trigger finger	Muscloskeletal	HP_0012276	Trigger finger	trigger finger	False
+MS_721.5	Bursitis	bursitis	Muscloskeletal	HP_0025232	Bursitis	bursitis	True
+MS_721.7	Synovial hypertrophy*	synovial hypertrophy	Muscloskeletal	HP_0005186	Synovial hypertrophy	synovial hypertrophy	True
+MS_724.1	Myalgia	myalgia	Muscloskeletal	HP_0003326	Myalgia	myalgia	True
+MS_724.4	Panniculitis	panniculitis	Muscloskeletal	HP_0012490	Panniculitis	panniculitis	True
+MS_725	Osteochondrosis	osteochondrosis	Muscloskeletal	HP_0040188	Osteochondrosis	osteochondrosis	True
+MS_726.1	Osteoporosis	osteoporosis	Muscloskeletal	HP_0000939	Osteoporosis	osteoporosis	True
+MS_726.5	Osteomalacia	osteomalacia	Muscloskeletal	HP_0002749	Osteomalacia	osteomalacia	True
+MS_726.6	Osteolysis*	osteolysis	Muscloskeletal	HP_0002797	Osteolysis	osteolysis	True
+MS_726.6	Osteolysis*	osteolysis	Muscloskeletal	HP_0034047	Rib osteolysis	rib osteolysis	True
+MS_727.1	Osteonecrosis	osteonecrosis	Muscloskeletal	HP_0010885	Osteonecrosis	osteonecrosis	False
+MS_727.4	Hyperostosis of skull	hyperostosis of skull	Muscloskeletal	HP_0004330	Hyperostosis of skull	hyperostosis of skull	False
+MS_727.4	Hyperostosis of skull	hyperostosis of skull	Muscloskeletal	HP_0002694	Hyperostosis of skull base	hyperostosis of skull base	False
+MS_728.2	Osteochondritis dissecans	osteochondritis dissecans	Muscloskeletal	HP_0010886	Osteochondritis dissecans	osteochondritis dissecans	True
+MS_733.111	Maxillary hyperplasia	maxillary hyperplasia	Muscloskeletal	HP_0430028	Maxillary hyperplasia	maxillary hyperplasia	False
+MS_733.112	Mandibular hyperplasia	mandibular hyperplasia	Muscloskeletal	HP_0000303	Mandibular hyperplasia	mandibular hyperplasia	False
+MS_733.121	Maxillary hypoplasia	maxillary hypoplasia	Muscloskeletal	HP_0000327	Maxillary hypoplasia	maxillary hypoplasia	False
+MS_733.122	Mandibular hypoplasia	mandibular hypoplasia	Muscloskeletal	HP_0000347	Mandibular hypoplasia	mandibular hypoplasia	False
+MS_734.9	Jaw pain	jaw pain	Muscloskeletal	HP_0040264	Jaw pain	jaw pain	True
+MS_740	Dislocation	dislocation	Muscloskeletal	HP_0001083	Lens dislocation	lens dislocation	False
+MS_740	Dislocation	dislocation	Muscloskeletal	HP_0002827	Hip dislocation	hip dislocation	True
+MS_740	Dislocation	dislocation	Muscloskeletal	HP_0004976	Knee dislocation	knee dislocation	True
+MS_740.6	Dislocation of hip	dislocation of hip	Muscloskeletal	HP_0002827	Dislocation of hip	dislocation of hip	False
+CM_750.111	Microcephaly	microcephaly	Congenital	HP_0000252	Microcephaly	microcephaly	True
+CM_750.111	Microcephaly	microcephaly	Congenital	HP_0040196	Mild microcephaly	mild microcephaly	True
+CM_750.115	Holoprosencephaly*	holoprosencephaly	Congenital	HP_0001360	Holoprosencephaly	holoprosencephaly	True
+CM_750.115	Holoprosencephaly*	holoprosencephaly	Congenital	HP_0006870	Lobar holoprosencephaly	lobar holoprosencephaly	True
+CM_750.115	Holoprosencephaly*	holoprosencephaly	Congenital	HP_0006988	Alobar holoprosencephaly	alobar holoprosencephaly	True
+CM_750.13	Megalencephaly*	megalencephaly	Congenital	HP_0001355	Megalencephaly	megalencephaly	True
+CM_750.21	Spina bifida	spina bifida	Congenital	HP_0002414	Spina bifida	spina bifida	True
+CM_750.22	Spina bifida occulta	spina bifida occulta	Congenital	HP_0003298	Spina bifida occulta	spina bifida occulta	True
+CM_750.22	Spina bifida occulta	spina bifida occulta	Congenital	HP_0004601	Spina bifida occulta at L5	spina bifida occulta at l5	True
+CM_750.22	Spina bifida occulta	spina bifida occulta	Congenital	HP_0004614	Spina bifida occulta at S1	spina bifida occulta at s1	True
+CM_750.24	Encephalocele	encephalocele	Congenital	HP_0002084	Encephalocele	encephalocele	True
+CM_750.24	Encephalocele	encephalocele	Congenital	HP_0011817	Basal encephalocele	basal encephalocele	True
+CM_750.26	Hydromyelia	hydromyelia	Congenital	HP_0100565	Hydromyelia	hydromyelia	True
+CM_751.11	Aplasia/Hypoplasia affecting the eye	aplasiahypoplasia affecting the eye	Congenital	HP_0008056	Aplasia/Hypoplasia affecting the eye	aplasiahypoplasia affecting the eye	True
+CM_751.112	Microphthalmos	microphthalmos	Congenital	HP_0000568	Microphthalmos	microphthalmos	False
+CM_751.211	Congenital aphakia	congenital aphakia	Congenital	HP_0007707	Congenital aphakia	congenital aphakia	True
+CM_751.213	Congenital cataract	congenital cataract	Congenital	HP_0000519	Congenital cataract	congenital cataract	False
+CM_751.241	Blue sclera*	blue sclera	Congenital	HP_0000592	Blue sclera	blue sclera	False
+CM_751.5	Coloboma	coloboma	Congenital	HP_0000589	Coloboma	coloboma	True
+CM_751.711	Congenital ptosis	congenital ptosis	Congenital	HP_0007970	Congenital ptosis	congenital ptosis	True
+CM_752.1	Aplasia/Hypoplasia of the external ear	aplasiahypoplasia of the external ear	Congenital	HP_0008772	Aplasia/Hypoplasia of the external ear	aplasiahypoplasia of the external ear	True
+CM_752.11	Microtia	microtia	Congenital	HP_0008551	Microtia	microtia	True
+CM_752.2	Macrotia	macrotia	Congenital	HP_0000400	Macrotia	macrotia	True
+CM_753.1	Branchial anomaly	branchial anomaly	Congenital	HP_0009794	Branchial anomaly	branchial anomaly	True
+CM_754.1	Oral cleft	oral cleft	Congenital	HP_0000202	Oral cleft	oral cleft	True
+CM_754.11	Cleft palate	cleft palate	Congenital	HP_0000175	Cleft palate	cleft palate	True
+CM_754.31	Macrostomia	macrostomia	Congenital	HP_0000154	Macrostomia	macrostomia	False
+CM_754.32	Microstomia	microstomia	Congenital	HP_0000160	Microstomia	microstomia	False
+CM_754.52	Macroglossia	macroglossia	Congenital	HP_0000158	Macroglossia	macroglossia	True
+CM_755.21	Dolichocephaly*	dolichocephaly	Congenital	HP_0000268	Dolichocephaly	dolichocephaly	True
+CM_755.22	Plagiocephaly*	plagiocephaly	Congenital	HP_0001357	Plagiocephaly	plagiocephaly	True
+CM_755.23	Craniosynostosis*	craniosynostosis	Congenital	HP_0001363	Craniosynostosis	craniosynostosis	True
+CM_755.3	Craniofacial dysostosis*	craniofacial dysostosis	Congenital	HP_0004439	Craniofacial dysostosis	craniofacial dysostosis	True
+CM_755.3	Craniofacial dysostosis*	craniofacial dysostosis	Congenital	HP_0008497	Congenital craniofacial dysostosis	congenital craniofacial dysostosis	True
+CM_755.31	Mandibulofacial dysostosis*	mandibulofacial dysostosis	Congenital	HP_0005321	Mandibulofacial dysostosis	mandibulofacial dysostosis	True
+CM_755.4	Macrocephaly*	macrocephaly	Congenital	HP_0000256	Macrocephaly	macrocephaly	True
+CM_755.5	Hypertelorism	hypertelorism	Congenital	HP_0000316	Hypertelorism	hypertelorism	True
+CM_755.61	Choanal atresia	choanal atresia	Congenital	HP_0000453	Choanal atresia	choanal atresia	True
+CM_757.111	Esophageal web*	esophageal web	Congenital	HP_0100594	Esophageal web	esophageal web	True
+CM_758.11	Meckel diverticulum	meckel diverticulum	Congenital	HP_0002245	Meckel diverticulum	meckel diverticulum	True
+CM_758.15	Intestinal duplication*	intestinal duplication	Congenital	HP_0100668	Intestinal duplication	intestinal duplication	True
+CM_758.16	Ectopic anus*	ectopic anus	Congenital	HP_0004397	Ectopic anus	ectopic anus	True
+CM_758.17	Persistent cloaca*	persistent cloaca	Congenital	HP_0012621	Persistent cloaca	persistent cloaca	True
+CM_758.21	Biliary atresia	biliary atresia	Congenital	HP_0005912	Biliary atresia	biliary atresia	True
+CM_758.22	Cystic liver disease	cystic liver disease	Congenital	HP_0006706	Cystic liver disease	cystic liver disease	True
+CM_758.31	Annular pancreas*	annular pancreas	Congenital	HP_0001734	Annular pancreas	annular pancreas	True
+CM_760.153	Imperforate hymen	imperforate hymen	Congenital	HP_0030011	Imperforate hymen	imperforate hymen	True
+CM_760.212	Retractile testis	retractile testis	Congenital	HP_0012646	Retractile testis	retractile testis	True
+CM_760.221	Hypospadias	hypospadias	Congenital	HP_0000047	Hypospadias	hypospadias	True
+CM_760.223	Hypoplasia of penis	hypoplasia of penis	Congenital	HP_0008736	Hypoplasia of penis	hypoplasia of penis	True
+CM_760.227	Epispadias	epispadias	Congenital	HP_0000039	Epispadias	epispadias	True
+CM_760.26	Congenital hydrocele	congenital hydrocele	Congenital	HP_4000037	Congenital hydrocele	congenital hydrocele	True
+CM_761.11	Renal hypoplasia/aplasia	renal hypoplasiaaplasia	Congenital	HP_0008678	Renal hypoplasia/aplasia	renal hypoplasiaaplasia	True
+CM_761.111	Renal agenesis*	renal agenesis	Congenital	HP_0000104	Renal agenesis	renal agenesis	True
+CM_761.112	Renal hypoplasia*	renal hypoplasia	Congenital	HP_0000089	Renal hypoplasia	renal hypoplasia	True
+CM_761.12	Renal dysplasia	renal dysplasia	Congenital	HP_0000110	Renal dysplasia	renal dysplasia	True
+CM_761.12	Renal dysplasia	renal dysplasia	Congenital	HP_0000800	Cystic renal dysplasia	cystic renal dysplasia	True
+CM_761.12	Renal dysplasia	renal dysplasia	Congenital	HP_0000800	Renal dysplasia, cystic	renal dysplasia cystic	False
+CM_761.18	Ectopic kidney*	ectopic kidney	Congenital	HP_0000086	Ectopic kidney	ectopic kidney	True
+CM_761.23	Congenital megaureter*	congenital megaureter	Congenital	HP_0008676	Congenital megaureter	congenital megaureter	True
+CM_761.31	Bladder exstrophy	bladder exstrophy	Congenital	HP_0002836	Bladder exstrophy	bladder exstrophy	True
+CM_761.34	Abnormality of the urachus	abnormality of the urachus	Congenital	HP_0010478	Abnormality of the urachus	abnormality of the urachus	True
+CM_762.11	Laryngeal web	laryngeal web	Congenital	HP_0005950	Laryngeal web	laryngeal web	True
+CM_762.13	Laryngeal hypoplasia*	laryngeal hypoplasia	Congenital	HP_0008749	Laryngeal hypoplasia	laryngeal hypoplasia	True
+CM_763.13	Patent ductus arteriosus	patent ductus arteriosus	Congenital	HP_0001643	Patent ductus arteriosus	patent ductus arteriosus	True
+CM_763.141	Coarctation of aorta	coarctation of aorta	Congenital	HP_0001680	Coarctation of aorta	coarctation of aorta	True
+CM_763.146	Vascular ring of aorta*	vascular ring of aorta	Congenital	HP_0010775	Vascular ring of aorta	vascular ring of aorta	False
+CM_763.147	Right aortic arch*	right aortic arch	Congenital	HP_0012020	Right aortic arch	right aortic arch	True
+CM_763.16	Double outlet right ventricle	double outlet right ventricle	Congenital	HP_0001719	Double outlet right ventricle	double outlet right ventricle	True
+CM_763.17	Double outlet left ventricle*	double outlet left ventricle	Congenital	HP_0011581	Double outlet left ventricle	double outlet left ventricle	True
+CM_763.222	Ebstein anomaly of the tricuspid valve	ebstein anomaly of the tricuspid valve	Congenital	HP_0010316	Ebstein anomaly of the tricuspid valve	ebstein anomaly of the tricuspid valve	True
+CM_763.233	Congenital mitral stenosis	congenital mitral stenosis	Congenital	HP_0011570	Congenital mitral stenosis	congenital mitral stenosis	True
+CM_763.24	Hypoplastic right heart syndrome*	hypoplastic right heart syndrome	Congenital	HP_0010954	Hypoplastic right heart syndrome	hypoplastic right heart syndrome	False
+CM_763.31	Ventricular septal defect	ventricular septal defect	Congenital	HP_0001629	Ventricular septal defect	ventricular septal defect	True
+CM_763.31	Ventricular septal defect	ventricular septal defect	Congenital	HP_0011621	Gerbode ventricular septal defect	gerbode ventricular septal defect	True
+CM_763.31	Ventricular septal defect	ventricular septal defect	Congenital	HP_0011622	Inlet ventricular septal defect	inlet ventricular septal defect	True
+CM_763.31	Ventricular septal defect	ventricular septal defect	Congenital	HP_0011622	Type 3 ventricular septal defect	type 3 ventricular septal defect	False
+CM_763.31	Ventricular septal defect	ventricular septal defect	Congenital	HP_0011623	Muscular ventricular septal defect	muscular ventricular septal defect	True
+CM_763.31	Ventricular septal defect	ventricular septal defect	Congenital	HP_0011623	Type 4 ventricular septal defect	type 4 ventricular septal defect	False
+CM_763.31	Ventricular septal defect	ventricular septal defect	Congenital	HP_0011681	Subarterial ventricular septal defect	subarterial ventricular septal defect	True
+CM_763.31	Ventricular septal defect	ventricular septal defect	Congenital	HP_0011681	Conal ventricular septal defect	conal ventricular septal defect	False
+CM_763.31	Ventricular septal defect	ventricular septal defect	Congenital	HP_0011681	Type 1 ventricular septal defect	type 1 ventricular septal defect	False
+CM_763.31	Ventricular septal defect	ventricular septal defect	Congenital	HP_0011682	Membranous ventricular septal defect	membranous ventricular septal defect	False
+CM_763.31	Ventricular septal defect	ventricular septal defect	Congenital	HP_0011682	Type 2 ventricular septal defect	type 2 ventricular septal defect	False
+CM_763.31	Ventricular septal defect	ventricular septal defect	Congenital	HP_0011683	Restrictive ventricular septal defect	restrictive ventricular septal defect	True
+CM_763.32	Atrial septal defect	atrial septal defect	Congenital	HP_0001631	Atrial septal defect	atrial septal defect	True
+CM_763.32	Atrial septal defect	atrial septal defect	Congenital	HP_0001684	Secundum atrial septal defect	secundum atrial septal defect	True
+CM_763.32	Atrial septal defect	atrial septal defect	Congenital	HP_0010445	Primum atrial septal defect	primum atrial septal defect	True
+CM_763.321	Patent foramen ovale*	patent foramen ovale	Congenital	HP_0001655	Patent foramen ovale	patent foramen ovale	True
+CM_763.33	Atrioventricular septal defect	atrioventricular septal defect	Congenital	HP_0001674	Complete atrioventricular septal defect	complete atrioventricular septal defect	False
+CM_763.33	Atrioventricular septal defect	atrioventricular septal defect	Congenital	HP_0006695	Atrioventricular septal defect	atrioventricular septal defect	False
+CM_763.33	Atrioventricular septal defect	atrioventricular septal defect	Congenital	HP_0011576	Intermediate atrioventricular septal defect	intermediate atrioventricular septal defect	False
+CM_763.33	Atrioventricular septal defect	atrioventricular septal defect	Congenital	HP_0011579	Unbalanced atrioventricular septal defect	unbalanced atrioventricular septal defect	False
+CM_763.34	Cor triatriatum	cor triatriatum	Congenital	HP_0010774	Cor triatriatum	cor triatriatum	True
+CM_763.34	Cor triatriatum	cor triatriatum	Congenital	HP_0011566	Cor triatriatum dexter	cor triatriatum dexter	True
+CM_763.4	Tetralogy of Fallot	tetralogy of fallot	Congenital	HP_0001636	Tetralogy of Fallot	tetralogy of fallot	True
+CM_763.6	Anomalous pulmonary venous return	anomalous pulmonary venous return	Congenital	HP_0005160	Total anomalous pulmonary venous return	total anomalous pulmonary venous return	True
+CM_763.6	Anomalous pulmonary venous return	anomalous pulmonary venous return	Congenital	HP_0010772	Anomalous pulmonary venous return	anomalous pulmonary venous return	True
+CM_763.6	Anomalous pulmonary venous return	anomalous pulmonary venous return	Congenital	HP_0010773	Partial anomalous pulmonary venous return	partial anomalous pulmonary venous return	True
+CM_764.11	Persistent left superior vena cava*	persistent left superior vena cava	Congenital	HP_0005301	Persistent left superior vena cava	persistent left superior vena cava	True
+CM_766.21	Congenital talipes calcaneovalgus	congenital talipes calcaneovalgus	Congenital	HP_0005850	Congenital talipes calcaneovalgus	congenital talipes calcaneovalgus	True
+CM_767.1	Abnormal digit morphology	abnormal digit morphology	Congenital	HP_0011297	Abnormal digit morphology	abnormal digit morphology	True
+CM_767.11	Polydactyly	polydactyly	Congenital	HP_0001161	Hand polydactyly	hand polydactyly	True
+CM_767.11	Polydactyly	polydactyly	Congenital	HP_0010442	Polydactyly	polydactyly	True
+CM_767.11	Polydactyly	polydactyly	Congenital	HP_0001829	Foot polydactyly	foot polydactyly	True
+CM_767.12	Syndactyly	syndactyly	Congenital	HP_0001159	Syndactyly	syndactyly	True
+CM_767.12	Syndactyly	syndactyly	Congenital	HP_0001770	Toe syndactyly	toe syndactyly	True
+CM_767.6	Bowing of the long bones	bowing of the long bones	Congenital	HP_0006487	Bowing of the long bones	bowing of the long bones	True
+CM_768.11	Pectus excavatum	pectus excavatum	Congenital	HP_0000767	Pectus excavatum	pectus excavatum	True
+CM_768.12	Pectus carinatum	pectus carinatum	Congenital	HP_0000768	Pectus carinatum	pectus carinatum	True
+CM_769.1	Klippel-Feil syndrome	klippel-feil syndrome	Congenital	HP_0004602	Klippel-Feil syndrome	klippel-feil syndrome	False
+CM_770.11	Congenital diaphragmatic hernia*	congenital diaphragmatic hernia	Congenital	HP_0000776	Congenital diaphragmatic hernia	congenital diaphragmatic hernia	True
+CM_770.22	Gastroschisis	gastroschisis	Congenital	HP_0001543	Gastroschisis	gastroschisis	True
+CM_770.4	Arthrogryposis multiplex congenita*	arthrogryposis multiplex congenita	Congenital	HP_0002804	Arthrogryposis multiplex congenita	arthrogryposis multiplex congenita	True
+CM_772.2	Congenital hypothyroidism	congenital hypothyroidism	Congenital	HP_0000851	Congenital hypothyroidism	congenital hypothyroidism	True
+CM_773.1	Asplenia*	asplenia	Congenital	HP_0001746	Asplenia	asplenia	True
+SS_800	Chest pain	chest pain	Symptoms	HP_0100749	Chest pain	chest pain	True
+SS_800.2	Precordial pain	precordial pain	Symptoms	HP_0032141	Precordial pain	precordial pain	True
+SS_805	Fever	fever	Symptoms	HP_0001945	Fever	fever	True
+SS_807.2	Weakness	weakness	Symptoms	HP_0025406	Weakness	weakness	False
+SS_807.21	Muscle weakness (generalized)	muscle weakness generalized	Symptoms	HP_0003324	Muscle weakness, generalised	muscle weakness generalized	False
+SS_807.21	Muscle weakness (generalized)	muscle weakness generalized	Symptoms	HP_0003324	Muscle weakness, generalized	muscle weakness generalized	False
+SS_808.1	Carotid sinus syncope	carotid sinus syncope	Symptoms	HP_0012669	Carotid sinus syncope	carotid sinus syncope	True
+SS_809	Pain	pain	Symptoms	HP_0012531	Pain	pain	True
+SS_809.2	Chronic pain	chronic pain	Symptoms	HP_0012532	Chronic pain	chronic pain	True
+SS_810	Shock	shock	Symptoms	HP_0031273	Shock	shock	True
+SS_810.2	Cardiogenic shock	cardiogenic shock	Symptoms	HP_0030149	Cardiogenic shock	cardiogenic shock	True
+SS_810.3	Hypovolemic shock*	hypovolemic shock	Symptoms	HP_0031274	Hypovolemic shock	hypovolemic shock	True
+SS_812	Edema	edema	Symptoms	HP_0000969	Edema	edema	True
+SS_812.1	Generalized edema*	generalized edema	Symptoms	HP_0007430	Generalized edema	generalized edema	True
+SS_812.1	Generalized edema*	generalized edema	Symptoms	HP_0012050	Extreme generalized edema	extreme generalized edema	False
+SS_813	Clubbing of fingers	clubbing of fingers	Symptoms	HP_0001217	Clubbing of fingers and toes	clubbing of fingers and toes	False
+SS_813	Clubbing of fingers	clubbing of fingers	Symptoms	HP_0100759	Clubbing of fingers	clubbing of fingers	True
+SS_814	Jaundice	jaundice	Symptoms	HP_0000952	Jaundice	jaundice	True
+SS_820	Elevated erythrocyte sedimentation rate	elevated erythrocyte sedimentation rate	Symptoms	HP_0003565	Elevated erythrocyte sedimentation rate	elevated erythrocyte sedimentation rate	True
+SS_821	Abnormality of red blood cells	abnormality of red blood cells	Symptoms	HP_0001877	Abnormality of red blood cells	abnormality of red blood cells	False
+SS_830	Proteinuria	proteinuria	Symptoms	HP_0000093	Proteinuria	proteinuria	True
+SS_830	Proteinuria	proteinuria	Symptoms	HP_0012595	Mild proteinuria	mild proteinuria	True
+SS_831	Glycosuria	glycosuria	Symptoms	HP_0003076	Glycosuria	glycosuria	True
+SS_832.2	Myoglobinuria	myoglobinuria	Symptoms	HP_0002913	Myoglobinuria	myoglobinuria	True
+SS_832.4	Hemoglobinuria	hemoglobinuria	Symptoms	HP_0003641	Hemoglobinuria	hemoglobinuria	True
+SS_832.6	Pyuria*	pyuria	Symptoms	HP_0012085	Pyuria	pyuria	True
+SS_832.7	Hypocitraturia*	hypocitraturia	Symptoms	HP_0012405	Hypocitraturia	hypocitraturia	True
+SS_832.8	Hyperoxaluria*	hyperoxaluria	Symptoms	HP_0003159	Hyperoxaluria	hyperoxaluria	True
+SS_832.9	Hypercalciuria*	hypercalciuria	Symptoms	HP_0002150	Hypercalciuria	hypercalciuria	True
+SS_840	Allergy	allergy	Symptoms	HP_0012393	Allergy	allergy	True
+SS_840.1	Food allergy	food allergy	Symptoms	HP_0500093	Food allergy	food allergy	True
+SS_840.12	Seafood allergy	seafood allergy	Symptoms	HP_0410333	Seafood allergy	seafood allergy	True
+SS_840.17	Milk allergy	milk allergy	Symptoms	HP_0100327	Cow milk allergy	cow milk allergy	True
+SS_840.17	Milk allergy	milk allergy	Symptoms	HP_0100327	Milk allergy	milk allergy	False
+SS_840.18	Egg allergy	egg allergy	Symptoms	HP_0410328	Egg allergy	egg allergy	True
+SS_840.2	Allergy to insects	allergy to insects	Symptoms	HP_0410335	Allergy to insects	allergy to insects	False
+SS_840.4	Latex allergy	latex allergy	Symptoms	HP_0500094	Latex allergy	latex allergy	True
+SS_849.3	Short stature	short stature	Symptoms	HP_0004322	Short stature	short stature	True
+SS_849.3	Short stature	short stature	Symptoms	HP_0003502	Mild short stature	mild short stature	True
+SS_849.3	Short stature	short stature	Symptoms	HP_0003502	short stature, mild	short stature mild	False
+NB_853.6	Persistent fetal circulation	persistent fetal circulation	Neonatal	HP_0011726	Persistent fetal circulation	persistent fetal circulation	True
+NB_853.6	Persistent fetal circulation	persistent fetal circulation	Neonatal	HP_0011726	Persistent foetal circulation	persistent fetal circulation	False
+NB_856.11	Congenital cytomegalovirus infection	congenital cytomegalovirus infection	Neonatal	HP_0033624	History of congenital cytomegalovirus infection	history of congenital cytomegalovirus infection	False
+NB_861.1	Neonatal diabetes mellitus	neonatal diabetes mellitus	Neonatal	HP_0008255	Transient neonatal diabetes mellitus	transient neonatal diabetes mellitus	True
+NB_861.2	Neonatal hypoglycemia	neonatal hypoglycemia	Neonatal	HP_0001998	Neonatal hypoglycemia	neonatal hypoglycemia	True
+NB_871.4	Ankyloglossia	ankyloglossia	Neonatal	HP_0010296	Ankyloglossia	ankyloglossia	True
+NB_872.4	Delayed separation of umbilical cord	delayed separation of umbilical cord	Neonatal	HP_0032434	Delayed separation of umbilical cord	delayed separation of umbilical cord	False
+NB_873	Retinopathy of prematurity	retinopathy of prematurity	Neonatal	HP_0500049	Retinopathy of prematurity	retinopathy of prematurity	True
+NB_873	Retinopathy of prematurity	retinopathy of prematurity	Neonatal	HP_0500050	Retinopathy of prematurity stage 1	retinopathy of prematurity stage 1	True
+NB_873	Retinopathy of prematurity	retinopathy of prematurity	Neonatal	HP_0500051	Retinopathy of prematurity stage 2	retinopathy of prematurity stage 2	True
+NB_873	Retinopathy of prematurity	retinopathy of prematurity	Neonatal	HP_0500052	Retinopathy of prematurity stage 3	retinopathy of prematurity stage 3	True
+NB_873	Retinopathy of prematurity	retinopathy of prematurity	Neonatal	HP_0500053	Retinopathy of prematurity stage 4	retinopathy of prematurity stage 4	True
+NB_873	Retinopathy of prematurity	retinopathy of prematurity	Neonatal	HP_0500054	Retinopathy of prematurity stage 4a	retinopathy of prematurity stage 4a	True
+NB_873	Retinopathy of prematurity	retinopathy of prematurity	Neonatal	HP_0500055	Retinopathy of prematurity stage 4b	retinopathy of prematurity stage 4b	True
+NB_873	Retinopathy of prematurity	retinopathy of prematurity	Neonatal	HP_0500056	Retinopathy of prematurity stage 5	retinopathy of prematurity stage 5	True
+NB_873	Retinopathy of prematurity	retinopathy of prematurity	Neonatal	HP_0500057	Retinopathy of prematurity stage 5a	retinopathy of prematurity stage 5a	True
+NB_873	Retinopathy of prematurity	retinopathy of prematurity	Neonatal	HP_0500058	Retinopathy of prematurity stage 5b	retinopathy of prematurity stage 5b	True
+NB_873	Retinopathy of prematurity	retinopathy of prematurity	Neonatal	HP_0500059	Retinopathy of prematurity zone I	retinopathy of prematurity zone i	True
+NB_873	Retinopathy of prematurity	retinopathy of prematurity	Neonatal	HP_0500060	Retinopathy of prematurity zone II	retinopathy of prematurity zone ii	True
+NB_873	Retinopathy of prematurity	retinopathy of prematurity	Neonatal	HP_0500061	Retinopathy of prematurity zone III	retinopathy of prematurity zone iii	True
+NB_873	Retinopathy of prematurity	retinopathy of prematurity	Neonatal	HP_0500062	Retinopathy of prematurity plus	retinopathy of prematurity plus	True
+NB_873	Retinopathy of prematurity	retinopathy of prematurity	Neonatal	HP_0500063	Retinopathy of prematurity pre-plus	retinopathy of prematurity pre-plus	True
+NB_873	Retinopathy of prematurity	retinopathy of prematurity	Neonatal	HP_0500064	Retinopathy of prematurity threshold	retinopathy of prematurity threshold	True
+NB_873.2	Retinopathy of prematurity, stage 1	retinopathy of prematurity stage 1	Neonatal	HP_0500050	Retinopathy of prematurity stage 1	retinopathy of prematurity stage 1	True
+NB_873.3	Retinopathy of prematurity, stage 2	retinopathy of prematurity stage 2	Neonatal	HP_0500051	Retinopathy of prematurity stage 2	retinopathy of prematurity stage 2	True
+NB_873.4	Retinopathy of prematurity, stage 3	retinopathy of prematurity stage 3	Neonatal	HP_0500052	Retinopathy of prematurity stage 3	retinopathy of prematurity stage 3	True
+NB_873.5	Retinopathy of prematurity, stage 4	retinopathy of prematurity stage 4	Neonatal	HP_0500053	Retinopathy of prematurity stage 4	retinopathy of prematurity stage 4	True
+NB_873.6	Retinopathy of prematurity, stage 5	retinopathy of prematurity stage 5	Neonatal	HP_0500056	Retinopathy of prematurity stage 5	retinopathy of prematurity stage 5	True
+PP_901.1	Ectopic pregnancy	ectopic pregnancy	Pregnancy	HP_0031456	Ectopic pregnancy	ectopic pregnancy	True
+PP_901.2	Hydatidiform mole	hydatidiform mole	Pregnancy	HP_0032192	Hydatidiform mole	hydatidiform mole	True
+PP_904.3	Antepartum hemorrhage	antepartum hemorrhage	Pregnancy	HP_0025328	Antepartum hemorrhage	antepartum hemorrhage	True
+PP_904.3	Antepartum hemorrhage	antepartum hemorrhage	Pregnancy	HP_0025328	Antepartum haemorrhage	antepartum hemorrhage	False
+PP_905	Premature rupture of membranes	premature rupture of membranes	Pregnancy	HP_0001788	Premature rupture of membranes	premature rupture of membranes	True
+PP_907.7	Placental infarction*	placental infarction	Pregnancy	HP_0011416	Placental infarction	placental infarction	True
+PP_908.13	Eclampsia	eclampsia	Pregnancy	HP_0100601	Eclampsia	eclampsia	True
+PP_911.1	Hyperemesis gravidarum	hyperemesis gravidarum	Pregnancy	HP_0012188	Hyperemesis gravidarum	hyperemesis gravidarum	True
+PP_920.1	Polyhydramnios	polyhydramnios	Pregnancy	HP_0001561	Polyhydramnios	polyhydramnios	True
+PP_920.2	Oligohydramnios	oligohydramnios	Pregnancy	HP_0001562	Oligohydramnios	oligohydramnios	True
+GE_961.11	Neurofibromatosis	neurofibromatosis	Genetic	HP_0001067	Neurofibromatosis	neurofibromatosis	False
+GE_962.121	Tyrosinemia*	tyrosinemia	Genetic	HP_0003231	Tyrosinemia	tyrosinemia	False
+GE_962.13	Albinism*	albinism	Genetic	HP_0001022	Albinism	albinism	True
+GE_962.131	Ocular albinism*	ocular albinism	Genetic	HP_0001107	Ocular albinism	ocular albinism	True
+GE_962.141	Histidinemia*	histidinemia	Genetic	HP_0010906	Histidinemia	histidinemia	False
+GE_962.23	3-methylglutaconic aciduria*	3-methylglutaconic aciduria	Genetic	HP_0003535	3-Methylglutaconic aciduria	3-methylglutaconic aciduria	True
+GE_962.24	Methylmalonic acidemia*	methylmalonic acidemia	Genetic	HP_0002912	Methylmalonic acidemia	methylmalonic acidemia	True
+GE_962.25	Propionic acidemia*	propionic acidemia	Genetic	HP_0003571	Propionic acidemia	propionic acidemia	True
+GE_962.41	Homocystinuria*	homocystinuria	Genetic	HP_0002156	Homocystinuria	homocystinuria	True
+GE_962.42	Cystinuria*	cystinuria	Genetic	HP_0003131	Cystinuria	cystinuria	True
+GE_962.71	Trimethylaminuria*	trimethylaminuria	Genetic	HP_0003614	Trimethylaminuria	trimethylaminuria	True
+GE_963.15	Metachromatic leukodystrophy*	metachromatic leukodystrophy	Genetic	HP_0006926	Metachromatic leukodystrophy variant	metachromatic leukodystrophy variant	True
+GE_970.4	Methemoglobinemia	methemoglobinemia	Genetic	HP_0012119	Methemoglobinemia	methemoglobinemia	True
+GE_970.7	Congenital dyserythropoietic anemia*	congenital dyserythropoietic anemia	Genetic	HP_0004810	Congenital dyserythropoietic anaemia	congenital dyserythropoietic anemia	False
+GE_970.7	Congenital dyserythropoietic anemia*	congenital dyserythropoietic anemia	Genetic	HP_0004810	Congenital dyserythropoietic anemia	congenital dyserythropoietic anemia	False
+GE_972.41	Spinal muscular atrophy	spinal muscular atrophy	Genetic	HP_0006959	Proximal spinal muscular atrophy	proximal spinal muscular atrophy	True
+GE_972.41	Spinal muscular atrophy	spinal muscular atrophy	Genetic	HP_0007269	Spinal muscular atrophy	spinal muscular atrophy	True
+GE_972.41	Spinal muscular atrophy	spinal muscular atrophy	Genetic	HP_0009037	Segmental spinal muscular atrophy	segmental spinal muscular atrophy	True
+GE_972.9	Muscular dystrophy	muscular dystrophy	Genetic	HP_0003560	Muscular dystrophy	muscular dystrophy	True
+GE_974.22	Lattice corneal dystrophy	lattice corneal dystrophy	Genetic	HP_0001149	Lattice corneal dystrophy	lattice corneal dystrophy	True
+GE_974.23	Granular corneal dystrophy	granular corneal dystrophy	Genetic	HP_0007802	Granular corneal dystrophy	granular corneal dystrophy	True
+GE_974.31	Choroideremia	choroideremia	Genetic	HP_0001139	Choroideremia	choroideremia	True
+GE_977.1	Congenital ichthyosis	congenital ichthyosis	Genetic	HP_0007431	Congenital ichthyosis	congenital ichthyosis	False
+GE_977.14	Congenital bullous ichthyosiform erythroderma*	congenital bullous ichthyosiform erythroderma	Genetic	HP_0007475	Congenital bullous ichthyosiform erythroderma	congenital bullous ichthyosiform erythroderma	True
+GE_977.2	Epidermolysis bullosa*	epidermolysis bullosa	Genetic	HP_0012221	Pretibial epidermolysis bullosa	pretibial epidermolysis bullosa	False
+GE_977.5	Ectodermal dysplasia	ectodermal dysplasia	Genetic	HP_0000968	Ectodermal dysplasia	ectodermal dysplasia	True
+GE_977.5	Ectodermal dysplasia	ectodermal dysplasia	Genetic	HP_0007529	Hidrotic ectodermal dysplasia	hidrotic ectodermal dysplasia	True
+GE_977.7	Steatocystoma multiplex*	steatocystoma multiplex	Genetic	HP_0012035	Steatocystoma multiplex	steatocystoma multiplex	True
+GE_978.316	Spondyloepiphyseal dysplasia*	spondyloepiphyseal dysplasia	Genetic	HP_0002655	Spondyloepiphyseal dysplasia	spondyloepiphyseal dysplasia	True
+GE_978.316	Spondyloepiphyseal dysplasia*	spondyloepiphyseal dysplasia	Genetic	HP_0002655	Spondyloepiphyseal dysplasia tarda	spondyloepiphyseal dysplasia tarda	False
+GE_978.35	Polyostotic fibrous dysplasia	polyostotic fibrous dysplasia	Genetic	HP_0010735	Polyostotic fibrous dysplasia	polyostotic fibrous dysplasia	True
+GE_981.4	Pseudohypoparathyroidism*	pseudohypoparathyroidism	Genetic	HP_0000852	Pseudohypoparathyroidism	pseudohypoparathyroidism	True
+GE_981.8	Malignant hyperthermia	malignant hyperthermia	Genetic	HP_0002047	Malignant hyperthermia	malignant hyperthermia	True

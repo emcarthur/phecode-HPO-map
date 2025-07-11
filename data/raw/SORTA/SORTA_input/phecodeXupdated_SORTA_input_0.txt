@@ -1,0 +1,3552 @@
+Name
+salmonella
+staphylococcus
+staphylococcus aureus
+escherichia coli
+streptococcus
+streptococcus pneumoniae
+group a streptococcus
+group b streptococcus
+scarlet fever
+mycobacteria
+mycobacterium tuberculosis
+disseminated mycobacterium avium-intracellulare complex dmac
+mycobacterium leprae leprosy
+neisseria
+neisseria meningitidis
+neisseria gonorrhea
+hemophilus infection
+hemophilus influenzae
+haemophilus ducreyi
+helicobacter h. pylori
+pseudomonas
+corynebacterium
+corynebacterium diphtheriae
+klebsiella
+proteus
+mycoplasma
+bacteroides fragilis
+clostridium
+clostridium perfringens
+clostridium difficile
+clostridium botulinum
+chlamydia
+chlamydia trachomatis
+chlamydia psittaci
+bartonellosis
+serratia
+treponema pallidum syphilis
+treponema carateum
+borrelia
+lyme disease
+rickettsia
+spotted fever
+ehrlichiosis
+vibrio
+pertussis
+enterococcus
+actinomyces and nocardia
+shigella
+bacillus
+leptospira
+campylobacter
+listeria
+yersinia
+francisella
+brucella
+burkholderia
+spirillum
+streptobacillus
+erysipelothrix
+pasteurella
+legionella
+coxiella
+tropheryma
+enterovirus
+poliovirus
+coxsackie virus
+echo virus
+hand foot and mouth disease
+enteroviral vesicular pharyngitis
+rhinovirus
+herpesvirus
+herpes simplex
+varicella chickenpox
+herpes zoster
+infectious mononucleosis
+cytomegalovirus cmv
+human herpesvirus 6
+human herpesvirus 7
+parvovirus
+hepatovirus
+hepatitis a
+hepatitis b
+hepatitis b with delta
+hepatitis c
+chronic hepatitis c
+acute hepatitis c
+hepatitis e
+poxvirus
+molluscum contagiosum
+human papillomavirus
+plantar wart
+anogenital venereal warts
+retrovirus
+human immunodeficiency virus
+human t-cell lymphotropic virus type 1
+respiratory syncytial virus
+human metapneumovirus
+coronavirus
+sars-cov-2
+adenovirus
+influenza virus
+influenza a virus
+parainfluenza virus
+rotavirus
+norovirus
+measles virus
+orthorubulavirus mumps
+rubella
+dengue virus
+dengue hemorrhagic fever
+other specified viral infections
+candidiasis
+disseminated candidiasis
+coccidioides
+histoplasmosis
+blastomyces
+aspergillosis
+cryptococcosis
+pneumocystosis
+zygomycosis
+other specified fungal infections
+parasites
+amebiasis
+plasmodium malaria
+leishmaniasis leishmania
+visceral leishmaniasis
+cutaneous leishmaniasis
+trichomoniasis
+toxoplasmosis
+enterobiasis
+giardiasis
+cryptosporidiosis
+pediculosis acariasis and other infestations
+pediculosis
+scabies
+infectious prions
+sexually transmitted disease
+infections
+bacterial infections
+viral infections
+fungal infections
+gangrene
+systemic inflammatory response syndrome
+sepsis
+meningococcemia
+toxic shock syndrome
+bacteremia
+drug resistant microorganisms
+methicillin resistant staphylococcus aureus
+resistance to penicillins
+resistance to beta lactam antibiotics
+malignant neoplasm of the head and neck
+malignant neoplasm of the oral cavity
+malignant neoplasm of the tongue
+malignant neoplasm of the gums
+malignant neoplasm of the floor of mouth
+malignant neoplasm of the palate
+malignant neoplasm of the oropharynx
+malignant neoplasm of the nasopharynx
+malignant neoplasm of the hypopharynx
+malignant neoplasm of nasal cavities middle ear and accessory sinuses
+malignant neoplasm of the larynx
+malignant neoplasm of the pharynx
+malignant neoplasm of the lip
+malignant neoplasm of the salivary glands
+malignant neoplasm of the digestive organs
+malignant neoplasm of the esophagus
+malignant neoplasm of stomach
+malignant neoplasm of cardia
+malignant neoplasm of the small intestine
+malignant neoplasm of the lower gi tract
+colorectal cancer
+malignant neoplasm of colon
+malignant neoplasm of appendix
+malignant neoplasm of anus
+malignant neoplasm of the liver and intrahepatic bile ducts
+malignant neoplasm of the liver
+malignant neoplasm of the intrahepatic bile ducts
+malignant neoplasm of the gallbladder and extrahepatic bile ducts
+malignant neoplasm of the gallbladder
+malignant neoplasm of the pancreas
+malignant neoplasm of the thoracic and respiratory organs
+malignant neoplasm of the of bronchus and lung
+malignant neoplasm of the trachea
+malignant neoplasm of the heart mediastinum thymus and pleura
+malignant neoplasm of the heart
+malignant neoplasm of the mediastinum
+malignant neoplasm of the of pleura
+malignant neoplasm of the thymus
+malignant neoplasm of the skin
+melanomas of skin
+basal cell carcinoma
+squamous cell carcinoma of the skin
+carcinoma in situ of skin
+malignant sarcoma-related cancers
+malignant neoplam of the bone andor cartilage
+malignant neoplasm of retroperitoneum and peritoneum
+malignant neoplasm of connective and soft tissue
+malignant neoplasm of peripheral nerves
+gastrointestinal stromal tumor
+kaposis sarcoma
+malignant neoplasm of the breast
+malignant neoplasm of the breast female
+malignant neoplasm of the breast male
+gynecological malignant neoplasms
+malignant neoplasm of the vulva
+malignant neoplasm of the vagina
+malignant neoplasm of the cervix
+malignant neoplasm of the uterus
+malignant neoplasm of endometrium
+malignant neoplasm of the ovary
+malignant neoplasm of the fallopian tube and uterine adnexa
+malignant neoplasm of the placenta
+malignant neoplasm of male genitalia
+malignant neoplasm of the penis
+malignant neoplasm of the prostate
+malignant neoplasm of the testis
+malignant neoplasm of epididymis
+malignant neoplasm of spermatic cord
+malignant neoplasm of the scrotum
+malignant neoplasm of the urinary tract
+malignant neoplasm of the kidney
+malignant neoplasm of kidney except pelvis
+malignant neoplasm of renal pelvis
+malignant neoplasm of the bladder
+malignant neoplasm of urethra
+malignant neoplasm of ureter
+malignant neoplasm of the eye brain and other parts of central nervous system
+malignant neoplasm of eye
+malignant neoplasm of orbit
+malignant neoplasm of lacrimal gland and duct
+malignant neoplasm of conjunctiva
+malignant neoplasm of cornea
+malignant neoplasm of retina
+malignant neoplasm of choroid
+malignant neoplasm of meninges
+malignant neoplasm of brain
+malignant neoplasm of spinal cord
+malignant neoplasm of cranial nerve
+malignant neoplasm of the endocrine glands
+malignant neoplasm of the thyroid
+malignant neoplasm of the parathyroid gland
+malignant neoplasm of the pituitary gland and craniopharyngeal duct
+malignant neoplasm of the pineal gland
+malignant neoplasm of other and ill-defined sites
+mesothelioma
+neuroendocrine tumors
+malignant neuroendocrine tumors
+exocrine pancreatic cancer
+merkel cell carcinoma
+benign neuroendocrine tumors
+carcinoid tumors
+intestinal carcinoid
+carcinoid tumor of the bronchus and lung
+carcinoid tumor of the thymus
+carcinoid tumor of the stomach
+carcinoid tumor of the kidney
+paraganglioma
+pheochromocytoma
+secondary malignant neoplasm
+hemo onc - by cell of origin
+myeloid
+plasma cell
+monocyte
+erythroid
+megakaryoblast
+mast cell
+lymphoid
+mature b-cell
+mature t-cell
+histocytoces
+leukemia
+acute leukemia
+acute lymphoid leukemia
+acute myeloid leukemia
+chronic leukemia
+chronic lymphoid leukemia
+chronic myloid leukemia
+chronic myelomonocytic monocytic leukemia
+lymphoma
+hodgkin lymphoma
+nodular sclerosis hodgkin lymphoma
+non-hodgkin lymphoma
+follicular lymphoma
+diffuse large b-cell lymphoma
+burkitt lymphoma
+t-cell lymphoma
+anaplastic large cell lymphoma
+extranodal nkt-cell lymphoma nasal type
+multiple myeloma and malignant plasma cell neoplasms
+multiple myeloma
+myeloproliferative disorder
+polycythemia vera
+essential thrombocythemia
+myelodysplastic syndrome
+chronic myeloproliferative disease
+myelofibrosis
+other malignant neoplasms of lymphoid hematopoietic and related tissue
+cutaneous mastocytosis
+estrogen receptor status
+estrogen receptor postitive status er
+estrogen receptor negative status er-
+cancer solid tumor excluding bcc
+sequelae of cancer
+benign neoplasm of the head and neck
+benign neoplasm of the oral cavity
+benign neoplasm of the lip
+benign neoplasm of the tongue
+benign neoplasm of the floor of mouth
+benign neoplasm of the salivary glands
+benign neoplasm of the oropharynx
+benign neoplasm of the nasopharynx
+benign neoplasm of the hypopharynx
+benign neoplasm of the paranasal sinus and nasal cavity
+benign neoplasm of vocal cord or larynx
+benign neoplasm of the digestive organs
+benign neoplasm of the esophagus
+benign neoplasm of stomach
+benign neoplasm of the small intestine
+benign neoplasm of colon rectum anus and anal canal
+benign neoplasm of the colon
+benign neoplasm of rectum and anus
+benign neoplasm of the liver and intrahepatic bile ducts
+benign neoplasm of the liver
+benign neoplasm of the pancreas
+benign neoplasm of the thoracic and respiratory organs
+benign neoplasm of the of bronchus and lung
+benign neoplasm of the trachea
+benign neoplasm of the heart
+benign neoplasm of the mediastinum
+benign neoplasm of the of pleura
+benign neoplasm of the thymus
+benign neoplasm of the skin
+nevus non-neoplastic
+melanocytic nevi
+benign neoplams of the bone andor cartilage
+benign neoplasm of retroperitoneum and peritoneum
+benign neoplasm of other connective and soft tissue
+benign neoplasm of peripheral nerves
+lipoma
+lipomatosis
+lipoma of intrathoracic organs
+lipoma of skin subcutaneous tissue
+testicular limpoma
+hemangioma and lymphangioma
+hemangioma
+lymphangioma
+benign neoplasm of the breast
+lump or mass in breast or nonspecific abnormal breast exam
+lump or mass in breast
+abnormal mammogram
+mammographic microcalcification
+gynecological benign neoplasms
+benign neoplasms of the vulva
+benign neoplasms of the vagina
+benign neoplasms of the cervix
+benign neoplasms of the uterus
+leiomyoma of uterus
+benign neoplasms of the ovary
+benign neoplasm of the fallopian tube and uterine adnexa
+benign neoplasm of male genital organs
+benign neoplasm of the penis
+benign neoplasm of the prostate
+benign neoplasm of the testis
+benign neoplasm of epididymis and spermatic cord
+benign neoplasm of the scrotum
+benign neoplasm of kidney and urinary organs
+benign neoplasm of the kidney
+benign neoplasm of ureter
+benign neoplasm of bladder
+benign neoplasm of urethra
+benign neoplasm of the eye brain and other parts of central nervous system
+benign neoplasm of eye
+benign neoplasm of orbit
+benign neoplasm of lacrimal gland and duct
+benign neoplasm of conjunctiva
+benign neoplasm of cornea
+benign neoplasm of retina
+benign neoplasm of choroid
+benign neoplasm of meninges meningioma
+benign neoplasm of brain
+benign neoplasm of spinal cord
+benign neoplasm of cranial nerve
+benign neoplasm of the endocrine glands
+benign neoplasm of the thyroid
+benign neoplasm of the parathyroid gland
+benign neoplasm of the pituitary gland and craniopharyngeal duct
+benign neoplasm of pineal gland
+benign neoplasm of lymph nodes
+benign neoplasm of other orsites
+deficiency anemias
+iron deficiency anemia
+iron deficiency anemia secondary to blood loss
+megaloblastic anemia
+vitamin b12 deficiency anemia due to intrinsic factor deficiency pernicious anemia
+folate-deficiency anemia
+protein-deficiency anemia
+extrinsic acquired hemolytic anemias
+autoimmune hemolytic anemias aiha
+hemolytic-uremic syndrome
+drug-induced hemolytic anemia
+aplastic anemia
+constitutional hereditary aplastic anemia
+acquired pure red cell aplasia erythroblastopenia
+aplastic anemia due to drugs or other external agents
+idiopathic aplastic anemia
+pancytopenia
+drug-induced pancytopenia
+anemia
+microcytic anemia
+macrocytic anemia
+acute posthemorrhagic anemia
+anemia secondary to chronic diseases and conditions
+myelophthisis
+sideroblastic anemia
+coagulation defects purpura and other hemorrhagic conditions
+hypo-coagulability
+hemorrhagic disorder due to intrinsic circulating anticoagulants
+acquired coagulation factor deficiency
+other nonthrombocytopenic purpura
+hyper-coagulability
+primary thrombophilia
+activated protein c resistance
+lupus anticoagulant syndrome
+antiphospholipid syndrome
+disseminated intravascular coagulation defibrination syndrome
+spontaneous ecchymoses
+abnormal coagulation profile
+thrombocytopenia
+immune thrombocytopenic purpura itp
+evans syndrome
+congenital and hereditary thrombocytopenic purpura
+secondary thrombocytopenia
+heparin-induced thrombocytopenia hit
+qualitative platelet defects
+decreased white blood cell count
+neutropenia
+drug induced neutropenia
+neutropenia due to infection
+cyclic neutropenia
+lymphocytopenia
+elevated white blood cell count leukocytosis
+lymphocytosis symptomatic
+monocytosis symptomatic
+plasmacytosis
+leukemoid reaction
+basophilia
+bandemia
+eosinophilia
+hypereosinophilic syndrome
+idiopathic hypereosinophilic syndrome
+other disorders of white blood cells
+functional disorders of polymorphonuclear neutrophils
+hemophagocytic syndromes
+diseases of spleen
+hyposplenism
+splenomegaly
+hypersplenism
+chronic congestive splenomegaly
+neutropenic splenomegaly
+abscess of spleen
+cyst of spleen
+infarction of spleen
+polycythemias
+secondary polycythemia
+other diseases of blood and blood-forming organs
+thrombocytosis
+abnormality of the lymph nodes
+lymphadenitis
+mesenteric lymphadenitis
+chronic lymphadenitis
+acute lymphadenitis
+enlargement of lymph nodes lymphadenopathy
+lymphangitis
+lymphedema
+hereditary lymphedema
+immunodeficiencies
+hypogammaglobulinemia
+selective deficiency of immunoglobulin a iga
+selective deficiency of immunoglobulin m igm
+selective deficiency of immunoglobulin g igg subclasses
+common variable immunodeficiency cvid
+immunodeficiency with increased igm
+immunodeficiency
+other disorders involving the immune mechanism
+polyclonal hypergammaglobulinemia
+paraproteinemias
+monoclonal gammopathy
+macroglobulinemia waldenstrom macroglobulinemia
+heavy chain disease
+cryoglobulinemia
+mast cell activation syndrome mcas
+cytokine release syndrome
+autoimmune disease
+disorders of thyroid gland
+hypothyroidism
+secondary hypothyroidism
+hypothyroidism not specified as secondary
+myxedema
+goiter
+diffuse goiter
+uninodular goiter single thyroid nodule
+multinodular goiter
+ectopic thyroid nodule
+dyshormogenetic goiter
+thyrotoxicosis hyperthyroidism
+graves disease toxic diffuse goiter
+thyroiditis
+chronic thyroiditis
+hashimoto thyroiditis chronic lymphocytic thyroiditis
+acute thyroiditis
+subacute thyroiditis
+drug-inducediatrogenic thyroiditis
+disorders of thyrocalcitonin secretion
+atrophy of thyroid
+iodine-related thyroid disorders
+sick-euthyroid syndrome
+abnormal thyroid function studies
+diabetes mellitus
+type 1 diabetes
+type 2 diabetes
+secondary diabetes
+diabetes mellitus due to underlying condition
+drug or chemical induced diabetes mellitus
+other specified diabetes
+metabolic syndrome dysmetabolic syndrome x
+abnormal glucose
+impaired fasting glucose
+impaired glucose tolerance oral
+hypoglycemia
+hypoglycemic coma
+drug-induced hypoglycemia
+hyperglycemia
+prediabetes
+disorders of pancreatic internal secretion excl. dm
+abnormality of secretion of glucagon
+abnormality of secretion of gastrin
+disorders of parathyroid gland
+hypoparathyroidism
+hyperparathyroidism
+secondary hyperparathyroidism
+disorders of the pituitary gland and its hypothalamic control
+pituitary hyperfunction
+tall stature acromegaly and gigantism
+syndrome of inappropriate secretion of antidiuretic hormone
+hyperprolactinemia
+pituitary-dependent cushings disease
+hypopituitarism
+iatrogenic hypopituitarism
+hypothalamic dysfunction
+diabetes insipidus
+disorders of adrenal glands
+adrenal hyperfunction
+hyperaldosteronism
+cushings syndrome
+drug-induced cushings syndrome
+nelsons syndrome
+ectopic acth syndrome
+medulloadrenal hyperfunction
+adrenocortical insufficiency
+drug-induced adrenocortical insufficiency
+postprocedural adrenocortical -medullary hypofunction
+adrenogenital disorders
+disorders of ovarian function
+ovarian failure
+premature menopause
+postablative ovarian failure
+ovarian hyperfunction
+estrogen excess hyperestrogenism
+androgen excess
+testicular dysfunction
+testicular hypofunction
+testicular hyperfunction
+disorders of puberty
+delayed puberty
+precocious puberty
+polyglandular dysfunction
+autoimmune polyglandular failure
+polyglandular hyperfunction
+diseases of thymus gland
+persistent hyperplasia of thymus
+abscess of thymus
+abnormal results of endocrine function studies excluding thyroid
+other endocrine disorders
+ectopic hormone secretion nec
+protein-calorie malnutrition
+abnormal weight loss and underweight
+abnormal weight loss
+underweight
+anorexia
+cachexia
+early satiety
+failure to thrive
+vitamin deficiencies
+vitamin a deficiency
+vitamin b group deficiency
+thiamine deficiency vitamin b1
+riboflavin deficiency vitamin b2
+niacin deficiency vitamin b3
+pyridoxine deficiency vitamin b6
+vitamin b12 deficiency
+folate deficiency vitamin b9
+vitamin c deficiency ascorbic acid
+vitamin d deficiency
+vitamin e deficiency
+vitamin k deficiency
+other nutritional deficiencies
+essential fatty acid efa deficiency
+overweight and obesity
+obesity
+morbid obesity
+localized adiposity
+abnormal weight gain
+micronutrient excess
+hypervitaminosis a
+hypercarotenemia
+megavitamin-b6 syndrome
+hypervitaminosis d
+hyperlipidemia
+hypercholesterolemia
+pure hypercholesterolemia
+elevated lipoproteina
+hyperglyceridemia
+pure hyperglyceridemia
+mixed hyperlipidemia
+hyperchylomicronemia
+disorders of lipoprotein metabolism and other lipidemias
+lipodystrophy not elsewhere classified
+disorders of mineral metabolism and mineral deficiencies
+disorders of copper metabolism
+disorders of phosphorus metabolism
+disorders of magnesium metabolism
+hypermagnesemia
+hypomagnesemia
+disorders of calcium metabolism
+hypocalcemia
+hypercalcemia
+calcinosis cutis
+hungry bone syndrome
+dietary calcium deficiency
+metabolic disorders of zinc metabolism
+disorders of iron metabolism
+hemochromatosis
+mineral deficiencies
+dietary selenium deficiency
+manganese deficiency
+chromium deficiency
+molybdenum deficiency
+vanadium deficiency
+dietary zinc deficiency
+copper deficiency
+iron deficiency
+disorders of plasma-protein metabolism nec
+amyloidosis
+cerebral amyloid angiopathy
+light chain al amyloidosis
+wild-type transthyretin-related attrwt amyloidosis
+other anddisorders of metabolism
+disorders of carnitine metabolism
+hyperphenylalaninemia
+disorders of bilirubin excretion
+biliuria
+hyperuricemia without signs of gout
+disorders of carbohydrate metabolism
+disorders of intestinal carbohydrate absorption
+disorders of fluid electrolyte and acid-base balance
+hyperosmolality andor hypernatremia
+hyposmolality andor hyponatremia
+mixed disorder of acid-base balance
+acidosis
+alkalosis
+hyperkalemia hyperpotassemia
+hypokalemia hypopotassemia
+fluid overload
+volume depletion
+dehydration
+hypovolemia
+polydipsia
+psychoactive substance related disorders
+alcohol use disorders
+alcohol abuse and dependence
+alcoholic liver disease
+opioid use disorders
+opioid abuse or dependence
+cannabis use disorders
+cannabis abuse or dependance
+sedative hypnotic or anxiolytic related disorders
+sedative hypnotic or anxiolytic-related abuse or dependance
+stimulant use disorders
+stimulant abuse or dependance
+hallucinogen related disorders
+hallucinogen abuse or dependence
+psychoactive substance abuse
+psychoactive substance dependance
+psychoactive substance withdrawal
+abuse of non-psychoactive substances
+nicotine dependence current and history of
+current tobacco use and nicotine dependence
+personal history of nicotine dependence
+other mental and behavioral problems
+symptoms and signs involving appearance and behavior
+high risk sexual behavior
+patients noncompliance with medical treatment and regimen
+problems related to lifestyle
+suicidal ideations
+suicide and self-inflicted harm
+nonsuicidal self-harm
+mood affective disorders
+bipolar disorder
+bipolar i disorder
+bipolar ii disorder
+major depressive disorder
+premenstrual dysphoric disorder
+dysthymic disorder
+psychotic disorder
+schizophrenia
+schizoaffective disorder
+delusional disorders
+drug-induced psychotic disorder
+anxiety and anxiety disorders
+panic disorder episodic paroxysmal anxiety
+generalized anxiety disorder
+phobic disorders
+agoraphobia
+social phobia
+drug induced anxiety disorder
+obsessive-compulsive disorder
+reaction to severe stress and adjustment disorders
+posttraumatic stress disorder
+dissociative and somatoform disorders
+conversion disorder
+eating disorders
+anorexia nervosa
+bulimia nervosa
+binge eating disorder
+polyphagia
+pica
+sexual dysfunction and disorders
+personality disorders
+paranoid personality disorder
+schizoid personality disorder
+antisocial personality disorder
+borderline personality disorder
+histrionic personality disorder
+avoidant personality disorder
+dependent personality disorder
+narcissistic personality disorder
+gender identity disorder
+impulse disorders
+intermittent explosive disorder
+pathological gambling
+trichotillomania
+mental disorder not otherwise specified
+intellectual disabilities
+mild intellectual disabilities
+moderate intellectual disabilities
+severe intellectual disabilities
+profound intellectual disabilities
+pervasive developmental disorders
+autism
+aspergers syndrome
+developemental delay
+speech and language developmental delay
+expressive language disorder
+mixed receptive-expressive language disorder
+phonological disorder
+specific developmental disorder of motor function
+specific developmental disorders of scholastic skills
+delayed milestones
+symbolic dysfunctions
+dyslexia and alexia
+attention-deficit hyperactivity disorders
+stereotyped movement disorders
+tics and tic disorders
+tourettes disorder
+chronic motor or vocal tic disorder
+transient tic disorder
+tics of organic origin
+conduct disorders
+behavioral and emotional disorders with onset usually in childhood and adolescence
+emotional disturbance of childhood or adolescence
+disorders of social functioning with onset in childhood and adolescence
+symptoms related to mental disorders
+delirium
+delusions
+hallucinations
+visual hallucinations
+auditory hallucinations
+neurocognitive disorder
+signs and symptoms involving emotional state
+irritability
+impulsiveness
+emotional lability
+demoralization and apathy
+nervousness
+excessive crying of child adolescent or adult
+restlessness and agitation
+homicidal ideations
+hostility and violent behavior
+meningitis
+infective meningitis
+bacterial meningitis
+viral meningitis
+fungal memingitis
+meningitis due to other non-infectious causes
+nonpyogenic meningitis
+chronic meningitis
+encephalitis myelitis and encephalomyelitis
+encephalitis
+bacterial encephalitis
+viral encephalitis
+toxoplasmosis meningoencephalitis
+acute disseminated encephalitis and encephalomyelitis adem
+myelitis
+acute transverse myelitis
+other cns infection
+prion diseases
+progressive multifocal leukoencephalopathy
+intracranial and intraspinal abscess
+systemic atrophies primarily affecting the central nervous system
+motor neuron disease
+amyotrophic lateral sclerosis als
+progressive bulbar palsy
+primary lateral sclerosis
+extrapyramidal and movement disorders
+parkinsonism
+parkinsons disease primary
+degenerative diseases of the basal ganglia excluding parkinsonism
+progressive supranuclear ophthalmoplegia steele-richardson-olszewski
+abnormal involuntary movements
+dystonia
+drug induced dystonia
+torticollis
+idiopathic orofacial dystonia
+blepharospasm
+abnormal head movements
+fasciculation
+tremor
+essential tremor
+drug-induced tremor
+myoclonus
+benign shuddering attacks
+tetany
+stiff-man syndrome
+chorea
+abnormality of gait and mobility
+abnormality of gait
+difficulty walking
+lack of coordination
+demyelinating diseases of the central nervous system
+multiple sclerosis
+neuromyelitis optica
+diffuse myelinoclastic sclerosis schilders disease
+dementias and cerebral degeneration
+dementias
+alzheimers disease
+vascular dementia
+frontotemporal dementia ftd
+dementia with lewy bodies
+cerebral degeneration
+corticobasal degeneration
+reyes syndrome
+symptoms and signs involving cognitive functions and awareness
+memory loss
+neurologic neglect syndrome
+age-related cognitive decline
+specified cognitive deficit
+attention and concentration deficit
+cognitive communication deficit
+visuospatial deficit
+psychomotor deficit
+frontal lobe and executive function deficit
+mild cognitive impairment
+transient global amnesia
+altered mental status
+epilepsy recurrent seizures convulsions
+epilepsy
+generalized epilepsy
+partial epilepsy
+lennox-gastaut syndrome
+juvenile myoclonic epilepsy
+convulsions
+febrile convulsions
+post-traumatic seizures
+headache
+tension headache
+post-traumatic headache
+headache syndromes non migraine
+persistent headache syndromes non migraine
+hypnic headache
+thunderclap headache
+cluster headaches
+paroxysmal hemicrania
+migraine
+migraine with aura
+hemiplegic migraine
+menstrual migraine
+chronic migraine without aura
+drug induced headache
+sleep disorders
+sleep apnea
+obstructive sleep apnea
+central sleep apnea
+high altitude periodic breathing
+idiopathic sleep related nonobstructive alveolar hypoventilation
+insomnia
+hypersomnia
+circadian rhythm sleep disorder
+parasomnias
+confusional arousals
+rem sleep behavior disorder
+recurrent isolated sleep paralysis
+sleepwalking somnambulism
+sleep terrors night terrors
+sleep related movement disorders
+periodic limb movement disorder
+sleep related leg cramps
+sleep related bruxism
+restless legs syndrome
+narcolepsy
+narcolepsy with cataplexy
+sleep disturbances
+disorders of facial and cranial nerves
+trigeminal nerve disorders cn5
+trigeminal neuralgia
+atypical face pain
+facial nerve disorders and weakness
+bells palsy
+geniculate ganglionitis
+facial weakness
+clonic hemifacial spasm
+facial myokymia
+disorders of olfactory 1st nerve
+third oculomotor nerve palsy
+fourth trochlear nerve palsy
+sixth abducent nerve palsy
+other disorders of glossopharyngeal 9th nerve
+disorders of pneumogastric 10th nerve
+disorders of hypoglossal 12th nerve
+multiple cranial nerve palsies
+nerve root and plexus disorders
+nerve plexus lesions
+nerve root lesions
+neuralgic amyotrophy
+phantom limb syndrome
+mononeuropathies
+mononeuritis of upper limb
+carpal tunnel syndrome
+carpal tunnel syndrome bilateral
+mononeuritis of lower limb
+lesion of sciatic nerve
+meralgia paresthetica
+polyneuropathies
+inflammatory polyneuropathy
+guillain-barre syndrome acute infective polyneuritis
+chronic inflammatory demyelinating polyneuritis
+toxic polyneuropathy
+critical illness polyneuropathy
+polyneuropathy related to infections
+idiopathic progressive neuropathy
+myasthenia gravis and other myoneural disorders
+myasthenia gravis
+toxic myoneural disorders
+lambert-eaton syndrome
+primary disorders of muscles
+myotonic disorders
+periodic paralysis
+myopathies
+critical illness myopathy
+toxic myopathy
+inflammatory and immune myopathies
+cerebral palsy and other paralytic syndromes
+cerebral palsy
+spastic cerebral palsy
+athetoid cerebral palsy
+ataxic cerebral palsy
+hemiplegia and hemiparesis
+flaccid hemiplegia
+spastic hemiplegia
+brown-sequard syndrome
+cauda equina syndrome
+transient paralysis
+plegia andparalysis
+paraplegiadiplegia
+quadriplegia
+monoplegia
+disorders of autonomic nervous system
+peripheral autonomic neuropathy
+autonomic dysreflexia
+complex regional pain syndrome
+horners syndrome
+multi-system degeneration of the autonomic nervous system
+postural orthostatic tachycardia syndrome pots
+hydrocephalus
+communicating hydrocephalus
+obstructive hydrocephalus
+idiopathic normal pressure hydrocephalus
+benign intracranial hypertension
+cerebrospinal fluid leak
+encephalopathy
+toxic encephalopathy
+metabolic encephalopathy
+hypertensive encephalopathy
+posterior reversible encephalopathy syndrome
+brain damage and brain death
+postconcussion syndrome
+pseudobulbar affect
+anoxic brain damage
+compression of brain
+cerebral edema
+other disorders of the brain and cns
+cerebral cysts
+disorders of meninges
+dural tear
+temporal sclerosis
+other diseases of spinal cord
+syringomyelia and syringobulbia
+myelopathies
+vascular myelopathies
+spinal cord compression
+disorder of nervous system
+abnormal findings on diagnostic test of central nervous system
+abnormal electroencephalogram eeg
+abnormal findings on diagnostic imaging of skull and head
+white matter disease
+intracranial space-occupying lesion found on diagnostic imaging of central nervous system
+abnormal results of function studies of peripheral nervous system
+nonspecific abnormal electromyogram emg
+other symptoms involving nervous  system
+meningismus
+abnormal reflex
+abnormal posture
+repeated falls
+disturbances of skin sensation
+anesthesia of skin
+hypoesthesia of skin
+paresthesia of skin
+hyperesthesia
+disturbances of sensation of smell and taste
+anosmia and parosmia
+parageusia
+dizziness and giddiness
+coma and other alteration of consciousness
+coma
+alteration of consciousness
+transient alteration of awareness
+speech disturbance
+dysarthria
+aphasia and dysphasia
+slurred speech
+inflammation of eyelids
+hordeolum
+chalazion
+blepharitis
+ulcerative blepharitis
+squamous blepharitis
+noninfectious dermatoses of eyelid
+eczematous dermatitis of eyelid
+xeroderma of eyelid
+allergic dermatitis of eyelid
+discoid lupus erythematosus of eyelid
+abscess of eyelid
+disorders of eyelid function
+entropion and trichiasis of eyelid
+mechanical entropion
+spastic entropion
+cicatricial entropion
+trichiasis of eyelid without entropion
+lagophthalmos
+mechanical lagophthalmos
+cicatricial lagophthalmos
+paralytic lagophthalmos
+ptosis of eyelid
+mechanical ptosis of eyelid
+myogenic ptosis of eyelid
+paralytic ptosis
+brow ptosis
+blepharochalasis
+eyelid retraction
+abnormal innervation syndrome of eyelid
+blepharophimosis
+ectropion of eyelid
+mechanical ectropion
+spastic ectropion
+cicatricial ectropion
+other disorders of the eyelids
+xanthelasma of eyelid
+hyperpigmentation of eyelid chloasma
+hypertrichosis of eyelid
+hypotrichosis of eyelid madarosis
+cysts of eyelid
+dermatochalasis of eyelid
+edema of eyelid
+meibomian gland dysfunction of eyelid
+disorders of lacrimal system
+dacryoadenitis
+dry eye syndrome tear film insufficiency
+lacrimal cysts
+lacrimal atrophy
+epiphora
+epiphora due to excess lacrimation
+epiphora due to insufficient drainage
+inflammation of lacrimal passages
+dacryocystitis
+canaliculitis
+lacrimal mucocele
+stenosis and insufficiency of lacrimal passages
+disorders of the orbit
+enophthalmos
+orbital edema or congestion
+exophthalmos proptosis
+orbital cysts
+myopathy of extraocular muscles
+deformity of orbit
+disorders of conjunctiva
+pterygium of eye
+conjunctival degenerations and deposits
+pinguecula
+conjunctival scars
+vascular abnormalities of conjunctiva
+conjunctival hyperemia
+conjunctival edema
+conjunctival cysts
+inflammation of the eye
+conjunctivitis
+follicular conjunctivitis
+allergic conjunctivitis
+blepharoconjunctivitis
+keratitis
+corneal ulcer
+punctate keratitis
+keratoconjunctivitis
+keratoconjunctivitis sicca
+neurotrophic keratoconjunctivitis
+inflammation of orbit
+cellulitis of orbit
+granuloma of orbit
+uveitis
+panuveitis
+iridocyclitis
+chorioretinitis
+vogt-koyanagi-harada disease
+episcleritis
+scleritis
+hypopyon
+chorioretinal inflammation
+disorders of sclera
+scleral staphyloma
+scleral ectasia
+disorders of the cornea
+corneal scars and opacities
+peripheral opacity of cornea
+central opacity of cornea
+corneal pigmentations
+corneal deposits
+corneal edema
+corneal neovascularization
+corneal degenerations
+recurrent erosion of cornea
+band keratopathy
+senile corneal changes including arcus senilis
+corneal deformities
+corneal ectasia
+keratoconus
+endothelial corneal dystrophy fuchs dystrophy
+disorders of iris and ciliary body
+degeneration of iris and ciliary body
+pigmentary iris degeneration
+cyst of iris ciliary body and anterior chamber
+vascular disorders of iris and ciliary body
+adhesions and disruptions of iris and ciliary body
+pupillary abnormalities
+floppy iris syndrome
+cataract
+cortical age-related cataract
+anterior subcapsular polar cataract
+posterior subcapsular polar cataract
+nuclear cataract
+cortical lamellar or zonular nonsenile cataract
+disorders of lens excluding cataracts
+aphakia
+dislocation of lens
+disorders of choroid
+chorioretinal scars
+choroidal degenerations
+choroidal detachment
+disorders of the retina
+retinal detachments and breaks
+serous retinal detachment
+traction detachment of retina
+horseshoe tear of retina without detachment
+round hole of retina without detachment
+retinoschisis and retinal cysts
+retinoschisis
+retinal cysts
+retinal vasculopathy
+retinal microaneurysms
+retinal neovascularization
+retinal vasculitis
+retinal telangiectasis
+retinal ischemia
+retinopathy
+hypertensive retinopathy
+diabetic retinopathy
+exudative retinopathy
+central serous chorioretinopathy
+macular degeneration
+age-related macular degeneration
+nonexuadative dry age-related macular degeneration
+exuadative wet age-related macular degeneration
+cystoid macular degeneration
+drusen degenerative of macula
+peripheral retinal degeneration
+lattice degeneration of retina
+puckering of macula
+toxic maculopathy of retina
+angioid streaks of macula
+macular cyst hole or pseudohole
+retinal edema
+retinal occlusions
+transient retinal arterial occlusion amaurosis fugax
+abnormal intraocular pressure
+glaucoma
+open angle glaucoma
+capsular glaucoma with pseudoexfoliation of lens
+pigmentary glaucoma
+low-tension glaucoma
+angle-closure glaucoma
+ocular hypertension
+blind hypertensive eye
+hypotony of eye
+disorders of vitreous body
+vitreous degeneration
+vitreous opacities
+crystalline deposits in vitreous body
+vitreous membranes and strands
+vitreous prolapse
+vitreomacular adhesion
+hemorrhage of the eye
+hemorrhage of orbit
+conjunctival hemorrhage
+choroidal hemorrhage and rupture
+retinal hemorrhage
+vitreous hemorrhage
+hemorrhage in optic nerve sheath
+hemophthalmos
+hyphema
+infection of the eye
+eye infection viral
+eye infection toxoplasmosis
+disorders of optic nerve and visual pathways
+optic neuropathy
+optic neuritis
+ischemic optic neuropathy
+disorders of optic disk
+papilledema
+optic disk drusen
+optic nerve hypoplasia
+pseudopapilledema of optic disk
+optic atrophy
+disorders of visual cortex
+cortical blindness
+strabismus
+paralytic strabismus neurogenic strabismus
+ophthalmoplegia
+esotropia
+alternating esotropia
+accommodative esotropia
+exotropia
+alternating exotropia
+vertical strabismus
+duanes syndrome duane anomaly
+cyclotropia
+heterophoria
+esophoria
+exophoria
+cyclophoria
+other disorders of binocular movement
+impaired convergence
+palsy of conjugate gaze
+irregular eye movements
+nystagmus
+saccadic eye movements
+anomalies of pupillary function
+anisocoria
+miosis
+mydriasis
+tonic pupil
+abnormal results of function studies of eye
+visual disturbances
+amblyopia
+diplopia
+visual discomfort
+visual field defects
+scotoma
+hemianopia
+constriction of visual field
+color vision deficiencies
+night blindness
+impaired contrast sensitivity
+sudden or transient visual loss
+visual distortions and subjective visual disturbances
+disorders of refraction and accommodation
+hypermetropia
+myopia
+progressive high degenerative myopia
+astigmatism
+presbyopia
+anisometropia
+aniseikonia
+disorders of accommodation
+blindness and low vision
+other disorders of eye
+ocular pain
+leucocoria
+disorders of external ear
+otitis externa
+exostosis of external auditory canal
+impacted cerumen
+stenosis of external ear canal
+perichondritis and chondritis of pinna
+disorders of the middle ear
+otitis media
+eustachian tube disorders
+eustachian salpingitis
+obstruction of eustachian tube
+patulous eustachian tube
+adhesive middle ear disease glue ear
+tympanosclerosis
+abnormalities of ear ossicles
+cholesteatoma of middle ear
+perforation of tympanic membrane
+otosclerosis
+myringitis
+otalgia ear pain
+otorrhea
+mastoiditis and related conditions
+disorders of vestibular function
+menieres disease
+vertigo
+paroxysmal vertigo
+vestibular neuronitis
+central origin vertigo
+abnormal vestibular function study
+other diseases of inner ear
+labyrinthitis
+labyrinthine fistula
+hearing impairment
+conductive hearing loss
+sensorineural hearing loss
+mixed conductive and sensorineural hearing loss
+ototoxic hearing loss
+sudden idiopathic hearing loss
+transient ischemic deafness
+deaf nonspeaking not elsewhere classified
+bilateral hearing loss
+unilateral hearing loss
+other hearing abnormality
+tinnitus
+pulsatile tinnitus
+noise effects on inner ear
+hyperacusis
+other disorders of ear
+abnormal auditory function study
+rheumatic fever and chronic rheumatic heart diseases
+rheumatic chorea
+rheumatic heart disease
+hypertension
+essential hypertension
+hypertensive heart disease
+secondary hypertension
+renovascular hypertension
+hypertensive crisis
+elevated blood pressure reading without diagnosis of hypertension
+angina pectoris
+coronary artery spasm coronary vasospasm
+ischemic heart disease
+myocardial infarction heart attack
+acute myocardial infarction
+coronary atherosclerosis atherosclerotic heart disease
+coronary atherosclerosis due to lipid rich plaque
+coronary atherosclerosis due to calcified coronary lesion
+pulmonary heart disease
+pulmonary hypertension
+primary pulmonary hypertension
+kyphoscoliotic heart disease
+group 4 pulmonary hypertension
+acute pulmonary heart disease
+diseases of pulmonary vessels
+inflammation of the heart carditis
+pericarditis
+endocarditis
+myocarditis
+other diseases of pericardium
+hemopericardium nec
+pericardial effusion noninflammatory
+cardiac tamponade
+heart valve disorders
+mitral valve disorders
+mitral valve insufficiency
+mitral valve prolapse
+mitral valve stenosis
+aortic valve disorders
+aortic stenosis
+aortic insufficiency
+tricuspid valve disorders
+tricuspid value stenosis
+tricuspid value insufficiency
+pulmonary valve disorders
+pulmonary valve stenosis
+pulmonary valve insufficiency
+heart valve replaced
+cardiomyopathy
+hypertrophic cardiomyopathy
+hypertrophic obstructive cardiomyopathy
+dilated cardiomyopathy
+alcoholic cardiomyopathy
+ischemic cardiomyopathy
+endomyocardial eosinophilic disease endomyocardial fibrosis
+endocardial fibroelastosis
+restrictive cardiomyopathy
+takotsubo syndrome stress cardiomyopathy
+cardiac arrhythmia and conduction disorders
+paroxysmal tachycardia
+supraventricular tachycardia
+ventricular tachycardia
+torsades de pointes
+atrial fibrillation and flutter
+atrial fibrillation
+paroxysmal atrial fibrillation
+persistent atrial fibrillation
+chronic atrial fibrillation
+permanent atrial fibrillation
+atrial flutter
+typical atrial flutter
+atypical atrial flutter
+ventricular fibrillation and flutter
+ventricular fibrillation
+ventricular flutter
+heart block
+atrioventricular block
+atrioventricular block first degree
+atrioventricular block second degree
+atrioventricular block complete
+left bundle branch block
+right bundle branch block
+premature depolarization premature beats
+atrial premature depolarization supraventricular premature beats
+ventricular premature depolarization
+long qt syndrome
+sinoatrial node dysfunction
+sick sinus syndrome
+pre-excitation syndrome anomalous atrioventricular excitation
+abnormalities of heart beat
+palpitations
+tachycardia
+bradycardia
+abnormal results of cardiovascular function studies
+abnormal electrocardiogram ecg ekg
+abnormal findings on diagnostic imaging of heart and coronary circulation
+presence of cardiac device
+presence of cardiac pacemaker
+presence of cardiac defibrillator
+cardiac arrest
+abnormal cardiac sounds
+cardiac murmurs
+heart failure
+left heart failure
+systolic heart failure
+diastolic heart failure
+combined systolic and diastolic heart failure
+right heart failure
+rheumatic heart failure
+cardiomegaly
+complications and ill-defined descriptions of heart disease
+nontraumatic intracranial hemorrhage
+nontraumatic subarachnoid hemorrhage
+nontraumatic intracerebral hemorrhage
+nontraumatic subdural hemorrhage
+nontraumatic extradural hemorrhage
+stroke and transient cerebral ischemic attacks
+cerebral infarction ischemic stroke
+hemorrhagic stroke
+brain stem stroke syndrome
+cerebellar stroke syndrome
+lacunar syndrome
+transient cerebral ischemic attack tia
+other cerebrovascular disease
+occlusion and stenosis of cerebral arteries
+occlusion and stenosis of precerebral arteries
+carotid artery stenosis
+cerebrovascular insufficiency
+cerebrovascular vasospasm and vasoconstriction
+vertebro-basilar artery syndrome
+cerebral artery syndrome middle anterior posterior
+moyamoya disease
+atherosclerosis ascvd
+atherosclerosis of renal artery
+atherosclerosis of the extremities
+chronic total occlusion of artery of the extremities
+atherosclerosis of aorta
+atheroembolism
+cerebral atherosclerosis
+aneurysm or ectasia
+aortic aneurysm and ectasia
+abdominal aortic aneurysm
+thoracic aneurysm
+thoracoabdominal aortic aneurysm
+ruptured aortic aneurysm
+aneurysm of iliac or artery of lower extremity
+aneurysm of carotid artery
+arterial dissection
+aortic dissection
+carotid artery dissection
+coronary artery dissection
+coronary artery aneurysm
+cerebral aneurysm
+aneurysm of heart
+rupture of artery
+aneurysm of pulmonary artery
+hemorrhoids
+embolism and thrombosis
+venous thromboembolism
+deep vein thrombosis dvt
+portal vein thrombosis
+phlebitis and thrombophlebitis
+budd-chiari syndrome
+cerebral venous sinus thrombosis
+arterial embolism and thrombosis
+embolism of cerebral or precerebral arteries
+thrombosis of cerebral or precerebral arteries
+pulmonary embolism
+septic embolism
+arteriovenous malformation
+arteriovenous fistula
+pulmonary arteriovenous malformation
+arteriovenous malformation of digestive system
+arteriovenous malformation of renal vessel
+arteriovenous malformation of precerebral or cerebral vessels
+disease of capillaries
+other disorders of arteries and arterioles
+stricture of artery arterial stenosis
+celiac artery compression syndrome
+arterial fibromuscular dysplasia
+necrosis of artery
+varicose veins
+varicose veins of lower extremities
+gastric varices
+esophageal varices
+vulval varices
+scrotal varices varicocele
+venous insufficiency chronic peripheral
+chronic venous hypertension
+hypotension
+orthostatic hypotension
+nonspecific low blood-pressure reading
+peripheral vascular disease
+raynauds syndrome
+erythromelalgia
+peripheral vascular diseaseincludes pad
+other disorders of the circulatory system
+hemorrhage
+respiratory infection
+acute upper respiratory infection
+acute lower respiratory infection
+pulmonary tuberculosis
+acute sinusitis
+chronic sinusitis
+rhinitis and nasal congestion
+chronic rhinitis
+allergic rhinitis
+seasonal allergic rhinitis
+allergic rhinitis due to food
+allergic rhinitis due to animal hair and dander
+vasomotor rhinitis
+nasal congestion
+postnasal drip
+acute nasopharyngitis
+chronic nasopharyngitis
+pharyngitis
+acute pharyngitis
+streptococcal tonsillitispharyngitis
+chronic pharyngitis
+pharyngeal abscess
+tonsillitis and adenoiditis
+acute tonsillitis and adenoiditis
+chronic tonsillitis and adenoiditis
+peritonsillar abscess
+hypertrophy of tonsils and adenoids
+laryngitis and tracheitis
+acute laryngitis and tracheitis
+acute obstructive laryngitis croup
+chronic laryngitis and laryngotracheitis
+supraglottitis
+acute epiglottitis
+pneumonia
+viral pneumonia
+bacterial pneumonia
+pneumonia due to streptococcus pneumoniae
+pneumonia due to pseudomonas
+ventilator associated pneumonia
+personal history of pneumonia recurrent
+pneumonia due to fungus
+cytomegaloviral pneumonitis
+bronchopneumonia
+lobar pneumonia
+bronchitis
+acute bronchitis
+chronic bronchitis
+acute bronchiolitis
+other disorders of nose and nasal sinuses
+cyst and mucocele of nose and nasal sinus
+deviated nasal septum
+hypertrophy of nasal turbinates
+nasal polyps
+diseases of vocal cords and larynx not elsewhere classified
+paralysis of vocal cords and larynx
+polyp of vocal cord and larynx
+edema of larynx
+laryngeal spasm
+stenosis of larynx
+nodules of vocal cords
+chronic obstructive pulmonary disease copd
+emphysema
+unilateral pulmonary emphysema macleods syndrome
+panlobular emphysema
+centrilobular emphysema
+asthma
+exercise induced bronchospasm
+cough variant asthma
+allergic bronchopulmonary aspergillosis
+bronchiectasis
+inhalation lung injury
+pneumoconiosis
+hypersensitivity pneumonitis
+vaping-related disorder
+aspiration pneumonia
+pulmonary insufficiency and acute respiratory distress syndrome
+acute respiratory distress syndrome ards
+respiratory failure
+acute respiratory failure
+chronic respiratory failure
+pulmonary collapse atelectasis
+pulmonary edema
+acute pulmonary edema
+chronic pulmonary edema
+interstitial pulmonary diseases
+pulmonary eosinophilia
+alveolar proteinosis
+pulmonary alveolar microlithiasis
+pulmonary fibrosis
+idiopathic interstitial pneumonia
+idiopathic pulmonary fibrosis
+interstitial pneumonitis
+respiratory bronchiolitis interstitial lung disease rbild
+cryptogenic organizing pneumonia
+desquamative interstitial pneumonia
+lymphangioleiomyomatosis
+lymphoid interstitial pneumonia
+idiopathic pulmonary hemosiderosis
+abscess of lung and mediastinum
+pyothorax empyema
+pleural effusion
+pneumothorax and air leak
+spontaneous pneumothorax
+chronic pneumothorax
+iatrogenic pneumothorax
+interstitial emphysema pneumomediastinum
+other respiratory disorders
+mediastinitis
+acute chest syndrome
+compensatory emphysema
+hemorrhage from respiratory passages
+epistaxis
+hemorrhage from throat
+hemoptysis
+abnormalities of breathing
+dyspnea shortness of breath
+orthopnea
+hyperventilation
+periodic breathing cheyne-stokes
+tachypnea
+stridor
+wheezing
+apnea
+obesity hypoventilation syndrome ohs
+snoring
+disorders of diaphragm
+hiccough
+pleurisy
+tracheoesophageal fistula
+voice disturbance
+dysphonia
+aphonia
+hypernasality
+hyponasality
+abnormal findings on diagnostic imaging of lung
+solitary pulmonary nodule
+abnormal results of pulmonary function studies
+respiratory arrest
+asphyxia and hypoxemia
+hypoxemia
+cyanosis
+other symptoms and disorders of the respiratory system
+cough
+acute cough
+chronic cough
+abnormal sputum
+bronchospasm
+throat pain
+disorders of tooth develoment
+anodontia
+abnormalities of size and form of teeth
+supernumerary teeth
+disturbances in tooth eruption
+impacted teeth
+ankylosis of teeth
+diseases of teeth and supporting structures
+diseases of hard tissues of teeth
+dental caries
+dental abrasion and erosion
+cracked tooth
+deposits accretions on teeth
+pathological resorption of teeth
+loss of teeth and edentulism
+hypercementosis
+atrophy of edentulous alveolar ridge
+diseases of pulp and periapical tissues
+pulpitis
+periapical abscess
+periodontal diseases
+gingivitis
+gingival recession
+periodontitis
+aggressive periodontitis
+gingival enlargement
+oral cysts
+odontogenic cysts
+diseases of salivary glands
+atrophy of salivary gland
+hypertrophy of salivary gland
+sialoadenitis
+sialolithiasis
+disturbances of salivary secretion
+dry mouth
+mucocele of salivary gland
+lesions of mouth
+stomatitis
+recurrent oral aphthae recurrent aphthous stomatitis
+cellulitis and abscess of mouth
+oral leukoplakia
+hairy leukoplakia
+oral submucosal fibrosis
+diseases of lips
+diseases of tongue
+glossitis
+glossodynia
+geographic tongue
+hypertrophy of tongue papillae
+atrophy of tongue papillae
+plicated tongue
+diseases of esophagus
+achalasia of cardia
+esophagitis
+perforation of esophagus
+dyskinesia of esophagus
+diverticulum of esophagus
+gastroesophageal laceration-hemorrhage syndrome mallory-weiss tear
+barretts esophagus
+gastro-esophageal reflux disease gerd
+aphagia and dysphagia
+peptic ulcer
+esophageal ulcer
+gastric ulcer
+duodenal ulcer
+gastrojejunal ulcer
+gastrointestinal obstruction
+esophageal obstruction stricture and stenosis of esophagus
+intestinal obstruction
+impaction of intestine
+ileus
+paralytic ileus
+heartburn
+other diseases of stomach and duodenum
+pyloric stenosis
+fistula of stomach and duodenum
+gastroparesis
+acute dilatation of stomach
+achlorhydria
+vascular disorders of intestine
+acute vascular insufficiency of intestine
+chronic vascular insufficiency of intestine
+necrotizing enterocolitis nec
+gastrointestinal angiodysplasia
+appendicitis
+hernia
+hernia of the abdominal wall
+inguinal hernia
+femoral hernia
+umbilical hernia
+ventral hernia
+diaphragmatic hernia
+gastrointestinal inflammation
+inflammatory bowel disease
+crohns disease
+ulcerative colitis
+inflammatory polyps of colon pseudopolyposis of colon
+microscopic colitis
+toxic gastroenteritis and colitis
+allergic and dietetic gastroenteritis and colitis
+eosinophilic gastroenteritis and colitis
+eosinophilic esophagitis
+eosinophilic gastroenteritis
+eosinophilic colitis
+ulceration of the lower gi tract
+duodenitis
+gastritis
+acute gastritis
+atrophic gastritis
+diverticular disease bowel diverticulosis
+diverticula of small intestine
+diverticula of colon
+gastric diverticulum
+diverticulitis
+functional intestinal disorder
+irritable bowel syndrome
+neurogenic bowel
+megacolon other than hirschsprungs
+intestinal malabsorption
+celiac disease
+pancreatic steatorrhea
+intestinal infection
+bacterial enteritis
+intestinal e.coli
+intestinal infection due to c. difficile
+viral enteritis
+intestinal infection due to protozoa
+abdominal pain
+abdominal migraine
+abdominal tenderness
+functional dyspepsia
+colic
+nausea
+vomiting
+symptoms involving digestive system
+diarrhea
+flatulence eructation and gas pain
+abnormal bowel sounds and visible peristalsis
+constipation
+halitosis
+fecal incontinence and encopresis
+disease of anus and rectum
+anal fissure
+anorectal abscess
+rectal prolapse
+stenosis of anus and rectum
+dysplasia of anus
+other disorders of the intestines
+intestinal fistula
+intestinal perforation
+intussusception
+volvulus
+intestinal or peritoneal adhesions
+abnormality of the peritoneum
+peritonitis
+hemoperitoneum
+peritoneal abscess
+hepatitis
+chronic hepatitis
+autoimmune hepatitis
+acute hepatitis
+viral hepatitits
+alcoholic hepatitis
+chronic liver disease
+fibrosis and cirrhosis of liver
+cirrhosis of liver
+fatty liver disease fld
+hepatic failure
+portal hypertension
+hepatorenal syndrome
+hepatopulmonary syndrome
+chronic nonalcoholic liver disease
+biliary cirrhosis
+primary biliary cirrhosis
+hepatic necrosis
+nonspecific abnormal results of function study of liver
+other disorders of liver
+abscess of liver
+hepatomegaly
+hepatosplenomegaly
+chronic passive congestion of liver
+peliosis hepatis
+disorders of the gallbladder
+gallstones cholelithiasis
+cholecystitis
+acute cholecystitis
+chronic cholecystitis
+gallbladder perforation
+cholesterolosis of gallbladder
+other diseases of biliary tract
+cholangitis
+primary sclerosing cholangitis
+obstruction of bile duct
+diseases of the pancreas
+acute pancreatitis
+chronic pancreatitis
+cyst and pseudocyst of pancreas
+exocrine pancreatic insufficiency
+ascites
+other digestive system symptoms and diseases
+abdominal or pelvic swelling mass or lump
+abdominal rigidity
+nonspecific abnormal findings in stool contents
+gastrointestinal hemorrhage
+hematemesis
+blood in stool
+hemorrhage of rectum and anus
+abnormal findings on diagnostic imaging of the digestive tract
+glomerular diseases
+acute nephritic syndrome
+chronic nephritic syndrome
+morphologic lesions in glomerular diseases
+focal and segmental glomerular lesions
+diffuse membranous glomerulonephritis
+diffuse mesangial proliferative glomerulonephritis
+diffuse endocapillary proliferative glomerulonephritis
+diffuse mesangiocapillary glomerulonephritis
+dense deposit disease
+diffuse crescentic glomerulonephritis
+c3 glomerulonephritis
+renal tubulo-interstitial diseases
+acute pyelonephritis
+renal and perinephric abscess
+obstructive and reflux uropathy
+hydronephrosis
+hydroureter
+stricture or kinking of ureter
+vesicoureteral reflux
+chronic pyelonephritis
+drug  heavy metal induced
+interstial nephritis related to specific systemic diseases
+renal failure
+acute kidney failure
+chronic kidney disease
+end stage renal disease cdk stage 5
+renal dialysis
+kidney stone disease
+renal colic
+other disorders of the kidney and ureters
+small kidney
+cyst of kidney
+ischemia and infarction of kidney
+hypertrophy of kidney
+renal sclerosis
+nephroptosis
+megaloureter
+disorders resulting from impaired renal function
+renal osteodystrophy
+nephrogenic diabetes insipidus
+abnormal results of function study of kidney
+urinary tract infection uti
+cystitis and urethritis
+cystitis
+acute cystitis
+chronic cystitis
+urethritis
+urethral syndrome
+urethral stricture due to infecton
+hematuria
+gross hematuria
+microscopic hematuria
+recurrent and persistent hematuria
+abnormality of urination
+retention of urine
+dysuria
+urinary incontinence and enuresis
+urge incontinence
+stress incontinence
+nocturnal enuresis
+frequency of urination and polyuria
+nocturia
+oliguria and anuria
+urinary urgency
+other disorders of bladder
+bladder neck obstruction
+overactive bladder
+diverticulum of bladder
+vesical fistula
+neuromuscular dysfunction of bladder
+other disorders of urethra and urinary tract
+urethral stricture
+muscular disorders of urethra detrusor sphincter dyssynergia
+urethral fistula
+urethral diverticulum
+urethral caruncle
+urethral false passage
+urethral hypermobilityisd
+abnormal findings on radiological and other examination of genitourinary organs
+other symptomsdisorders or the urinary system
+urethral discharge
+disorders of prostate
+benign prostatic hyperplasia
+cyst of prostate
+dysplasia of prostate
+elevated prostate specific antigen psa
+inflammatory diseases of prostate
+prostatitis
+acute prostatitis
+chronic prostatitis
+disorders of testis
+hydrocele
+spermatocele
+torsion of testis
+atrophy of testis
+orchitis and epididymitis
+scrotal pain
+disorders of penis
+redundant prepuce and phimosis
+peyronies disease
+priapism
+balanoposthitis
+male sexual dysfuction
+male erectile dysfunction
+ejaculatory dysfunction
+other disorders of male genital organs
+male infertility
+azoospermia
+oligospermia
+benign mammary dysplasias
+cystic mastopathy
+fibroadenosis of breast
+fibrosclerosis of breast
+mammary duct ectasia
+other nonmalignant breast conditions
+inflammatory disease of breast
+galactorrhea
+hypertrophy of breast gynecomastia
+breast hypoplasia
+mastodynia
+other signs and symptoms in breast
+other specified disorders of breast
+inflammatory diseases of female pelvic organs
+pelvic peritoneal adhesions female postoperative postinfection
+pelvic inflammatory disease pid
+acute inflammatory pelvic disease
+chronic inflammatory pelvic disease
+inflammatory diseases of uterus except cervix
+inflammatory disease of cervix vagina and vulva
+cervicitis and endocervicitis
+vaginitis and vulvovaginitis
+cyst or abscess of bartholins gland
+abscess or ulceration of vulva
+candidiasis of vulva and vagina
+endometriosis
+disorders of uterus except cervix
+endometrial hyperplasia
+hypertrophy of uterus
+malposition of uterus
+intrauterine synechiae
+noninflammatory disorders of cervix
+incompetence of cervix uteri
+erosion and ectropion of cervix
+stricture and stenosis of cervix
+noninflammatory disorders of vagina
+stricture and atresia of vagina
+atrophic vaginitis
+noninflammatory disorders of ovary fallopian tube and broad ligament
+torsion of ovary
+ovarian cyst
+follicular cyst of ovary
+corpus luteum cyst or hematoma
+polycystic ovary syndrome
+noninflammatory disorders of vulva and perineum
+dysplasia of female genital organs
+dysplasia of cervix
+polyp of female genital organs
+polyp of corpus uteri
+mucous polyp of cervix
+pelvic organ prolapse and fistulas
+uterineuterovaginal prolapse
+pelvic muscle wasting
+vaginal enterocele congenital or acquired
+fistula involving female genital tract
+symptoms involving female genital tract
+dystrophy of female genital tract
+acquired atrophy of ovary and fallopian tube
+pain and other symptoms associated with female genital organs
+dyspareunia
+postcoital bleeding
+vulvodynia
+vaginismus
+disorders of menstruation and other abnormal bleeding from female genital tract
+irregular menstrual cyclebleeding
+oligomenorrhea
+amenorrhea
+irregular menstrual cycle
+excessive menstruation
+dysmenorrhea
+mittelschmerz
+hematometra and hematocolpos
+menopausal and postmenopausal disorders
+postmenopausal bleeding
+symptomatic menopause
+female infertility
+female infertility associated with anovulation
+infection of the skin
+fungal infection of the skin
+candidiasis of skin and nails
+dermatophytosis
+dermatophytosis of scalp and beard
+dermatophytosis of nail
+dermatophytosis of foot athelets foot
+dermatophytosis of the body
+pityriasis versicolor
+bacterial infection of the skin
+impetigo
+staphylococcal scalded skin syndrome ritters disease
+cutaneous erysipeloid
+carbuncle and furuncle
+cellulitis and abscess
+viral exanthemata
+rosacea
+bullous disorders
+pemphigus
+pemphigus vulgaris
+pemphigus foliaceous
+pemphigoid
+dermatitis herpetiformis
+subcorneal pustular dermatosis
+acantholytic disorders
+papulosquamous disorders
+lichen planus nitidus or striatus
+pityriasis
+parapsoriasis
+psoriasis
+psoriasis vulgaris
+psoriatic arthropathy
+erythema nodosum
+urticaria
+allergic urticaria
+idiopathic urticaria
+urticaria due to cold and heat
+dermatographic urticaria
+vibratory urticaria
+cholinergic urticaria
+erythematous conditions
+erythema multiforme
+stevens-johnson syndrome and toxic epidermal necrolysis
+toxic erythema
+exfoliation due to erythematous condition
+dermatitis eczema
+atopic dermatitis
+seborrheic dermatitis
+contact dermatitis
+dermatitis due to substances taken internally
+lichen simplex chronicus
+prurigo
+seborrheic infantile dermatitis
+neutrophilic and eosinophilic dermatoses
+pyoderma gangrenosum
+behcets syndrome
+hidradenitis suppurativa
+febrile neutrophilic dermatosis sweets syndrome
+seborrheic keratosis
+acute skin changes due to ultraviolet radiation
+acute dermatitis due to solar radiation
+sunburn
+disseminated superficial actinic porokeratosis dsap
+skin changes due to chronic exposure to nonionizing radiation
+actinic keratosis
+actinic reticuloid and actinic granuloma
+disorders of pigmentation
+hypopigmentation
+vitiligo
+hypepigmentation
+cafe au lait spots
+freckles
+atrophic conditions of skin
+circumscribed scleroderma
+striae atrophicae
+hypertrophic conditions of skin
+hypertrophic scar keloid scar
+scar conditions and fibrosis of skin
+chilblains
+other skin and subcutaneous disorders
+skin symptoms
+rash and other nonspecific skin eruption
+pallor
+flushing
+pruritus
+pyoderma
+changes in skin texture
+epidermal thickening
+corns and callosities
+keratoderma
+xerosis cutis
+ainhum
+acanthosis nigricans
+localized swelling mass and lump of skin and subcutaneous tissue
+other follicular disorders
+sebaceous cyst epidermal cyst
+pilar and trichodermal cyst
+pilonidal cyst
+acne
+nail disorders
+ingrowing nail
+nail dystrophy
+onycholysis
+diseases of hair and hair follicles
+alopecia
+alopecia areata
+telogen effluvium
+scarring hair loss
+androgenic alopecia
+hypertrichosis and hirsutism
+hirsutism
+abnormalities of the hair
+disorders of sweat glands
+dyshidrosis
+prickly heat and miliaria
+anhidrosis
+hyperhidrosis
+primary focal hyperhidrosis
+generalized hyperhidrosis
+chronic ulcer of skin
+pressure ulcer
+non-pressure chronic ulcer
+vascular disorders of the skin
+granulomatous disorder of the skin
+sarcoidosis
+foreign body granuloma
+pyogenic granuloma of skin and subcutaneous tissue
+giant cell granuloma
+diffuse diseases of connective tissue
+systemic lupus erythematosus sle
+cutaneous lupus erythematosus
+sicca syndrome sjogren syndrome
+systemic sclerosis
+inflammatory myopathy
+myositis
+dermatomyositis
+polymyositis
+inclusion body myositis
+autoinflammatory syndromes
+multisystem inflammatory syndrome
+osteomyelitis periostitis and other infections involving bone
+osteomyelitis
+acutesubacute osteomyelitis
+chronic osteomyelitis
+infective and reactive arthropathies
+pyogenic arthritis septic arthritis
+reiters disease reactive arthritis
+enteropathic arthropathies
+chrystal arthropathies
+gout
+chondrocalcinosis
+hydroxyapatite deposition disease
+systemic vasculitis
+polyarteritis nodosa and related conditions
+polyarteritis nodosa
+mucocutaneous lymph node syndrome kawasaki
+anca-associated vasculitides
+wegeners granulomatosis
+thrombotic microangiopathy
+hypersensitivity angiitis
+giant cell arteritis
+aortic arch syndrome takayasus disease
+cerebral arteritis
+thromboangiitis obliterans buergers disease
+allergic purpura henoch-schoenlein purpura
+rheumatoid arthritis and other inflammatory polyarthropathies
+rheumatoid arthritis
+rheumatoid arthritis without rheumatoid factor
+rheumatoid arthritis with rheumatoid factor
+juvenile rheumatoid arthritis jrajia
+polymyalgia rheumatica
+palindromic rheumatism
+rheumatism
+chronic postrheumatic arthropathy jaccoud
+inflammatory spondylopathies
+sacroiliitis
+ankylosing spondylitis
+spinal enthesopathy
+other arthropathies
+villonodular synovitis
+traumatic arthropathy
+kaschin-beck disease
+polyarthritis
+monoarthritis
+osteoarthritis
+osteoarthritis of more than one site
+generalized osteoarthritis
+acquired deformities of fingers and toes
+acquired deformities of fingers
+mallet finger
+boutonniere deformity
+swan-neck deformity
+acquired deformities of toe
+hallux valgus bunion
+hallux rigidus
+hallux varus
+hammer toe
+acquired deformities of limbs
+acquired deformities of the forearm and hand
+wrist drop
+acquired clawhand
+acquired clubhand
+deformities of the hip
+coxa valga
+coxa vara
+protrusio acetabuli
+deformities of the knee
+genu valgum acquired
+genu varum acquired
+acquired deformities of the ankle and foot
+flat foot pes planus
+club foot
+cavus deformity of foot
+foot drop acquired
+claw foot acquired
+unequal limb length acquired
+disorder of patella
+derangement of meniscus
+joint derangements and related disorders
+loose body in joint
+articular cartilage disorder
+ankylosis of joint
+disorder of ligament
+hypermobility syndrome
+instability of joint
+recurrent dislocation of joint
+pathological dislocation of joint
+spinal instabilities
+symptoms related to joints
+hemarthrosis
+effusion of joint
+pain in joint
+pain in shoulder
+pain in elbow
+pain in wrist
+pain in joints of hand
+pain in hip
+pain in knee
+pain in ankle and joints of foot
+stiffness of joint
+clicking hip
+deforming dorsopathies
+kyphosis
+lordosis
+scoliosis
+idiopathic scoliosis
+thoracogenic scoliosis
+spondylolysis
+spondylolisthesis
+fusion of spine
+other non-inflammatory spondylopathy
+spondylosis
+spinal stenosis
+ankylosing hyperostosis forestier
+kissing spine
+intervertebral disk disorder
+schmorls nodes
+degenerative disk disease
+spinal disk displacement herniation
+other anddorsopathies
+cervicocranial syndrome
+sacrococcygeal disorders
+occipital neuralgia
+back pain
+radiculopathy
+cervicalgia
+mid back pain
+low back pain
+sciatica
+disorders of muscle
+cramp and spasm
+spasm of muscle
+muscle calcification and ossification
+myositis ossificans progressiva
+myositis ossificans traumatica
+separation of muscle nontraumatic
+rupture of muscle nontraumatic
+compartment syndrome and nontraumatic ischemic infarction of muscle
+muscle wasting and atrophy
+sarcopenia
+rhabdomyolysis
+contracture of tendon
+contracture of joint
+contracture of muscle
+spontaneous rupture of synovium and tendon
+synoviopathy and bursopathy
+synovitis and tenosynovitis
+trigger finger
+radial styloid tenosynovitis de quervain
+infective tenosynovitis
+transient synovitis
+ganglion cyst
+plica syndrome
+calcium deposits in tendon and bursa
+bursitis
+bakers cyst popliteal cyst
+synovial hypertrophy
+fasciopathy
+plantar fascial fibromatosis plantar fasciitis
+pseudosarcomatous fibromatosis nodular fasciitis
+necrotizing fasciitis
+palmar fascial fibromatosis dupuytren
+enthesopathyenthesitistendinopathy
+adhesive capsulitis of shoulder
+rotator cuff tear or rupture
+medial epicondylitis golfers elbow
+lateral epicondylitis tennis elbow
+tendinitis
+achilles tendinitis
+posterior tibial tendinitis
+impingement syndrome of shoulder
+iliotibial band syndrome
+other symptoms and disorders of the soft tissue
+myalgia
+hypertrophy of infrapatellar fat pad
+nontraumatic hematoma of soft tissue
+panniculitis
+exostosis
+calcaneal spur
+osteophyte
+osteochondrosis
+spinal osteochondrosis
+osteoporosis
+osteomalacia
+osteolysis
+major osseous defects
+skeletal fluorosis
+other disorders of bone
+osteonecrosis
+hypertrophic osteoarthropathy hypertrophic pulmonary osteoarthropathy
+osteitis deformans pagets disease of bone
+hyperostosis of skull
+cyst of bone
+hypertrophy of bone
+osteitis condensans
+chondropathies
+chondromalacia
+osteochondritis dissecans
+costochondritis tietzes disease
+nontraumatic slipped upper femoral epiphysis
+chondrolysis
+relapsing polychondritis
+kienbocks disease of adults
+other acquired musculoskeletal deformity
+other disorders and symptoms of the musculoskeletal system
+segmental and somatic dysfunction
+immobility syndrome paraplegic
+loss of height
+nonspecific abnormal findings on radiological and other examination of musculoskeletal system
+dentofacial anomalies including malocclusion
+major anomalies of jaw size
+hyperplasia of jaw
+maxillary hyperplasia
+mandibular hyperplasia
+macrogenia
+hypoplasia of jaw
+maxillary hypoplasia
+mandibular hypoplasia
+microgenia
+anomalies of dental arch relationship
+anomalies of tooth position
+crowding of teeth
+dentofacial functional abnormalities
+limited mandibular range of motion
+anomalies of jaw-cranial base relationship
+diseases of the jaws
+alveolitis of jaw
+inflammatory conditions of jaw
+temporomandibular joint disorders
+adhesions and ankylosis of temporomandibular joint
+arthralgia of temporomandibular joint
+temporomandibular joint disorders articular disk disorder reducing or non-reducing
+jaw pain
+dislocation
+dislocation of jaw
+dislocation of shoulder
+dislocation of elbow
+dislocation of wrist and hand
+dislocation of finger
+dislocation of hip
+dislocation of knee
+dislocation of foot and ankle
+dislocation of vertebra or sternum
+sprains and strains
+sprains and strains of shoulder and upper arm
+acromioclavicular joint ligament sprain
+superior glenoid labrum lesion
+rotator cuff capsule sprain
+sprains and strains of elbow and forearm
+sprains and strains of wrist and hand
+sprains and strains of hip and thigh
+sprains and strains of knee and leg
+sprains and strains of ankle and foot
+back sprain
+lumbosacral sprain
+neck sprain
+cartilage tear of knee
+fractures
+fracture of lower limb
+fracture of femur
+fracture of pelvis
+fracture of upper limb
+fracture of foot and toe
+fracture of hand or wrist
+fracture of bones in thorax
+fracture of vertebrae
+skull and face fracture
+stress fracture
+pathological fracture
+congenital malformations of nervous system
+congenital malformations of brain
+microcephaly
+anencephalus and similar anomalies
+congenital reduction deformities of brain
+septo-optic dysplasia of brain
+holoprosencephaly
+congenital malformations of corpus callosum
+megalencephaly
+congenital cerebral cysts
+congenital hydrocephalus
+malformations of aqueduct of sylvius
+atresia of foramina of magendie and luschka
+arnold-chiari syndrome
+neural tube defects and congenital disorders of the spinal cord
+spina bifida
+spina bifida occulta
+congenital sacral dimple
+encephalocele
+hydromyelia
+diastematomyelia
+congenital anomalies of eye
+congenital disorders of the orbit
+aplasiahypoplasia affecting the eye
+cystic eyeball
+microphthalmos
+anophthalmos
+congenital malformations of anterior segment of eye
+congenital lens anomalies
+congenital aphakia
+spherophakia
+congenital cataract
+congenital displaced lens ectopia lentis
+coloboma of lens
+congenital malformations of iris
+absence of iris aniridia
+riegers anomaly
+congenital corneal malformations
+congenital corneal opacity
+congenital anomalies of sclera
+blue sclera
+congenital malformations of posterior segment of eye
+congenital malformation of vitreous humor
+congenital malformation of retina
+congenital malformation of optic disk
+congenital malformation of choroid
+congenital glaucoma and buphthalmos
+coloboma
+macrophthalmosa
+congenital anomalies of eyelids
+congenital malformations of eyelid
+congenital ptosis
+congenital anomalies of lacrimal gland
+congenital malformations of ear
+aplasiahypoplasia of the external ear
+microtia
+congenital absence of external ear anotia
+macrotia
+accessory auricle
+misplaced ear abnormal location of ears
+prominent ear protruding ear
+congenital absence atresia and stricture of auditory canal
+congenital anomaly of middle ear
+congenital malformation of inner ear
+congenital malformations of face and neck
+branchial anomaly
+preauricular sinus and cyst
+webbing of neck
+congenital malformations of tongue mouth and pharynx
+oral cleft
+cleft palate
+cleft palate with cleft lip
+cleft lip without cleft palate
+cleft uvula bifid uvula
+macrostomia
+microstomia
+congenital malformations of lips
+macrocheilia
+microcheilia
+congenital malformations of tongue
+macroglossia
+congenital malformations of salivary glands and ducts
+congenital anomalies of pharynx
+congenital pharyngeal pouch diverticulum of pharynx
+congenital deformities of skull face and jaw
+congenital facial asymmetry
+dolichocephaly
+plagiocephaly
+craniosynostosis
+craniofacial dysostosis
+mandibulofacial dysostosis
+macrocephaly
+hypertelorism
+congenital anomalies of nose
+choanal atresia
+fissured notched and cleft nose
+agenesis and underdevelopment of nose
+wide cranial sutures of newborn
+congenital anomalies of upper gi tract
+congenital malformations of esophagus
+congenital tracheoesophageal fistula esophageal atresia and stenosis
+esophageal web
+congenital dilatation of esophagus
+congenital diverticulum of esophagus
+congenital malformation of stomach
+congenital hypertrophic pyloric stenosis
+congenital hiatus hernia
+congenital malformations of digestive system
+congenital malformations of intestine
+meckel diverticulum
+hirschsprungs disease
+atresia and stenosis of small intestines
+atresia and stenosis  of large intestines
+anomalies of intestinal fixation
+intestinal duplication
+ectopic anus
+persistent cloaca
+congenital malformations of gallbladder bile ducts and liver
+biliary atresia
+cystic liver disease
+congenital anomalies of the pancreas
+annular pancreas
+congenital anomalies of genital organs
+congenital malformations of female genitalia
+congenital malformation of ovary
+congenital absence of ovary
+ovarian streak
+congenital malformations of fallopian tube and broad ligament
+congenital anomalies of uterus and cervix
+aplasia and hypoplasia of uterus
+doubling of uterus
+bicornate uterus
+unicornate uterus
+arcuate uterus
+congenital malformations of vagina
+vaginal agenesis
+doubling of vaginavaginal septum
+imperforate hymen
+congenital malformations of vulva
+fusion of labia
+embryonic cyst of cervix vagina and external female genitalia
+congenital malformation of clitoris
+congenital congenital malformations of male genital organs
+congenital malformations of testis and scrotum
+undescended testis cryptorchidism
+retractile testis
+ectopic testis
+aplasiahypoplasia of testis
+scrotal transposition
+congenital malformations of penis
+hypospadias
+congenital chordee
+hypoplasia of penis
+hidden penis
+congenital torsion of penis
+curvature of penis lateral
+epispadias
+congenital malformations of vas deferens epididymis seminal vesicles and prostate
+congenital hydrocele
+indeterminate sex and hermaphroditism
+congenital malformations of the urinary system
+congenital malformation of kidney
+renal hypoplasiaaplasia
+renal agenesis
+renal hypoplasia
+renal dysplasia
+cystic kidney disease
+medullary cystic kidney
+accessory kidney
+lobulated fused and horseshoe kidney
+ectopic kidney
+hyperplastic and giant kidney
+congenital malformations of ureter and renal pelvis
+obstructive defects of renal pelvis and ureter congenital
+congenital hydronephrosis
+congenital ureterocele
+congenital megaureter
+agenesis of ureter
+duplication of ureter
+malposition of ureter
+congenital malformations of bladder and urethra
+bladder exstrophy
+congenital posterior urethral valves
+congenital atresia and stenosis of urethra and bladder neck
+abnormality of the urachus
+congenital absence of bladder and urethra
+congenital malformations of respiratory system
+congenital malformations of larynx
+laryngeal web
+congenital subglottic stenosis
+laryngeal hypoplasia
+laryngocele
+congenital laryngomalacia
+congenital malformations of trachea and bronchus
+congenital malformations of lung
+congenital cystic lung
+congenital bronchiectasis
+congenital hypoplasia and dysplasia of lung
+accessory lobe of lung
+sequestration of lung pulmonary sequestration
+congenital anomalies of the heart
+congenital malformations of great arteries
+common arterial trunk truncus arteriosus
+transposition of great vessels tga
+patent ductus arteriosus
+congenital anomalies of aorta
+coarctation of aorta
+interruption of aortic arch
+congenital atresia and stenosis of aorta
+aplasia or hypoplasia of aorta
+congenital dilation or aneurysm of aorta
+vascular ring of aorta
+right aortic arch
+anomalies of pulmonary artery congenital
+pulmonary artery coarctation and atresia
+stenosis of pulmonary artery
+congenital pulmonary arteriovenous malformation
+double outlet right ventricle
+double outlet left ventricle
+congenital pulmonary infundibular stenosis
+congenital malformations of heart valves
+congenital anomalies of pulmonary valve
+congenital pulmonary valve atresia
+congenital pulmonary valve stenosis
+congenital pulmonary valve insufficiency
+congenital malformations of tricuspid valve
+congenital tricuspid stenosis
+ebstein anomaly of the tricuspid valve
+congenital malformation of aortic and mitral valves
+congenital stenosis of aortic valve
+congenital insufficiency of aortic valve
+congenital mitral stenosis
+congenital mitral insufficiency
+hypoplastic right heart syndrome
+congenital malformations of cardiac chambers and connections
+ventricular septal defect
+atrial septal defect
+patent foramen ovale
+atrioventricular septal defect
+cor triatriatum
+aortopulmonary septal defect
+common ventricle or double inlet ventricle
+tetralogy of fallot
+congenital subaortic stenosis
+anomalous pulmonary venous return
+hypoplastic left heart syndrome
+congenital heart block
+congenital anomaly of the coronary artery
+congenital malformations of circulatory system other than heart
+congenital anomalies of great veins
+persistent left superior vena cava
+congenital anomaly of gastrointestinal vessel anomalous portal venous connection
+congenital absence and hypoplasia of umbilical artery
+congenital malformations of renal artery
+congenital arteriovenous malformation
+congenital deformities of hip
+congenital dislocation of hip
+congenital dislocation of hip bilateral
+congenital coxa valga congenital
+congenital coxa vara congenital
+congenital deformities of feet
+congenital talipes varus
+congenital talipes equinovarus
+congenital metatarsus primus varus
+congenital pes cavus
+congenital talipes valgus
+congenital talipes calcaneovalgus
+congenital pes planus
+congenital anomalies of limbs
+abnormal digit morphology
+polydactyly
+syndactyly
+reduction defects of limb
+reduction defects of upper limb
+reduction defects of lower limb
+congenital deformity of knee
+bowing of the long bones
+congenital deformities of chest and bony thorax
+chest wall deforities
+pectus excavatum
+pectus carinatum
+congenital anomalies of ribs and sternum
+cervical rib
+congenital malformations of spine
+klippel-feil syndrome
+congenital scoliosis
+congenital kyphosis
+congenital lordosis
+congenital spondylolisthesis
+other congenital malformations of musculoskeletal system
+congenital malformations of diaphragm
+congenital diaphragmatic hernia
+congenital malformations of abdominal wall
+exomphalos omphalocele
+gastroschisis
+prune belly syndrome
+congenital musculoskeletal deformities of sternocleidomastoid muscle
+arthrogryposis multiplex congenita
+congenital osteodystrophies
+congenital malformations of integument
+congenital malformation of the skin
+congenital pigmentary anomalies of skin
+congenital non-neoplastic nevus
+congenital anomalies of hair
+congenital anomalies of nails
+congenital anomalies of breast
+congenital malformations of endocrine glands
+congenital anomalies of adrenal gland
+congenital hypothyroidism
+congenital iodine-deficiency syndrome
+congenital malformations of spleen
+asplenia
+situs inversus
+malposition of heart and cardiac apex
+conjoined twins
+multiple congenital malformations
+congenital malformation syndromes attributed to exogenous causes
+fetal alcohol syndrome
+other congenital malformations nec
+chest pain
+chest pain on breathing
+pleurodynia
+precordial pain
+intercostal pain
+fever
+chills without fever
+malaise and fatigue
+chronic fatigue syndrome
+postviral fatigue syndrome
+weakness
+muscle weakness generalized
+post covid-19 condition
+syncope and collapse
+carotid sinus syncope
+pain
+acute pain
+chronic pain
+chronic pain syndrome
+central pain syndrome
+pain in limb
+pain in arm
+pain in leg
+pain in hand and fingers
+pain in foot and toes
+shock
+septic shock
+cardiogenic shock
+hypovolemic shock
+hypothermia not associated with low environmental temperature
+edema
+generalized edema
+angioneurotic edema
+clubbing of fingers
+jaundice
+symptoms and signs concerning food and fluid intake
+motion sickness
+general symptoms and other findings
+elevated erythrocyte sedimentation rate
+abnormality of red blood cells
+precipitous drop in hematocrit
+other and nonspecific abnormal cytological histological and immunological findings
+abnormal tumor markers
+elevated carcinoembryonic antigen cea
+elevated cancer antigen 125 ca 125
+abnormal serum enzyme levels
+nonspecific elevation of levels of transaminase or lactic acid dehydrogenase ldh
+abnormal levels of other serum enzymes
+other abnormalities of plasma proteins
+abnormality of albumin
+abnormality of globulin
+abnormality of alphafetoprotein
+elevated c-reactive protein crp
+other abnormal immunological findings in serum
+nonspecific reaction to test for tuberculosis
+inconclusive laboratory evidence of human immunodeficiency virus hiv
+raised antibody titer
+other andnonspecific immunological findings
+toxicology findings
+finding of alcohol in blood
+abnormal findings on examination of blood
+abnormal blood-gas level
+abnormal level of blood mineral
+abnormal plasma viscosity
+proteinuria
+glycosuria
+other abnormal findings in urine
+chyluria
+myoglobinuria
+hemoglobinuria
+acetonuria
+pyuria
+hypocitraturia
+hyperoxaluria
+hypercalciuria
+abnormal cytological findings in specimens from genital organs
+abnormal papanicolaou smear
+high risk human papillomavirus hpv dna test positive
+cytology and pathology findings
+nonspecific abnormal findings in cerebrospinal fluid
+allergy
+food allergy
+peanut allergy
+seafood allergy
+allergy to fruits and vegetables
+tree nut allergy
+fish allergy
+allergy to food additives
+milk allergy
+egg allergy
+allergy to insects
+latex allergy
+allergy to radiographic dye
+drug and medical agent allergy
+allergy to other anti-infective agents
+penicillin allergy
+allergy to antibiotic agent excluding penicillin
+allergy to sulfonamides
+allergy to anesthetic agent
+allergy to narcotic agent
+allergy to analgesic agent
+allergy to serum and vaccine
+allergies related to other diseasessymptoms
+anaphylactic reaction
+wheelchair dependence
+transplated organ
+heart transplant
+kidney transplant
+liver transplant
+lung transplant
+pancreas transplant
+intestine transplant
+bone marrow transplant
+stem cell transplant
+nonspecific abnormal findings of other body structures
+lack of expected normal physiological development in childhood
+failure to thrive in childhood
+short stature
+arrest of bone development or growth
+disorders of newborn related to slow fetal growth and fetal malnutrition
+newborn light or small for gestational age
+newborn affected by fetal intrauterine malnutrition not light or small for gestational age
+newborn affected by slow intrauterine growth
+exceptionally large newborn baby
+cardiovascular disorders originating in the perinatal period
+neonatal cardiac failure
+neonatal cardiac dysrhythmia
+neonatal tachycardia
+neonatal bradycardia
+neonatal hypertension
+pulmonary hypertension of newborn
+cardiac arrest of newborn
+persistent fetal circulation
+respiratory conditions of fetus and newborn
+respiratory distress of newborn
+respiratory distress syndrome of newborn
+transient tachypnea of newborn
+interstitial emphysema and related conditions of newborn
+atelectasis of newborn
+cyanotic attacks of newborn
+respiratory failure of newborn
+chronic respiratory disease arising in the perinatal period
+bronchopulmonary dysplasia originating in the perinatal period
+apnea of newborn
+infections in newborn
+congenital viral diseases
+congenital cytomegalovirus infection
+bacterial infection of newborn
+bacterial sepsis of newborn
+neonatal candidiasis
+omphalitis of newborn
+neonatal urinary tract infection
+neonatal conjunctivitis and dacryocystitis
+congenital syphilis
+congenital pneumonia
+neonatal hemorrhages
+intracranial nontraumatic hemorrhage of newborn
+intraventricular nontraumatic hemorrhage of newborn ivh
+neonatal gastrointestinal hemorrhage
+neonatal cutaneous hemorrhage
+umbilical hemorrhage of newborn
+pulmonary hemorrhage in infants
+acute idiopathic pulmonary hemorrhage in infants
+newborn affected by fetal blood loss
+hemolytic disease of the newborn
+rh isoimmunization of newborn
+abo isoimmunization of newborn
+perinatal jaundice
+neonatal jaundice associated with preterm delivery
+neonatal jaundice from hepatocellular damage
+neonatal jaundice due to excessive hemolysis
+hematological disorders of newborn
+neonatal disorders of coagulation
+disseminated intravascular coagulation of newborn
+transient neonatal thrombocytopenia
+polycythemia neonatorum
+anemia in newborn
+transient neonatal neutropenia
+transitory disorders of carbohydrate metabolism specific to newborn
+neonatal diabetes mellitus
+neonatal hypoglycemia
+transitory neonatal disorders of calcium and magnesium metabolism
+transitory neonatal endocrine disorders
+transitory neonatal electrolyte and metabolic disturbances
+neonatal metabolic acidemia
+alkalosis of newborn
+transitory electrolyte disturbances of newborn
+hyperchloremia of newborn
+hypochloremia of newborn
+transitory tyrosinemia of newborn
+transitory hyperammonemia of newborn
+neonatal disorders of digestive system
+intestinal obstruction of newborn
+meconium plug syndrome
+transitory ileus of newborn
+necrotizing enterocolitis nec in newborn
+perinatal intestinal perforation
+noninfective neonatal diarrhea
+congenital cirrhosis of liver
+newborn esophageal reflux
+disturbances of temperature regulation of newborn
+hypothermia of newborn
+conditions of integument specific to newborn
+sclerema neonatorum
+neonatal erythema toxicum
+hydrops fetalis not due to hemolytic disease
+edema specific to newborn
+breast engorgement in newborn
+umbilical granuloma
+disturbances of cerebral status of newborn
+convulsions of newborn
+neonatal cerebral ischemia
+acquired periventricular cysts of newborn
+neonatal cerebral leukomalacia
+feeding problems of newborn
+vomiting of newborn
+failure to thrive in newborn
+ankyloglossia
+other and ill-defined conditions originating in the perinatal period
+disorders of muscle tone of newborn
+congenital hypertonia
+congenital hypotonia
+transient neonatal myasthenia gravis
+congenital renal failure
+delayed separation of umbilical cord
+meconium staining
+retinopathy of prematurity
+retinopathy of prematurity stage 0
+retinopathy of prematurity stage 1
+retinopathy of prematurity stage 2
+retinopathy of prematurity stage 3
+retinopathy of prematurity stage 4
+retinopathy of prematurity stage 5
+neonatal obstruction of nasolacrimal duct
+newborn affected by maternal conditions
+newborn affected by maternal complications of pregnancy
+newborn affected by complications of placenta cord and membranes
+newborn affected by other complications of labor and delivery
+newborn affected by noxious substances transmitted via placenta or breast milk
+birth trauma
+neonatal aspiration
+intrauterine hypoxia birth asphyxia and fetal distress
+hypoxic ischemic encephalopathy hie
+weeks gestation
+extremely preterm  28 weeks
+extremely preterm 24 weeks
+extremely preterm 25-26 weeks
+extremely preterm 25 weeks
+extremely preterm 26 weeks
+extremely preterm 27-28 weeks
+extremely preterm 27 weeks
+extremely preterm 28 weeks
+very preterm 29-30 weeks
+very preterm 29 weeks
+very preterm 30 weeks
+very preterm 31-32 weeks
+very preterm 31 weeks
+very preterm 32 weeks
+moderate to late preterm 33-34 weeks
+moderate to late preterm 33 weeks
+moderate to late preterm 34 weeks
+moderate to late preterm 35-36 weeks
+moderate to late preterm 35 weeks
+moderate to late preterm 36 weeks
+post-term infant 40 weeks
+birthweight
+extremely low birthweight 1000 g
+extremely low birthweight 500 grams
+extremely low birthweight 500-749 grams
+extremely low birthweight 750-999 grams
+very low birthweight 1000 - 1500 g
+very low birthweight 1000-1249 grams
+very low birthweight 1250-1499 grams
+low birthweight 1500 - 2500 g
+low birthweight 1500-1749 grams
+low birthweight 1750-1999 grams
+low birthweight 2000-2499 grams
+birthweight 2500 grams
+abnormal findings on neonatal screening
+abnormal findings on neonatal hearing screening
+nonspecific symptoms peculiar to infancy
+fussy infant
+apparent life threatening event in infant alte
+teething syndrome
+spontaneous abortion
+recurrent pregnancy loss
+abnormal products of conception
+ectopic pregnancy
+abdominal pregnancy
+tubal pregnancy
+ovarian pregnancy
+hydatidiform mole
+missed abortion
+papyraceous fetus
+intrauterine death
+preterm labor including history of
+preterm labor with preterm delivery
+threatened premature labor
+hemorrhage in early pregnancy
+threatened abortion
+spotting complicating pregnancy
+antepartum hemorrhage
+premature rupture of membranes
+cervical shortening and incompetence
+placental disorders
+placenta previa
+low lying placenta
+premature separation of placenta abruptio placentae
+placenta accreta
+malformation of placenta
+placental infarction
+placental transfusion syndromes
+edema proteinuria and hypertensive disorders in pregnancy childbirth and the puerperium
+preeclampsia and eclampsia
+severe pre-eclampsia
+eclampsia
+hellp syndrome
+pre-existing hypertension complicating pregnancy childbirth and the puerperium
+gestational pregnancy-induced hypertension without significant proteinuria
+gestational edema and proteinuria
+diabetes mellitus or abnormal glucose in pregnancy childbirth and the puerperium
+gestational diabetes mellitus
+pre-existing diabetes mellitus in pregnancy
+abnormal glucose complicating pregnancy
+obesity or excessive weight gain in pregnancy
+excessive weight gain in pregnancy
+excessive vomiting in pregnancy
+hyperemesis gravidarum
+venous complications in pregnancy
+varicose veins in pregnancy
+thrombotic conditions of pregnancy
+deep phlebothrombosis dvt of pregnancy
+obstetrical embolism
+anemia in pregnancy
+maternal infections and carrier state in pregnancy
+infections of genitourinary tract in pregnancy
+viral diseases complicating pregnancy childbirth or the puerperium
+viral hepatitis complicating pregnancy
+streptococcus b carrier
+syphilis complicating pregnancy
+gonorrhea complicating pregnancy
+liver and biliary tract disorders in pregnancy
+pregnancy related renal disease
+peripheral neuritis in pregnancy
+problems associated with amniotic cavity and membranes
+polyhydramnios
+oligohydramnios
+infection of amniotic cavity
+chorioamnionitis
+endocrine nutritional and metabolic diseases complicating pregnancy
+low weight gain in pregnancy
+thyroid dysfunction complicating pregnancy childbirth or the puerperium
+maternal hypotension syndrome
+cardiovascular disorders complicating pregnancy childbirth or the puerperium
+mental disorders complicating pregnancy childbirth and the puerperium
+postpartum mood disturbance
+postpartum depression
+drugs and alcohol during pregnancy
+alcohol use during pregnancy
+tobacco use during pregnancy
+other drug use during pregnancy
+poor fetal growth and uterine size date discrepancy
+uterine size date discrepancy
+placental insufficiency known or suspected
+excessive fetal growth
+maternal care for abnormality of pelvic organs
+abnormalities of gravid uterus
+maternal care for retroversion of gravid uterus
+known or suspected fetal abnormality affecting management of mother
+abnormality in fetal heart rate or rhythm
+abnormality in fetal heart rate and rhythm complicating labor and delivery
+central nervous system malformation in fetus affecting management of mother
+genetic disease in fetus affecting management of mother
+decreased fetal movements affecting management of mother
+fetal hematologic conditions
+maternal care for hydrops fetalis
+rhesus isoimmunization affecting management of mother
+abnormal findings on antenatal screening of mother
+other conditions or status of the mother complicating pregnancy childbirth or the puerperium
+pruritic urticarial papules and plaques of pregnancy puppp
+malposition and malpresentation of fetus
+maternal care for breech presentation
+maternal care for transverse and oblique lie
+maternal care for face brow and chin presentation
+abnormal forces of labor
+uterine inertia
+precipitate labor
+hypertonic incoordinate and prolonged uterine contractions
+long labor
+false labor
+late pregnancy
+rupture of uterus
+rupture of uterus during labor
+postpartum hemorrhage
+umbilical cord complications
+prolapse of cord complicating labor and delivery
+short cord complicating labor and delivery
+labor and delivery complicated by vasa previa
+cord entanglement complicating labor and delivery
+vascular lesions of cord complicating labor and delivery
+velamentous insertion of umbilical cord
+complications of labor and delivery nec
+retained placenta or membranes
+hypotension syndrome or shock during or following labor and delivery
+postpartum acute kidney failure
+maternal pyrexia during labor
+puerperal infection or fever
+other complications of the puerperium nec
+peripartum cardiomyopathy
+disorders of the breast associated with childbirth and disorders of lactation
+disorders of lactation
+chromosomal anomalies
+trisomies
+down syndrome
+trisomy 13 pataus syndrome
+trisomy 18 edwards syndrome
+other whole chromosome trisomy
+partial trisomy
+duplications with other complex rearrangements
+marker chromosomes
+monosomies and chromosomal deletions
+digeorgevelo-cardio-facial syndrome
+williams syndrome
+whole chromosome monosomy
+deletion of short arm of chromosome 4
+deletion of short arm of chromosome 5 cri-du-chat syndrome
+ring chromosome
+other chromosomal microdeletions
+sex chromosome anomalies
+turners syndrome
+klinefelters syndrome
+karyotype 47 xxx
+karyotype 46 xy
+karyotype 47 xyy
+46 xx46 xy
+angelman syndrome
+prader-willi syndrome
+balanced rearrangements
+phakomatoses
+neurofibromatosis
+neurofibromatosis type 1
+neurofibromatosis type 2
+tuberous sclerosis
+von hippel-lindau syndrome
+pten tumor syndrome
+multiple endocrine neoplasia men syndromes
+multiple endocrine neoplasia men type i
+multiple endocrine neoplasia men type iia
+multiple endocrine neoplasia men type iib
+incontinentia pigmenti
+schwannomatosis
+ruvalcaba-myhre-smith syndrome
+genetic susceptibility to malignant neoplasm
+genetic susceptibility to malignant neoplasm of breast
+genetic susceptibility to malignant neoplasm of ovary
+genetic susceptibility to malignant neoplasm of prostate
+genetic susceptibility to malignant neoplasm of endometrium
+disorders of amino-acid transport and metabolism
+disorders of aromatic amino-acid metabolism
+classical phenylketonuria
+disorders of tyrosine metabolism
+tyrosinemia
+albinism
+ocular albinism
+chediak-higashi syndrome
+hermansky-pudlak syndrome
+disorders of histidine metabolism
+histidinemia
+disorders of tryptophan metabolism
+aromatic l-amino acid decarboxylase deficiency aadc definiciency
+disturbances of branched-chain amino-acid metabolism
+maple-syrup-urine disease
+isovaleric acidemia
+3-methylglutaconic aciduria
+methylmalonic acidemia
+propionic acidemia
+disorders of fatty-acid metabolism
+long chainvery long chain acyl coa dehydrogenase deficiency
+medium chain acyl coa dehydrogenase deficiency
+short chain acyl coa dehydrogenase deficiency
+glutaric aciduria type ii
+muscle carnitine palmitoyltransferase deficiency
+carnitine deficiency
+primary carnitine deficiency
+peroxisomal disorders
+zellweger syndrome
+adrenoleukodystrophy
+rhizomelic chondrodysplasia punctata genetic
+disturbances of sulfur-bearing amino-acid metabolism
+homocystinuria
+cystinuria
+methylenetetrahydrofolate reductase deficiency
+disorders of urea cycle metabolism
+argininemia
+arginosuccinic aciduria
+citrullinemia
+disorders of ornithine metabolism
+disorders of lysine and hydroxylysine metabolism
+disorders of glycine metabolism
+trimethylaminuria
+disturbances of amino-acid transport
+hartnups disease
+lowes syndrome
+cystinosis
+lysosomal storage disorders
+lipid storage disorders
+fabry disease
+gaucher disease
+krabbe disease
+niemann-pick disease
+niemann-pick disease type a
+niemann-pick disease type b
+niemann-pick disease type c
+niemann-pick disease type d
+metachromatic leukodystrophy
+sulfatase deficiency
+gm2 gangliosidosis
+sandhoff disease
+tay-sachs disease
+neuronal ceroid lipofuscinosis
+mucopolysaccharidoses
+hurlers syndrome mps ih
+hurler-scheie syndrome mps ihs
+scheies syndrome mps is
+mucopolysaccharidosis type ii
+mucopolysaccharidosis type iva
+mucopolysaccharidosis type ivb
+sanfilippo mucopolysaccharidoses
+mucolipidosis iv
+disorders of glycoprotein metabolism glycoproteinoses
+disorders of galactose metabolism
+galactosemia classical and duarte
+fructokinase deficiency
+hereditary fructose intolerance
+glycogen storage disease
+von gierke disease
+pompe disease
+cori disease
+mcardle disease
+sucrase-isomaltase deficiency
+disorders of pyruvate metabolism and gluconeogenesis
+glucose transporter protein type 1 deficiency glut1 deficiency
+congenital lactase deficiency
+inborn error of lipid metabolism
+barth syndrome
+smith-lemli-opitz syndrome
+lipoprotein deficiencies
+familial hypercholesterolemia
+refsums disease
+other inborn errors of metabolism
+disorders of purine and pyrimidine metabolism
+lesch-nyhan syndrome
+myoadenylate deaminase deficiency
+disorders of porphyrin metabolism
+hereditary erythropoietic porphyria
+porphyria cutanea tarda
+acute intermittent hepatic porphyria
+defects of catalase and peroxidase
+gilbert syndrome
+crigler-najjar syndrome
+wilsons disease
+hereditary vitamin d-dependent rickets type 1 type 2
+familial hypophosphatemia
+hereditary hemochromatosis
+transcobalamin ii deficiency
+biotinidase deficiency
+mitochondrial disorders
+melas syndrome
+merrf syndrome
+kearns-sayre syndrome
+alpers disease
+leighs disease
+primary immunodeficiencies
+hereditary hypogammaglobulinemia
+combined immunity deficiency
+severe combined immunodeficiency due to adenosine deaminase deficiency
+adenosine deaminase 2 deficiency dada2
+nezelof syndrome
+purine nucleoside phosphorylase pnp deficiency
+major histocompatibility complex class i deficiency bare lymphocyte syndrome type i
+major histocompatibility complex class ii deficiency bare lymphocyte syndrome type ii
+activated phosphoinositide 3-kinase delta syndrome apds
+severe combined immunodeficiency scid
+wiskott-aldrich syndrome
+hyperimmunoglobulin e ige syndrome
+lymphocyte function antigen-1 lfa-1 defect
+autoimmune lymphoproliferative syndrome alps
+genetic anomalies of leukocytes
+hereditary alpha tryptasemia
+periodic fever syndromes
+cryopyrin-associated periodic syndromes
+congenital agranulocytosisneutropenia
+hemoglobinopathies
+sickle-cell disorders
+sickle cell anemia hb-ss
+hemoglobin c disease
+sickle-cell thalassemia
+thalassemia
+alpha thalassemia
+beta thalassemia
+delta thalassemia
+hemoglobin e disease
+thalassemia minor
+methemoglobinemia
+hereditary persistence of fetal hemoglobin hpfh
+hereditary hemolytic anemias
+hereditary spherocytosis
+hereditary elliptocytosis
+disorders of glutathione metabolism
+glucose-6-phosphate dehydrogenase g6pd deficiency
+hereditary hemolytic-uremic syndrome
+paroxysmal nocturnal hemoglobinuria marchiafava-micheli
+anemia due to disorders of glycolytic enzymes
+anemia due to pyruvate kinase deficiency
+congenital dyserythropoietic anemia
+hereditary sideroblastic anemia
+hereditary hypo-coagulability
+hereditary factor viii deficiency hemophilia a
+hereditary factor ix disorder hemophilia b
+factor xi deficiency hemophilia c
+von willebrands disease
+prothrombin gene mutation
+hereditary neuropathy
+hereditary motor and sensory neuropathy
+hereditary ataxia
+hereditary spastic paraplegia
+friedreich ataxia
+spinal muscular atrophy
+spinal muscular atrophy type i werdnig-hoffman
+progressive spinal muscle atrophy
+familial motor neuron disease
+familial dysautonomia riley-day
+genetic torsion dystonia
+myotonic muscular dystrophy
+myotonia congenita
+myotonic chondrodystrophy
+muscular dystrophy
+duchenne or becker muscular dystrophy
+facioscapulohumeral muscular dystrophy
+nemaline myopathy
+centronuclear myopathy
+x-linked myotubular myopathy
+dravet syndrome
+cyclin-dependent kinase-like 5 deficiency disorder
+genetic related intellectual disability
+syngap1-related intellectual disability
+fragile x syndrome
+huntingtons disease
+fatal familial insomnia
+hallervorden-spatz disease pkan
+hereditary retinal dystrophy
+pigmentary retinal dystrophy
+vitreoretinal dystrophy
+hereditary corneal dystrophies
+lattice corneal dystrophy
+granular corneal dystrophy
+juvenile epithelial corneal dystrophy meesmann corneal dystrophy
+macular corneal dystrophy
+hereditary choroidal dystrophies
+choroideremia
+hereditary optic atrophy
+hereditary cardiovascular diseases
+cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy cadasil
+hereditary hemorrhagic telangiectasia
+arterial tortuosity syndrome
+hereditary nephropathy
+bartters syndrome
+primary hyperoxaluria
+alport syndrome
+polycystic kidney disease
+autosomal recessive polycystic kidney disease arpkd
+autosomal dominant polycystic kidney disease adpkd
+congenital ichthyosis
+ichthyosis vulgaris
+x-linked ichthyosis
+lamellar ichthyosis
+congenital bullous ichthyosiform erythroderma
+harlequin fetus
+epidermolysis bullosa
+xeroderma pigmentosum
+ectodermal dysplasia
+congenital cutaneous mastocytosis
+steatocystoma multiplex
+genetic causes of short stature
+primary insulin-like growth factor-1 igf-1 deficiency
+congenital adrenogenital disorders associated with enzyme deficiency
+marfan syndrome
+ehlers danlos syndrome
+classical ehlers-danlos syndrome
+vascular ehlers-danlos syndrome
+osteochondrodysplasias
+chondrodystrophy
+hypochondrogenesis
+thanatophoric short stature
+achondroplasia
+diastrophic dysplasia
+spondyloepiphyseal dysplasia
+chondroectodermal dysplasia genetic
+osteogenesis imperfecta genetic
+osteopetrosis genetic
+polyostotic fibrous dysplasia
+progressive diaphyseal dysplasia multiple epiphyseal dysplasia
+multiple congenital exostoses
+familial chondrocalcinosis
+surfactant mutations of the lung
+cystic fibrosis
+alpha-1-antitrypsin deficiency
+plasminogen deficiency
+rett syndrome
+pseudohypoparathyroidism
+familial mediterranean fever
+familial polycythemia familial erythrocytosis
+malignant hyperthermia
+androgen insensitivity syndrome
+genetic susceptibility of disease
+genetic carrier status
+cystic fibrosis carrier
+hemoglobin c trait sickle-cell trait

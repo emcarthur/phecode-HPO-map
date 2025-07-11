@@ -1,0 +1,1227 @@
+hpo_term_id	hpo_term_name	phecode	phecode_name
+HP:0001891	Iron deficiency anemia	BI_160.1	Iron deficiency anemia
+HP:0001889	Megaloblastic anemia	BI_160.2	Megaloblastic anemia
+HP:0005575	Hemolytic-uremic syndrome	BI_161.22	Hemolytic-uremic syndrome
+HP:0001915	Aplastic anemia	BI_162	Aplastic anemia
+HP:0001876	Pancytopenia	BI_162.8	Pancytopenia
+HP:0001903	Anemia	BI_164	Anemia
+HP:0001935	Microcytic anemia	BI_164.1	Microcytic anemia
+HP:0001972	Macrocytic anemia	BI_164.2	Macrocytic anemia
+HP:0001924	Sideroblastic anemia	BI_164.8	Sideroblastic anemia
+HP:0012175	Resistance to activated protein C	BI_168.211	Activated protein C resistance*
+HP:0025343	Lupus anticoagulant	BI_168.213	Lupus anticoagulant syndrome*
+HP:0001873	Thrombocytopenia	BI_169.1	Thrombocytopenia
+HP:0001973	Autoimmune thrombocytopenia	BI_169.1	Thrombocytopenia
+HP:0011874	Heparin-induced thrombocytopenia	BI_169.15	Heparin-induced thrombocytopenia [HIT]
+HP:0001875	Neutropenia	BI_170.1	Neutropenia
+HP:0040289	Cyclic neutropenia	BI_170.14	Cyclic neutropenia
+HP:0010976	B lymphocytopenia	BI_170.2	Lymphocytopenia
+HP:0001888	Lymphopenia	BI_170.2	Lymphocytopenia
+HP:0005403	T lymphocytopenia	BI_170.2	Lymphocytopenia
+HP:0030150	Plasmacytosis	BI_171.3	Plasmacytosis
+HP:0031807	Increased basophil count	BI_171.5	Basophilia
+HP:0032064	Gastrointestinal eosinophilia	BI_171.7	Eosinophilia
+HP:0001880	Eosinophilia	BI_171.7	Eosinophilia
+HP:0001744	Splenomegaly	BI_174.2	Splenomegaly
+HP:0001971	Hypersplenism	BI_174.21	Hypersplenism
+HP:0030423	Splenic cyst	BI_174.6	Cyst of spleen*
+HP:0001901	Polycythemia	BI_175	Polycythemias
+HP:0001894	Thrombocytosis	BI_176.1	Thrombocytosis*
+HP:0002733	Abnormality of the lymph nodes	BI_177	Abnormality of the lymph nodes
+HP:0002840	Lymphadenitis	BI_177.1	Lymphadenitis
+HP:0002840	Lymphadenitis	BI_177.13	Acute lymphadenitis
+HP:0001004	Lymphedema	BI_177.4	Lymphedema
+HP:0002721	Immunodeficiency	BI_179	Immunodeficiencies
+HP:0004313	Decreased circulating antibody level	BI_179.1	Hypogammaglobulinemia NOS
+HP:0002721	Immunodeficiency	BI_179.9	Immunodeficiency NOS
+HP:0031047	Paraproteinemia	BI_180.3	Paraproteinemias
+HP:0100778	Cryoglobulinemia	BI_180.4	Cryoglobulinemia*
+HP:0002960	Autoimmunity	BI_181	Autoimmune disease
+HP:0100649	Neoplasm of the oral cavity	CA_100.1	Malignant neoplasm of the oral cavity
+HP:0100648	Neoplasm of the tongue	CA_100.12	Malignant neoplasm of the tongue
+HP:0100630	Neoplasia of the nasopharynx	CA_100.3	Malignant neoplasm of the nasopharynx
+HP:0100605	Neoplasm of the larynx	CA_100.6	Malignant neoplasm of the larynx
+HP:0100638	Neoplasm of the pharynx	CA_100.7	Malignant neoplasm of the pharynx
+HP:0100833	Neoplasm of the small intestine	CA_101.3	Malignant neoplasm of the small intestine
+HP:0002896	Neoplasm of the liver	CA_101.61	Malignant neoplasm of the liver
+HP:0100575	Neoplasm of the gallbladder	CA_101.71	Malignant neoplasm of the gallbladder
+HP:0002894	Neoplasm of the pancreas	CA_101.8	Malignant neoplasm of the pancreas
+HP:0100551	Neoplasm of the trachea	CA_102.3	Malignant neoplasm of the trachea
+HP:0100544	Neoplasm of the heart	CA_102.51	Malignant neoplasm of the heart
+HP:0100521	Neoplasm of the thymus	CA_102.54	Malignant neoplasm of the thymus
+HP:0002671	Basal cell carcinoma	CA_103.21	Basal cell carcinoma
+HP:0006739	Squamous cell carcinoma of the skin	CA_103.22	Squamous cell carcinoma of the skin
+HP:0100723	Gastrointestinal stroma tumor	CA_104.5	Gastrointestinal stromal tumor*
+HP:0100726	Kaposi's sarcoma	CA_104.6	Kaposi's sarcoma
+HP:0100013	Neoplasm of the breast	CA_105	Malignant neoplasm of the breast
+HP:0030416	Vulvar neoplasm	CA_106.11	Malignant neoplasm of the vulva
+HP:0100615	Ovarian neoplasm	CA_106.3	Malignant neoplasm of the ovary
+HP:0100850	Neoplasm of the penis	CA_107.1	Malignant neoplasm of the penis
+HP:0100849	Neoplasm of the scrotum	CA_107.6	Malignant neoplasm of the scrotum
+HP:0100733	Neoplasm of the parathyroid gland	CA_110.3	Malignant neoplasm of the parathyroid gland
+HP:0100570	Carcinoid tumor	CA_114.4	Carcinoid tumors
+HP:0006723	Intestinal carcinoid	CA_114.41	Intestinal carcinoid
+HP:0002668	Paraganglioma	CA_114.5	Paraganglioma
+HP:0002886	Vagal paraganglioma	CA_114.5	Paraganglioma
+HP:0002666	Pheochromocytoma	CA_114.6	Pheochromocytoma
+HP:0001909	Leukemia	CA_121	Leukemia
+HP:0002488	Acute leukemia	CA_121.1	Acute leukemia
+HP:0006721	Acute lymphoblastic leukemia	CA_121.11	Acute lymphoid leukemia
+HP:0005526	Lymphoid leukemia	CA_121.11	Acute lymphoid leukemia
+HP:0004808	Acute myeloid leukemia	CA_121.12	Acute myeloid leukemia
+HP:0012324	Myeloid leukemia	CA_121.12	Acute myeloid leukemia
+HP:0005558	Chronic leukemia	CA_121.2	Chronic leukemia
+HP:0005526	Lymphoid leukemia	CA_121.21	Chronic lymphoid leukemia
+HP:0002665	Lymphoma	CA_122	Lymphoma
+HP:0012189	Hodgkin lymphoma	CA_122.1	Hodgkin lymphoma
+HP:0012539	Non-Hodgkin lymphoma	CA_122.2	Non-Hodgkin lymphoma
+HP:0033125	Follicular lymphoma	CA_122.21	Follicular lymphoma
+HP:0030080	Burkitt lymphoma	CA_122.23	Burkitt lymphoma
+HP:0012190	T-cell lymphoma	CA_122.24	T-cell lymphoma
+HP:0012193	Anaplastic large-cell lymphoma	CA_122.25	Anaplastic large cell lymphoma
+HP:0006775	Multiple myeloma	CA_123.1	Multiple myeloma
+HP:0005547	Myeloproliferative disorder	CA_124	Myeloproliferative disorder
+HP:0005534	Transient myeloproliferative syndrome	CA_124	Myeloproliferative disorder
+HP:0001901	Polycythemia	CA_124.3	Polycythemia vera
+HP:0002863	Myelodysplasia	CA_124.6	Myelodysplastic syndrome
+HP:0011974	Myelofibrosis	CA_124.8	Myelofibrosis
+HP:0200151	Cutaneous mastocytosis	CA_125.1	Cutaneous mastocytosis*
+HP:0100649	Neoplasm of the oral cavity	CA_135.1	Benign neoplasm of the oral cavity
+HP:0100604	Neoplasm of the lip	CA_135.11	Benign neoplasm of the lip
+HP:0100648	Neoplasm of the tongue	CA_135.12	Benign neoplasm of the tongue
+HP:0100630	Neoplasia of the nasopharynx	CA_135.3	Benign neoplasm of the nasopharynx
+HP:0100833	Neoplasm of the small intestine	CA_136.3	Benign neoplasm of the small intestine
+HP:0100273	Neoplasm of the colon	CA_136.41	Benign neoplasm of the colon
+HP:0002896	Neoplasm of the liver	CA_136.61	Benign neoplasm of the liver*
+HP:0002894	Neoplasm of the pancreas	CA_136.8	Benign neoplasm of the pancreas
+HP:0100551	Neoplasm of the trachea	CA_137.3	Benign neoplasm of the trachea
+HP:0100544	Neoplasm of the heart	CA_137.51	Benign neoplasm of the heart
+HP:0100521	Neoplasm of the thymus	CA_137.54	Benign neoplasm of the thymus
+HP:0008069	Neoplasm of the skin	CA_138	Benign neoplasm of the skin
+HP:0000995	Melanocytic nevus	CA_138.2	Melanocytic nevi*
+HP:0012032	Lipoma	CA_139.5	Lipoma
+HP:0001028	Hemangioma	CA_139.61	Hemangioma
+HP:0100764	Lymphangioma	CA_139.62	Lymphangioma
+HP:0100013	Neoplasm of the breast	CA_140	Benign neoplasm of the breast
+HP:0100850	Neoplasm of the penis	CA_146.1	Benign neoplasm of the penis
+HP:0100849	Neoplasm of the scrotum	CA_146.32	Benign neoplasm of the scrotum
+HP:0100733	Neoplasm of the parathyroid gland	CA_149.3	Benign neoplasm of the parathyroid gland
+HP:0040196	Mild microcephaly	CM_750.111	Microcephaly
+HP:0000252	Microcephaly	CM_750.111	Microcephaly
+HP:0100842	Septo-optic dysplasia	CM_750.114	Septo-optic dysplasia of brain*
+HP:0006988	Alobar holoprosencephaly	CM_750.115	Holoprosencephaly*
+HP:0006870	Lobar holoprosencephaly	CM_750.115	Holoprosencephaly*
+HP:0001360	Holoprosencephaly	CM_750.115	Holoprosencephaly*
+HP:0001355	Megalencephaly	CM_750.13	Megalencephaly*
+HP:0002414	Spina bifida	CM_750.21	Spina bifida
+HP:0004601	Spina bifida occulta at L5	CM_750.22	Spina bifida occulta
+HP:0004614	Spina bifida occulta at S1	CM_750.22	Spina bifida occulta
+HP:0003298	Spina bifida occulta	CM_750.22	Spina bifida occulta
+HP:0011817	Basal encephalocele	CM_750.24	Encephalocele
+HP:0002084	Encephalocele	CM_750.24	Encephalocele
+HP:0100565	Hydromyelia	CM_750.26	Hydromyelia
+HP:0008056	Aplasia/Hypoplasia affecting the eye	CM_751.11	Aplasia/Hypoplasia affecting the eye
+HP:0000568	Microphthalmia	CM_751.112	Microphthalmos
+HP:0007707	Congenital aphakia	CM_751.211	Congenital aphakia
+HP:0000519	Developmental cataract	CM_751.213	Congenital cataract
+HP:0100719	Lens coloboma	CM_751.215	Coloboma of lens*
+HP:0000558	Rieger anomaly	CM_751.222	Rieger's anomaly*
+HP:0000592	Blue sclerae	CM_751.241	Blue sclera*
+HP:0000589	Coloboma	CM_751.5	Coloboma
+HP:0007970	Congenital ptosis	CM_751.711	Congenital ptosis
+HP:0008772	Aplasia/Hypoplasia of the external ear	CM_752.1	Aplasia/Hypoplasia of the external ear
+HP:0008551	Microtia	CM_752.11	Microtia
+HP:0000400	Macrotia	CM_752.2	Macrotia
+HP:0000411	Protruding ear	CM_752.5	Prominent ear [Protruding ear]*
+HP:0009794	Branchial anomaly	CM_753.1	Branchial anomaly
+HP:0000465	Webbed neck	CM_753.3	Webbing of neck
+HP:0000202	Oral cleft	CM_754.1	Oral cleft
+HP:0000175	Cleft palate	CM_754.11	Cleft palate
+HP:0000193	Bifid uvula	CM_754.14	Cleft uvula [Bifid uvula]*
+HP:0000154	Wide mouth	CM_754.31	Macrostomia
+HP:0000160	Narrow mouth	CM_754.32	Microstomia
+HP:0000158	Macroglossia	CM_754.52	Macroglossia
+HP:0000268	Dolichocephaly	CM_755.21	Dolichocephaly*
+HP:0001357	Plagiocephaly	CM_755.22	Plagiocephaly*
+HP:0001363	Craniosynostosis	CM_755.23	Craniosynostosis*
+HP:0004439	Craniofacial dysostosis	CM_755.3	Craniofacial dysostosis*
+HP:0008497	Congenital craniofacial dysostosis	CM_755.3	Craniofacial dysostosis*
+HP:0005321	Mandibulofacial dysostosis	CM_755.31	Mandibulofacial dysostosis*
+HP:0000256	Macrocephaly	CM_755.4	Macrocephaly*
+HP:0000316	Hypertelorism	CM_755.5	Hypertelorism
+HP:0000453	Choanal atresia	CM_755.61	Choanal atresia
+HP:0100594	Esophageal web	CM_757.111	Esophageal web*
+HP:0002245	Meckel diverticulum	CM_758.11	Meckel diverticulum
+HP:0100668	Intestinal duplication	CM_758.15	Intestinal duplication*
+HP:0004397	Ectopic anus	CM_758.16	Ectopic anus*
+HP:0012621	Persistent cloaca	CM_758.17	Persistent cloaca*
+HP:0005912	Biliary atresia	CM_758.21	Biliary atresia
+HP:0006706	Cystic liver disease	CM_758.22	Cystic liver disease
+HP:0001734	Annular pancreas	CM_758.31	Annular pancreas*
+HP:0008684	Aplasia/hypoplasia of the uterus	CM_760.131	Aplasia and hypoplasia of uterus
+HP:0030011	Imperforate hymen	CM_760.153	Imperforate hymen
+HP:0000028	Cryptorchidism	CM_760.211	Undescended testis [Cryptorchidism]
+HP:0012646	Retractile testis	CM_760.212	Retractile testis
+HP:0000047	Hypospadias	CM_760.221	Hypospadias
+HP:0008736	Hypoplasia of penis	CM_760.223	Hypoplasia of penis
+HP:0000039	Epispadias	CM_760.227	Epispadias
+HP:4000037	Congenital hydrocele	CM_760.26	Congenital hydrocele
+HP:0008678	Renal hypoplasia/aplasia	CM_761.11	Renal hypoplasia/aplasia
+HP:0000104	Renal agenesis	CM_761.111	Renal agenesis*
+HP:0000089	Renal hypoplasia	CM_761.112	Renal hypoplasia*
+HP:0000800	Cystic renal dysplasia	CM_761.12	Renal dysplasia
+HP:0000110	Renal dysplasia	CM_761.12	Renal dysplasia
+HP:0000086	Ectopic kidney	CM_761.18	Ectopic kidney*
+HP:0008676	Congenital megaureter	CM_761.23	Congenital megaureter*
+HP:0002836	Bladder exstrophy	CM_761.31	Bladder exstrophy
+HP:0010957	Congenital posterior urethral valve	CM_761.32	Congenital posterior urethral valves*
+HP:0010478	Abnormality of the urachus	CM_761.34	Abnormality of the urachus
+HP:0005950	Laryngeal web	CM_762.11	Laryngeal web
+HP:0008749	Laryngeal hypoplasia	CM_762.13	Laryngeal hypoplasia*
+HP:0011603	Congenital malformation of the great arteries	CM_763.1	Congenital malformations of great arteries
+HP:0001660	Truncus arteriosus	CM_763.11	Common arterial trunk [Truncus arteriosus]
+HP:0001669	Transposition of the great arteries	CM_763.12	Transposition of great vessels [TGA]
+HP:0001643	Patent ductus arteriosus	CM_763.13	Patent ductus arteriosus
+HP:0001680	Coarctation of aorta	CM_763.141	Coarctation of aorta
+HP:0011611	Interrupted aortic arch	CM_763.142	Interruption of aortic arch
+HP:0010775	Vascular ring	CM_763.146	Vascular ring of aorta*
+HP:0012020	Right aortic arch	CM_763.147	Right aortic arch*
+HP:0004415	Pulmonary artery stenosis	CM_763.152	Stenosis of pulmonary artery*
+HP:0006548	Pulmonary arteriovenous malformation	CM_763.153	Congenital pulmonary arteriovenous malformation
+HP:0001719	Double outlet right ventricle	CM_763.16	Double outlet right ventricle
+HP:0011581	Double outlet left ventricle	CM_763.17	Double outlet left ventricle*
+HP:0010882	Pulmonary valve atresia	CM_763.211	Congenital pulmonary valve atresia
+HP:0001642	Pulmonic stenosis	CM_763.212	Congenital pulmonary valve stenosis
+HP:0010316	Ebstein anomaly of the tricuspid valve	CM_763.222	Ebstein anomaly of the tricuspid valve
+HP:0011570	Congenital mitral stenosis	CM_763.233	Congenital mitral stenosis
+HP:0010954	Hypoplastic right heart	CM_763.24	Hypoplastic right heart syndrome*
+HP:0001629	Ventricular septal defect	CM_763.31	Ventricular septal defect
+HP:0011621	Gerbode ventricular septal defect	CM_763.31	Ventricular septal defect
+HP:0011622	Inlet ventricular septal defect	CM_763.31	Ventricular septal defect
+HP:0011623	Muscular ventricular septal defect	CM_763.31	Ventricular septal defect
+HP:0011681	Subarterial ventricular septal defect	CM_763.31	Ventricular septal defect
+HP:0011682	Perimembranous ventricular septal defect	CM_763.31	Ventricular septal defect
+HP:0011683	Restrictive ventricular septal defect	CM_763.31	Ventricular septal defect
+HP:0010445	Primum atrial septal defect	CM_763.32	Atrial septal defect
+HP:0001631	Atrial septal defect	CM_763.32	Atrial septal defect
+HP:0001684	Secundum atrial septal defect	CM_763.32	Atrial septal defect
+HP:0001655	Patent foramen ovale	CM_763.321	Patent foramen ovale*
+HP:0011579	Unbalanced atrioventricular canal defect	CM_763.33	Atrioventricular septal defect
+HP:0011576	Intermediate atrioventricular canal defect	CM_763.33	Atrioventricular septal defect
+HP:0006695	Atrioventricular canal defect	CM_763.33	Atrioventricular septal defect
+HP:0001674	Complete atrioventricular canal defect	CM_763.33	Atrioventricular septal defect
+HP:0010774	Cor triatriatum	CM_763.34	Cor triatriatum
+HP:0011566	Cor triatriatum dexter	CM_763.34	Cor triatriatum
+HP:0001636	Tetralogy of Fallot	CM_763.4	Tetralogy of Fallot
+HP:0005160	Total anomalous pulmonary venous return	CM_763.6	Anomalous pulmonary venous return
+HP:0010773	Partial anomalous pulmonary venous return	CM_763.6	Anomalous pulmonary venous return
+HP:0010772	Anomalous pulmonary venous return	CM_763.6	Anomalous pulmonary venous return
+HP:0004383	Hypoplastic left heart	CM_763.7	Hypoplastic left heart syndrome
+HP:0005301	Persistent left superior vena cava	CM_764.11	Persistent left superior vena cava*
+HP:0100026	Arteriovenous malformation	CM_764.5	Congenital arteriovenous malformation*
+HP:0001374	Congenital hip dislocation	CM_765.1	Congenital dislocation of hip
+HP:0008780	Congenital bilateral hip dislocation	CM_765.11	Congenital dislocation of hip, bilateral
+HP:0005850	Congenital talipes calcaneovalgus	CM_766.21	Congenital talipes calcaneovalgus
+HP:0011297	Abnormal digit morphology	CM_767.1	Abnormal digit morphology
+HP:0001829	Foot polydactyly	CM_767.11	Polydactyly
+HP:0010442	Polydactyly	CM_767.11	Polydactyly
+HP:0001161	Hand polydactyly	CM_767.11	Polydactyly
+HP:0001770	Toe syndactyly	CM_767.12	Syndactyly
+HP:0001159	Syndactyly	CM_767.12	Syndactyly
+HP:0006487	Bowing of the long bones	CM_767.6	Bowing of the long bones
+HP:0000767	Pectus excavatum	CM_768.11	Pectus excavatum
+HP:0000768	Pectus carinatum	CM_768.12	Pectus carinatum
+HP:0000891	Cervical ribs	CM_768.21	Cervical rib
+HP:0004602	Cervical C2/C3 vertebral fusion	CM_769.1	Klippel-Feil syndrome
+HP:0000776	Congenital diaphragmatic hernia	CM_770.11	Congenital diaphragmatic hernia*
+HP:0001543	Gastroschisis	CM_770.22	Gastroschisis
+HP:0002804	Arthrogryposis multiplex congenita	CM_770.4	Arthrogryposis multiplex congenita*
+HP:0000851	Congenital hypothyroidism	CM_772.2	Congenital hypothyroidism
+HP:0001746	Asplenia	CM_773.1	Asplenia*
+HP:0000822	Hypertension	CV_401	Hypertension
+HP:0100817	Renovascular hypertension	CV_401.61	Renovascular hypertension
+HP:0100735	Hypertensive crisis	CV_401.7	Hypertensive crisis*
+HP:0001681	Angina pectoris	CV_403	Angina pectoris
+HP:0001658	Myocardial infarction	CV_404.1	Myocardial infarction [Heart attack]
+HP:0001658	Myocardial infarction	CV_404.11	Acute myocardial infarction
+HP:0001701	Pericarditis	CV_410.1	Pericarditis
+HP:0100584	Endocarditis	CV_410.2	Endocarditis
+HP:0012819	Myocarditis	CV_410.3	Myocarditis
+HP:0011851	Hemopericardium	CV_411.1	Hemopericardium NEC
+HP:0033415	Cardiac tamponade	CV_411.3	Cardiac tamponade
+HP:0001653	Mitral regurgitation	CV_413.11	Mitral valve insufficiency
+HP:0001634	Mitral valve prolapse	CV_413.12	Mitral valve prolapse*
+HP:0001718	Mitral stenosis	CV_413.13	Mitral valve stenosis
+HP:0001650	Aortic valve stenosis	CV_413.21	Aortic stenosis
+HP:0001659	Aortic regurgitation	CV_413.22	Aortic insufficiency
+HP:0001642	Pulmonic stenosis	CV_413.41	Pulmonary valve stenosis
+HP:0001638	Cardiomyopathy	CV_414	Cardiomyopathy
+HP:0005157	Concentric hypertrophic cardiomyopathy	CV_414.1	Hypertrophic cardiomyopathy
+HP:0001639	Hypertrophic cardiomyopathy	CV_414.1	Hypertrophic cardiomyopathy
+HP:0031992	Apical hypertrophic cardiomyopathy	CV_414.1	Hypertrophic cardiomyopathy
+HP:0001644	Dilated cardiomyopathy	CV_414.2	Dilated cardiomyopathy*
+HP:0001706	Endocardial fibroelastosis	CV_414.7	Endocardial fibroelastosis
+HP:0001723	Restrictive cardiomyopathy	CV_414.8	Restrictive cardiomyopathy*
+HP:0006688	Paroxysmal tachycardia	CV_416.1	Paroxysmal tachycardia
+HP:0004763	Paroxysmal supraventricular tachycardia	CV_416.11	Supraventricular tachycardia
+HP:0004755	Supraventricular tachycardia	CV_416.11	Supraventricular tachycardia
+HP:0004751	Paroxysmal ventricular tachycardia	CV_416.12	Ventricular tachycardia
+HP:0004756	Ventricular tachycardia	CV_416.12	Ventricular tachycardia
+HP:0001664	Torsade de pointes	CV_416.121	Torsades de pointes*
+HP:0005110	Atrial fibrillation	CV_416.21	Atrial fibrillation
+HP:0004757	Paroxysmal atrial fibrillation	CV_416.211	Paroxysmal atrial fibrillation*
+HP:0005110	Atrial fibrillation	CV_416.213	Chronic atrial fibrillation*
+HP:0004754	Permanent atrial fibrillation	CV_416.214	Permanent atrial fibrillation*
+HP:0004749	Atrial flutter	CV_416.22	Atrial flutter
+HP:0031671	Typical atrial flutter	CV_416.221	Typical atrial flutter*
+HP:0031672	Reverse typical atrial flutter	CV_416.221	Typical atrial flutter*
+HP:0001663	Ventricular fibrillation	CV_416.31	Ventricular fibrillation
+HP:0011841	Ventricular flutter	CV_416.32	Ventricular flutter
+HP:0012722	Heart block	CV_416.4	Heart block
+HP:0001678	Atrioventricular block	CV_416.41	Atrioventricular block
+HP:0011707	Mobitz I atrioventricular block	CV_416.41	Atrioventricular block
+HP:0011708	Mobitz II atrioventricular block	CV_416.41	Atrioventricular block
+HP:0011705	First degree atrioventricular block	CV_416.411	Atrioventricular block, first degree
+HP:0011706	Second degree atrioventricular block	CV_416.412	Atrioventricular block, second degree
+HP:0001678	Atrioventricular block	CV_416.413	Atrioventricular block, complete
+HP:0011713	Left bundle branch block	CV_416.42	Left bundle branch block
+HP:0011710	Bundle branch block	CV_416.42	Left bundle branch block
+HP:0011710	Bundle branch block	CV_416.43	Right bundle branch block
+HP:0011712	Right bundle branch block	CV_416.43	Right bundle branch block
+HP:0001657	Prolonged QT interval	CV_416.6	Long QT syndrome
+HP:0011704	Sick sinus syndrome	CV_416.71	Sick sinus syndrome*
+HP:0001962	Palpitations	CV_417.1	Palpitations
+HP:0001649	Tachycardia	CV_417.2	Tachycardia
+HP:0001662	Bradycardia	CV_417.3	Bradycardia
+HP:0003115	Abnormal EKG	CV_418.1	Abnormal electrocardiogram [ECG] [EKG]
+HP:0001695	Cardiac arrest	CV_420	Cardiac arrest
+HP:0030148	Heart murmur	CV_423.1	Cardiac murmurs
+HP:0001635	Congestive heart failure	CV_424	Heart failure
+HP:0001635	Congestive heart failure	CV_424.1	Left heart failure
+HP:0001635	Congestive heart failure	CV_424.5	Right heart failure*
+HP:0001640	Cardiomegaly	CV_425	Cardiomegaly
+HP:0100546	Carotid artery stenosis	CV_433.21	Carotid artery stenosis
+HP:0002621	Atherosclerosis	CV_436	Atherosclerosis [ASCVD]
+HP:0031684	Renal artery atherosclerosis	CV_436.1	Atherosclerosis of renal artery
+HP:0012397	Aortic atherosclerotic lesion	CV_436.3	Atherosclerosis of aorta
+HP:0005112	Abdominal aortic aneurysm	CV_438.11	Abdominal aortic aneurysm
+HP:0031644	Fusiform abdominal aortic aneurysm	CV_438.11	Abdominal aortic aneurysm
+HP:0031645	Saccular abdominal aortic aneurysm	CV_438.11	Abdominal aortic aneurysm
+HP:0031711	Asymmetric abdominal aortic aneurysm	CV_438.11	Abdominal aortic aneurysm
+HP:0005294	Arterial dissection	CV_438.4	Arterial dissection
+HP:0012499	Descending aortic dissection	CV_438.41	Aortic dissection
+HP:0004933	Ascending aortic dissection	CV_438.41	Aortic dissection
+HP:0002647	Aortic dissection	CV_438.41	Aortic dissection
+HP:0012158	Carotid artery dissection	CV_438.42	Carotid artery dissection
+HP:0012159	Internal carotid artery dissection	CV_438.42	Carotid artery dissection
+HP:0012161	External carotid artery dissection	CV_438.42	Carotid artery dissection
+HP:0012162	Common carotid artery dissection	CV_438.42	Carotid artery dissection
+HP:0006702	Coronary artery dissection	CV_438.43	Coronary artery dissection
+HP:0030882	Coronary artery aneurysm	CV_438.5	Coronary artery aneurysm
+HP:0025019	Arterial rupture	CV_438.8	Rupture of artery
+HP:0004937	Pulmonary artery aneurysm	CV_438.9	Aneurysm of pulmonary artery
+HP:0032551	Hemorrhoids	CV_439	Hemorrhoids
+HP:0001907	Thromboembolism	CV_440.1	Venous thromboembolism
+HP:0002625	Deep venous thrombosis	CV_440.11	Deep vein thrombosis [DVT]
+HP:0030242	Portal vein thrombosis	CV_440.12	Portal vein thrombosis
+HP:0002639	Budd-Chiari syndrome	CV_440.14	Budd-Chiari syndrome
+HP:0033639	Septic pulmonary embolism	CV_440.3	Pulmonary embolism
+HP:0002204	Pulmonary embolism	CV_440.3	Pulmonary embolism
+HP:0033553	Septic embolism	CV_440.4	Septic embolism
+HP:0100026	Arteriovenous malformation	CV_441	Arteriovenous malformation
+HP:0031488	Arteriovenous malformation of the lip	CV_441	Arteriovenous malformation
+HP:0031347	Uterine arteriovenous malformation	CV_441	Arteriovenous malformation
+HP:0031345	Colonic arteriovenous malformation	CV_441	Arteriovenous malformation
+HP:0031344	Pelvic arteriovenous malformation	CV_441	Arteriovenous malformation
+HP:0031343	Jejunal arteriovenous malformation	CV_441	Arteriovenous malformation
+HP:0031342	Duodenal arteriovenous malformation	CV_441	Arteriovenous malformation
+HP:0031346	Rectal arteriovenous malformation	CV_441	Arteriovenous malformation
+HP:0031256	Optic nerve arteriovenous malformation	CV_441	Arteriovenous malformation
+HP:0031254	Thalamic arteriovenous malformation	CV_441	Arteriovenous malformation
+HP:0006574	Hepatic arteriovenous malformation	CV_441	Arteriovenous malformation
+HP:0006548	Pulmonary arteriovenous malformation	CV_441	Arteriovenous malformation
+HP:0002629	Gastrointestinal arteriovenous malformation	CV_441	Arteriovenous malformation
+HP:0002408	Cerebral arteriovenous malformation	CV_441	Arteriovenous malformation
+HP:0002390	Spinal arteriovenous malformation	CV_441	Arteriovenous malformation
+HP:0031341	Gastric arteriovenous malformation	CV_441	Arteriovenous malformation
+HP:0031563	Coronary arteriovenous fistula	CV_441.1	Arteriovenous fistula
+HP:0004947	Arteriovenous fistula	CV_441.1	Arteriovenous fistula
+HP:0006548	Pulmonary arteriovenous malformation	CV_441.2	Pulmonary arteriovenous malformation
+HP:0100026	Arteriovenous malformation	CV_441.2	Pulmonary arteriovenous malformation
+HP:0012327	Celiac artery compression	CV_443.2	Celiac artery compression syndrome
+HP:0005313	Arterial fibromuscular dysplasia	CV_443.3	Arterial fibromuscular dysplasia*
+HP:0002619	Varicose veins	CV_444.1	Varicose veins
+HP:0002615	Hypotension	CV_446	Hypotension
+HP:0001278	Orthostatic hypotension	CV_446.2	Orthostatic hypotension
+HP:0032147	Erythromelalgia	CV_448.2	Erythromelalgia
+HP:0002239	Gastrointestinal hemorrhage	CV_452	Hemorrhage, NOS
+HP:0100658	Cellulitis	DE_660	Infection of the skin
+HP:0032515	Deep dermatophytosis	DE_660.12	Dermatophytosis
+HP:0100658	Cellulitis	DE_660.2	Bacterial infection of the skin
+HP:0003765	Psoriasiform dermatitis	DE_664.4	Psoriasis
+HP:0012219	Erythema nodosum	DE_665	Erythema nodosum
+HP:0001025	Urticaria	DE_666	Urticaria
+HP:0410133	Chronic idiopathic urticaria	DE_666.2	Idiopathic urticaria
+HP:0011971	Dermatographic urticaria	DE_666.4	Dermatographic urticaria
+HP:0410138	Vibratory urticaria	DE_666.5	Vibratory urticaria
+HP:0001047	Atopic dermatitis	DE_668.1	Atopic dermatitis
+HP:0001051	Seborrheic dermatitis	DE_668.2	Seborrheic dermatitis
+HP:0032282	Contact dermatitis	DE_668.3	Contact dermatitis
+HP:0025452	Pyoderma gangrenosum	DE_669.1	Pyoderma gangrenosum
+HP:0040154	Acne inversa	DE_669.3	Hidradenitis suppurativa
+HP:0031287	Seborrheic keratosis	DE_670	Seborrheic keratosis
+HP:0025127	Actinic keratosis	DE_672.21	Actinic keratosis
+HP:0012643	Foveal hypopigmentation	DE_674.1	Hypopigmentation
+HP:0007894	Hypopigmentation of the fundus	DE_674.1	Hypopigmentation
+HP:0007730	Iris hypopigmentation	DE_674.1	Hypopigmentation
+HP:0005590	Spotty hypopigmentation	DE_674.1	Hypopigmentation
+HP:0001010	Hypopigmentation of the skin	DE_674.1	Hypopigmentation
+HP:0005599	Hypopigmentation of hair	DE_674.1	Hypopigmentation
+HP:0001045	Vitiligo	DE_674.11	Vitiligo
+HP:0000957	Cafe-au-lait spot	DE_674.21	Cafe au lait spots*
+HP:0001480	Freckling	DE_674.22	Freckles*
+HP:0001065	Striae distensae	DE_675.2	Striae atrophicae
+HP:0009710	Chilblains	DE_677	Chilblains
+HP:0000980	Pallor	DE_679.2	Pallor
+HP:0031284	Flushing	DE_679.3	Flushing
+HP:0000989	Pruritus	DE_679.4	Pruritus
+HP:0000999	Pyoderma	DE_679.5	Pyoderma
+HP:0011368	Epidermal thickening	DE_680	Epidermal thickening
+HP:0031009	Ainhum	DE_680.4	Ainhum
+HP:0000956	Acanthosis nigricans	DE_680.5	Acanthosis nigricans
+HP:0010769	Pilonidal sinus	DE_682.2	Pilonidal cyst
+HP:0001061	Acne	DE_682.4	Acne
+HP:0008404	Nail dystrophy	DE_683.2	Nail dystrophy*
+HP:0001806	Onycholysis	DE_683.4	Onycholysis*
+HP:0001596	Alopecia	DE_684.1	Alopecia
+HP:0002232	Patchy alopecia	DE_684.11	Alopecia Areata
+HP:0025470	Telogen effluvium	DE_684.12	Telogen effluvium
+HP:0001007	Hirsutism	DE_684.21	Hirsutism*
+HP:0001595	Abnormal hair morphology	DE_684.8	Abnormalities of the hair
+HP:0000970	Anhidrosis	DE_685.5	Anhidrosis
+HP:0000975	Hyperhidrosis	DE_685.8	Hyperhidrosis
+HP:0012399	Pressure ulcer	DE_686.1	Pressure ulcer
+HP:0000821	Hypothyroidism	EM_200.1	Hypothyroidism
+HP:0008223	Compensated hypothyroidism	EM_200.1	Hypothyroidism
+HP:0008245	Pituitary hypothyroidism	EM_200.11	Secondary hypothyroidism
+HP:0000853	Goiter	EM_200.2	Goiter
+HP:0005987	Multinodular goiter	EM_200.23	Multinodular goiter
+HP:0100028	Ectopic thyroid	EM_200.24	Ectopic thyroid nodule
+HP:0100646	Thyroiditis	EM_200.4	Thyroiditis
+HP:0000872	Hashimoto thyroiditis	EM_200.411	Hashimoto thyroiditis [Chronic lymphocytic thyroiditis]
+HP:0002926	Abnormality of thyroid physiology	EM_200.9	Abnormal thyroid function studies
+HP:0100651	Type I diabetes mellitus	EM_202	Diabetes mellitus
+HP:0000819	Diabetes mellitus	EM_202	Diabetes mellitus
+HP:0005978	Type II diabetes mellitus	EM_202	Diabetes mellitus
+HP:0100651	Type I diabetes mellitus	EM_202.1	Type 1 diabetes
+HP:0005978	Type II diabetes mellitus	EM_202.2	Type 2 diabetes
+HP:0025691	Impaired fasting glucose	EM_204.1	Impaired fasting glucose
+HP:0040270	Impaired glucose tolerance	EM_204.2	Impaired glucose tolerance (oral)
+HP:0001943	Hypoglycemia	EM_204.3	Hypoglycemia
+HP:0001325	Hypoglycemic coma	EM_204.31	Hypoglycemic coma
+HP:0003074	Hyperglycemia	EM_204.4	Hyperglycemia
+HP:0000829	Hypoparathyroidism	EM_208.1	Hypoparathyroidism
+HP:0000843	Hyperparathyroidism	EM_208.2	Hyperparathyroidism
+HP:0008200	Primary hyperparathyroidism	EM_208.2	Hyperparathyroidism
+HP:0011770	Tertiary hyperparathyroidism	EM_208.2	Hyperparathyroidism
+HP:0000867	Secondary hyperparathyroidism	EM_208.22	Secondary hyperparathyroidism
+HP:0000870	Increased circulating prolactin concentration	EM_209.13	Hyperprolactinemia*
+HP:0040075	Hypopituitarism	EM_209.2	Hypopituitarism
+HP:0000873	Diabetes insipidus	EM_209.4	Diabetes insipidus
+HP:0000863	Central diabetes insipidus	EM_209.4	Diabetes insipidus
+HP:0011736	Primary hyperaldosteronism	EM_211.11	Hyperaldosteronism
+HP:0000859	Hyperaldosteronism	EM_211.11	Hyperaldosteronism
+HP:0003118	Increased circulating cortisol level	EM_211.13	Cushing's syndrome
+HP:0008207	Primary adrenal insufficiency	EM_211.2	Adrenocortical insufficiency
+HP:0008207	Primary adrenal insufficiency	EM_211.22	Drug-induced adrenocortical insufficiency*
+HP:0008209	Premature ovarian insufficiency	EM_214.11	Premature menopause
+HP:0000823	Delayed puberty	EM_217.1	Delayed puberty
+HP:0008185	Precocious puberty in males	EM_217.2	Precocious puberty
+HP:0000826	Precocious puberty	EM_217.2	Precocious puberty
+HP:0002039	Anorexia	EM_230.3	Anorexia
+HP:0004326	Cachexia	EM_230.4	Cachexia
+HP:0033842	Early satiety	EM_230.5	Early satiety
+HP:0001508	Failure to thrive	EM_230.7	Failure to thrive
+HP:0001525	Severe failure to thrive	EM_230.7	Failure to thrive
+HP:0004905	Low levels of vitamin A	EM_232	Vitamin deficiencies
+HP:0004905	Low levels of vitamin A	EM_232.1	Vitamin A deficiency
+HP:0100502	Vitamin B12 deficiency	EM_232.27	Vitamin B12 deficiency
+HP:0100512	Low levels of vitamin D	EM_232.4	Vitamin D deficiency
+HP:0100513	Low levels of vitamin E	EM_232.5	Vitamin E deficiency*
+HP:0001513	Obesity	EM_236.1	Obesity
+HP:0003077	Hyperlipidemia	EM_239	Hyperlipidemia
+HP:0003124	Hypercholesterolemia	EM_239.1	Hypercholesterolemia
+HP:0003124	Hypercholesterolemia	EM_239.11	Pure hypercholesterolemia
+HP:0003077	Hyperlipidemia	EM_239.3	Mixed hyperlipidemia
+HP:0012238	Increased circulating chylomicron concentration	EM_239.4	Hyperchylomicronemia
+HP:0002918	Hypermagnesemia	EM_247.41	Hypermagnesemia*
+HP:0002917	Hypomagnesemia	EM_247.42	Hypomagnesemia*
+HP:0002901	Hypocalcemia	EM_247.51	Hypocalcemia
+HP:0003072	Hypercalcemia	EM_247.52	Hypercalcemia
+HP:0025520	Calcinosis cutis	EM_247.53	Calcinosis cutis*
+HP:0011967	Decreased circulating copper concentration	EM_247.87	Copper deficiency*
+HP:0001891	Iron deficiency anemia	EM_247.88	Iron deficiency
+HP:4000041	AA amyloidosis	EM_249	Amyloidosis
+HP:0011034	Amyloidosis	EM_249	Amyloidosis
+HP:0011970	Cerebral amyloid angiopathy	EM_249.1	Cerebral amyloid angiopathy*
+HP:0004922	Atypical hyperphenylalaninemia	EM_252.2	Hyperphenylalaninemia
+HP:0004923	Hyperphenylalaninemia	EM_252.2	Hyperphenylalaninemia
+HP:0008297	Transient hyperphenylalaninemia	EM_252.2	Hyperphenylalaninemia
+HP:0100610	Maternal hyperphenylalaninemia	EM_252.2	Hyperphenylalaninemia
+HP:0001941	Acidosis	EM_256.31	Acidosis
+HP:0001948	Alkalosis	EM_256.32	Alkalosis
+HP:0001944	Dehydration	EM_256.71	Dehydration
+HP:0011106	Hypovolemia	EM_256.72	Hypovolemia
+HP:0001959	Polydipsia	EM_257	Polydipsia
+HP:0001067	Neurofibromas	GE_961.11	Neurofibromatosis
+HP:0001067	Neurofibromas	GE_961.111	Neurofibromatosis, type 1
+HP:0001067	Neurofibromas	GE_961.112	Neurofibromatosis, type 2
+HP:0003231	Hypertyrosinemia	GE_962.121	Tyrosinemia*
+HP:0001022	Albinism	GE_962.13	Albinism*
+HP:0001107	Ocular albinism	GE_962.131	Ocular albinism*
+HP:0010906	Hyperhistidinemia	GE_962.141	Histidinemia*
+HP:0003535	3-Methylglutaconic aciduria	GE_962.23	3-methylglutaconic aciduria*
+HP:0002912	Methylmalonic acidemia	GE_962.24	Methylmalonic acidemia*
+HP:0003571	Propionic acidemia	GE_962.25	Propionic acidemia*
+HP:0003150	Glutaric aciduria	GE_962.34	Glutaric aciduria type II*
+HP:0002156	Homocystinuria	GE_962.41	Homocystinuria*
+HP:0003131	Cystinuria	GE_962.42	Cystinuria*
+HP:0003614	Trimethylaminuria	GE_962.71	Trimethylaminuria*
+HP:0006926	Metachromatic leukodystrophy variant	GE_963.15	Metachromatic leukodystrophy*
+HP:0003124	Hypercholesterolemia	GE_965.4	Familial hypercholesterolemia*
+HP:0004430	Severe combined immunodeficiency	GE_969.128	Severe combined immunodeficiency [SCID]*
+HP:0005387	Combined immunodeficiency	GE_969.128	Severe combined immunodeficiency [SCID]*
+HP:0012119	Methemoglobinemia	GE_970.4	Methemoglobinemia
+HP:0005575	Hemolytic-uremic syndrome	GE_970.64	Hereditary hemolytic-uremic syndrome*
+HP:0004810	Congenital hypoplastic anemia	GE_970.7	Congenital dyserythropoietic anemia*
+HP:0010972	Anemia of inadequate production	GE_970.7	Congenital dyserythropoietic anemia*
+HP:0003202	Skeletal muscle atrophy	GE_972.41	Spinal muscular atrophy
+HP:0006959	Proximal spinal muscular atrophy	GE_972.41	Spinal muscular atrophy
+HP:0007269	Spinal muscular atrophy	GE_972.41	Spinal muscular atrophy
+HP:0009037	Segmental spinal muscular atrophy	GE_972.41	Spinal muscular atrophy
+HP:0003560	Muscular dystrophy	GE_972.9	Muscular dystrophy
+HP:0001131	Corneal dystrophy	GE_974.22	Lattice corneal dystrophy
+HP:0001149	Lattice corneal dystrophy	GE_974.22	Lattice corneal dystrophy
+HP:0007802	Granular corneal dystrophy	GE_974.23	Granular corneal dystrophy
+HP:0001131	Corneal dystrophy	GE_974.25	Macular corneal dystrophy*
+HP:0001139	Choroideremia	GE_974.31	Choroideremia
+HP:0005116	Arterial tortuosity	GE_975.3	Arterial tortuosity syndrome*
+HP:0007431	Congenital ichthyosiform erythroderma	GE_977.1	Congenital ichthyosis
+HP:0007475	Congenital bullous ichthyosiform erythroderma	GE_977.14	Congenital bullous ichthyosiform erythroderma*
+HP:0012221	Pretibial blistering	GE_977.2	Epidermolysis bullosa*
+HP:0000968	Ectodermal dysplasia	GE_977.5	Ectodermal dysplasia
+HP:0007529	Hidrotic ectodermal dysplasia	GE_977.5	Ectodermal dysplasia
+HP:0012035	Steatocystoma multiplex	GE_977.7	Steatocystoma multiplex*
+HP:0002655	Spondyloepiphyseal dysplasia	GE_978.316	Spondyloepiphyseal dysplasia*
+HP:0010735	Polyostotic fibrous dysplasia	GE_978.35	Polyostotic fibrous dysplasia
+HP:0000852	Pseudohypoparathyroidism	GE_981.4	Pseudohypoparathyroidism*
+HP:0002047	Malignant hyperthermia	GE_981.8	Malignant hyperthermia
+HP:0000674	Anodontia	GI_500.1	Anodontia
+HP:0011069	Supernumerary tooth	GI_500.3	Supernumerary teeth
+HP:0001571	Multiple impacted teeth	GI_500.41	Impacted teeth*
+HP:0000670	Carious teeth	GI_502.11	Dental caries
+HP:0033788	Cementum overgrowth	GI_502.17	Hypercementosis
+HP:0000230	Gingivitis	GI_504.1	Gingivitis
+HP:0030816	Gingival recession	GI_504.2	Gingival recession
+HP:0000704	Periodontitis	GI_504.3	Periodontitis
+HP:0000212	Gingival overgrowth	GI_504.4	Gingival enlargement*
+HP:0000217	Xerostomia	GI_506.51	Dry mouth*
+HP:0012290	Mouth neoplasm	GI_507	Lesions of mouth
+HP:0010280	Stomatitis	GI_507.1	Stomatitis
+HP:0011107	Recurrent aphthous stomatitis	GI_507.11	Recurrent oral aphthae [Recurrent aphthous stomatitis]
+HP:0002745	Oral leukoplakia	GI_507.3	Oral leukoplakia
+HP:0025126	Oral hairy leukoplakia	GI_507.31	Hairy leukoplakia*
+HP:0000206	Glossitis	GI_509.1	Glossitis
+HP:0025252	Geographic tongue	GI_509.12	Geographic tongue
+HP:0000221	Furrowed tongue	GI_509.5	Plicated tongue
+HP:0100633	Esophagitis	GI_510.2	Esophagitis
+HP:0100580	Barrett esophagus	GI_510.8	Barrett's esophagus
+HP:0004398	Peptic ulcer	GI_513	Peptic ulcer
+HP:0004791	Esophageal ulceration	GI_513.1	Esophageal ulcer
+HP:0002592	Gastric ulcer	GI_513.2	Gastric ulcer
+HP:0002588	Duodenal ulcer	GI_513.3	Duodenal ulcer
+HP:0004796	Gastrointestinal obstruction	GI_514	Gastrointestinal obstruction
+HP:0005250	High intestinal obstruction	GI_514.2	Intestinal obstruction
+HP:0005234	Neonatal intestinal obstruction	GI_514.2	Intestinal obstruction
+HP:0005214	Intestinal obstruction	GI_514.2	Intestinal obstruction
+HP:0002595	Ileus	GI_514.3	Ileus
+HP:0002590	Paralytic ileus	GI_514.31	Paralytic ileus
+HP:0002020	Gastroesophageal reflux	GI_515	Heartburn
+HP:0002021	Pyloric stenosis	GI_516.1	Pyloric stenosis
+HP:0002578	Gastroparesis	GI_516.4	Gastroparesis
+HP:0032448	Achlorhydria	GI_516.6	Achlorhydria
+HP:0033165	Necrotizing enterocolitis	GI_517.3	Necrotizing enterocolitis [NEC]
+HP:0000471	Gastrointestinal angiodysplasia	GI_517.4	Gastrointestinal angiodysplasia
+HP:0100790	Hernia	GI_520	Hernia
+HP:0004299	Hernia of the abdominal wall	GI_520.1	Hernia of the abdominal wall
+HP:0000023	Inguinal hernia	GI_520.11	Inguinal hernia
+HP:0100541	Femoral hernia	GI_520.12	Femoral hernia
+HP:0001537	Umbilical hernia	GI_520.13	Umbilical hernia
+HP:0002933	Ventral hernia	GI_520.14	Ventral hernia
+HP:0025194	Morgagni diaphragmatic hernia	GI_520.2	Diaphragmatic hernia
+HP:0032592	Aplasia of the right hemidiaphragm	GI_520.2	Diaphragmatic hernia
+HP:0025195	Central diaphragmatic hernia	GI_520.2	Diaphragmatic hernia
+HP:0009112	Aplasia of the left hemidiaphragm	GI_520.2	Diaphragmatic hernia
+HP:0000776	Congenital diaphragmatic hernia	GI_520.2	Diaphragmatic hernia
+HP:0004386	Gastrointestinal inflammation	GI_522	Gastrointestinal inflammation
+HP:0100280	Crohn's disease	GI_522.11	Crohn's disease
+HP:0100279	Ulcerative colitis	GI_522.12	Ulcerative colitis
+HP:0032064	Gastrointestinal eosinophilia	GI_522.6	Eosinophilic gastroenteritis and colitis
+HP:0410151	Eosinophilic infiltration of the esophagus	GI_522.61	Eosinophilic esophagitis
+HP:0032064	Gastrointestinal eosinophilia	GI_522.62	Eosinophilic gastroenteritis
+HP:0031813	Colonic eosinophilia	GI_522.63	Eosinophilic colitis
+HP:0033117	Duodenitis	GI_522.8	Duodenitis
+HP:0005263	Gastritis	GI_522.9	Gastritis
+HP:0002582	Atrophic gastritis	GI_522.92	Atrophic gastritis
+HP:0002253	Colonic diverticula	GI_523.2	Diverticula of colon
+HP:0100808	Gastric diverticulum	GI_523.3	Gastric diverticulum
+HP:0002251	Aganglionic megacolon	GI_524.3	Megacolon (other than Hirschsprung's)
+HP:0002024	Malabsorption	GI_525	Intestinal malabsorption
+HP:0002608	Celiac disease	GI_525.1	Celiac disease
+HP:0033400	Acute abdomen	GI_527	Abdominal pain
+HP:0002027	Abdominal pain	GI_527	Abdominal pain
+HP:0002018	Nausea	GI_528.1	Nausea
+HP:0002013	Vomiting	GI_528.2	Vomiting
+HP:0002014	Diarrhea	GI_529.1	Diarrhea
+HP:0002019	Constipation	GI_529.5	Constipation
+HP:0100812	Halitosis	GI_529.6	Halitosis*
+HP:0012390	Anal fissure	GI_530.1	Anal fissure
+HP:0033150	Anorectal abscess	GI_530.2	Anorectal abscess
+HP:0002035	Rectal prolapse	GI_530.3	Rectal prolapse
+HP:0100819	Intestinal fistula	GI_532.1	Intestinal fistula
+HP:0031368	Intestinal perforation	GI_532.2	Intestinal perforation
+HP:0031370	Small intestinal perforation	GI_532.2	Intestinal perforation
+HP:0002576	Intussusception	GI_532.3	Intussusception
+HP:0002580	Volvulus	GI_532.4	Volvulus
+HP:0002585	Abnormality of the peritoneum	GI_537	Abnormality of the peritoneum
+HP:0002586	Peritonitis	GI_537.1	Peritonitis
+HP:0011854	Hemoperitoneum	GI_537.2	Hemoperitoneum
+HP:0100592	Peritoneal abscess	GI_537.3	Peritoneal abscess
+HP:0012115	Hepatitis	GI_540	Hepatitis
+HP:0200123	Chronic hepatitis	GI_540.1	Chronic hepatitis
+HP:0200119	Acute hepatitis	GI_540.2	Acute hepatitis
+HP:0001399	Hepatic failure	GI_542.3	Hepatic failure
+HP:0006554	Acute hepatic failure	GI_542.3	Hepatic failure
+HP:0001409	Portal hypertension	GI_542.4	Portal hypertension
+HP:0002613	Biliary cirrhosis	GI_542.8	Biliary cirrhosis
+HP:0002613	Biliary cirrhosis	GI_542.81	Primary biliary cirrhosis*
+HP:0002605	Hepatic necrosis	GI_542.9	Hepatic necrosis
+HP:0100523	Liver abscess	GI_546.2	Abscess of liver
+HP:0002240	Hepatomegaly	GI_546.3	Hepatomegaly
+HP:0001433	Hepatosplenomegaly	GI_546.31	Hepatosplenomegaly*
+HP:0001081	Cholelithiasis	GI_550.1	Gallstones [Cholelithiasis]
+HP:0001082	Cholecystitis	GI_550.2	Cholecystitis
+HP:0001082	Cholecystitis	GI_550.21	Acute cholecystitis
+HP:0030154	Gallbladder perforation	GI_550.3	Gallbladder perforation
+HP:0030151	Cholangitis	GI_552.1	Cholangitis
+HP:0030991	Sclerosing cholangitis	GI_552.11	Primary sclerosing cholangitis*
+HP:0001735	Acute pancreatitis	GI_554.11	Acute pancreatitis
+HP:0006280	Chronic pancreatitis	GI_554.12	Chronic pancreatitis
+HP:0001738	Exocrine pancreatic insufficiency	GI_554.3	Exocrine pancreatic insufficiency*
+HP:0001541	Ascites	GI_555	Ascites
+HP:0032545	Abdominal rigidity	GI_556.4	Abdominal rigidity
+HP:0002239	Gastrointestinal hemorrhage	GI_557	Gastrointestinal hemorrhage
+HP:0002248	Hematemesis	GI_557.1	Hematemesis
+HP:0012578	Membranous nephropathy	GU_580.52	Diffuse membranous glomerulonephritis
+HP:0000793	Membranoproliferative glomerulonephritis	GU_580.55	Diffuse mesangiocapillary glomerulonephritis*
+HP:0008653	Crescentic glomerulonephritis	GU_580.57	Diffuse crescentic glomerulonephritis*
+HP:0000099	Glomerulonephritis	GU_580.58	C3 glomerulonephritis*
+HP:0012330	Pyelonephritis	GU_581.1	Acute pyelonephritis
+HP:0000126	Hydronephrosis	GU_581.31	Hydronephrosis
+HP:0000072	Hydroureter	GU_581.32	Hydroureter
+HP:0033738	Primary vesicoureteral reflux	GU_581.34	Vesicoureteral reflux
+HP:0033739	Secondary vesicoureteral reflux	GU_581.34	Vesicoureteral reflux
+HP:0033741	Grade IV vesicoureteral reflux	GU_581.34	Vesicoureteral reflux
+HP:0033737	Grade III vesicoureteral reflux	GU_581.34	Vesicoureteral reflux
+HP:0033740	Grade V vesicoureteral reflux	GU_581.34	Vesicoureteral reflux
+HP:0033736	Grade II vesicoureteral reflux	GU_581.34	Vesicoureteral reflux
+HP:0033733	Low-grade vesicoureteral reflux	GU_581.34	Vesicoureteral reflux
+HP:0000076	Vesicoureteral reflux	GU_581.34	Vesicoureteral reflux
+HP:0033735	Grade I vesicoureteral reflux	GU_581.34	Vesicoureteral reflux
+HP:0000083	Renal insufficiency	GU_582	Renal failure
+HP:0001919	Acute kidney injury	GU_582	Renal failure
+HP:0001919	Acute kidney injury	GU_582.1	Acute kidney failure
+HP:0012624	Stage 2 chronic kidney disease	GU_582.2	Chronic kidney disease
+HP:0012623	Stage 1 chronic kidney disease	GU_582.2	Chronic kidney disease
+HP:0012625	Stage 3 chronic kidney disease	GU_582.2	Chronic kidney disease
+HP:0012622	Chronic kidney disease	GU_582.2	Chronic kidney disease
+HP:0012626	Stage 4 chronic kidney disease	GU_582.2	Chronic kidney disease
+HP:0003774	Stage 5 chronic kidney disease	GU_582.2	Chronic kidney disease
+HP:0000089	Renal hypoplasia	GU_586.1	Small kidney
+HP:0000107	Renal cyst	GU_586.2	Cyst of kidney
+HP:0011126	Nephroptosis	GU_586.6	Nephroptosis
+HP:0009806	Nephrogenic diabetes insipidus	GU_588.12	Nephrogenic diabetes insipidus
+HP:0500006	Urethritis	GU_592.2	Urethritis
+HP:0000790	Hematuria	GU_593	Hematuria
+HP:0012587	Macroscopic hematuria	GU_593.1	Gross hematuria
+HP:0002907	Microscopic hematuria	GU_593.2	Microscopic hematuria
+HP:0100518	Dysuria	GU_594.2	Dysuria
+HP:0010677	Enuresis nocturna	GU_594.33	Nocturnal enuresis
+HP:0000017	Nocturia	GU_594.41	Nocturia
+HP:0000012	Urinary urgency	GU_594.6	Urinary urgency
+HP:0000012	Urinary urgency	GU_596.2	Overactive bladder
+HP:0000015	Bladder diverticulum	GU_596.3	Diverticulum of bladder
+HP:0012227	Urethral stricture	GU_597.1	Urethral stricture
+HP:0025415	Bulbar urethral stricture	GU_597.1	Urethral stricture
+HP:0010480	Urethral fistula	GU_597.3	Urethral fistula
+HP:0008722	Urethral diverticulum	GU_597.4	Urethral diverticulum
+HP:0008711	Benign prostatic hyperplasia	GU_602.1	Benign prostatic hyperplasia
+HP:0000024	Prostatitis	GU_602.51	Prostatitis
+HP:0033808	Spermatocele	GU_603.2	Spermatocele
+HP:0030155	Scrotal pain	GU_603.6	Scrotal pain*
+HP:0200023	Priapism	GU_604.4	Priapism
+HP:0100639	Erectile dysfunction	GU_605.1	Male erectile dysfunction*
+HP:0003251	Male infertility	GU_609	Male infertility
+HP:0000789	Infertility	GU_609	Male infertility
+HP:0000027	Azoospermia	GU_609.1	Azoospermia
+HP:0000798	Oligospermia	GU_609.2	Oligospermia
+HP:0010619	Fibroadenoma of the breast	GU_610.2	Fibroadenosis of breast
+HP:0100829	Galactorrhea	GU_612.21	Galactorrhea
+HP:0003187	Breast hypoplasia	GU_612.23	Breast hypoplasia
+HP:0030127	Endometriosis	GU_615	Endometriosis
+HP:0000138	Ovarian cyst	GU_619.2	Ovarian cyst
+HP:0030016	Dyspareunia	GU_625.1	Dyspareunia
+HP:0030943	Vulvodynia	GU_625.3	Vulvodynia
+HP:0030017	Vaginismus	GU_625.4	Vaginismus
+HP:0000876	Oligomenorrhea	GU_626.11	Oligomenorrhea
+HP:0000141	Amenorrhea	GU_626.111	Amenorrhea
+HP:0100607	Dysmenorrhea	GU_626.2	Dysmenorrhea
+HP:0033840	Postmenopausal bleeding	GU_627.1	Postmenopausal bleeding
+HP:0008222	Female infertility	GU_629	Female infertility
+HP:0032167	Clostridium difficile enteritis	ID_015.2	Clostridium difficile
+HP:0032168	Clostridium difficile colitis	ID_015.2	Clostridium difficile
+HP:0031693	Severe Epstein Barr virus infection	ID_052.4	Infectious mononucleosis
+HP:0012115	Hepatitis	ID_054.1	Hepatitis A
+HP:0012115	Hepatitis	ID_054.2	Hepatitis B
+HP:0012115	Hepatitis	ID_054.3	Hepatitis C
+HP:0200123	Chronic hepatitis	ID_054.31	Chronic hepatitis C
+HP:0200119	Acute hepatitis	ID_054.32	Acute hepatitis C
+HP:0012115	Hepatitis	ID_054.5	Hepatitis E
+HP:0032163	Molluscum contagiosum	ID_055.1	Molluscum contagiosum
+HP:0033005	Plantar warts	ID_056.1	Plantar wart
+HP:0032256	Histoplasmosis	ID_072	Histoplasmosis
+HP:0002718	Recurrent bacterial infections	ID_089.1	Bacterial infections
+HP:0100758	Gangrene	ID_091	Gangrene
+HP:0100806	Sepsis	ID_092.2	Sepsis
+HP:0031864	Bacteremia	ID_092.8	Bacteremia
+HP:0031589	Suicidal ideation	MB_284.1	Suicidal ideations
+HP:0007302	Bipolar affective disorder	MB_286.1	Bipolar disorder
+HP:0007302	Bipolar affective disorder	MB_286.11	Bipolar I disorder
+HP:0100753	Schizophrenia	MB_287.1	Schizophrenia
+HP:0000756	Agoraphobia	MB_288.41	Agoraphobia
+HP:0002591	Polyphagia	MB_293.4	Polyphagia
+HP:0011856	Pica	MB_293.5	Pica
+HP:0012075	Personality disorder	MB_296	Personality disorders
+HP:0012075	Personality disorder	MB_296.1	Paranoid personality disorder
+HP:0012075	Personality disorder	MB_296.2	Schizoid personality disorder
+HP:0012076	Borderline personality disorder	MB_296.4	Borderline personality disorder
+HP:0012077	Histrionic personality disorder	MB_296.5	Histrionic personality disorder
+HP:0012075	Personality disorder	MB_296.6	Avoidant personality disorder
+HP:0012167	Hair-pulling	MB_298.3	Trichotillomania*
+HP:0001249	Intellectual disability	MB_300	Intellectual disabilities
+HP:0001256	Intellectual disability, mild	MB_300.1	Mild intellectual disabilities
+HP:0002342	Intellectual disability, moderate	MB_300.2	Moderate intellectual disabilities
+HP:0010864	Intellectual disability, severe	MB_300.3	Severe intellectual disabilities
+HP:0002187	Intellectual disability, profound	MB_300.4	Profound intellectual disabilities
+HP:0000729	Autistic behavior	MB_301	Pervasive developmental disorders
+HP:0000717	Autism	MB_301.1	Autism
+HP:0001263	Global developmental delay	MB_302.4	Delayed milestones
+HP:0007018	Attention deficit hyperactivity disorder	MB_304	Attention-deficit hyperactivity disorders
+HP:0100033	Tics	MB_305.1	Tics and tic disorders
+HP:0031258	Delirium	MB_308.1	Delirium
+HP:0000746	Delusions	MB_308.2	Delusions
+HP:0011160	Focal sensory seizure with gustatory features	MB_308.3	Hallucinations
+HP:0006803	Vivid hallucinations	MB_308.3	Hallucinations
+HP:0000738	Hallucinations	MB_308.3	Hallucinations
+HP:0002367	Visual hallucinations	MB_308.31	Visual hallucinations
+HP:0008765	Auditory hallucinations	MB_308.32	Auditory hallucinations*
+HP:0000737	Irritability	MB_309.1	Irritability
+HP:0100710	Impulsivity	MB_309.2	Impulsiveness
+HP:0000712	Emotional lability	MB_309.3	Emotional lability
+HP:0002725	Systemic lupus erythematosus	MS_700.11	Systemic lupus erythematosus [SLE]
+HP:0009071	Inflammatory myopathy	MS_700.4	Inflammatory myopathy
+HP:0100614	Myositis	MS_700.41	Myositis
+HP:0001886	Foot osteomyelitis	MS_701.1	Osteomyelitis
+HP:0002754	Osteomyelitis	MS_701.1	Osteomyelitis
+HP:0001997	Gout	MS_703.1	Gout
+HP:0000934	Chondrocalcinosis	MS_703.2	Chondrocalcinosis
+HP:0005681	Juvenile rheumatoid arthritis	MS_705.1	Rheumatoid arthritis
+HP:0001370	Rheumatoid arthritis	MS_705.1	Rheumatoid arthritis
+HP:0005681	Juvenile rheumatoid arthritis	MS_705.2	Juvenile rheumatoid arthritis [JRA/JIA]
+HP:0012317	Sacroiliac arthritis	MS_706.1	Sacroiliitis
+HP:0003040	Arthropathy	MS_707	Other arthropathies
+HP:0002758	Osteoarthritis	MS_708	Osteoarthritis
+HP:0005086	Knee osteoarthritis	MS_708	Osteoarthritis
+HP:0008843	Hip osteoarthritis	MS_708	Osteoarthritis
+HP:0030771	Mallet finger	MS_709.11	Mallet finger
+HP:0001822	Hallux valgus	MS_709.21	Hallux valgus (Bunion)
+HP:0025004	Hallux rigidus	MS_709.22	Hallux rigidus
+HP:0008080	Hallux varus	MS_709.23	Hallux varus
+HP:0001765	Hammertoe	MS_709.24	Hammer toe
+HP:0031189	Wrist drop	MS_710.11	Wrist drop
+HP:0002673	Coxa valga	MS_710.21	Coxa valga
+HP:0002812	Coxa vara	MS_710.22	Coxa vara
+HP:0003179	Protrusio acetabuli	MS_710.23	Protrusio acetabuli
+HP:0001763	Pes planus	MS_710.41	Flat foot [pes planus]
+HP:0001762	Talipes equinovarus	MS_710.42	Club foot
+HP:0001388	Joint laxity	MS_712.6	Instability of joint
+HP:0031869	Recurrent joint dislocation	MS_712.61	Recurrent dislocation of joint
+HP:0005881	Spinal instability	MS_712.63	Spinal instabilities*
+HP:0005261	Joint hemorrhage	MS_713.1	Hemarthrosis
+HP:0002829	Arthralgia	MS_713.3	Pain in joint
+HP:0030834	Shoulder pain	MS_713.31	Pain in shoulder
+HP:0030835	Elbow pain	MS_713.32	Pain in elbow
+HP:0030836	Wrist pain	MS_713.34	Pain in wrist*
+HP:0030838	Hip pain	MS_713.36	Pain in hip
+HP:0030839	Knee pain	MS_713.37	Pain in knee
+HP:0001387	Joint stiffness	MS_713.4	Stiffness of joint
+HP:0002808	Kyphosis	MS_714.1	Kyphosis
+HP:0003307	Hyperlordosis	MS_714.2	Lordosis
+HP:0002650	Scoliosis	MS_714.3	Scoliosis
+HP:0003304	Spondylolysis	MS_714.5	Spondylolysis
+HP:0003302	Spondylolisthesis	MS_714.6	Spondylolisthesis
+HP:0003416	Spinal canal stenosis	MS_715.4	Spinal stenosis
+HP:0004610	Lumbar spinal canal stenosis	MS_715.4	Spinal stenosis
+HP:0030041	Schmorl's node	MS_716.1	Schmorl's nodes
+HP:0008419	Intervertebral disc degeneration	MS_716.2	Degenerative disc disease
+HP:0012318	Occipital neuralgia	MS_717.3	Occipital neuralgia*
+HP:0003418	Back pain	MS_718	Back pain
+HP:0003419	Low back pain	MS_718	Back pain
+HP:0003418	Back pain	MS_718.3	Mid back pain
+HP:0003418	Back pain	MS_718.4	Low back pain
+HP:0003419	Low back pain	MS_718.4	Low back pain
+HP:0011868	Sciatica	MS_718.5	Sciatica
+HP:0002487	Hyperkinetic movements	MS_719.11	Spasm of muscle
+HP:0003201	Rhabdomyolysis	MS_719.8	Rhabdomyolysis
+HP:0008942	Acute rhabdomyolysis	MS_719.8	Rhabdomyolysis
+HP:0001371	Flexion contracture	MS_719.92	Contracture of joint
+HP:0012276	Digital flexor tenosynovitis	MS_721.11	Trigger finger
+HP:0025232	Bursitis	MS_721.5	Bursitis
+HP:0005186	Synovial hypertrophy	MS_721.7	Synovial hypertrophy*
+HP:0003326	Myalgia	MS_724.1	Myalgia
+HP:0012490	Panniculitis	MS_724.4	Panniculitis
+HP:0040188	Osteochondrosis	MS_725	Osteochondrosis
+HP:0040188	Osteochondrosis	MS_725.1	Spinal osteochondrosis
+HP:0000939	Osteoporosis	MS_726.1	Osteoporosis
+HP:0002749	Osteomalacia	MS_726.5	Osteomalacia
+HP:0002797	Osteolysis	MS_726.6	Osteolysis*
+HP:0034047	Rib osteolysis	MS_726.6	Osteolysis*
+HP:0010885	Avascular necrosis	MS_727.1	Osteonecrosis
+HP:0002694	Sclerosis of skull base	MS_727.4	Hyperostosis of skull
+HP:0004330	Increased skull ossification	MS_727.4	Hyperostosis of skull
+HP:0012062	Bone cyst	MS_727.5	Cyst of bone
+HP:0100774	Hyperostosis	MS_727.6	Hypertrophy of bone*
+HP:0010886	Osteochondritis dissecans	MS_728.2	Osteochondritis dissecans
+HP:0430028	Hyperplasia of the maxilla	MS_733.111	Maxillary hyperplasia
+HP:0000303	Mandibular prognathia	MS_733.112	Mandibular hyperplasia
+HP:0000327	Hypoplasia of the maxilla	MS_733.121	Maxillary hypoplasia
+HP:0000347	Micrognathia	MS_733.122	Mandibular hypoplasia
+HP:0000678	Dental crowding	MS_733.31	Crowding of teeth
+HP:0012478	Temporomandibular joint ankylosis	MS_734.61	Adhesions and ankylosis of temporomandibular joint
+HP:0040264	Jaw pain	MS_734.9	Jaw pain
+HP:0004976	Knee dislocation	MS_740	Dislocation
+HP:0002827	Hip dislocation	MS_740	Dislocation
+HP:0001083	Ectopia lentis	MS_740	Dislocation
+HP:0003834	Shoulder dislocation	MS_740.2	Dislocation of shoulder
+HP:0003042	Elbow dislocation	MS_740.3	Dislocation of elbow
+HP:0002827	Hip dislocation	MS_740.6	Dislocation of hip
+HP:0004976	Knee dislocation	MS_740.7	Dislocation of knee
+HP:0041081	Fractured lower leg	MS_745.1	Fracture of lower limb
+HP:0031846	Femur fracture	MS_745.11	Fracture of femur
+HP:0041166	Fractured vertebra	MS_745.61	Fracture of vertebrae
+HP:0002756	Pathologic fracture	MS_745.9	Pathological fracture
+HP:0011726	Persistent fetal circulation	NB_853.6	Persistent fetal circulation
+HP:0002643	Neonatal respiratory distress	NB_854.1	Respiratory distress of newborn
+HP:0033624	History of congenital CMV infection	NB_856.11	Congenital cytomegalovirus infection
+HP:0002239	Gastrointestinal hemorrhage	NB_857.2	Neonatal gastrointestinal hemorrhage
+HP:0005521	Disseminated intravascular coagulation	NB_860.11	Disseminated intravascular coagulation of newborn
+HP:0008255	Transient neonatal diabetes mellitus	NB_861.1	Neonatal diabetes mellitus
+HP:0001998	Neonatal hypoglycemia	NB_861.2	Neonatal hypoglycemia
+HP:0031368	Intestinal perforation	NB_865.3	Perinatal intestinal perforation
+HP:0010296	Ankyloglossia	NB_871.4	Ankyloglossia
+HP:0032434	Delayed umbilical cord separation	NB_872.4	Delayed separation of umbilical cord
+HP:0500064	Retinopathy of prematurity threshold	NB_873	Retinopathy of prematurity
+HP:0500063	Retinopathy of prematurity pre-plus	NB_873	Retinopathy of prematurity
+HP:0500062	Retinopathy of prematurity plus	NB_873	Retinopathy of prematurity
+HP:0500061	Retinopathy of prematurity zone III	NB_873	Retinopathy of prematurity
+HP:0500060	Retinopathy of prematurity zone II	NB_873	Retinopathy of prematurity
+HP:0500059	Retinopathy of prematurity zone I	NB_873	Retinopathy of prematurity
+HP:0500058	Retinopathy of prematurity stage 5b	NB_873	Retinopathy of prematurity
+HP:0500057	Retinopathy of prematurity stage 5a	NB_873	Retinopathy of prematurity
+HP:0500055	Retinopathy of prematurity stage 4b	NB_873	Retinopathy of prematurity
+HP:0500054	Retinopathy of prematurity stage 4a	NB_873	Retinopathy of prematurity
+HP:0500053	Retinopathy of prematurity stage 4	NB_873	Retinopathy of prematurity
+HP:0500052	Retinopathy of prematurity stage 3	NB_873	Retinopathy of prematurity
+HP:0500051	Retinopathy of prematurity stage 2	NB_873	Retinopathy of prematurity
+HP:0500050	Retinopathy of prematurity stage 1	NB_873	Retinopathy of prematurity
+HP:0500049	Retinopathy of prematurity	NB_873	Retinopathy of prematurity
+HP:0500056	Retinopathy of prematurity stage 5	NB_873	Retinopathy of prematurity
+HP:0500049	Retinopathy of prematurity	NB_873.1	Retinopathy of prematurity, stage 0
+HP:0500049	Retinopathy of prematurity	NB_873.2	Retinopathy of prematurity, stage 1
+HP:0500050	Retinopathy of prematurity stage 1	NB_873.2	Retinopathy of prematurity, stage 1
+HP:0500051	Retinopathy of prematurity stage 2	NB_873.3	Retinopathy of prematurity, stage 2
+HP:0500049	Retinopathy of prematurity	NB_873.3	Retinopathy of prematurity, stage 2
+HP:0500052	Retinopathy of prematurity stage 3	NB_873.4	Retinopathy of prematurity, stage 3
+HP:0500049	Retinopathy of prematurity	NB_873.4	Retinopathy of prematurity, stage 3
+HP:0500049	Retinopathy of prematurity	NB_873.5	Retinopathy of prematurity, stage 4
+HP:0500053	Retinopathy of prematurity stage 4	NB_873.5	Retinopathy of prematurity, stage 4
+HP:0500049	Retinopathy of prematurity	NB_873.6	Retinopathy of prematurity, stage 5
+HP:0500056	Retinopathy of prematurity stage 5	NB_873.6	Retinopathy of prematurity, stage 5
+HP:0001287	Meningitis	NS_320	Meningitis
+HP:0033508	EBV meningitis	NS_320	Meningitis
+HP:0002383	Infectious encephalitis	NS_321.1	Encephalitis
+HP:0033509	EBV encephalitis	NS_321.1	Encephalitis
+HP:0033993	Viral encephalitis	NS_321.12	Viral encephalitis
+HP:0012486	Myelitis	NS_321.2	Myelitis
+HP:0002366	Abnormal lower motor neuron morphology	NS_323.3	Motor neuron disease
+HP:0007354	Amyotrophic lateral sclerosis	NS_323.31	Amyotrophic lateral sclerosis [ALS]
+HP:0001300	Parkinsonism	NS_324.1	Parkinsonism
+HP:0004305	Involuntary movements	NS_324.3	Abnormal involuntary movements
+HP:0001332	Dystonia	NS_324.31	Dystonia
+HP:0000473	Torticollis	NS_324.314	Torticollis
+HP:0000643	Blepharospasm	NS_324.316	Blepharospasm
+HP:0002457	Abnormal head movements	NS_324.32	Abnormal head movements*
+HP:0002380	Fasciculations	NS_324.33	Fasciculation*
+HP:0007289	Limb fasciculations	NS_324.33	Fasciculation*
+HP:0001337	Tremor	NS_324.34	Tremor
+HP:0030186	Kinetic tremor	NS_324.341	Essential tremor*
+HP:0001336	Myoclonus	NS_324.35	Myoclonus
+HP:0001281	Tetany	NS_324.6	Tetany
+HP:0002072	Chorea	NS_324.9	Chorea
+HP:0001288	Gait disturbance	NS_325.1	Abnormality of gait
+HP:0002355	Difficulty walking	NS_325.2	Difficulty walking
+HP:0000726	Dementia	NS_328.1	Dementias
+HP:0002511	Alzheimer disease	NS_328.11	Alzheimer's disease
+HP:0002145	Frontotemporal dementia	NS_328.13	Frontotemporal dementia [FTD]
+HP:0007313	Cerebral degeneration	NS_328.3	Cerebral degeneration
+HP:0002354	Memory impairment	NS_329.1	Memory loss
+HP:0100543	Cognitive impairment	NS_329.5	Mild cognitive impairment
+HP:0010534	Transient global amnesia	NS_329.6	Transient global amnesia
+HP:0002373	Febrile seizure (within the age range of 3 months to 6 years)	NS_330.31	Febrile convulsions
+HP:0002315	Headache	NS_331	Headache
+HP:0012459	Hypnic headache	NS_331.32	Hypnic headache
+HP:0030907	Thunderclap headache	NS_331.33	Thunderclap headache
+HP:0012199	Cluster headache	NS_331.4	Cluster headaches
+HP:0002076	Migraine	NS_331.6	Migraine
+HP:0002077	Migraine with aura	NS_331.61	Migraine with aura
+HP:0002083	Migraine without aura	NS_331.64	Chronic migraine without aura
+HP:0010535	Sleep apnea	NS_333.1	Sleep apnea
+HP:0002870	Obstructive sleep apnea	NS_333.11	Obstructive sleep apnea
+HP:0010536	Central sleep apnea	NS_333.12	Central sleep apnea
+HP:0100785	Insomnia	NS_333.2	Insomnia
+HP:0100786	Hypersomnia	NS_333.3	Hypersomnia
+HP:0025234	Parasomnia	NS_333.5	Parasomnias
+HP:0025237	Confusional arousal	NS_333.51	Confusional arousals
+HP:0030765	Sleep terror	NS_333.55	Sleep terrors [night terrors]*
+HP:0030050	Narcolepsy	NS_333.7	Narcolepsy
+HP:0002360	Sleep disturbance	NS_333.8	Sleep disturbances
+HP:0100661	Trigeminal neuralgia	NS_334.11	Trigeminal neuralgia
+HP:0010628	Facial palsy	NS_334.21	Bell's palsy
+HP:0030319	Weakness of facial musculature	NS_334.23	Facial weakness
+HP:0010828	Hemifacial spasm	NS_334.24	Clonic hemifacial spasm*
+HP:0000317	Facial myokymia	NS_334.25	Facial myokymia*
+HP:0012246	Oculomotor nerve palsy	NS_334.41	Third [oculomotor] nerve palsy
+HP:0007011	Fourth cranial nerve palsy	NS_334.42	Fourth [trochlear] nerve palsy
+HP:0006824	Cranial nerve paralysis	NS_334.9	Multiple cranial nerve palsies
+HP:0009831	Mononeuropathy	NS_336	Mononeuropathies
+HP:0001271	Polyneuropathy	NS_337	Polyneuropathies
+HP:0001271	Polyneuropathy	NS_337.3	Toxic polyneuropathy
+HP:0003768	Periodic paralysis	NS_339.4	Periodic paralysis
+HP:0003198	Myopathy	NS_340	Myopathies
+HP:0100021	Cerebral palsy	NS_341.1	Cerebral palsy
+HP:0011445	Athetoid cerebral palsy	NS_341.12	Athetoid cerebral palsy
+HP:0004374	Hemiplegia/hemiparesis	NS_341.2	Hemiplegia and hemiparesis
+HP:0011099	Spastic hemiparesis	NS_341.22	Spastic hemiplegia
+HP:0002445	Tetraplegia	NS_342.2	Quadriplegia
+HP:0002277	Horner syndrome	NS_343.5	Horner's syndrome*
+HP:0000238	Hydrocephalus	NS_344.1	Hydrocephalus
+HP:0001334	Communicating hydrocephalus	NS_344.11	Communicating hydrocephalus
+HP:0002343	Normal pressure hydrocephalus	NS_344.13	(Idiopathic) normal pressure hydrocephalus
+HP:0002516	Increased intracranial pressure	NS_344.2	Benign intracranial hypertension
+HP:0001298	Encephalopathy	NS_345	Encephalopathy
+HP:0006846	Acute encephalopathy	NS_345	Encephalopathy
+HP:0001298	Encephalopathy	NS_345.1	Toxic encephalopathy
+HP:0002181	Cerebral edema	NS_346.6	Cerebral edema
+HP:0033715	Hippocampal sclerosis	NS_347.3	Temporal sclerosis
+HP:0002196	Myelopathy	NS_348.2	Myelopathies
+HP:0002176	Spinal cord compression	NS_348.4	Spinal cord compression*
+HP:0002353	EEG abnormality	NS_349.12	Abnormal electroencephalogram [EEG]
+HP:0031826	Abnormal reflex	NS_350.3	Abnormal reflex
+HP:0002533	Abnormal posturing	NS_350.4	Abnormal posture
+HP:0100963	Hyperesthesia	NS_351.4	Hyperesthesia*
+HP:0031249	Parageusia	NS_352.2	Parageusia*
+HP:0001259	Coma	NS_355.1	Coma
+HP:0001260	Dysarthria	NS_356.1	Dysarthria
+HP:0001350	Slurred speech	NS_356.4	Slurred speech*
+HP:0031456	Ectopic pregnancy	PP_901.1	Ectopic pregnancy
+HP:0032192	Hydatidiform mole	PP_901.2	Hydatidiform mole
+HP:0025328	Antepartum hemorrhage	PP_904.3	Antepartum hemorrhage
+HP:0001788	Premature rupture of membranes	PP_905	Premature rupture of membranes
+HP:0011416	Placental infarction	PP_907.7	Placental infarction*
+HP:0100601	Eclampsia	PP_908.13	Eclampsia
+HP:0009800	Maternal diabetes	PP_909.1	Gestational diabetes mellitus*
+HP:0012188	Hyperemesis gravidarum	PP_911.1	Hyperemesis gravidarum
+HP:0001561	Polyhydramnios	PP_920.1	Polyhydramnios
+HP:0001562	Oligohydramnios	PP_920.2	Oligohydramnios
+HP:0011947	Respiratory tract infection	RE_460	Respiratory infection
+HP:0032262	Pulmonary tuberculosis	RE_460.3	Pulmonary tuberculosis
+HP:0000255	Acute sinusitis	RE_462.1	Acute sinusitis
+HP:0011109	Chronic sinusitis	RE_462.2	Chronic sinusitis
+HP:0002257	Chronic rhinitis	RE_463.1	Chronic rhinitis
+HP:0003193	Allergic rhinitis	RE_463.2	Allergic rhinitis
+HP:0001742	Nasal congestion	RE_463.4	Nasal congestion*
+HP:0025439	Pharyngitis	RE_465	Pharyngitis
+HP:0002090	Pneumonia	RE_468	Pneumonia
+HP:0012387	Bronchitis	RE_469	Bronchitis
+HP:0012388	Acute bronchitis	RE_469.1	Acute bronchitis
+HP:0004469	Chronic bronchitis	RE_469.2	Chronic bronchitis
+HP:0011950	Bronchiolitis	RE_470	Acute bronchiolitis
+HP:0004411	Deviated nasal septum	RE_471.2	Deviated nasal septum
+HP:0100582	Nasal polyposis	RE_471.5	Nasal polyps
+HP:0006510	Chronic pulmonary obstruction	RE_474	Chronic obstructive pulmonary disease [COPD]
+HP:0002097	Emphysema	RE_474.1	Emphysema
+HP:0032966	Centrilobular emphysema	RE_474.13	Centrilobular emphysema*
+HP:0002099	Asthma	RE_475	Asthma
+HP:0002110	Bronchiectasis	RE_476	Bronchiectasis
+HP:0006516	Hypersensitivity pneumonitis	RE_477.2	Hypersensitivity pneumonitis
+HP:0011951	Aspiration pneumonia	RE_478	Aspiration pneumonia
+HP:0011952	Acute aspiration pneumonia	RE_478	Aspiration pneumonia
+HP:0033677	Acute respiratory distress syndrome	RE_479.1	Acute respiratory distress syndrome [ARDS]*
+HP:0002878	Respiratory failure	RE_479.3	Respiratory failure
+HP:0002878	Respiratory failure	RE_479.31	Acute respiratory failure
+HP:0002878	Respiratory failure	RE_479.32	Chronic respiratory failure
+HP:0100598	Pulmonary edema	RE_480	Pulmonary edema
+HP:0100598	Pulmonary edema	RE_480.1	Acute pulmonary edema
+HP:0006530	Abnormal pulmonary interstitial morphology	RE_481	Interstitial pulmonary diseases
+HP:0006517	Intraalveolar phospholipid accumulation	RE_481.2	Alveolar proteinosis
+HP:0002206	Pulmonary fibrosis	RE_481.4	Pulmonary fibrosis
+HP:0006527	Lymphocytic interstitial pneumonia	RE_481.43	Interstitial pneumonitis
+HP:0006515	Interstitial pneumonitis	RE_481.43	Interstitial pneumonitis
+HP:0011945	Bronchiolitis obliterans organizing pneumonia	RE_481.45	Cryptogenic organizing pneumonia
+HP:0006527	Lymphocytic interstitial pneumonia	RE_481.6	Lymphoid interstitial pneumonia
+HP:0002202	Pleural effusion	RE_483	Pleural effusion
+HP:0025676	Fetal pleural effusion	RE_483	Pleural effusion
+HP:0002108	Spontaneous pneumothorax	RE_484.1	Spontaneous pneumothorax
+HP:0000421	Epistaxis	RE_487.1	Epistaxis
+HP:0002105	Hemoptysis	RE_487.3	Hemoptysis
+HP:0002094	Dyspnea	RE_488	Abnormalities of breathing
+HP:0002094	Dyspnea	RE_488.1	Dyspnea [Shortness of breath]
+HP:0012764	Orthopnea	RE_488.11	Orthopnea
+HP:0002883	Hyperventilation	RE_488.2	Hyperventilation
+HP:0002789	Tachypnea	RE_488.4	Tachypnea
+HP:0010307	Stridor	RE_488.5	Stridor
+HP:0030828	Wheezing	RE_488.6	Wheezing
+HP:0002104	Apnea	RE_488.7	Apnea
+HP:0025267	Snoring	RE_488.9	Snoring*
+HP:0002102	Pleuritis	RE_491	Pleurisy
+HP:0002575	Tracheoesophageal fistula	RE_492	Tracheoesophageal fistula
+HP:0001618	Dysphonia	RE_494.1	Dysphonia
+HP:0001686	Loss of voice	RE_494.2	Aphonia
+HP:0005943	Respiratory arrest	RE_497	Respiratory arrest
+HP:0012418	Hypoxemia	RE_498.1	Hypoxemia
+HP:0000961	Cyanosis	RE_498.2	Cyanosis
+HP:0012735	Cough	RE_499.1	Cough
+HP:0032016	Abnormal sputum	RE_499.2	Abnormal sputum
+HP:0025428	Bronchospasm	RE_499.3	Bronchospasm
+HP:0033050	Pharyngalgia	RE_499.4	Throat pain
+HP:0000498	Blepharitis	SO_360	Inflammation of eyelids
+HP:0010606	Hordeolum	SO_360.1	Hordeolum
+HP:0010605	Chalazion	SO_360.2	Chalazion
+HP:0000498	Blepharitis	SO_360.4	Blepharitis
+HP:0007417	Discoid lupus rash	SO_360.54	Discoid lupus erythematosus of eyelid
+HP:0031738	Mechanical entropion	SO_361.12	Mechanical entropion
+HP:0031737	Cicatricial entropion	SO_361.14	Cicatricial entropion
+HP:0030004	Cicatricial lagophthalmos	SO_361.24	Cicatricial lagophthalmos
+HP:0030003	Paralytic lagophthalmos	SO_361.25	Paralytic lagophthalmos
+HP:0000508	Ptosis	SO_361.3	Ptosis of eyelid
+HP:0031623	Brow ptosis	SO_361.36	Brow ptosis*
+HP:0010749	Blepharochalasis	SO_361.4	Blepharochalasis
+HP:0030802	Lower eyelid retraction	SO_361.5	Eyelid retraction
+HP:0500043	Eyelid retraction	SO_361.5	Eyelid retraction
+HP:0500044	Upper eyelid retraction	SO_361.5	Eyelid retraction
+HP:0000581	Blepharophimosis	SO_361.8	Blepharophimosis
+HP:0025608	Cicatricial ectropion	SO_361.94	Cicatricial ectropion
+HP:0010604	Cyst of the eyelid	SO_362.5	Cysts of eyelid
+HP:0100540	Palpebral edema	SO_362.7	Edema of eyelid
+HP:0025610	Posterior blepharitis	SO_362.8	Meibomian gland dysfunction of eyelid*
+HP:0009926	Epiphora	SO_363.5	Epiphora
+HP:0000620	Dacryocystitis	SO_363.61	Dacryocystitis
+HP:0000490	Deeply set eye	SO_365.1	Enophthalmos
+HP:0000520	Proptosis	SO_365.3	Exophthalmos [Proptosis]
+HP:0001144	Orbital cyst	SO_365.4	Orbital cysts
+HP:0031830	Pinguecula	SO_366.21	Pinguecula
+HP:0030953	Conjunctival hyperemia	SO_366.42	Conjunctival hyperemia
+HP:0000509	Conjunctivitis	SO_367.1	Conjunctivitis
+HP:0007879	Allergic conjunctivitis	SO_367.12	Allergic conjunctivitis
+HP:0000491	Keratitis	SO_367.2	Keratitis
+HP:0012804	Corneal ulceration	SO_367.21	Corneal ulcer
+HP:0011859	Punctate keratitis	SO_367.22	Punctate keratitis
+HP:0001096	Keratoconjunctivitis	SO_367.3	Keratoconjunctivitis
+HP:0001097	Keratoconjunctivitis sicca	SO_367.3	Keratoconjunctivitis
+HP:0001096	Keratoconjunctivitis	SO_367.31	Keratoconjunctivitis sicca
+HP:0001097	Keratoconjunctivitis sicca	SO_367.31	Keratoconjunctivitis sicca
+HP:0000554	Uveitis	SO_367.5	Uveitis
+HP:0012121	Panuveitis	SO_367.51	Panuveitis
+HP:0001094	Iridocyclitis	SO_367.52	Iridocyclitis
+HP:0012424	Chorioretinitis	SO_367.53	Chorioretinitis
+HP:0100534	Episcleritis	SO_367.6	Episcleritis
+HP:0100532	Scleritis	SO_367.7	Scleritis
+HP:0031615	Hypopyon	SO_367.8	Hypopyon
+HP:0030854	Scleral staphyloma	SO_368.1	Scleral staphyloma
+HP:0000531	Corneal crystals	SO_369.15	Corneal deposits
+HP:0011496	Corneal neovascularization	SO_369.3	Corneal neovascularization
+HP:0007705	Corneal degeneration	SO_369.4	Corneal degenerations
+HP:0000585	Band keratopathy	SO_369.43	Band keratopathy
+HP:0000563	Keratoconus	SO_369.62	Keratoconus
+HP:0000615	Abnormal pupil morphology	SO_370.41	Pupillary abnormalities
+HP:0000518	Cataract	SO_371	Cataract
+HP:0011143	Age-related cortical cataract	SO_371.1	Cortical age-related cataract
+HP:0011141	Age-related cataract	SO_371.1	Cortical age-related cataract
+HP:0100018	Nuclear cataract	SO_371.3	Nuclear cataract
+HP:0001083	Ectopia lentis	SO_372.2	Dislocation of lens
+HP:0007777	Chorioretinal scar	SO_373.1	Chorioretinal scars
+HP:0012231	Exudative retinal detachment	SO_374.11	Serous retinal detachment
+HP:0000541	Retinal detachment	SO_374.11	Serous retinal detachment
+HP:0030502	Retinoschisis	SO_374.21	Retinoschisis
+HP:0032416	Retinal microaneurysm	SO_374.32	Retinal microaneurysms
+HP:0007778	Posterior retinal neovascularization	SO_374.33	Retinal neovascularization
+HP:0030666	Retinal neovascularization	SO_374.33	Retinal neovascularization
+HP:0030667	Peripheral retinal neovascularization	SO_374.33	Retinal neovascularization
+HP:0025188	Retinal vasculitis	SO_374.34	Retinal vasculitis
+HP:0000488	Retinopathy	SO_374.4	Retinopathy
+HP:0001095	Hypertensive retinopathy	SO_374.41	Hypertensive retinopathy
+HP:0007898	Exudative retinopathy	SO_374.43	Exudative retinopathy
+HP:0025567	Central serous chorioretinopathy	SO_374.44	Central serous chorioretinopathy
+HP:0000608	Macular degeneration	SO_374.5	Macular degeneration
+HP:0008028	Cystoid macular degeneration	SO_374.5	Macular degeneration
+HP:0007868	obsolete Age-related macular degeneration	SO_374.51	Age-related macular degeneration
+HP:0000608	Macular degeneration	SO_374.53	Cystoid macular degeneration
+HP:0008028	Cystoid macular degeneration	SO_374.53	Cystoid macular degeneration
+HP:0007769	Peripheral retinal degeneration	SO_374.6	Peripheral retinal degeneration
+HP:0012632	Abnormal intraocular pressure	SO_375	Abnormal intraocular pressure
+HP:0000501	Glaucoma	SO_375.1	Glaucoma
+HP:0012108	Open angle glaucoma	SO_375.11	Open angle glaucoma
+HP:0012109	Angle closure glaucoma	SO_375.12	Angle-Closure Glaucoma
+HP:0007906	Ocular hypertension	SO_375.6	Ocular hypertension
+HP:0100832	Vitreous floaters	SO_376.2	Vitreous opacities
+HP:0031150	Vitreomacular adhesion	SO_376.4	Vitreomacular adhesion
+HP:0011885	Hemorrhage of the eye	SO_377	Hemorrhage of the eye
+HP:0000573	Retinal hemorrhage	SO_377.4	Retinal hemorrhage
+HP:0007902	Vitreous hemorrhage	SO_377.5	Vitreous hemorrhage
+HP:0011886	Hyphema	SO_377.8	Hyphema
+HP:0001138	Optic neuropathy	SO_380.1	Optic neuropathy
+HP:0100653	Optic neuritis	SO_380.11	Optic neuritis
+HP:0001085	Papilledema	SO_380.21	Papilledema
+HP:0012426	Optic disc drusen	SO_380.22	Optic disc drusen
+HP:0000609	Optic nerve hypoplasia	SO_380.23	Optic nerve hypoplasia
+HP:0000648	Optic atrophy	SO_380.3	Optic atrophy
+HP:0001112	Leber optic atrophy	SO_380.3	Optic atrophy
+HP:0100704	Cerebral visual impairment	SO_380.51	Cortical blindness
+HP:0000486	Strabismus	SO_381	Strabismus
+HP:0031775	Neurogenic strabismus	SO_381.1	Paralytic strabismus [Neurogenic strabismus]
+HP:0007824	Total ophthalmoplegia	SO_381.11	Ophthalmoplegia
+HP:0000602	Ophthalmoplegia	SO_381.11	Ophthalmoplegia
+HP:0000565	Esotropia	SO_381.3	Esotropia
+HP:0001137	Alternating esotropia	SO_381.31	Alternating esotropia
+HP:0020046	Accommodative esotropia	SO_381.32	Accommodative esotropia
+HP:0000577	Exotropia	SO_381.4	Exotropia
+HP:0031717	Alternating exotropia	SO_381.41	Alternating exotropia
+HP:0031776	Cyclotropia	SO_381.7	Cyclotropia
+HP:0032011	Heterophoria	SO_381.8	Heterophoria
+HP:0025312	Esophoria	SO_381.81	Esophoria
+HP:0025313	Exophoria	SO_381.82	Exophoria
+HP:0031777	Cyclophoria	SO_381.83	Cyclophoria
+HP:0000619	Impaired convergence	SO_382.1	Impaired convergence
+HP:0000639	Nystagmus	SO_383.1	Nystagmus
+HP:0000514	Slow saccadic eye movements	SO_383.2	Saccadic eye movements
+HP:0000570	Abnormal saccadic eye movements	SO_383.2	Saccadic eye movements
+HP:0009916	Anisocoria	SO_384.1	Anisocoria
+HP:0000616	Miosis	SO_384.2	Miosis
+HP:0011499	Mydriasis	SO_384.3	Mydriasis
+HP:0012074	Tonic pupil	SO_384.4	Tonic pupil
+HP:0000646	Amblyopia	SO_386.1	Amblyopia
+HP:0000651	Diplopia	SO_386.2	Diplopia
+HP:0001123	Visual field defect	SO_386.4	Visual field defects
+HP:0000575	Scotoma	SO_386.41	Scotoma
+HP:0012377	Hemianopia	SO_386.42	Hemianopia
+HP:0001133	Constriction of peripheral visual field	SO_386.43	Constriction of visual field
+HP:0000662	Nyctalopia	SO_386.6	Night blindness
+HP:0000540	Hypermetropia	SO_387.1	Hypermetropia
+HP:0008499	High hypermetropia	SO_387.1	Hypermetropia
+HP:0031728	Mild hypermetropia	SO_387.1	Hypermetropia
+HP:0000545	Myopia	SO_387.2	Myopia
+HP:0000483	Astigmatism	SO_387.3	Astigmatism
+HP:0012803	Anisometropia	SO_387.5	Anisometropia
+HP:0200026	Ocular pain	SO_389.1	Ocular pain
+HP:0410017	Otitis externa	SO_390.1	Otitis externa
+HP:0004459	Exostosis of the external auditory canal	SO_390.2	Exostosis of external auditory canal
+HP:0030788	Impacted cerumen	SO_390.4	Impacted cerumen
+HP:0000388	Otitis media	SO_391.1	Otitis media
+HP:0040269	Blocked Eustachian tube	SO_391.22	Obstruction of Eustachian tube
+HP:0020123	Tympanosclerosis	SO_391.4	Tympanosclerosis
+HP:0000362	Otosclerosis	SO_391.8	Otosclerosis
+HP:0030766	Ear pain	SO_392.1	Otalgia [ear pain]
+HP:0002321	Vertigo	SO_394.2	Vertigo
+HP:0010532	Paroxysmal vertigo	SO_394.21	Paroxysmal vertigo
+HP:0012714	Severe hearing impairment	SO_396	Hearing impairment
+HP:0012712	Mild hearing impairment	SO_396	Hearing impairment
+HP:0000410	Mixed hearing impairment	SO_396	Hearing impairment
+HP:0000365	Hearing impairment	SO_396	Hearing impairment
+HP:0000405	Conductive hearing impairment	SO_396.1	Conductive hearing loss
+HP:0008513	Bilateral conductive hearing impairment	SO_396.1	Conductive hearing loss
+HP:0008591	Congenital conductive hearing impairment	SO_396.1	Conductive hearing loss
+HP:0008598	Mild conductive hearing impairment	SO_396.1	Conductive hearing loss
+HP:0012716	Moderate conductive hearing impairment	SO_396.1	Conductive hearing loss
+HP:0012717	Severe conductive hearing impairment	SO_396.1	Conductive hearing loss
+HP:0008615	Adult onset sensorineural hearing impairment	SO_396.2	Sensorineural hearing loss
+HP:0008625	Severe sensorineural hearing impairment	SO_396.2	Sensorineural hearing loss
+HP:0008610	Infantile sensorineural hearing impairment	SO_396.2	Sensorineural hearing loss
+HP:0008619	Bilateral sensorineural hearing impairment	SO_396.2	Sensorineural hearing loss
+HP:0000408	Progressive sensorineural hearing impairment	SO_396.2	Sensorineural hearing loss
+HP:0008527	Congenital sensorineural hearing impairment	SO_396.2	Sensorineural hearing loss
+HP:0000407	Sensorineural hearing impairment	SO_396.2	Sensorineural hearing loss
+HP:0000364	Hearing abnormality	SO_397	Other hearing abnormality
+HP:0000360	Tinnitus	SO_397.1	Tinnitus
+HP:0008629	Pulsatile tinnitus	SO_397.11	Pulsatile tinnitus*
+HP:0010780	Hyperacusis	SO_397.3	Hyperacusis
+HP:0100749	Chest pain	SS_800	Chest pain
+HP:0032141	Precordial pain	SS_800.2	Precordial pain
+HP:0001945	Fever	SS_805	Fever
+HP:0025406	Asthenia	SS_807.2	Weakness
+HP:0003324	Generalized muscle weakness	SS_807.21	Muscle weakness (generalized)
+HP:0012669	Carotid sinus syncope	SS_808.1	Carotid sinus syncope
+HP:0012531	Pain	SS_809	Pain
+HP:0012532	Chronic pain	SS_809.2	Chronic pain
+HP:0009763	Limb pain	SS_809.3	Pain in limb
+HP:0012514	Lower limb pain	SS_809.32	Pain in leg*
+HP:0031273	Shock	SS_810	Shock
+HP:0030149	Cardiogenic shock	SS_810.2	Cardiogenic shock
+HP:0031274	Hypovolemic shock	SS_810.3	Hypovolemic shock*
+HP:0000969	Edema	SS_812	Edema
+HP:0007430	Generalized edema	SS_812.1	Generalized edema*
+HP:0012050	Anasarca	SS_812.1	Generalized edema*
+HP:0001217	Clubbing	SS_813	Clubbing of fingers
+HP:0100759	Clubbing of fingers	SS_813	Clubbing of fingers
+HP:0000952	Jaundice	SS_814	Jaundice
+HP:0003565	Elevated erythrocyte sedimentation rate	SS_820	Elevated erythrocyte sedimentation rate
+HP:0001877	Abnormal erythrocyte morphology	SS_821	Abnormality of red blood cells
+HP:0012415	Abnormal blood gas level	SS_829.1	Abnormal blood-gas level
+HP:0000093	Proteinuria	SS_830	Proteinuria
+HP:0012595	Mild proteinuria	SS_830	Proteinuria
+HP:0003076	Glycosuria	SS_831	Glycosuria
+HP:0002913	Myoglobinuria	SS_832.2	Myoglobinuria
+HP:0003641	Hemoglobinuria	SS_832.4	Hemoglobinuria
+HP:0012085	Pyuria	SS_832.6	Pyuria*
+HP:0012405	Hypocitraturia	SS_832.7	Hypocitraturia*
+HP:0003159	Hyperoxaluria	SS_832.8	Hyperoxaluria*
+HP:0002150	Hypercalciuria	SS_832.9	Hypercalciuria*
+HP:0012393	Allergy	SS_840	Allergy
+HP:0500093	Food allergy	SS_840.1	Food allergy
+HP:0410333	Seafood allergy	SS_840.12	Seafood allergy
+HP:0410331	Nut food product allergy	SS_840.14	Tree nut allergy
+HP:0100327	Cow milk allergy	SS_840.17	Milk allergy
+HP:0410328	Egg allergy	SS_840.18	Egg allergy
+HP:0410335	Insect allergy	SS_840.2	Allergy to insects
+HP:0500094	Latex allergy	SS_840.4	Latex allergy
+HP:0003502	Mild short stature	SS_849.3	Short stature
+HP:0004322	Short stature	SS_849.3	Short stature

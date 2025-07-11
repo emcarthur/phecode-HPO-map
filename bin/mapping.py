@@ -18,11 +18,11 @@ def parse_args():
     parser = argparse.ArgumentParser()
     required = parser.add_argument_group('required arguments')
 
-    required.add_argument("-f", "--fromterm", help="terms to convert FROM (options: phecodeX, phecode1.2, ICD9, ICD10, hpo)",type=str,required=True) 
+    required.add_argument("-f", "--fromterm", help="terms to convert FROM (options: phecodeX, phecodeXupdated, phecode1.2, ICD9, ICD10, hpo)",type=str,required=True) 
     required.add_argument("-m", "--map", help="type of mappings to use (options: string, substring, wikimed)",type=str,required=True)
     required.add_argument("-o", "--outputDir", help="Output directory",type=str, required=True) 
 
-    parser.add_argument("-t", "--toterm", help="Only required if -m is string or substring: terms to convert TO (options: phecodeX, phecode1.2, ICD9, ICD10, hpo)",type=str) 
+    parser.add_argument("-t", "--toterm", help="Only required if -m is string or substring: terms to convert TO (options: phecodeX, phecodeXupdated, phecode1.2, ICD9, ICD10, hpo)",type=str) 
     parser.add_argument("-i", "--indexrange", help="index ranges for a subset of the file (for parallelization, 0 indexed), example --i 0-100 will retrieve first 100 in file")
 
     return parser.parse_args()
